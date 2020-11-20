@@ -1,0 +1,35 @@
+﻿nazov_stlpca;popis_stlpca;format
+nazov;Názov zariadenia;text
+datum;Dátum aktualizácie údajov;YYYY-MM-DD
+kraj;Kraj sídla zariadania;text
+okres;Okres sídla zariadenia;text
+obec;Obec sídla zariadenia;text
+kod_pzs;Kód poskytovateľa zdravotnej starostlivosti;text
+non-O2_obs;Počet obsadených nekyslíkových lôžok;number
+non-O2_rel-obs;Relatívna obsadenosť  nekyslíkových lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+non-O2_volne;Počet voľných reprofilizovaných nekyslíkových lôžok;number
+non-O2_max;Maximálna reprofilizačná kapacita nekyslíkových lôžok;number
+O2_obs;Počet obsadených kyslíkových (okrem JIS a OAIM) lôžok;number
+O2_rel-obs;Relatívna obsadenosť  kyslíkových (okrem JIS a OAIM) lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+O2_volne;Počet voľných reprofilizovaných kyslíkových (okrem JIS a OAIM) lôžok;number
+O2_max;Maximálna reprofilizačná kapacita kyslíkových (okrem JIS a OAIM) lôžok;number
+JIS1_obs;Počet obsadených JIS1 (základný monitoring s prívodom kyslíka bez možnosti ventilácie) lôžok;number
+JIS1_rel-obs;Relatívna obsadenosť  JIS1 (základný monitoring s prívodom kyslíka bez možnosti ventilácie) lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+JIS1_volne;Počet voľných reprofilizovaných JIS1 (základný monitoring s prívodom kyslíka bez možnosti ventilácie) lôžok;number
+JIS1_max;Maximálna reprofilizačná kapacita JIS1 (základný monitoring s prívodom kyslíka bez možnosti ventilácie) lôžok;number
+JIS2_obs;Počet obsadených JIS2 (základný monitoring s prívodom kyslíka a pripojením na high-flow alebo CPAP) lôžok;number
+JIS2_rel-obs;Relatívna obsadenosť  JIS2 (základný monitoring s prívodom kyslíka a pripojením na high-flow alebo CPAP) lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+JIS2_volne;Počet voľných reprofilizovaných JIS2 (základný monitoring s prívodom kyslíka a pripojením na high-flow alebo CPAP) lôžok;number
+JIS2_max;Maximálna reprofilizačná kapacita JIS2 (základný monitoring s prívodom kyslíka a pripojením na high-flow alebo CPAP) lôžok;number
+JIS3_obs;Počet obsadených JIS3 (možnosť pravidelného monitoringu krvných plynov a umelej pľúcnej ventilácie) lôžok;number
+JIS3_rel-obs;Relatívna obsadenosť  JIS3 (možnosť pravidelného monitoringu krvných plynov a umelej pľúcnej ventilácie) lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+JIS3_volne;Počet voľných reprofilizovaných JIS3 (možnosť pravidelného monitoringu krvných plynov a umelej pľúcnej ventilácie) lôžok;number
+JIS3_max;Maximálna reprofilizačná kapacita JIS3 (možnosť pravidelného monitoringu krvných plynov a umelej pľúcnej ventilácie) lôžok;number
+OAIM_obs;Počet obsadených OAIM (oddelenie anesteziológie a intenzívnej medicíny) lôžok;number
+OAIM_rel-obs;Relatívna obsadenosť  OAIM (oddelenie anesteziológie a intenzívnej medicíny) lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+OAIM_volne;Počet voľných reprofilizovaných OAIM (oddelenie anesteziológie a intenzívnej medicíny) lôžok;number
+OAIM_max;Maximálna reprofilizačná kapacita OAIM (oddelenie anesteziológie a intenzívnej medicíny) lôžok;number
+spolu_obs;Počet obsadených všetkých lôžok;number
+spolu_rel-obs;Relatívna obsadenosť  všetkých lôžok (pomer obsadených lôžok a maximálnej reprofilizačnej kapacity);number
+spolu_volne;Počet voľných reprofilizovaných všetkých lôžok;number
+spolu_max;Maximálna reprofilizačná kapacita všetkých lôžok;number
