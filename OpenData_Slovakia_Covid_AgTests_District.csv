@@ -2626,7 +2626,7 @@
 2020-12-02;"Okres TvrdoöÌn";64;3;67
 2020-12-02;"Okres Veæk˝ KrtÌö";148;6;154
 2020-12-02;"Okres Vranov nad Topæou";198;31;229
-2020-12-02;"Okres ZlatÈ Moravce";20;0;20
+2020-12-02;"Okres ZlatÈ Moravce";122;1;123
 2020-12-02;"Okres Zvolen";202;6;208
 2020-12-02;"Okres éarnovica";1566;81;1647
 2020-12-02;"Okres éiar nad Hronom";158;9;167
@@ -2769,7 +2769,7 @@
 2020-12-05;"Okres Bratislava I";92;1;93
 2020-12-05;"Okres Bratislava II";2228;49;2277
 2020-12-05;"Okres Bratislava III";223;7;230
-2020-12-05;"Okres Bratislava V";634;5;639
+2020-12-05;"Okres Bratislava V";654;6;660
 2020-12-05;"Okres »adca";768;16;784
 2020-12-05;"Okres Galanta";470;9;479
 2020-12-05;"Okres HumennÈ";4;0;4
@@ -2843,7 +2843,7 @@
 2020-12-07;"Okres Bratislava I";536;9;545
 2020-12-07;"Okres Bratislava II";518;20;538
 2020-12-07;"Okres Bratislava III";757;37;794
-2020-12-07;"Okres Bratislava V";1132;84;1216
+2020-12-07;"Okres Bratislava V";1175;84;1259
 2020-12-07;"Okres »adca";112;6;118
 2020-12-07;"Okres Detva";260;36;296
 2020-12-07;"Okres Doln˝ KubÌn";686;16;702
@@ -2868,7 +2868,7 @@
 2020-12-07;"Okres Medzilaborce";81;3;84
 2020-12-07;"Okres Michalovce";320;40;360
 2020-12-07;"Okres Myjava";10;0;10
-2020-12-07;"Okres N·mestovo";315;12;327
+2020-12-07;"Okres N·mestovo";546;34;580
 2020-12-07;"Okres Nitra";1087;101;1188
 2020-12-07;"Okres NovÈ Mesto nad V·hom";87;15;102
 2020-12-07;"Okres NovÈ Z·mky";58;2;60
@@ -2909,7 +2909,7 @@
 2020-12-08;"Okres Bratislava I";294;14;308
 2020-12-08;"Okres Bratislava II";1919;51;1970
 2020-12-08;"Okres Bratislava III";855;18;873
-2020-12-08;"Okres Bratislava V";725;44;769
+2020-12-08;"Okres Bratislava V";743;44;787
 2020-12-08;"Okres Brezno";351;55;406
 2020-12-08;"Okres »adca";570;47;619
 2020-12-08;"Okres Detva";199;21;220
@@ -2931,11 +2931,11 @@
 2020-12-08;"Okres Liptovsk˝ Mikul·ö";984;68;1052
 2020-12-08;"Okres LuËenec";283;13;296
 2020-12-08;"Okres Malacky";179;13;192
-2020-12-08;"Okres Martin";193;13;206
+2020-12-08;"Okres Martin";197;13;210
 2020-12-08;"Okres Medzilaborce";71;1;72
 2020-12-08;"Okres Michalovce";953;91;1045
 2020-12-08;"Okres Myjava";186;39;225
-2020-12-08;"Okres N·mestovo";182;5;187
+2020-12-08;"Okres N·mestovo";371;24;395
 2020-12-08;"Okres Nitra";941;91;1032
 2020-12-08;"Okres NovÈ Mesto nad V·hom";345;26;371
 2020-12-08;"Okres NovÈ Z·mky";5041;240;5281
@@ -2944,7 +2944,7 @@
 2020-12-08;"Okres Pieöùany";536;20;556
 2020-12-08;"Okres Poprad";2060;227;2287
 2020-12-08;"Okres Povaûsk· Bystrica";192;60;252
-2020-12-08;"Okres Preöov";971;72;1043
+2020-12-08;"Okres Preöov";997;73;1070
 2020-12-08;"Okres Prievidza";754;83;837
 2020-12-08;"Okres P˙chov";19;0;19
 2020-12-08;"Okres Rev˙ca";578;13;591
@@ -2998,7 +2998,7 @@
 2020-12-09;"Okres Liptovsk˝ Mikul·ö";599;44;643
 2020-12-09;"Okres LuËenec";456;22;478
 2020-12-09;"Okres Malacky";154;12;166
-2020-12-09;"Okres Martin";692;23;715
+2020-12-09;"Okres Martin";699;24;723
 2020-12-09;"Okres Medzilaborce";59;1;60
 2020-12-09;"Okres Michalovce";1118;55;1173
 2020-12-09;"Okres Myjava";347;27;374
@@ -3009,9 +3009,9 @@
 2020-12-09;"Okres Partiz·nske";271;33;304
 2020-12-09;"Okres Pezinok";588;45;633
 2020-12-09;"Okres Pieöùany";587;38;625
-2020-12-09;"Okres Poprad";455;53;508
+2020-12-09;"Okres Poprad";419;50;469
 2020-12-09;"Okres Povaûsk· Bystrica";284;34;318
-2020-12-09;"Okres Preöov";1783;95;1878
+2020-12-09;"Okres Preöov";1809;95;1904
 2020-12-09;"Okres Prievidza";545;58;603
 2020-12-09;"Okres P˙chov";3;0;3
 2020-12-09;"Okres Rev˙ca";326;3;329
@@ -3033,68 +3033,131 @@
 2020-12-09;"Okres Trnava";510;47;557
 2020-12-09;"Okres TvrdoöÌn";194;17;211
 2020-12-09;"Okres Vranov nad Topæou";274;24;298
-2020-12-09;"Okres ZlatÈ Moravce";2;0;2
+2020-12-09;"Okres ZlatÈ Moravce";150;13;163
 2020-12-09;"Okres Zvolen";213;15;228
-2020-12-09;"Okres éarnovica";792;69;861
+2020-12-09;"Okres éarnovica";2475;205;2680
 2020-12-09;"Okres éiar nad Hronom";356;22;378
 2020-12-09;"Okres éilina";179;13;192
-2020-12-10;"Okres Bansk· Bystrica";1122;51;1173
-2020-12-10;"Okres Bardejov";1;0;1
-2020-12-10;"Okres Bratislava I";75;0;75
+2020-12-10;"Okres B·novce nad Bebravou";216;39;255
+2020-12-10;"Okres Bansk· Bystrica";1129;53;1182
+2020-12-10;"Okres Bardejov";631;35;666
+2020-12-10;"Okres Bratislava I";314;9;323
 2020-12-10;"Okres Bratislava II";680;34;714
 2020-12-10;"Okres Bratislava III";683;24;707
-2020-12-10;"Okres Bratislava V";266;12;278
+2020-12-10;"Okres Bratislava V";491;26;517
 2020-12-10;"Okres Brezno";429;116;545
 2020-12-10;"Okres »adca";432;29;461
+2020-12-10;"Okres Detva";331;20;351
 2020-12-10;"Okres Doln˝ KubÌn";35;144;179
-2020-12-10;"Okres Dunajsk· Streda";355;18;373
-2020-12-10;"Okres Galanta";574;32;606
+2020-12-10;"Okres Dunajsk· Streda";428;21;449
+2020-12-10;"Okres Galanta";582;32;614
 2020-12-10;"Okres Gelnica";214;8;222
-2020-12-10;"Okres Hlohovec";19;2;21
-2020-12-10;"Okres HumennÈ";231;10;241
+2020-12-10;"Okres Hlohovec";20;4;24
+2020-12-10;"Okres HumennÈ";441;33;474
 2020-12-10;"Okres Ilava";355;44;399
-2020-12-10;"Okres Keûmarok";220;16;236
-2020-12-10;"Okres Kom·rno";363;12;375
+2020-12-10;"Okres Keûmarok";402;40;442
+2020-12-10;"Okres Kom·rno";610;20;630
 2020-12-10;"Okres Koöice I";453;33;486
-2020-12-10;"Okres Koöice II";619;15;634
-2020-12-10;"Okres Koöice IV";198;7;205
+2020-12-10;"Okres Koöice II";628;15;643
+2020-12-10;"Okres Koöice IV";200;7;207
 2020-12-10;"Okres Krupina";2;1;3
-2020-12-10;"Okres Levice";500;34;534
+2020-12-10;"Okres Levice";1192;84;1276
 2020-12-10;"Okres LevoËa";138;13;151
 2020-12-10;"Okres Liptovsk˝ Mikul·ö";217;11;228
-2020-12-10;"Okres LuËenec";295;16;311
+2020-12-10;"Okres LuËenec";374;21;395
 2020-12-10;"Okres Malacky";190;15;205
-2020-12-10;"Okres Martin";506;42;548
-2020-12-10;"Okres Michalovce";552;42;594
+2020-12-10;"Okres Martin";733;55;788
+2020-12-10;"Okres Medzilaborce";48;3;51
+2020-12-10;"Okres Michalovce";1241;75;1316
 2020-12-10;"Okres Myjava";195;29;224
-2020-12-10;"Okres Nitra";602;44;646
-2020-12-10;"Okres NovÈ Mesto nad V·hom";188;27;215
+2020-12-10;"Okres N·mestovo";543;26;569
+2020-12-10;"Okres Nitra";623;48;671
+2020-12-10;"Okres NovÈ Mesto nad V·hom";480;49;529
 2020-12-10;"Okres Partiz·nske";204;19;223
 2020-12-10;"Okres Pezinok";376;12;388
-2020-12-10;"Okres Pieöùany";144;5;149
-2020-12-10;"Okres Poprad";948;113;1061
+2020-12-10;"Okres Pieöùany";443;24;467
+2020-12-10;"Okres Poprad";1170;126;1296
 2020-12-10;"Okres Povaûsk· Bystrica";290;39;329
-2020-12-10;"Okres Preöov";233;11;244
-2020-12-10;"Okres Prievidza";393;39;432
+2020-12-10;"Okres Preöov";804;45;849
+2020-12-10;"Okres Prievidza";523;59;582
 2020-12-10;"Okres P˙chov";4;1;5
 2020-12-10;"Okres Rev˙ca";259;5;264
 2020-12-10;"Okres Rimavsk· Sobota";241;10;251
-2020-12-10;"Okres RoûÚava";224;3;227
-2020-12-10;"Okres Ruûomberok";240;17;257
+2020-12-10;"Okres RoûÚava";329;6;335
+2020-12-10;"Okres Ruûomberok";2541;164;2705
+2020-12-10;"Okres Sabinov";265;16;281
+2020-12-10;"Okres Senec";452;4;456
+2020-12-10;"Okres Senica";267;30;297
 2020-12-10;"Okres Skalica";563;16;579
 2020-12-10;"Okres Snina";108;11;119
-2020-12-10;"Okres Sobrance";107;4;111
+2020-12-10;"Okres Sobrance";159;5;164
 2020-12-10;"Okres Spiösk· Nov· Ves";130;14;144
 2020-12-10;"Okres Star· ºubovÚa";180;21;201
-2020-12-10;"Okres SvidnÌk";39;2;41
-2020-12-10;"Okres TopoæËany";181;9;190
-2020-12-10;"Okres Trebiöov";628;11;639
-2020-12-10;"Okres TrenËÌn";275;37;312
-2020-12-10;"Okres Trnava";603;30;633
-2020-12-10;"Okres TvrdoöÌn";45;6;51
+2020-12-10;"Okres SvidnÌk";64;3;67
+2020-12-10;"Okres TopoæËany";346;20;366
+2020-12-10;"Okres Trebiöov";633;11;644
+2020-12-10;"Okres TrenËÌn";502;73;575
+2020-12-10;"Okres Trnava";916;47;963
+2020-12-10;"Okres TvrdoöÌn";245;18;263
 2020-12-10;"Okres Veæk˝ KrtÌö";342;9;351
 2020-12-10;"Okres Vranov nad Topæou";338;32;370
-2020-12-10;"Okres ZlatÈ Moravce";2;0;2
-2020-12-10;"Okres Zvolen";186;17;203
+2020-12-10;"Okres ZlatÈ Moravce";146;9;155
+2020-12-10;"Okres Zvolen";197;17;214
 2020-12-10;"Okres éiar nad Hronom";710;31;741
-2020-12-10;"Okres éilina";6740;689;7429
+2020-12-10;"Okres éilina";6923;697;7620
+2020-12-11;"Okres Bansk· Bystrica";633;30;663
+2020-12-11;"Okres Bansk· ätiavnica";5;0;5
+2020-12-11;"Okres Bardejov";555;30;585
+2020-12-11;"Okres Bratislava I";77;0;77
+2020-12-11;"Okres Bratislava II";1356;51;1407
+2020-12-11;"Okres Bratislava III";517;19;536
+2020-12-11;"Okres Bratislava IV";92;3;95
+2020-12-11;"Okres Bratislava V";843;63;906
+2020-12-11;"Okres Brezno";261;31;292
+2020-12-11;"Okres »adca";386;34;420
+2020-12-11;"Okres Doln˝ KubÌn";184;11;195
+2020-12-11;"Okres Dunajsk· Streda";306;25;331
+2020-12-11;"Okres Galanta";420;19;439
+2020-12-11;"Okres Hlohovec";2;0;2
+2020-12-11;"Okres HumennÈ";86;7;93
+2020-12-11;"Okres Ilava";262;29;291
+2020-12-11;"Okres Kom·rno";286;27;313
+2020-12-11;"Okres Koöice I";564;26;590
+2020-12-11;"Okres Koöice II";174;0;174
+2020-12-11;"Okres Koöice IV";507;13;520
+2020-12-11;"Okres Krupina";8;0;8
+2020-12-11;"Okres Levice";418;20;438
+2020-12-11;"Okres LevoËa";157;24;181
+2020-12-11;"Okres Liptovsk˝ Mikul·ö";229;11;240
+2020-12-11;"Okres LuËenec";426;16;442
+2020-12-11;"Okres Martin";101;13;114
+2020-12-11;"Okres Michalovce";457;23;480
+2020-12-11;"Okres Myjava";200;11;211
+2020-12-11;"Okres Nitra";28;1;29
+2020-12-11;"Okres NovÈ Mesto nad V·hom";181;36;217
+2020-12-11;"Okres NovÈ Z·mky";671;30;701
+2020-12-11;"Okres Partiz·nske";230;18;248
+2020-12-11;"Okres Pezinok";291;14;305
+2020-12-11;"Okres Pieöùany";35;1;36
+2020-12-11;"Okres Poprad";437;38;475
+2020-12-11;"Okres Povaûsk· Bystrica";187;37;224
+2020-12-11;"Okres Preöov";637;20;657
+2020-12-11;"Okres Prievidza";0;0;0
+2020-12-11;"Okres Rev˙ca";407;9;416
+2020-12-11;"Okres Rimavsk· Sobota";442;21;463
+2020-12-11;"Okres RoûÚava";135;3;138
+2020-12-11;"Okres Ruûomberok";38;8;46
+2020-12-11;"Okres Skalica";345;8;353
+2020-12-11;"Okres Sobrance";70;3;73
+2020-12-11;"Okres Spiösk· Nov· Ves";90;13;103
+2020-12-11;"Okres Star· ºubovÚa";172;10;182
+2020-12-11;"Okres SvidnÌk";45;6;51
+2020-12-11;"Okres Trebiöov";419;22;441
+2020-12-11;"Okres TrenËÌn";262;22;284
+2020-12-11;"Okres Trnava";324;10;334
+2020-12-11;"Okres TvrdoöÌn";32;0;32
+2020-12-11;"Okres Veæk˝ KrtÌö";332;23;355
+2020-12-11;"Okres Vranov nad Topæou";283;32;315
+2020-12-11;"Okres Zvolen";257;26;283
+2020-12-11;"Okres éiar nad Hronom";297;7;304
+2020-12-11;"Okres éilina";530;33;563
