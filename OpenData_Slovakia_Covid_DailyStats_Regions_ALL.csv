@@ -1,4 +1,5 @@
 "date";"Region";"newcases";"positive"
+2021-01-11;"Banskobystrický kraj";433;33375
 2021-01-10;"Banskobystrický kraj";111;32942
 2021-01-09;"Banskobystrický kraj";402;32831
 2021-01-07;"Banskobystrický kraj";389;32429
@@ -124,12 +125,13 @@
 2020-09-07;"Banskobystrický kraj";2;688
 2020-09-04;"Banskobystrický kraj";9;686
 2020-09-03;"Banskobystrický kraj";5;677
-2021-01-10;"Bratislavský kraj";310;37265
-2021-01-09;"Bratislavský kraj";683;36955
-2021-01-07;"Bratislavský kraj";850;36272
-2021-01-06;"Bratislavský kraj";577;35422
-2021-01-05;"Bratislavský kraj";1361;34845
-2021-01-04;"Bratislavský kraj";1224;33484
+2021-01-11;"Bratislavský kraj";618;37914
+2021-01-10;"Bratislavský kraj";310;37296
+2021-01-09;"Bratislavský kraj";684;36986
+2021-01-07;"Bratislavský kraj";859;36302
+2021-01-06;"Bratislavský kraj";577;35443
+2021-01-05;"Bratislavský kraj";1368;34866
+2021-01-04;"Bratislavský kraj";1238;33498
 2021-01-03;"Bratislavský kraj";154;32260
 2021-01-02;"Bratislavský kraj";220;32106
 2021-01-01;"Bratislavský kraj";434;31886
@@ -253,6 +255,7 @@
 2020-09-05;"Bratislavský kraj";37;1878
 2020-09-04;"Bratislavský kraj";87;1841
 2020-09-03;"Bratislavský kraj";51;1754
+2021-01-11;"Košický kraj";700;35213
 2021-01-10;"Košický kraj";203;34513
 2021-01-09;"Košický kraj";535;34310
 2021-01-07;"Košický kraj";630;33775
@@ -382,8 +385,9 @@
 2020-09-05;"Košický kraj";10;1159
 2020-09-04;"Košický kraj";14;1149
 2020-09-03;"Košický kraj";22;1135
-2021-01-10;"Nitriansky kraj";952;44079
-2021-01-09;"Nitriansky kraj";715;43127
+2021-01-11;"Nitriansky kraj";1246;45429
+2021-01-10;"Nitriansky kraj";998;44183
+2021-01-09;"Nitriansky kraj";773;43185
 2021-01-07;"Nitriansky kraj";1193;42412
 2021-01-06;"Nitriansky kraj";716;41219
 2021-01-05;"Nitriansky kraj";1936;40503
@@ -510,9 +514,10 @@
 2020-09-05;"Nitriansky kraj";22;1169
 2020-09-04;"Nitriansky kraj";34;1147
 2020-09-03;"Nitriansky kraj";15;1113
-2021-01-10;"Prešovský kraj";86;54918
-2021-01-09;"Prešovský kraj";564;54832
-2021-01-07;"Prešovský kraj";928;54268
+2021-01-11;"Prešovský kraj";765;55665
+2021-01-10;"Prešovský kraj";86;54900
+2021-01-09;"Prešovský kraj";564;54814
+2021-01-07;"Prešovský kraj";910;54250
 2021-01-06;"Prešovský kraj";415;53340
 2021-01-05;"Prešovský kraj";1607;52925
 2021-01-04;"Prešovský kraj";2028;51318
@@ -639,6 +644,7 @@
 2020-09-05;"Prešovský kraj";7;955
 2020-09-04;"Prešovský kraj";24;948
 2020-09-03;"Prešovský kraj";8;924
+2021-01-11;"Trenčiansky kraj";424;47806
 2021-01-10;"Trenčiansky kraj";93;47382
 2021-01-09;"Trenčiansky kraj";357;47289
 2021-01-07;"Trenčiansky kraj";978;46932
@@ -768,12 +774,13 @@
 2020-09-05;"Trenčiansky kraj";3;1121
 2020-09-04;"Trenčiansky kraj";9;1118
 2020-09-03;"Trenčiansky kraj";10;1109
-2021-01-10;"Trnavský kraj";71;34006
-2021-01-09;"Trnavský kraj";540;33935
-2021-01-07;"Trnavský kraj";837;33395
-2021-01-06;"Trnavský kraj";311;32558
-2021-01-05;"Trnavský kraj";1316;32247
-2021-01-04;"Trnavský kraj";990;30931
+2021-01-11;"Trnavský kraj";730;34737
+2021-01-10;"Trnavský kraj";71;34007
+2021-01-09;"Trnavský kraj";540;33936
+2021-01-07;"Trnavský kraj";837;33396
+2021-01-06;"Trnavský kraj";311;32559
+2021-01-05;"Trnavský kraj";1316;32248
+2021-01-04;"Trnavský kraj";991;30932
 2021-01-03;"Trnavský kraj";67;29941
 2021-01-02;"Trnavský kraj";312;29874
 2021-01-01;"Trnavský kraj";216;29562
@@ -897,8 +904,9 @@
 2020-09-05;"Trnavský kraj";7;773
 2020-09-04;"Trnavský kraj";16;766
 2020-09-03;"Trnavský kraj";8;750
-2021-01-10;"Žilinský kraj";45;48768
-2021-01-09;"Žilinský kraj";287;48723
+2021-01-11;"Žilinský kraj";778;49557
+2021-01-10;"Žilinský kraj";45;48779
+2021-01-09;"Žilinský kraj";298;48734
 2021-01-07;"Žilinský kraj";1059;48436
 2021-01-06;"Žilinský kraj";234;47377
 2021-01-05;"Žilinský kraj";1537;47143
@@ -1148,9 +1156,10 @@
 2021-01-01;"Slovensko";2450;293686
 2021-01-02;"Slovensko";1694;295380
 2021-01-03;"Slovensko";838;296218
-2021-01-04;"Slovensko";10101;306319
-2021-01-05;"Slovensko";11175;317494
-2021-01-06;"Slovensko";3561;321055
-2021-01-07;"Slovensko";6864;327919
-2021-01-09;"Slovensko";4083;332002
-2021-01-10;"Slovensko";1871;333873
+2021-01-04;"Slovensko";10116;306334
+2021-01-05;"Slovensko";11182;317516
+2021-01-06;"Slovensko";3561;321077
+2021-01-07;"Slovensko";6855;327932
+2021-01-09;"Slovensko";4153;332085
+2021-01-10;"Slovensko";1917;334002
+2021-01-11;"Slovensko";5694;339696
