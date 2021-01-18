@@ -10,6 +10,7 @@ The team at <a href="https://slovensko.help">Slovensko.Help</a> prepared & docum
 - Epidemiological data: UVZ SR (https://www.uvzsr.sk/)
 - Confirmed deaths: UDZS SR (http://www.udzs-sk.sk/)
 - Nationwide antigen testing data: MoD Slovakia (https://www.mosr.sk/)
+- Ambulance data: OS ZZS (https://www.155.sk/)
 
 <strong>Official useful sources we recommend monitoring</strong>
 - Official Covid information by the Slovak government: https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/
