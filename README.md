@@ -2,6 +2,7 @@
 Open data sets related to the covid19 pandemic in Slovakia provided by the MoH of Slovakia.
 
 <strong>API access to the data</strong>
+<br>
 The team at <a href="https://slovensko.help">Slovensko.Help</a> prepared & documented a central datapoint database accessible via API. You can access it here <a href="https://data.korona.gov.sk/">data.korona.gov.sk</a> and contribute to the open source project <a href="https://github.com/slovensko-help/data-korona">here</a>. Kudos!
 
 <strong>Sources of data</strong>
