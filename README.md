@@ -1,6 +1,9 @@
 # covid19-data
 Open data sets related to the covid19 pandemic in Slovakia provided by the MoH of Slovakia.
 
+<strong>API access to the data</strong>
+The team at <a href="https://slovensko.help">Slovensko.Help</a> prepared & documented a central datapoint database accessible via API. You can access it here <a href="https://data.korona.gov.sk/">data.korona.gov.sk</a> and contribute to the open source project <a href="https://github.com/slovensko-help/data-korona">here</a>. Kudos!
+
 <strong>Sources of data</strong>
 - Cases, hospital data, hospital capacity: NCZI SK (www.nczisk.sk)
 - Epidemiological data: UVZ SR (https://www.uvzsr.sk/)
