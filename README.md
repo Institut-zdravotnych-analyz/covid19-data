@@ -3,7 +3,7 @@ Open data sets related to the covid19 pandemic in Slovakia provided by the MoH o
 
 <strong>API access to the data</strong>
 <br>
-The team at <a href="https://slovensko.help">Slovensko.Help</a> prepared & documented a central datapoint database accessible via API. You can access it here <a href="https://data.korona.gov.sk/">data.korona.gov.sk</a> and contribute to the open source project <a href="https://github.com/slovensko-help/data-korona">here</a>. Kudos!
+The team at <a href="https://slovensko.help">Slovensko.Help</a> prepared & documented a central datapoint database accessible via API. You can access it at <a href="https://data.korona.gov.sk/">data.korona.gov.sk</a> and contribute to the open source project <a href="https://github.com/slovensko-help/data-korona">here</a>. Kudos!
 
 <strong>Sources of data</strong>
 - Cases, hospital data, hospital capacity: NCZI SK (www.nczisk.sk)
@@ -33,3 +33,5 @@ The team at <a href="https://slovensko.help">Slovensko.Help</a> prepared & docum
 - Oxford university Rt estimates: http://epidemicforecasting.org/country-rt-estimates
 - Apple mobility trends: https://covid19.apple.com/mobility
 - Google mobility trends: https://www.google.com/covid19/mobility/
+- OurWorldInData: https://ourworldindata.org/coronavirus
+- OurWorldInData as data download: https://github.com/owid/covid-19-data/tree/master/public/data
