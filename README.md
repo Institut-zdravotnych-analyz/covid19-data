@@ -1,10 +1,3 @@
-# UPOZORNENIE NA NEKOMPLETNÉ AG DÁTA POČAS CELOPLOŠNÉHO SKRÍNINGU (26.1.2021)
-Upozorňujeme, že tu publikované dáta niesú počas celoplošného skríningu kompletné a môžu obsahovať chyby. Finálne dáta budú publikované koncom týždňa a uverejnené aj tu. Prečo sa nedajú interpretovať tieto Ag dáta ako výsledok skríningu?
-- Tu publikované dáta obsahujú iba dáta od prevádzkovateľov s prístupom do elektronického hlásenia NCZI
-- Počas skríningu boli tieto prístupy poskytnuté mnohým novým prevádzkovateľom, ktorí pri hlásení spravili chyby - tie sa tieto dni čistia
-- Obce a mestá zriadili mnohé mimoriadne odberné miesta, z ktorých sa dáta hlásia na Ministerstvo Vnútra, ktoré ich spracuje. Ide o miliony testov, ktoré v našom dennom extrakte nefigurujú
-Prosíme o trpezlivosť a zdržanlivosť pred predčasným vyhodnocovaním. 
-
 # covid19-data
 Open data sets related to the covid19 pandemic in Slovakia provided by the MoH of Slovakia.
 
