@@ -5,6 +5,8 @@
 2020-02-08;"Okres Piešťany";0;0;0
 2020-02-10;"Okres Ružomberok";0;0;0
 2020-02-13;"Okres Košice IV";0;0;0
+2020-02-19;"Okres Žilina";0;0;0
+2020-02-22;"Okres Žilina";0;0;0
 2020-10-11;"Okres Bánovce nad Bebravou";0;0;0
 2020-10-11;"Okres Ilava";0;0;0
 2020-10-12;"Okres Bánovce nad Bebravou";0;0;0
@@ -806,7 +808,7 @@
 2020-10-31;"Okres Stará Ľubovňa";275;4;279
 2020-10-31;"Okres Stropkov";452;3;455
 2020-10-31;"Okres Svidník";1010;16;1026
-2020-10-31;"Okres Šaľa";64;0;64
+2020-10-31;"Okres Šaľa";0;0;0
 2020-10-31;"Okres Topoľčany";7;0;7
 2020-10-31;"Okres Trebišov";855;9;864
 2020-10-31;"Okres Trenčín";859;10;869
@@ -2582,7 +2584,7 @@
 2020-12-02;"Okres Bardejov";790;20;810
 2020-12-02;"Okres Bratislava I";116;0;116
 2020-12-02;"Okres Bratislava II";1038;42;1080
-2020-12-02;"Okres Bratislava III";600;66;666
+2020-12-02;"Okres Bratislava III";652;14;666
 2020-12-02;"Okres Bratislava IV";3;0;3
 2020-12-02;"Okres Bratislava V";4;0;4
 2020-12-02;"Okres Brezno";0;0;0
@@ -2933,7 +2935,7 @@
 2020-12-08;"Okres Bardejov";803;24;827
 2020-12-08;"Okres Bratislava I";294;14;308
 2020-12-08;"Okres Bratislava II";2529;81;2610
-2020-12-08;"Okres Bratislava III";791;18;809
+2020-12-08;"Okres Bratislava III";1264;34;1298
 2020-12-08;"Okres Bratislava IV";3;0;3
 2020-12-08;"Okres Bratislava V";413;22;435
 2020-12-08;"Okres Brezno";351;55;406
@@ -3074,7 +3076,7 @@
 2020-12-10;"Okres Bánovce nad Bebravou";216;39;255
 2020-12-10;"Okres Banská Bystrica";1129;53;1182
 2020-12-10;"Okres Bardejov";631;35;666
-2020-12-10;"Okres Bratislava I";314;9;323
+2020-12-10;"Okres Bratislava I";395;9;404
 2020-12-10;"Okres Bratislava II";1643;73;1716
 2020-12-10;"Okres Bratislava III";792;34;826
 2020-12-10;"Okres Bratislava IV";92;3;95
@@ -3147,7 +3149,7 @@
 2020-12-11;"Okres Banská Bystrica";957;48;1005
 2020-12-11;"Okres Banská Štiavnica";5;0;5
 2020-12-11;"Okres Bardejov";1221;65;1286
-2020-12-11;"Okres Bratislava I";486;5;491
+2020-12-11;"Okres Bratislava I";621;5;626
 2020-12-11;"Okres Bratislava II";2050;85;2135
 2020-12-11;"Okres Bratislava III";1436;46;1482
 2020-12-11;"Okres Bratislava IV";4;0;4
@@ -3186,10 +3188,10 @@
 2020-12-11;"Okres Piešťany";355;20;375
 2020-12-11;"Okres Poltár";179;1;180
 2020-12-11;"Okres Poprad";1089;84;1173
-2020-12-11;"Okres Považská Bystrica";522;97;619
+2020-12-11;"Okres Považská Bystrica";505;95;600
 2020-12-11;"Okres Prešov";1269;66;1335
 2020-12-11;"Okres Prievidza";563;47;610
-2020-12-11;"Okres Púchov";581;104;685
+2020-12-11;"Okres Púchov";745;104;849
 2020-12-11;"Okres Revúca";442;10;452
 2020-12-11;"Okres Rimavská Sobota";444;24;468
 2020-12-11;"Okres Rožňava";469;7;476
@@ -3245,7 +3247,7 @@
 2020-12-12;"Okres Pezinok";590;25;615
 2020-12-12;"Okres Piešťany";29;0;29
 2020-12-12;"Okres Poprad";1173;45;1218
-2020-12-12;"Okres Považská Bystrica";249;42;291
+2020-12-12;"Okres Považská Bystrica";266;44;310
 2020-12-12;"Okres Prešov";236;17;253
 2020-12-12;"Okres Revúca";1036;27;1063
 2020-12-12;"Okres Rožňava";32;1;33
@@ -3305,7 +3307,7 @@
 2020-12-14;"Okres Banská Bystrica";311;26;337
 2020-12-14;"Okres Banská Štiavnica";14;0;14
 2020-12-14;"Okres Bardejov";992;68;1060
-2020-12-14;"Okres Bratislava I";501;22;523
+2020-12-14;"Okres Bratislava I";580;26;606
 2020-12-14;"Okres Bratislava II";1437;53;1490
 2020-12-14;"Okres Bratislava III";2021;80;2101
 2020-12-14;"Okres Bratislava IV";704;14;718
@@ -3347,7 +3349,7 @@
 2020-12-14;"Okres Považská Bystrica";260;58;318
 2020-12-14;"Okres Prešov";1598;132;1730
 2020-12-14;"Okres Prievidza";778;135;913
-2020-12-14;"Okres Púchov";385;125;510
+2020-12-14;"Okres Púchov";619;125;744
 2020-12-14;"Okres Revúca";468;14;482
 2020-12-14;"Okres Rimavská Sobota";357;6;363
 2020-12-14;"Okres Rožňava";508;25;533
@@ -3376,7 +3378,7 @@
 2020-12-15;"Okres Bánovce nad Bebravou";223;53;276
 2020-12-15;"Okres Banská Bystrica";900;100;1000
 2020-12-15;"Okres Bardejov";747;37;784
-2020-12-15;"Okres Bratislava I";536;24;560
+2020-12-15;"Okres Bratislava I";710;24;734
 2020-12-15;"Okres Bratislava II";3070;103;3173
 2020-12-15;"Okres Bratislava III";2835;85;2920
 2020-12-15;"Okres Bratislava IV";318;28;346
@@ -3413,12 +3415,12 @@
 2020-12-15;"Okres Nové Zámky";1449;100;1549
 2020-12-15;"Okres Partizánske";239;55;294
 2020-12-15;"Okres Pezinok";1014;74;1088
-2020-12-15;"Okres Piešťany";936;54;990
+2020-12-15;"Okres Piešťany";937;54;991
 2020-12-15;"Okres Poprad";960;98;1058
 2020-12-15;"Okres Považská Bystrica";445;88;533
 2020-12-15;"Okres Prešov";953;67;1020
 2020-12-15;"Okres Prievidza";783;99;882
-2020-12-15;"Okres Púchov";386;74;460
+2020-12-15;"Okres Púchov";548;88;636
 2020-12-15;"Okres Revúca";709;31;740
 2020-12-15;"Okres Rimavská Sobota";354;27;381
 2020-12-15;"Okres Rožňava";496;26;522
@@ -3449,7 +3451,7 @@
 2020-12-16;"Okres Banská Bystrica";881;76;957
 2020-12-16;"Okres Banská Štiavnica";3824;204;4028
 2020-12-16;"Okres Bardejov";816;54;870
-2020-12-16;"Okres Bratislava I";581;23;604
+2020-12-16;"Okres Bratislava I";739;23;762
 2020-12-16;"Okres Bratislava II";2381;87;2468
 2020-12-16;"Okres Bratislava III";3151;103;3254
 2020-12-16;"Okres Bratislava IV";271;12;283
@@ -3482,7 +3484,7 @@
 2020-12-16;"Okres Námestovo";149;5;154
 2020-12-16;"Okres Nitra";1522;186;1708
 2020-12-16;"Okres Nové Mesto nad Váhom";666;80;746
-2020-12-16;"Okres Nové Zámky";3253;143;3396
+2020-12-16;"Okres Nové Zámky";3368;143;3511
 2020-12-16;"Okres Partizánske";364;48;412
 2020-12-16;"Okres Pezinok";1172;56;1228
 2020-12-16;"Okres Piešťany";616;47;663
@@ -3491,7 +3493,7 @@
 2020-12-16;"Okres Považská Bystrica";474;68;542
 2020-12-16;"Okres Prešov";1739;107;1846
 2020-12-16;"Okres Prievidza";875;148;1023
-2020-12-16;"Okres Púchov";384;68;452
+2020-12-16;"Okres Púchov";518;93;611
 2020-12-16;"Okres Revúca";421;20;441
 2020-12-16;"Okres Rimavská Sobota";512;34;546
 2020-12-16;"Okres Rožňava";430;13;443
@@ -3522,7 +3524,7 @@
 2020-12-17;"Okres Banská Bystrica";643;194;837
 2020-12-17;"Okres Banská Štiavnica";199;17;216
 2020-12-17;"Okres Bardejov";711;55;766
-2020-12-17;"Okres Bratislava I";1114;24;1138
+2020-12-17;"Okres Bratislava I";1303;31;1334
 2020-12-17;"Okres Bratislava II";2928;106;3034
 2020-12-17;"Okres Bratislava III";1964;47;2011
 2020-12-17;"Okres Bratislava IV";354;20;374
@@ -3555,7 +3557,7 @@
 2020-12-17;"Okres Námestovo";205;15;220
 2020-12-17;"Okres Nitra";1221;129;1350
 2020-12-17;"Okres Nové Mesto nad Váhom";440;56;496
-2020-12-17;"Okres Nové Zámky";1646;118;1764
+2020-12-17;"Okres Nové Zámky";1835;118;1953
 2020-12-17;"Okres Partizánske";269;41;310
 2020-12-17;"Okres Pezinok";1201;60;1261
 2020-12-17;"Okres Piešťany";654;43;697
@@ -3564,7 +3566,7 @@
 2020-12-17;"Okres Považská Bystrica";472;71;543
 2020-12-17;"Okres Prešov";1780;91;1871
 2020-12-17;"Okres Prievidza";819;83;902
-2020-12-17;"Okres Púchov";328;57;385
+2020-12-17;"Okres Púchov";481;78;559
 2020-12-17;"Okres Revúca";620;31;651
 2020-12-17;"Okres Rimavská Sobota";563;18;581
 2020-12-17;"Okres Rožňava";557;10;567
@@ -3628,7 +3630,7 @@
 2020-12-18;"Okres Námestovo";263;13;276
 2020-12-18;"Okres Nitra";937;106;1043
 2020-12-18;"Okres Nové Mesto nad Váhom";486;55;541
-2020-12-18;"Okres Nové Zámky";1864;140;2004
+2020-12-18;"Okres Nové Zámky";1981;140;2121
 2020-12-18;"Okres Partizánske";356;51;407
 2020-12-18;"Okres Pezinok";1105;31;1136
 2020-12-18;"Okres Piešťany";392;27;419
@@ -3636,7 +3638,7 @@
 2020-12-18;"Okres Považská Bystrica";535;60;595
 2020-12-18;"Okres Prešov";2646;114;2760
 2020-12-18;"Okres Prievidza";1292;141;1433
-2020-12-18;"Okres Púchov";242;32;274
+2020-12-18;"Okres Púchov";419;64;483
 2020-12-18;"Okres Revúca";547;14;561
 2020-12-18;"Okres Rimavská Sobota";434;10;444
 2020-12-18;"Okres Rožňava";632;10;642
@@ -3648,7 +3650,7 @@
 2020-12-18;"Okres Snina";505;31;536
 2020-12-18;"Okres Sobrance";218;13;231
 2020-12-18;"Okres Spišská Nová Ves";949;46;995
-2020-12-18;"Okres Stará Ľubovňa";508;23;531
+2020-12-18;"Okres Stará Ľubovňa";594;26;620
 2020-12-18;"Okres Svidník";295;27;322
 2020-12-18;"Okres Šaľa";5;0;5
 2020-12-18;"Okres Topoľčany";783;67;850
@@ -3733,6 +3735,7 @@
 2020-12-20;"Okres Nitra";0;2;2
 2020-12-20;"Okres Pezinok";4;2;6
 2020-12-20;"Okres Poprad";41;4;45
+2020-12-20;"Okres Považská Bystrica";24;1;25
 2020-12-20;"Okres Revúca";46;2;48
 2020-12-20;"Okres Ružomberok";11;3;14
 2020-12-20;"Okres Senec";6;0;6
@@ -3753,7 +3756,7 @@
 2020-12-21;"Okres Bánovce nad Bebravou";366;77;443
 2020-12-21;"Okres Banská Bystrica";615;22;637
 2020-12-21;"Okres Bardejov";806;56;862
-2020-12-21;"Okres Bratislava I";1343;51;1394
+2020-12-21;"Okres Bratislava I";1518;55;1573
 2020-12-21;"Okres Bratislava II";2201;146;2347
 2020-12-21;"Okres Bratislava III";1408;67;1475
 2020-12-21;"Okres Bratislava IV";725;32;757
@@ -3787,29 +3790,29 @@
 2020-12-21;"Okres Námestovo";413;26;439
 2020-12-21;"Okres Nitra";959;166;1125
 2020-12-21;"Okres Nové Mesto nad Váhom";319;47;366
-2020-12-21;"Okres Nové Zámky";2131;244;2375
+2020-12-21;"Okres Nové Zámky";2365;244;2609
 2020-12-21;"Okres Partizánske";412;54;466
 2020-12-21;"Okres Pezinok";404;25;429
 2020-12-21;"Okres Piešťany";509;57;566
 2020-12-21;"Okres Poltár";227;8;235
 2020-12-21;"Okres Poprad";2219;145;2364
-2020-12-21;"Okres Považská Bystrica";347;35;382
+2020-12-21;"Okres Považská Bystrica";324;33;357
 2020-12-21;"Okres Prešov";2556;183;2739
 2020-12-21;"Okres Prievidza";1334;163;1497
-2020-12-21;"Okres Púchov";487;69;556
+2020-12-21;"Okres Púchov";621;69;690
 2020-12-21;"Okres Revúca";300;7;307
 2020-12-21;"Okres Rimavská Sobota";178;13;191
 2020-12-21;"Okres Rožňava";836;23;859
 2020-12-21;"Okres Ružomberok";1245;112;1357
-2020-12-21;"Okres Sabinov";721;77;798
+2020-12-21;"Okres Sabinov";830;87;917
 2020-12-21;"Okres Senec";463;27;490
 2020-12-21;"Okres Senica";476;36;512
 2020-12-21;"Okres Skalica";24;1;25
 2020-12-21;"Okres Snina";699;56;755
 2020-12-21;"Okres Sobrance";201;14;215
 2020-12-21;"Okres Spišská Nová Ves";1304;96;1400
-2020-12-21;"Okres Stará Ľubovňa";161;5;166
-2020-12-21;"Okres Svidník";73;5;78
+2020-12-21;"Okres Stará Ľubovňa";415;45;460
+2020-12-21;"Okres Svidník";233;15;248
 2020-12-21;"Okres Šaľa";190;42;232
 2020-12-21;"Okres Topoľčany";1138;170;1308
 2020-12-21;"Okres Trebišov";769;78;847
@@ -3828,7 +3831,7 @@
 2020-12-22;"Okres Banská Bystrica";1286;108;1394
 2020-12-22;"Okres Banská Štiavnica";693;54;747
 2020-12-22;"Okres Bardejov";887;81;968
-2020-12-22;"Okres Bratislava I";2745;47;2792
+2020-12-22;"Okres Bratislava I";2912;55;2967
 2020-12-22;"Okres Bratislava II";3220;97;3317
 2020-12-22;"Okres Bratislava III";2658;109;2767
 2020-12-22;"Okres Bratislava IV";1226;63;1289
@@ -3863,7 +3866,7 @@
 2020-12-22;"Okres Námestovo";274;15;289
 2020-12-22;"Okres Nitra";1442;256;1698
 2020-12-22;"Okres Nové Mesto nad Váhom";610;70;680
-2020-12-22;"Okres Nové Zámky";1419;80;1499
+2020-12-22;"Okres Nové Zámky";1491;80;1571
 2020-12-22;"Okres Partizánske";358;83;441
 2020-12-22;"Okres Pezinok";1602;206;1808
 2020-12-22;"Okres Piešťany";931;56;987
@@ -3872,21 +3875,21 @@
 2020-12-22;"Okres Považská Bystrica";819;126;945
 2020-12-22;"Okres Prešov";1542;58;1600
 2020-12-22;"Okres Prievidza";981;83;1064
-2020-12-22;"Okres Púchov";499;73;572
+2020-12-22;"Okres Púchov";662;73;735
 2020-12-22;"Okres Revúca";742;32;774
 2020-12-22;"Okres Rimavská Sobota";800;49;849
 2020-12-22;"Okres Rožňava";881;32;913
 2020-12-22;"Okres Ružomberok";2394;99;2493
-2020-12-22;"Okres Sabinov";668;27;695
+2020-12-22;"Okres Sabinov";794;34;828
 2020-12-22;"Okres Senec";993;57;1050
 2020-12-22;"Okres Senica";382;22;404
 2020-12-22;"Okres Skalica";297;31;328
 2020-12-22;"Okres Snina";672;40;712
 2020-12-22;"Okres Sobrance";356;24;380
 2020-12-22;"Okres Spišská Nová Ves";1238;71;1309
-2020-12-22;"Okres Stará Ľubovňa";255;28;283
-2020-12-22;"Okres Stropkov";2;0;2
-2020-12-22;"Okres Svidník";335;38;373
+2020-12-22;"Okres Stará Ľubovňa";518;54;572
+2020-12-22;"Okres Stropkov";65;4;69
+2020-12-22;"Okres Svidník";453;46;499
 2020-12-22;"Okres Šaľa";1588;77;1665
 2020-12-22;"Okres Topoľčany";1757;204;1961
 2020-12-22;"Okres Trebišov";1090;73;1163
@@ -3898,14 +3901,14 @@
 2020-12-22;"Okres Vranov nad Topľou";394;63;457
 2020-12-22;"Okres Zlaté Moravce";467;71;538
 2020-12-22;"Okres Zvolen";828;63;891
-2020-12-22;"Okres Žarnovica";707;59;766
+2020-12-22;"Okres Žarnovica";841;59;900
 2020-12-22;"Okres Žiar nad Hronom";590;61;651
 2020-12-22;"Okres Žilina";2682;233;2915
 2020-12-23;"Okres Bánovce nad Bebravou";393;56;449
 2020-12-23;"Okres Banská Bystrica";2449;67;2516
 2020-12-23;"Okres Banská Štiavnica";468;15;483
 2020-12-23;"Okres Bardejov";464;18;482
-2020-12-23;"Okres Bratislava I";1564;45;1609
+2020-12-23;"Okres Bratislava I";1780;52;1832
 2020-12-23;"Okres Bratislava II";2790;84;2874
 2020-12-23;"Okres Bratislava III";2243;75;2318
 2020-12-23;"Okres Bratislava IV";791;20;811
@@ -3940,30 +3943,30 @@
 2020-12-23;"Okres Námestovo";2184;143;2327
 2020-12-23;"Okres Nitra";913;130;1043
 2020-12-23;"Okres Nové Mesto nad Váhom";582;58;640
-2020-12-23;"Okres Nové Zámky";8306;282;8588
+2020-12-23;"Okres Nové Zámky";8385;282;8667
 2020-12-23;"Okres Partizánske";586;108;694
 2020-12-23;"Okres Pezinok";1501;73;1574
 2020-12-23;"Okres Piešťany";587;37;624
 2020-12-23;"Okres Poltár";329;7;336
 2020-12-23;"Okres Poprad";1617;74;1691
-2020-12-23;"Okres Považská Bystrica";906;99;1005
+2020-12-23;"Okres Považská Bystrica";882;98;980
 2020-12-23;"Okres Prešov";2721;113;2834
 2020-12-23;"Okres Prievidza";987;72;1059
-2020-12-23;"Okres Púchov";521;44;565
+2020-12-23;"Okres Púchov";779;76;855
 2020-12-23;"Okres Revúca";771;22;793
 2020-12-23;"Okres Rimavská Sobota";574;19;593
 2020-12-23;"Okres Rožňava";711;26;737
 2020-12-23;"Okres Ružomberok";1728;85;1813
-2020-12-23;"Okres Sabinov";635;34;669
+2020-12-23;"Okres Sabinov";867;46;913
 2020-12-23;"Okres Senec";973;35;1008
 2020-12-23;"Okres Senica";348;25;373
 2020-12-23;"Okres Skalica";842;39;881
 2020-12-23;"Okres Snina";739;45;784
 2020-12-23;"Okres Sobrance";323;24;347
 2020-12-23;"Okres Spišská Nová Ves";866;45;911
-2020-12-23;"Okres Stará Ľubovňa";556;22;578
-2020-12-23;"Okres Stropkov";8;0;8
-2020-12-23;"Okres Svidník";146;18;164
+2020-12-23;"Okres Stará Ľubovňa";794;54;848
+2020-12-23;"Okres Stropkov";218;4;222
+2020-12-23;"Okres Svidník";402;29;431
 2020-12-23;"Okres Šaľa";411;27;438
 2020-12-23;"Okres Topoľčany";1447;121;1568
 2020-12-23;"Okres Trebišov";1246;66;1312
@@ -3975,7 +3978,7 @@
 2020-12-23;"Okres Vranov nad Topľou";494;50;544
 2020-12-23;"Okres Zlaté Moravce";452;71;523
 2020-12-23;"Okres Zvolen";845;57;902
-2020-12-23;"Okres Žarnovica";710;69;779
+2020-12-23;"Okres Žarnovica";971;69;1040
 2020-12-23;"Okres Žiar nad Hronom";824;36;860
 2020-12-23;"Okres Žilina";2075;128;2203
 2020-12-24;"Okres Bánovce nad Bebravou";0;0;0
@@ -4213,7 +4216,7 @@
 2020-12-28;"Okres Námestovo";1172;97;1269
 2020-12-28;"Okres Nitra";928;247;1175
 2020-12-28;"Okres Nové Mesto nad Váhom";595;132;727
-2020-12-28;"Okres Nové Zámky";1645;196;1841
+2020-12-28;"Okres Nové Zámky";1745;196;1941
 2020-12-28;"Okres Partizánske";111;32;143
 2020-12-28;"Okres Pezinok";574;57;631
 2020-12-28;"Okres Piešťany";374;43;417
@@ -4222,21 +4225,21 @@
 2020-12-28;"Okres Považská Bystrica";319;58;377
 2020-12-28;"Okres Prešov";1575;127;1702
 2020-12-28;"Okres Prievidza";873;141;1014
-2020-12-28;"Okres Púchov";647;135;782
+2020-12-28;"Okres Púchov";919;135;1054
 2020-12-28;"Okres Revúca";337;28;365
 2020-12-28;"Okres Rimavská Sobota";308;10;318
 2020-12-28;"Okres Rožňava";1169;54;1223
 2020-12-28;"Okres Ružomberok";1367;169;1536
-2020-12-28;"Okres Sabinov";749;104;853
+2020-12-28;"Okres Sabinov";932;128;1060
 2020-12-28;"Okres Senec";426;38;464
 2020-12-28;"Okres Senica";360;31;391
 2020-12-28;"Okres Skalica";44;6;50
 2020-12-28;"Okres Snina";605;89;694
 2020-12-28;"Okres Sobrance";239;22;261
 2020-12-28;"Okres Spišská Nová Ves";1192;155;1347
-2020-12-28;"Okres Stará Ľubovňa";38;2;40
-2020-12-28;"Okres Stropkov";8;0;8
-2020-12-28;"Okres Svidník";68;53;121
+2020-12-28;"Okres Stará Ľubovňa";311;45;356
+2020-12-28;"Okres Stropkov";149;15;164
+2020-12-28;"Okres Svidník";186;70;256
 2020-12-28;"Okres Šaľa";567;127;694
 2020-12-28;"Okres Topoľčany";750;193;943
 2020-12-28;"Okres Trebišov";1055;90;1145
@@ -4248,14 +4251,14 @@
 2020-12-28;"Okres Vranov nad Topľou";218;38;256
 2020-12-28;"Okres Zlaté Moravce";439;119;558
 2020-12-28;"Okres Zvolen";400;79;479
-2020-12-28;"Okres Žarnovica";1;0;1
+2020-12-28;"Okres Žarnovica";85;29;114
 2020-12-28;"Okres Žiar nad Hronom";372;33;405
 2020-12-28;"Okres Žilina";1923;155;2078
 2020-12-29;"Okres Bánovce nad Bebravou";227;30;257
 2020-12-29;"Okres Banská Bystrica";1382;184;1566
 2020-12-29;"Okres Banská Štiavnica";1;0;1
 2020-12-29;"Okres Bardejov";666;43;709
-2020-12-29;"Okres Bratislava I";841;22;863
+2020-12-29;"Okres Bratislava I";955;24;979
 2020-12-29;"Okres Bratislava II";2290;137;2427
 2020-12-29;"Okres Bratislava III";2292;142;2434
 2020-12-29;"Okres Bratislava IV";568;60;628
@@ -4290,7 +4293,7 @@
 2020-12-29;"Okres Námestovo";1018;68;1086
 2020-12-29;"Okres Nitra";888;273;1161
 2020-12-29;"Okres Nové Mesto nad Váhom";488;79;567
-2020-12-29;"Okres Nové Zámky";1772;168;1940
+2020-12-29;"Okres Nové Zámky";1874;168;2042
 2020-12-29;"Okres Partizánske";929;219;1148
 2020-12-29;"Okres Pezinok";1208;106;1314
 2020-12-29;"Okres Piešťany";487;41;528
@@ -4299,21 +4302,21 @@
 2020-12-29;"Okres Považská Bystrica";811;143;954
 2020-12-29;"Okres Prešov";1992;143;2135
 2020-12-29;"Okres Prievidza";844;136;980
-2020-12-29;"Okres Púchov";405;66;471
+2020-12-29;"Okres Púchov";617;66;683
 2020-12-29;"Okres Revúca";867;30;897
 2020-12-29;"Okres Rimavská Sobota";598;47;645
 2020-12-29;"Okres Rožňava";847;66;913
 2020-12-29;"Okres Ružomberok";1071;88;1159
-2020-12-29;"Okres Sabinov";643;58;701
+2020-12-29;"Okres Sabinov";800;72;872
 2020-12-29;"Okres Senec";902;72;974
 2020-12-29;"Okres Senica";321;36;357
 2020-12-29;"Okres Skalica";358;43;401
 2020-12-29;"Okres Snina";496;45;541
 2020-12-29;"Okres Sobrance";286;30;316
 2020-12-29;"Okres Spišská Nová Ves";1010;119;1129
-2020-12-29;"Okres Stará Ľubovňa";291;66;357
-2020-12-29;"Okres Stropkov";6;1;7
-2020-12-29;"Okres Svidník";179;30;209
+2020-12-29;"Okres Stará Ľubovňa";475;80;555
+2020-12-29;"Okres Stropkov";98;6;104
+2020-12-29;"Okres Svidník";240;38;278
 2020-12-29;"Okres Šaľa";400;48;448
 2020-12-29;"Okres Topoľčany";1181;283;1464
 2020-12-29;"Okres Trebišov";1331;109;1440
@@ -4325,7 +4328,7 @@
 2020-12-29;"Okres Vranov nad Topľou";567;85;652
 2020-12-29;"Okres Zlaté Moravce";332;97;429
 2020-12-29;"Okres Zvolen";587;52;639
-2020-12-29;"Okres Žarnovica";647;74;721
+2020-12-29;"Okres Žarnovica";826;74;900
 2020-12-29;"Okres Žiar nad Hronom";583;57;640
 2020-12-29;"Okres Žilina";2264;298;2562
 2020-12-30;"Okres Bánovce nad Bebravou";280;40;320
@@ -4367,7 +4370,7 @@
 2020-12-30;"Okres Námestovo";792;50;842
 2020-12-30;"Okres Nitra";1317;230;1547
 2020-12-30;"Okres Nové Mesto nad Váhom";633;81;714
-2020-12-30;"Okres Nové Zámky";2326;145;2471
+2020-12-30;"Okres Nové Zámky";2516;150;2666
 2020-12-30;"Okres Partizánske";488;84;572
 2020-12-30;"Okres Pezinok";1195;94;1289
 2020-12-30;"Okres Piešťany";281;29;310
@@ -4376,21 +4379,21 @@
 2020-12-30;"Okres Považská Bystrica";757;82;839
 2020-12-30;"Okres Prešov";1757;75;1832
 2020-12-30;"Okres Prievidza";830;100;930
-2020-12-30;"Okres Púchov";798;92;890
+2020-12-30;"Okres Púchov";1022;92;1114
 2020-12-30;"Okres Revúca";618;29;647
 2020-12-30;"Okres Rimavská Sobota";717;43;760
 2020-12-30;"Okres Rožňava";837;37;874
 2020-12-30;"Okres Ružomberok";1024;90;1114
-2020-12-30;"Okres Sabinov";654;64;718
+2020-12-30;"Okres Sabinov";934;74;1008
 2020-12-30;"Okres Senec";831;54;885
 2020-12-30;"Okres Senica";325;28;353
 2020-12-30;"Okres Skalica";297;26;323
 2020-12-30;"Okres Snina";391;36;427
 2020-12-30;"Okres Sobrance";238;11;249
 2020-12-30;"Okres Spišská Nová Ves";991;63;1054
-2020-12-30;"Okres Stará Ľubovňa";235;18;253
-2020-12-30;"Okres Stropkov";1;0;1
-2020-12-30;"Okres Svidník";267;28;295
+2020-12-30;"Okres Stará Ľubovňa";509;61;570
+2020-12-30;"Okres Stropkov";127;23;150
+2020-12-30;"Okres Svidník";352;39;391
 2020-12-30;"Okres Šaľa";164;21;185
 2020-12-30;"Okres Topoľčany";2154;338;2492
 2020-12-30;"Okres Trebišov";1090;68;1158
@@ -4402,11 +4405,11 @@
 2020-12-30;"Okres Vranov nad Topľou";527;81;608
 2020-12-30;"Okres Zlaté Moravce";370;76;446
 2020-12-30;"Okres Zvolen";623;57;680
-2020-12-30;"Okres Žarnovica";498;39;537
+2020-12-30;"Okres Žarnovica";655;45;700
 2020-12-30;"Okres Žiar nad Hronom";728;40;768
 2020-12-30;"Okres Žilina";2457;216;2673
 2020-12-31;"Okres Bánovce nad Bebravou";214;36;250
-2020-12-31;"Okres Banská Bystrica";1327;195;1522
+2020-12-31;"Okres Banská Bystrica";1435;87;1522
 2020-12-31;"Okres Banská Štiavnica";519;36;555
 2020-12-31;"Okres Bardejov";281;20;301
 2020-12-31;"Okres Bratislava I";506;22;528
@@ -4454,7 +4457,7 @@
 2020-12-31;"Okres Prešov";2169;127;2296
 2020-12-31;"Okres Prievidza";767;83;850
 2020-12-31;"Okres Púchov";501;71;572
-2020-12-31;"Okres Revúca";606;30;636
+2020-12-31;"Okres Revúca";953;51;1004
 2020-12-31;"Okres Rimavská Sobota";502;234;736
 2020-12-31;"Okres Rožňava";827;26;853
 2020-12-31;"Okres Ružomberok";967;81;1048
@@ -4465,8 +4468,9 @@
 2020-12-31;"Okres Snina";374;40;414
 2020-12-31;"Okres Sobrance";233;13;246
 2020-12-31;"Okres Spišská Nová Ves";697;40;737
-2020-12-31;"Okres Stará Ľubovňa";549;54;603
-2020-12-31;"Okres Svidník";244;21;265
+2020-12-31;"Okres Stará Ľubovňa";785;104;889
+2020-12-31;"Okres Stropkov";161;18;179
+2020-12-31;"Okres Svidník";321;27;348
 2020-12-31;"Okres Šaľa";26;2;28
 2020-12-31;"Okres Topoľčany";1047;111;1158
 2020-12-31;"Okres Trebišov";695;42;737
@@ -4478,7 +4482,7 @@
 2020-12-31;"Okres Vranov nad Topľou";270;25;295
 2020-12-31;"Okres Zlaté Moravce";183;31;214
 2020-12-31;"Okres Zvolen";675;55;730
-2020-12-31;"Okres Žarnovica";1;0;1
+2020-12-31;"Okres Žarnovica";82;0;82
 2020-12-31;"Okres Žiar nad Hronom";492;24;516
 2020-12-31;"Okres Žilina";2163;222;2385
 2021-01-01;"Okres Banská Bystrica";1098;64;1162
@@ -4515,7 +4519,7 @@
 2021-01-01;"Okres Považská Bystrica";6;0;6
 2021-01-01;"Okres Prešov";2;0;2
 2021-01-01;"Okres Púchov";0;0;0
-2021-01-01;"Okres Revúca";389;24;413
+2021-01-01;"Okres Revúca";42;4;46
 2021-01-01;"Okres Ružomberok";11;1;12
 2021-01-01;"Okres Senec";425;26;451
 2021-01-01;"Okres Skalica";6;0;6
@@ -4633,7 +4637,7 @@
 2021-01-04;"Okres Banská Bystrica";669;30;699
 2021-01-04;"Okres Banská Štiavnica";283;25;308
 2021-01-04;"Okres Bardejov";1176;63;1239
-2021-01-04;"Okres Bratislava I";1635;62;1697
+2021-01-04;"Okres Bratislava I";1795;72;1867
 2021-01-04;"Okres Bratislava II";2177;115;2292
 2021-01-04;"Okres Bratislava III";1099;100;1199
 2021-01-04;"Okres Bratislava IV";174;28;202
@@ -4646,14 +4650,15 @@
 2021-01-04;"Okres Dunajská Streda";1150;164;1314
 2021-01-04;"Okres Galanta";1093;151;1244
 2021-01-04;"Okres Gelnica";297;51;348
-2021-01-04;"Okres Hlohovec";699;112;811
+2021-01-04;"Okres Hlohovec";781;142;923
 2021-01-04;"Okres Humenné";996;108;1104
 2021-01-04;"Okres Ilava";301;23;324
 2021-01-04;"Okres Kežmarok";606;110;716
 2021-01-04;"Okres Komárno";747;58;805
-2021-01-04;"Okres Košice I";535;71;606
+2021-01-04;"Okres Košice I";539;71;610
 2021-01-04;"Okres Košice II";922;123;1045
 2021-01-04;"Okres Košice IV";305;31;336
+2021-01-04;"Okres Krupina";231;23;254
 2021-01-04;"Okres Kysucké Nové Mesto";259;31;290
 2021-01-04;"Okres Levice";2394;310;2704
 2021-01-04;"Okres Levoča";73;11;84
@@ -4662,35 +4667,35 @@
 2021-01-04;"Okres Malacky";729;144;873
 2021-01-04;"Okres Martin";2109;232;2341
 2021-01-04;"Okres Medzilaborce";270;45;315
-2021-01-04;"Okres Michalovce";974;95;1069
+2021-01-04;"Okres Michalovce";1229;118;1347
 2021-01-04;"Okres Myjava";50;2;52
 2021-01-04;"Okres Námestovo";891;101;992
 2021-01-04;"Okres Nitra";835;245;1080
 2021-01-04;"Okres Nové Mesto nad Váhom";600;115;715
-2021-01-04;"Okres Nové Zámky";1738;192;1930
+2021-01-04;"Okres Nové Zámky";1971;196;2167
 2021-01-04;"Okres Partizánske";637;83;720
 2021-01-04;"Okres Pezinok";408;45;453
 2021-01-04;"Okres Piešťany";800;73;873
-2021-01-04;"Okres Poltár";184;12;196
+2021-01-04;"Okres Poltár";367;25;392
 2021-01-04;"Okres Poprad";9678;1024;10702
 2021-01-04;"Okres Považská Bystrica";412;53;465
 2021-01-04;"Okres Prešov";2125;165;2290
 2021-01-04;"Okres Prievidza";897;112;1009
-2021-01-04;"Okres Púchov";423;100;523
-2021-01-04;"Okres Revúca";580;26;606
+2021-01-04;"Okres Púchov";646;100;746
+2021-01-04;"Okres Revúca";946;63;1009
 2021-01-04;"Okres Rimavská Sobota";513;27;540
 2021-01-04;"Okres Rožňava";1049;62;1111
 2021-01-04;"Okres Ružomberok";788;136;924
-2021-01-04;"Okres Sabinov";807;87;894
+2021-01-04;"Okres Sabinov";1078;127;1205
 2021-01-04;"Okres Senec";403;38;441
 2021-01-04;"Okres Senica";419;41;460
 2021-01-04;"Okres Skalica";24;4;28
 2021-01-04;"Okres Snina";515;65;580
 2021-01-04;"Okres Sobrance";224;14;238
 2021-01-04;"Okres Spišská Nová Ves";1253;109;1362
-2021-01-04;"Okres Stará Ľubovňa";41;3;44
-2021-01-04;"Okres Stropkov";1;0;1
-2021-01-04;"Okres Svidník";51;2;53
+2021-01-04;"Okres Stará Ľubovňa";281;75;356
+2021-01-04;"Okres Stropkov";135;4;139
+2021-01-04;"Okres Svidník";181;8;189
 2021-01-04;"Okres Šaľa";441;87;528
 2021-01-04;"Okres Topoľčany";1725;283;2008
 2021-01-04;"Okres Trebišov";1008;111;1119
@@ -4702,14 +4707,14 @@
 2021-01-04;"Okres Vranov nad Topľou";61;5;66
 2021-01-04;"Okres Zlaté Moravce";367;95;462
 2021-01-04;"Okres Zvolen";651;88;739
-2021-01-04;"Okres Žarnovica";574;80;654
+2021-01-04;"Okres Žarnovica";1024;137;1161
 2021-01-04;"Okres Žiar nad Hronom";409;34;443
 2021-01-04;"Okres Žilina";1251;99;1350
 2021-01-05;"Okres Bánovce nad Bebravou";266;29;295
 2021-01-05;"Okres Banská Bystrica";1600;162;1762
 2021-01-05;"Okres Banská Štiavnica";6;0;6
 2021-01-05;"Okres Bardejov";954;45;999
-2021-01-05;"Okres Bratislava I";1020;79;1099
+2021-01-05;"Okres Bratislava I";1220;89;1309
 2021-01-05;"Okres Bratislava II";2444;116;2560
 2021-01-05;"Okres Bratislava III";2140;106;2246
 2021-01-05;"Okres Bratislava IV";432;61;493
@@ -4722,15 +4727,15 @@
 2021-01-05;"Okres Dunajská Streda";1016;132;1148
 2021-01-05;"Okres Galanta";919;117;1036
 2021-01-05;"Okres Gelnica";242;10;252
-2021-01-05;"Okres Hlohovec";1027;142;1169
+2021-01-05;"Okres Hlohovec";1211;181;1392
 2021-01-05;"Okres Humenné";801;86;887
 2021-01-05;"Okres Ilava";273;78;351
 2021-01-05;"Okres Kežmarok";713;112;825
 2021-01-05;"Okres Komárno";1101;93;1194
-2021-01-05;"Okres Košice I";745;52;797
+2021-01-05;"Okres Košice I";975;68;1043
 2021-01-05;"Okres Košice II";1038;93;1131
 2021-01-05;"Okres Košice IV";1136;43;1179
-2021-01-05;"Okres Krupina";193;8;201
+2021-01-05;"Okres Krupina";386;16;402
 2021-01-05;"Okres Kysucké Nové Mesto";277;59;336
 2021-01-05;"Okres Levice";2640;326;2966
 2021-01-05;"Okres Levoča";448;48;496
@@ -4739,35 +4744,35 @@
 2021-01-05;"Okres Malacky";2692;138;2830
 2021-01-05;"Okres Martin";2156;95;2251
 2021-01-05;"Okres Medzilaborce";245;19;264
-2021-01-05;"Okres Michalovce";1070;86;1156
+2021-01-05;"Okres Michalovce";981;80;1061
 2021-01-05;"Okres Myjava";329;26;355
 2021-01-05;"Okres Námestovo";574;50;624
 2021-01-05;"Okres Nitra";1403;270;1673
 2021-01-05;"Okres Nové Mesto nad Váhom";769;50;819
-2021-01-05;"Okres Nové Zámky";1749;184;1933
+2021-01-05;"Okres Nové Zámky";1891;195;2086
 2021-01-05;"Okres Partizánske";1276;220;1496
 2021-01-05;"Okres Pezinok";1332;208;1540
 2021-01-05;"Okres Piešťany";1059;106;1165
-2021-01-05;"Okres Poltár";227;17;244
+2021-01-05;"Okres Poltár";454;34;488
 2021-01-05;"Okres Poprad";3563;215;3778
 2021-01-05;"Okres Považská Bystrica";732;113;845
 2021-01-05;"Okres Prešov";1956;147;2103
 2021-01-05;"Okres Prievidza";576;89;665
-2021-01-05;"Okres Púchov";362;58;420
-2021-01-05;"Okres Revúca";788;50;838
+2021-01-05;"Okres Púchov";495;58;553
+2021-01-05;"Okres Revúca";720;37;757
 2021-01-05;"Okres Rimavská Sobota";358;23;381
 2021-01-05;"Okres Rožňava";984;55;1039
 2021-01-05;"Okres Ružomberok";1600;68;1668
-2021-01-05;"Okres Sabinov";880;103;983
+2021-01-05;"Okres Sabinov";1042;115;1157
 2021-01-05;"Okres Senec";976;99;1075
 2021-01-05;"Okres Senica";342;40;382
 2021-01-05;"Okres Skalica";680;37;717
 2021-01-05;"Okres Snina";571;37;608
 2021-01-05;"Okres Sobrance";260;36;296
 2021-01-05;"Okres Spišská Nová Ves";1216;82;1298
-2021-01-05;"Okres Stará Ľubovňa";306;63;369
-2021-01-05;"Okres Stropkov";1;0;1
-2021-01-05;"Okres Svidník";200;24;224
+2021-01-05;"Okres Stará Ľubovňa";468;95;563
+2021-01-05;"Okres Stropkov";91;9;100
+2021-01-05;"Okres Svidník";283;27;310
 2021-01-05;"Okres Šaľa";506;41;547
 2021-01-05;"Okres Topoľčany";1036;228;1264
 2021-01-05;"Okres Trebišov";989;64;1053
@@ -4779,7 +4784,7 @@
 2021-01-05;"Okres Vranov nad Topľou";456;48;504
 2021-01-05;"Okres Zlaté Moravce";380;62;442
 2021-01-05;"Okres Zvolen";707;32;739
-2021-01-05;"Okres Žarnovica";413;34;447
+2021-01-05;"Okres Žarnovica";940;75;1015
 2021-01-05;"Okres Žiar nad Hronom";345;20;365
 2021-01-05;"Okres Žilina";2129;279;2408
 2021-01-06;"Okres Banská Bystrica";957;56;1013
@@ -4804,7 +4809,7 @@
 2021-01-06;"Okres Lučenec";728;29;757
 2021-01-06;"Okres Malacky";433;49;482
 2021-01-06;"Okres Martin";583;23;606
-2021-01-06;"Okres Michalovce";227;24;251
+2021-01-06;"Okres Michalovce";61;7;68
 2021-01-06;"Okres Myjava";181;8;189
 2021-01-06;"Okres Nitra";171;37;208
 2021-01-06;"Okres Nové Mesto nad Váhom";87;5;92
@@ -4816,14 +4821,14 @@
 2021-01-06;"Okres Prešov";3;2;5
 2021-01-06;"Okres Prievidza";41;0;41
 2021-01-06;"Okres Púchov";0;0;0
-2021-01-06;"Okres Revúca";555;32;587
+2021-01-06;"Okres Revúca";258;7;265
 2021-01-06;"Okres Rimavská Sobota";215;10;225
 2021-01-06;"Okres Ružomberok";19;7;26
 2021-01-06;"Okres Senec";458;29;487
 2021-01-06;"Okres Senica";6;0;6
 2021-01-06;"Okres Sobrance";104;15;119
 2021-01-06;"Okres Spišská Nová Ves";101;4;105
-2021-01-06;"Okres Stará Ľubovňa";201;18;219
+2021-01-06;"Okres Stará Ľubovňa";426;51;477
 2021-01-06;"Okres Svidník";122;7;129
 2021-01-06;"Okres Topoľčany";409;88;497
 2021-01-06;"Okres Trebišov";18;1;19
@@ -4839,7 +4844,7 @@
 2021-01-07;"Okres Banská Bystrica";596;18;614
 2021-01-07;"Okres Banská Štiavnica";20;4;24
 2021-01-07;"Okres Bardejov";796;24;820
-2021-01-07;"Okres Bratislava I";1095;56;1151
+2021-01-07;"Okres Bratislava I";1375;84;1459
 2021-01-07;"Okres Bratislava II";1701;62;1763
 2021-01-07;"Okres Bratislava III";1311;85;1396
 2021-01-07;"Okres Bratislava IV";441;42;483
@@ -4852,7 +4857,7 @@
 2021-01-07;"Okres Dunajská Streda";850;80;930
 2021-01-07;"Okres Galanta";660;77;737
 2021-01-07;"Okres Gelnica";277;18;295
-2021-01-07;"Okres Hlohovec";506;35;541
+2021-01-07;"Okres Hlohovec";602;42;644
 2021-01-07;"Okres Humenné";982;76;1058
 2021-01-07;"Okres Ilava";209;35;244
 2021-01-07;"Okres Kežmarok";406;76;482
@@ -4860,7 +4865,7 @@
 2021-01-07;"Okres Košice I";576;43;619
 2021-01-07;"Okres Košice II";885;69;954
 2021-01-07;"Okres Košice IV";837;33;870
-2021-01-07;"Okres Krupina";235;8;243
+2021-01-07;"Okres Krupina";467;16;483
 2021-01-07;"Okres Kysucké Nové Mesto";206;39;245
 2021-01-07;"Okres Levice";3151;272;3423
 2021-01-07;"Okres Levoča";203;13;216
@@ -4869,26 +4874,26 @@
 2021-01-07;"Okres Malacky";995;90;1085
 2021-01-07;"Okres Martin";1468;62;1530
 2021-01-07;"Okres Medzilaborce";222;26;248
-2021-01-07;"Okres Michalovce";893;60;953
+2021-01-07;"Okres Michalovce";1104;79;1183
 2021-01-07;"Okres Myjava";121;3;124
 2021-01-07;"Okres Námestovo";748;54;802
 2021-01-07;"Okres Nitra";3514;156;3670
 2021-01-07;"Okres Nové Mesto nad Váhom";602;71;673
-2021-01-07;"Okres Nové Zámky";2007;116;2123
+2021-01-07;"Okres Nové Zámky";2160;116;2276
 2021-01-07;"Okres Partizánske";91;22;113
 2021-01-07;"Okres Pezinok";493;14;507
 2021-01-07;"Okres Piešťany";765;51;816
-2021-01-07;"Okres Poltár";241;9;250
+2021-01-07;"Okres Poltár";484;16;500
 2021-01-07;"Okres Poprad";1101;99;1200
 2021-01-07;"Okres Považská Bystrica";754;107;861
 2021-01-07;"Okres Prešov";1965;120;2085
 2021-01-07;"Okres Prievidza";928;84;1012
-2021-01-07;"Okres Púchov";349;28;377
-2021-01-07;"Okres Revúca";474;8;482
+2021-01-07;"Okres Púchov";464;28;492
+2021-01-07;"Okres Revúca";796;36;832
 2021-01-07;"Okres Rimavská Sobota";577;34;611
 2021-01-07;"Okres Rožňava";793;56;849
 2021-01-07;"Okres Ružomberok";7459;720;8179
-2021-01-07;"Okres Sabinov";771;100;871
+2021-01-07;"Okres Sabinov";998;114;1112
 2021-01-07;"Okres Senec";447;30;477
 2021-01-07;"Okres Senica";274;28;302
 2021-01-07;"Okres Skalica";27;1;28
@@ -4896,8 +4901,8 @@
 2021-01-07;"Okres Sobrance";163;6;169
 2021-01-07;"Okres Spišská Nová Ves";1010;73;1083
 2021-01-07;"Okres Stará Ľubovňa";87;9;96
-2021-01-07;"Okres Stropkov";1;0;1
-2021-01-07;"Okres Svidník";131;11;142
+2021-01-07;"Okres Stropkov";102;9;111
+2021-01-07;"Okres Svidník";205;15;220
 2021-01-07;"Okres Šaľa";444;69;513
 2021-01-07;"Okres Topoľčany";484;66;550
 2021-01-07;"Okres Trebišov";654;33;687
@@ -4909,14 +4914,14 @@
 2021-01-07;"Okres Vranov nad Topľou";227;28;255
 2021-01-07;"Okres Zlaté Moravce";222;25;247
 2021-01-07;"Okres Zvolen";324;17;341
-2021-01-07;"Okres Žarnovica";235;13;248
+2021-01-07;"Okres Žarnovica";904;50;954
 2021-01-07;"Okres Žiar nad Hronom";563;39;602
 2021-01-07;"Okres Žilina";1511;141;1652
 2021-01-08;"Okres Bánovce nad Bebravou";307;25;332
 2021-01-08;"Okres Banská Bystrica";1686;88;1774
 2021-01-08;"Okres Banská Štiavnica";242;13;255
 2021-01-08;"Okres Bardejov";926;19;945
-2021-01-08;"Okres Bratislava I";1600;23;1623
+2021-01-08;"Okres Bratislava I";2086;29;2115
 2021-01-08;"Okres Bratislava II";2007;68;2075
 2021-01-08;"Okres Bratislava III";1446;94;1540
 2021-01-08;"Okres Bratislava IV";497;43;540
@@ -4929,7 +4934,7 @@
 2021-01-08;"Okres Dunajská Streda";823;108;931
 2021-01-08;"Okres Galanta";1385;141;1526
 2021-01-08;"Okres Gelnica";343;6;349
-2021-01-08;"Okres Hlohovec";737;68;805
+2021-01-08;"Okres Hlohovec";938;98;1036
 2021-01-08;"Okres Humenné";1049;66;1115
 2021-01-08;"Okres Ilava";436;53;489
 2021-01-08;"Okres Kežmarok";679;66;745
@@ -4937,7 +4942,7 @@
 2021-01-08;"Okres Košice I";782;36;818
 2021-01-08;"Okres Košice II";1167;61;1228
 2021-01-08;"Okres Košice IV";251;12;263
-2021-01-08;"Okres Krupina";236;5;241
+2021-01-08;"Okres Krupina";472;10;482
 2021-01-08;"Okres Kysucké Nové Mesto";272;41;313
 2021-01-08;"Okres Levice";2466;166;2632
 2021-01-08;"Okres Levoča";681;37;718
@@ -4946,35 +4951,35 @@
 2021-01-08;"Okres Malacky";847;55;902
 2021-01-08;"Okres Martin";1663;62;1725
 2021-01-08;"Okres Medzilaborce";233;27;260
-2021-01-08;"Okres Michalovce";1317;53;1370
+2021-01-08;"Okres Michalovce";1400;55;1455
 2021-01-08;"Okres Myjava";153;4;157
 2021-01-08;"Okres Námestovo";776;30;806
 2021-01-08;"Okres Nitra";5877;166;6043
 2021-01-08;"Okres Nové Mesto nad Váhom";649;35;684
-2021-01-08;"Okres Nové Zámky";1896;96;1992
+2021-01-08;"Okres Nové Zámky";2135;108;2243
 2021-01-08;"Okres Partizánske";935;71;1006
 2021-01-08;"Okres Pezinok";1137;59;1196
 2021-01-08;"Okres Piešťany";1253;55;1308
-2021-01-08;"Okres Poltár";180;4;184
+2021-01-08;"Okres Poltár";360;8;368
 2021-01-08;"Okres Poprad";1493;70;1563
 2021-01-08;"Okres Považská Bystrica";849;58;907
-2021-01-08;"Okres Prešov";2726;77;2803
+2021-01-08;"Okres Prešov";2711;77;2788
 2021-01-08;"Okres Prievidza";1299;123;1422
-2021-01-08;"Okres Púchov";442;15;457
-2021-01-08;"Okres Revúca";880;33;913
+2021-01-08;"Okres Púchov";625;26;651
+2021-01-08;"Okres Revúca";1026;29;1055
 2021-01-08;"Okres Rimavská Sobota";630;20;650
 2021-01-08;"Okres Rožňava";1323;61;1384
 2021-01-08;"Okres Ružomberok";1224;64;1288
-2021-01-08;"Okres Sabinov";911;48;959
+2021-01-08;"Okres Sabinov";1176;67;1243
 2021-01-08;"Okres Senec";913;64;977
 2021-01-08;"Okres Senica";244;21;265
 2021-01-08;"Okres Skalica";768;32;800
 2021-01-08;"Okres Snina";591;16;607
 2021-01-08;"Okres Sobrance";373;21;394
 2021-01-08;"Okres Spišská Nová Ves";1185;52;1237
-2021-01-08;"Okres Stará Ľubovňa";269;66;335
-2021-01-08;"Okres Stropkov";2;0;2
-2021-01-08;"Okres Svidník";168;5;173
+2021-01-08;"Okres Stará Ľubovňa";582;91;673
+2021-01-08;"Okres Stropkov";110;4;114
+2021-01-08;"Okres Svidník";290;12;302
 2021-01-08;"Okres Šaľa";367;23;390
 2021-01-08;"Okres Topoľčany";1514;173;1687
 2021-01-08;"Okres Trebišov";1120;73;1193
@@ -4986,7 +4991,7 @@
 2021-01-08;"Okres Vranov nad Topľou";346;20;366
 2021-01-08;"Okres Zlaté Moravce";443;28;471
 2021-01-08;"Okres Zvolen";1177;54;1231
-2021-01-08;"Okres Žarnovica";471;30;501
+2021-01-08;"Okres Žarnovica";1128;72;1200
 2021-01-08;"Okres Žiar nad Hronom";520;33;553
 2021-01-08;"Okres Žilina";1408;87;1495
 2021-01-09;"Okres Bánovce nad Bebravou";6;3;9
@@ -5015,7 +5020,7 @@
 2021-01-09;"Okres Lučenec";316;9;325
 2021-01-09;"Okres Malacky";664;43;707
 2021-01-09;"Okres Martin";0;1;1
-2021-01-09;"Okres Michalovce";343;25;368
+2021-01-09;"Okres Michalovce";49;4;53
 2021-01-09;"Okres Myjava";306;7;313
 2021-01-09;"Okres Nitra";34127;929;35056
 2021-01-09;"Okres Nové Mesto nad Váhom";3;0;3
@@ -5028,7 +5033,7 @@
 2021-01-09;"Okres Prešov";17;0;17
 2021-01-09;"Okres Prievidza";1;0;1
 2021-01-09;"Okres Púchov";7002;64;7066
-2021-01-09;"Okres Revúca";609;26;635
+2021-01-09;"Okres Revúca";141;2;143
 2021-01-09;"Okres Rožňava";5;0;5
 2021-01-09;"Okres Ružomberok";266;15;281
 2021-01-09;"Okres Sabinov";1;0;1
@@ -5068,7 +5073,7 @@
 2021-01-10;"Okres Martin";2;0;2
 2021-01-10;"Okres Michalovce";32;1;33
 2021-01-10;"Okres Myjava";29;1;30
-2021-01-10;"Okres Nitra";4225;135;4360
+2021-01-10;"Okres Nitra";5299;162;5461
 2021-01-10;"Okres Nové Mesto nad Váhom";2;0;2
 2021-01-10;"Okres Nové Zámky";563;21;584
 2021-01-10;"Okres Partizánske";1;0;1
@@ -5119,7 +5124,7 @@
 2021-01-11;"Okres Košice I";565;23;588
 2021-01-11;"Okres Košice II";1712;32;1744
 2021-01-11;"Okres Košice IV";326;10;336
-2021-01-11;"Okres Krupina";221;4;225
+2021-01-11;"Okres Krupina";442;8;450
 2021-01-11;"Okres Kysucké Nové Mesto";298;21;319
 2021-01-11;"Okres Levice";2498;176;2674
 2021-01-11;"Okres Levoča";265;8;273
@@ -5128,35 +5133,35 @@
 2021-01-11;"Okres Malacky";852;43;895
 2021-01-11;"Okres Martin";1694;70;1764
 2021-01-11;"Okres Medzilaborce";234;30;264
-2021-01-11;"Okres Michalovce";989;48;1037
+2021-01-11;"Okres Michalovce";1104;52;1156
 2021-01-11;"Okres Myjava";34;1;35
 2021-01-11;"Okres Námestovo";1005;63;1068
 2021-01-11;"Okres Nitra";1770;53;1823
 2021-01-11;"Okres Nové Mesto nad Váhom";615;49;664
-2021-01-11;"Okres Nové Zámky";1618;90;1708
+2021-01-11;"Okres Nové Zámky";1826;101;1927
 2021-01-11;"Okres Partizánske";101;19;120
-2021-01-11;"Okres Pezinok";389;13;402
+2021-01-11;"Okres Pezinok";517;17;534
 2021-01-11;"Okres Piešťany";610;45;655
-2021-01-11;"Okres Poltár";500;14;514
+2021-01-11;"Okres Poltár";750;21;771
 2021-01-11;"Okres Poprad";1197;76;1273
 2021-01-11;"Okres Považská Bystrica";333;24;357
 2021-01-11;"Okres Prešov";2474;82;2556
 2021-01-11;"Okres Prievidza";785;44;829
-2021-01-11;"Okres Púchov";178;16;194
-2021-01-11;"Okres Revúca";514;21;535
+2021-01-11;"Okres Púchov";226;17;243
+2021-01-11;"Okres Revúca";976;49;1025
 2021-01-11;"Okres Rimavská Sobota";774;27;801
 2021-01-11;"Okres Rožňava";1470;36;1506
 2021-01-11;"Okres Ružomberok";793;61;854
-2021-01-11;"Okres Sabinov";665;45;710
+2021-01-11;"Okres Sabinov";869;63;932
 2021-01-11;"Okres Senec";446;28;474
 2021-01-11;"Okres Senica";243;13;256
 2021-01-11;"Okres Skalica";19;2;21
 2021-01-11;"Okres Snina";449;40;489
 2021-01-11;"Okres Sobrance";211;13;224
 2021-01-11;"Okres Spišská Nová Ves";1213;51;1264
-2021-01-11;"Okres Stará Ľubovňa";59;4;63
-2021-01-11;"Okres Stropkov";1;0;1
-2021-01-11;"Okres Svidník";170;21;191
+2021-01-11;"Okres Stará Ľubovňa";309;17;326
+2021-01-11;"Okres Stropkov";91;2;93
+2021-01-11;"Okres Svidník";251;23;274
 2021-01-11;"Okres Šaľa";401;40;441
 2021-01-11;"Okres Topoľčany";734;89;823
 2021-01-11;"Okres Trebišov";864;47;911
@@ -5168,7 +5173,7 @@
 2021-01-11;"Okres Vranov nad Topľou";69;2;71
 2021-01-11;"Okres Zlaté Moravce";478;18;496
 2021-01-11;"Okres Zvolen";736;31;767
-2021-01-11;"Okres Žarnovica";524;34;558
+2021-01-11;"Okres Žarnovica";753;56;809
 2021-01-11;"Okres Žiar nad Hronom";235;19;254
 2021-01-11;"Okres Žilina";2740;128;2868
 2021-01-12;"Okres Bánovce nad Bebravou";182;20;202
@@ -5198,7 +5203,7 @@
 2021-01-12;"Okres Košice II";1198;47;1245
 2021-01-12;"Okres Košice III";6;0;6
 2021-01-12;"Okres Košice IV";637;5;642
-2021-01-12;"Okres Krupina";212;10;222
+2021-01-12;"Okres Krupina";420;19;439
 2021-01-12;"Okres Kysucké Nové Mesto";357;26;383
 2021-01-12;"Okres Levice";3224;196;3420
 2021-01-12;"Okres Levoča";400;10;410
@@ -5207,35 +5212,35 @@
 2021-01-12;"Okres Malacky";1013;82;1095
 2021-01-12;"Okres Martin";1441;69;1510
 2021-01-12;"Okres Medzilaborce";199;13;212
-2021-01-12;"Okres Michalovce";1324;30;1354
+2021-01-12;"Okres Michalovce";1305;30;1335
 2021-01-12;"Okres Myjava";271;12;283
 2021-01-12;"Okres Námestovo";568;21;589
 2021-01-12;"Okres Nitra";490;35;525
 2021-01-12;"Okres Nové Mesto nad Váhom";458;22;480
-2021-01-12;"Okres Nové Zámky";1265;58;1323
+2021-01-12;"Okres Nové Zámky";1375;58;1433
 2021-01-12;"Okres Partizánske";526;77;603
 2021-01-12;"Okres Pezinok";1161;61;1222
 2021-01-12;"Okres Piešťany";1021;43;1064
-2021-01-12;"Okres Poltár";158;4;162
+2021-01-12;"Okres Poltár";316;8;324
 2021-01-12;"Okres Poprad";2250;44;2294
 2021-01-12;"Okres Považská Bystrica";713;42;755
 2021-01-12;"Okres Prešov";1356;57;1413
 2021-01-12;"Okres Prievidza";782;39;821
-2021-01-12;"Okres Púchov";138;11;149
-2021-01-12;"Okres Revúca";986;46;1032
+2021-01-12;"Okres Púchov";181;15;196
+2021-01-12;"Okres Revúca";818;34;852
 2021-01-12;"Okres Rimavská Sobota";566;20;586
 2021-01-12;"Okres Rožňava";1059;29;1088
 2021-01-12;"Okres Ružomberok";1485;26;1511
-2021-01-12;"Okres Sabinov";537;30;567
+2021-01-12;"Okres Sabinov";669;43;712
 2021-01-12;"Okres Senec";838;43;881
 2021-01-12;"Okres Senica";254;24;278
 2021-01-12;"Okres Skalica";1986;22;2008
 2021-01-12;"Okres Snina";326;22;348
 2021-01-12;"Okres Sobrance";300;15;315
 2021-01-12;"Okres Spišská Nová Ves";687;32;719
-2021-01-12;"Okres Stará Ľubovňa";290;40;330
-2021-01-12;"Okres Stropkov";1;0;1
-2021-01-12;"Okres Svidník";122;3;125
+2021-01-12;"Okres Stará Ľubovňa";412;59;471
+2021-01-12;"Okres Stropkov";66;7;73
+2021-01-12;"Okres Svidník";193;3;196
 2021-01-12;"Okres Šaľa";435;29;464
 2021-01-12;"Okres Topoľčany";2018;155;2173
 2021-01-12;"Okres Trebišov";752;65;817
@@ -5247,7 +5252,7 @@
 2021-01-12;"Okres Vranov nad Topľou";341;23;364
 2021-01-12;"Okres Zlaté Moravce";435;27;462
 2021-01-12;"Okres Zvolen";413;14;427
-2021-01-12;"Okres Žarnovica";323;13;336
+2021-01-12;"Okres Žarnovica";654;27;681
 2021-01-12;"Okres Žiar nad Hronom";437;29;466
 2021-01-12;"Okres Žilina";1375;104;1479
 2021-01-13;"Okres Bánovce nad Bebravou";154;11;165
@@ -5276,7 +5281,7 @@
 2021-01-13;"Okres Košice II";450;18;468
 2021-01-13;"Okres Košice III";3;0;3
 2021-01-13;"Okres Košice IV";624;20;644
-2021-01-13;"Okres Krupina";202;11;213
+2021-01-13;"Okres Krupina";404;22;426
 2021-01-13;"Okres Kysucké Nové Mesto";202;14;216
 2021-01-13;"Okres Levice";1691;99;1790
 2021-01-13;"Okres Levoča";229;5;234
@@ -5285,35 +5290,35 @@
 2021-01-13;"Okres Malacky";779;55;834
 2021-01-13;"Okres Martin";1069;20;1089
 2021-01-13;"Okres Medzilaborce";103;8;111
-2021-01-13;"Okres Michalovce";829;27;856
+2021-01-13;"Okres Michalovce";857;27;884
 2021-01-13;"Okres Myjava";162;6;168
 2021-01-13;"Okres Námestovo";326;13;339
 2021-01-13;"Okres Nitra";544;54;598
 2021-01-13;"Okres Nové Mesto nad Váhom";510;23;533
-2021-01-13;"Okres Nové Zámky";2935;88;3023
+2021-01-13;"Okres Nové Zámky";3155;88;3243
 2021-01-13;"Okres Partizánske";357;46;403
 2021-01-13;"Okres Pezinok";788;29;817
 2021-01-13;"Okres Piešťany";627;27;654
-2021-01-13;"Okres Poltár";105;5;110
+2021-01-13;"Okres Poltár";210;10;220
 2021-01-13;"Okres Poprad";888;24;912
 2021-01-13;"Okres Považská Bystrica";662;39;701
 2021-01-13;"Okres Prešov";1325;44;1369
 2021-01-13;"Okres Prievidza";671;43;714
-2021-01-13;"Okres Púchov";178;13;191
-2021-01-13;"Okres Revúca";638;31;669
+2021-01-13;"Okres Púchov";206;13;219
+2021-01-13;"Okres Revúca";632;35;667
 2021-01-13;"Okres Rimavská Sobota";370;12;382
 2021-01-13;"Okres Rožňava";778;26;804
 2021-01-13;"Okres Ružomberok";444;26;470
-2021-01-13;"Okres Sabinov";207;16;223
+2021-01-13;"Okres Sabinov";304;20;324
 2021-01-13;"Okres Senec";685;31;716
 2021-01-13;"Okres Senica";241;21;262
 2021-01-13;"Okres Skalica";770;15;785
 2021-01-13;"Okres Snina";275;13;288
 2021-01-13;"Okres Sobrance";169;10;179
 2021-01-13;"Okres Spišská Nová Ves";468;26;494
-2021-01-13;"Okres Stará Ľubovňa";158;11;169
-2021-01-13;"Okres Stropkov";9;0;9
-2021-01-13;"Okres Svidník";86;3;89
+2021-01-13;"Okres Stará Ľubovňa";241;14;255
+2021-01-13;"Okres Stropkov";47;3;50
+2021-01-13;"Okres Svidník";121;3;124
 2021-01-13;"Okres Šaľa";470;27;497
 2021-01-13;"Okres Topoľčany";2068;153;2221
 2021-01-13;"Okres Trebišov";727;59;786
@@ -5325,7 +5330,7 @@
 2021-01-13;"Okres Vranov nad Topľou";283;14;297
 2021-01-13;"Okres Zlaté Moravce";355;18;373
 2021-01-13;"Okres Zvolen";322;12;334
-2021-01-13;"Okres Žarnovica";222;11;233
+2021-01-13;"Okres Žarnovica";514;27;541
 2021-01-13;"Okres Žiar nad Hronom";575;31;606
 2021-01-13;"Okres Žilina";1059;56;1115
 2021-01-14;"Okres Bánovce nad Bebravou";158;11;169
@@ -5354,7 +5359,7 @@
 2021-01-14;"Okres Košice II";657;37;694
 2021-01-14;"Okres Košice III";6;0;6
 2021-01-14;"Okres Košice IV";858;10;868
-2021-01-14;"Okres Krupina";136;4;140
+2021-01-14;"Okres Krupina";271;8;279
 2021-01-14;"Okres Kysucké Nové Mesto";178;13;191
 2021-01-14;"Okres Levice";1511;106;1617
 2021-01-14;"Okres Levoča";270;19;289
@@ -5363,35 +5368,35 @@
 2021-01-14;"Okres Malacky";1004;41;1045
 2021-01-14;"Okres Martin";1079;27;1106
 2021-01-14;"Okres Medzilaborce";108;7;115
-2021-01-14;"Okres Michalovce";727;23;750
+2021-01-14;"Okres Michalovce";732;25;757
 2021-01-14;"Okres Myjava";183;2;185
 2021-01-14;"Okres Námestovo";311;12;323
 2021-01-14;"Okres Nitra";4304;58;4362
 2021-01-14;"Okres Nové Mesto nad Váhom";297;22;319
-2021-01-14;"Okres Nové Zámky";1729;73;1802
+2021-01-14;"Okres Nové Zámky";1914;76;1990
 2021-01-14;"Okres Partizánske";72;12;84
 2021-01-14;"Okres Pezinok";857;30;887
 2021-01-14;"Okres Piešťany";541;27;568
-2021-01-14;"Okres Poltár";97;2;99
+2021-01-14;"Okres Poltár";194;4;198
 2021-01-14;"Okres Poprad";738;24;762
 2021-01-14;"Okres Považská Bystrica";245;5;250
 2021-01-14;"Okres Prešov";1442;55;1497
 2021-01-14;"Okres Prievidza";785;40;825
-2021-01-14;"Okres Púchov";151;18;169
-2021-01-14;"Okres Revúca";644;30;674
+2021-01-14;"Okres Púchov";196;28;224
+2021-01-14;"Okres Revúca";608;27;635
 2021-01-14;"Okres Rimavská Sobota";287;9;296
 2021-01-14;"Okres Rožňava";700;19;719
 2021-01-14;"Okres Ružomberok";416;24;440
-2021-01-14;"Okres Sabinov";499;17;516
+2021-01-14;"Okres Sabinov";616;22;638
 2021-01-14;"Okres Senec";754;23;777
 2021-01-14;"Okres Senica";243;20;263
 2021-01-14;"Okres Skalica";238;5;243
 2021-01-14;"Okres Snina";243;8;251
 2021-01-14;"Okres Sobrance";153;11;164
 2021-01-14;"Okres Spišská Nová Ves";594;33;627
-2021-01-14;"Okres Stará Ľubovňa";135;14;149
-2021-01-14;"Okres Stropkov";10;0;10
-2021-01-14;"Okres Svidník";87;1;88
+2021-01-14;"Okres Stará Ľubovňa";235;17;252
+2021-01-14;"Okres Stropkov";45;2;47
+2021-01-14;"Okres Svidník";115;5;120
 2021-01-14;"Okres Šaľa";523;20;543
 2021-01-14;"Okres Topoľčany";929;97;1026
 2021-01-14;"Okres Trebišov";679;38;717
@@ -5403,7 +5408,7 @@
 2021-01-14;"Okres Vranov nad Topľou";219;18;237
 2021-01-14;"Okres Zlaté Moravce";335;28;363
 2021-01-14;"Okres Zvolen";707;51;758
-2021-01-14;"Okres Žarnovica";224;11;235
+2021-01-14;"Okres Žarnovica";703;28;731
 2021-01-14;"Okres Žiar nad Hronom";429;28;457
 2021-01-14;"Okres Žilina";1367;80;1447
 2021-01-15;"Okres Bánovce nad Bebravou";219;26;245
@@ -5433,7 +5438,7 @@
 2021-01-15;"Okres Košice II";1183;25;1208
 2021-01-15;"Okres Košice III";5;0;5
 2021-01-15;"Okres Košice IV";310;6;316
-2021-01-15;"Okres Krupina";174;13;187
+2021-01-15;"Okres Krupina";424;20;444
 2021-01-15;"Okres Kysucké Nové Mesto";148;4;152
 2021-01-15;"Okres Levice";2528;92;2620
 2021-01-15;"Okres Levoča";339;6;345
@@ -5442,37 +5447,37 @@
 2021-01-15;"Okres Malacky";975;40;1015
 2021-01-15;"Okres Martin";1471;23;1494
 2021-01-15;"Okres Medzilaborce";146;9;155
-2021-01-15;"Okres Michalovce";1024;52;1076
+2021-01-15;"Okres Michalovce";1043;50;1093
 2021-01-15;"Okres Myjava";149;3;152
 2021-01-15;"Okres Námestovo";636;27;663
 2021-01-15;"Okres Nitra";7269;102;7371
 2021-01-15;"Okres Nové Mesto nad Váhom";469;26;495
-2021-01-15;"Okres Nové Zámky";2022;70;2092
+2021-01-15;"Okres Nové Zámky";2232;80;2312
 2021-01-15;"Okres Partizánske";272;54;326
 2021-01-15;"Okres Pezinok";939;33;972
 2021-01-15;"Okres Piešťany";530;28;558
-2021-01-15;"Okres Poltár";201;7;208
+2021-01-15;"Okres Poltár";402;14;416
 2021-01-15;"Okres Poprad";1649;50;1699
-2021-01-15;"Okres Považská Bystrica";525;27;552
+2021-01-15;"Okres Považská Bystrica";505;27;532
 2021-01-15;"Okres Prešov";1324;23;1347
 2021-01-15;"Okres Prievidza";962;25;987
-2021-01-15;"Okres Púchov";143;8;151
-2021-01-15;"Okres Revúca";681;27;708
+2021-01-15;"Okres Púchov";306;11;317
+2021-01-15;"Okres Revúca";894;32;926
 2021-01-15;"Okres Rimavská Sobota";707;13;720
 2021-01-15;"Okres Rožňava";954;25;979
 2021-01-15;"Okres Ružomberok";811;25;836
-2021-01-15;"Okres Sabinov";501;14;515
+2021-01-15;"Okres Sabinov";669;30;699
 2021-01-15;"Okres Senec";762;32;794
 2021-01-15;"Okres Senica";281;9;290
 2021-01-15;"Okres Skalica";899;17;916
 2021-01-15;"Okres Snina";331;7;338
 2021-01-15;"Okres Sobrance";208;7;215
 2021-01-15;"Okres Spišská Nová Ves";635;14;649
-2021-01-15;"Okres Stará Ľubovňa";289;15;304
-2021-01-15;"Okres Stropkov";3;0;3
-2021-01-15;"Okres Svidník";103;1;104
+2021-01-15;"Okres Stará Ľubovňa";460;21;481
+2021-01-15;"Okres Stropkov";54;13;67
+2021-01-15;"Okres Svidník";171;3;174
 2021-01-15;"Okres Šaľa";723;17;740
-2021-01-15;"Okres Topoľčany";1438;110;1548
+2021-01-15;"Okres Topoľčany";1157;96;1253
 2021-01-15;"Okres Trebišov";870;42;912
 2021-01-15;"Okres Trenčín";906;39;945
 2021-01-15;"Okres Trnava";1135;58;1193
@@ -5482,7 +5487,7 @@
 2021-01-15;"Okres Vranov nad Topľou";254;20;274
 2021-01-15;"Okres Zlaté Moravce";452;40;492
 2021-01-15;"Okres Zvolen";620;15;635
-2021-01-15;"Okres Žarnovica";368;18;386
+2021-01-15;"Okres Žarnovica";866;26;892
 2021-01-15;"Okres Žiar nad Hronom";470;16;486
 2021-01-15;"Okres Žilina";1392;56;1448
 2021-01-16;"Okres Banská Bystrica";1251;24;1275
@@ -5510,19 +5515,19 @@
 2021-01-16;"Okres Liptovský Mikuláš";193;14;207
 2021-01-16;"Okres Lučenec";415;8;423
 2021-01-16;"Okres Malacky";522;33;555
-2021-01-16;"Okres Michalovce";199;6;205
+2021-01-16;"Okres Michalovce";51;2;53
 2021-01-16;"Okres Myjava";368;4;372
-2021-01-16;"Okres Nitra";33009;529;33538
+2021-01-16;"Okres Nitra";33889;538;34427
 2021-01-16;"Okres Nové Mesto nad Váhom";1;0;1
 2021-01-16;"Okres Nové Zámky";1076;20;1096
 2021-01-16;"Okres Partizánske";359;54;413
 2021-01-16;"Okres Pezinok";580;26;606
 2021-01-16;"Okres Poprad";570;20;590
-2021-01-16;"Okres Považská Bystrica";357;19;376
+2021-01-16;"Okres Považská Bystrica";377;19;396
 2021-01-16;"Okres Prešov";5;1;6
 2021-01-16;"Okres Prievidza";93;0;93
 2021-01-16;"Okres Púchov";1;0;1
-2021-01-16;"Okres Revúca";514;26;540
+2021-01-16;"Okres Revúca";44;5;49
 2021-01-16;"Okres Rožňava";240;4;244
 2021-01-16;"Okres Ružomberok";245;13;258
 2021-01-16;"Okres Senec";448;38;486
@@ -5576,7 +5581,7 @@
 2021-01-17;"Okres Rožňava";65;1;66
 2021-01-17;"Okres Ružomberok";16;0;16
 2021-01-17;"Okres Sabinov";1;0;1
-2021-01-17;"Okres Senec";17;1;18
+2021-01-17;"Okres Senec";141;1;142
 2021-01-17;"Okres Snina";6;0;6
 2021-01-17;"Okres Sobrance";4;0;4
 2021-01-17;"Okres Spišská Nová Ves";19;3;22
@@ -5618,9 +5623,9 @@
 2021-01-18;"Okres Košice - okolie";6;0;6
 2021-01-18;"Okres Košice I";706;25;731
 2021-01-18;"Okres Košice II";657;27;684
-2021-01-18;"Okres Košice III";7227;531;7758
+2021-01-18;"Okres Košice III";0;0;0
 2021-01-18;"Okres Košice IV";203;5;208
-2021-01-18;"Okres Krupina";242;17;259
+2021-01-18;"Okres Krupina";500;17;517
 2021-01-18;"Okres Kysucké Nové Mesto";193;17;210
 2021-01-18;"Okres Levice";2204;148;2352
 2021-01-18;"Okres Levoča";212;3;215
@@ -5629,35 +5634,35 @@
 2021-01-18;"Okres Malacky";1039;67;1106
 2021-01-18;"Okres Martin";2344;54;2398
 2021-01-18;"Okres Medzilaborce";271;16;287
-2021-01-18;"Okres Michalovce";1160;59;1219
+2021-01-18;"Okres Michalovce";1382;63;1445
 2021-01-18;"Okres Myjava";355;6;361
 2021-01-18;"Okres Námestovo";965;19;984
 2021-01-18;"Okres Nitra";1314;49;1363
 2021-01-18;"Okres Nové Mesto nad Váhom";734;45;779
-2021-01-18;"Okres Nové Zámky";1739;71;1810
+2021-01-18;"Okres Nové Zámky";1936;88;2024
 2021-01-18;"Okres Partizánske";55;10;65
 2021-01-18;"Okres Pezinok";480;25;505
 2021-01-18;"Okres Piešťany";948;40;988
-2021-01-18;"Okres Poltár";240;9;249
+2021-01-18;"Okres Poltár";480;18;498
 2021-01-18;"Okres Poprad";1134;37;1171
 2021-01-18;"Okres Považská Bystrica";357;18;375
 2021-01-18;"Okres Prešov";3333;64;3397
 2021-01-18;"Okres Prievidza";698;50;748
-2021-01-18;"Okres Púchov";455;16;471
-2021-01-18;"Okres Revúca";536;19;555
+2021-01-18;"Okres Púchov";657;24;681
+2021-01-18;"Okres Revúca";827;58;885
 2021-01-18;"Okres Rimavská Sobota";320;13;333
 2021-01-18;"Okres Rožňava";1753;49;1802
 2021-01-18;"Okres Ružomberok";1373;30;1403
-2021-01-18;"Okres Sabinov";753;33;786
+2021-01-18;"Okres Sabinov";1034;50;1084
 2021-01-18;"Okres Senec";454;29;483
 2021-01-18;"Okres Senica";282;25;307
 2021-01-18;"Okres Skalica";140;1;141
 2021-01-18;"Okres Snina";620;11;631
 2021-01-18;"Okres Sobrance";269;7;276
 2021-01-18;"Okres Spišská Nová Ves";1093;33;1126
-2021-01-18;"Okres Stará Ľubovňa";100;21;121
-2021-01-18;"Okres Stropkov";1;0;1
-2021-01-18;"Okres Svidník";262;1;263
+2021-01-18;"Okres Stará Ľubovňa";387;29;416
+2021-01-18;"Okres Stropkov";191;2;193
+2021-01-18;"Okres Svidník";483;1;484
 2021-01-18;"Okres Šaľa";607;28;635
 2021-01-18;"Okres Topoľčany";1477;116;1593
 2021-01-18;"Okres Trebišov";773;33;806
@@ -5669,14 +5674,14 @@
 2021-01-18;"Okres Vranov nad Topľou";38;1;39
 2021-01-18;"Okres Zlaté Moravce";474;36;510
 2021-01-18;"Okres Zvolen";698;26;724
-2021-01-18;"Okres Žarnovica";547;16;563
+2021-01-18;"Okres Žarnovica";1033;49;1082
 2021-01-18;"Okres Žiar nad Hronom";218;26;244
 2021-01-18;"Okres Žilina";2955;88;3043
 2021-01-19;"Okres Bánovce nad Bebravou";403;36;439
 2021-01-19;"Okres Banská Bystrica";1935;57;1992
 2021-01-19;"Okres Banská Štiavnica";831;26;857
 2021-01-19;"Okres Bardejov";850;11;861
-2021-01-19;"Okres Bratislava I";2279;28;2307
+2021-01-19;"Okres Bratislava I";3003;34;3037
 2021-01-19;"Okres Bratislava II";2925;61;2986
 2021-01-19;"Okres Bratislava III";3212;61;3273
 2021-01-19;"Okres Bratislava IV";260;21;281
@@ -5698,7 +5703,7 @@
 2021-01-19;"Okres Košice II";1111;10;1121
 2021-01-19;"Okres Košice III";4;0;4
 2021-01-19;"Okres Košice IV";724;14;738
-2021-01-19;"Okres Krupina";244;4;248
+2021-01-19;"Okres Krupina";484;8;492
 2021-01-19;"Okres Kysucké Nové Mesto";293;14;307
 2021-01-19;"Okres Levice";3376;221;3597
 2021-01-19;"Okres Levoča";401;5;406
@@ -5707,35 +5712,35 @@
 2021-01-19;"Okres Malacky";1681;66;1747
 2021-01-19;"Okres Martin";6688;178;6866
 2021-01-19;"Okres Medzilaborce";292;5;297
-2021-01-19;"Okres Michalovce";1651;36;1687
+2021-01-19;"Okres Michalovce";1749;33;1782
 2021-01-19;"Okres Myjava";105;1;106
 2021-01-19;"Okres Námestovo";1022;17;1039
 2021-01-19;"Okres Nitra";1399;68;1467
 2021-01-19;"Okres Nové Mesto nad Váhom";769;22;791
-2021-01-19;"Okres Nové Zámky";1584;83;1667
+2021-01-19;"Okres Nové Zámky";1822;93;1915
 2021-01-19;"Okres Partizánske";475;79;554
-2021-01-19;"Okres Pezinok";1209;25;1234
+2021-01-19;"Okres Pezinok";1478;35;1513
 2021-01-19;"Okres Piešťany";1239;21;1260
-2021-01-19;"Okres Poltár";259;4;263
+2021-01-19;"Okres Poltár";510;7;517
 2021-01-19;"Okres Poprad";2434;27;2461
 2021-01-19;"Okres Považská Bystrica";1283;39;1322
 2021-01-19;"Okres Prešov";2672;134;2806
 2021-01-19;"Okres Prievidza";886;36;922
-2021-01-19;"Okres Púchov";491;5;496
-2021-01-19;"Okres Revúca";1019;60;1079
+2021-01-19;"Okres Púchov";713;5;718
+2021-01-19;"Okres Revúca";1089;36;1125
 2021-01-19;"Okres Rimavská Sobota";725;23;748
 2021-01-19;"Okres Rožňava";1790;43;1833
 2021-01-19;"Okres Ružomberok";2545;39;2584
-2021-01-19;"Okres Sabinov";753;10;763
+2021-01-19;"Okres Sabinov";1160;16;1176
 2021-01-19;"Okres Senec";974;33;1007
 2021-01-19;"Okres Senica";296;20;316
 2021-01-19;"Okres Skalica";749;11;760
 2021-01-19;"Okres Snina";582;2;584
 2021-01-19;"Okres Sobrance";458;8;466
 2021-01-19;"Okres Spišská Nová Ves";1354;18;1372
-2021-01-19;"Okres Stará Ľubovňa";261;7;268
-2021-01-19;"Okres Stropkov";28;6;34
-2021-01-19;"Okres Svidník";437;3;440
+2021-01-19;"Okres Stará Ľubovňa";631;15;646
+2021-01-19;"Okres Stropkov";332;7;339
+2021-01-19;"Okres Svidník";711;3;714
 2021-01-19;"Okres Šaľa";684;25;709
 2021-01-19;"Okres Topoľčany";1985;143;2128
 2021-01-19;"Okres Trebišov";1132;24;1156
@@ -5747,14 +5752,14 @@
 2021-01-19;"Okres Vranov nad Topľou";359;16;375
 2021-01-19;"Okres Zlaté Moravce";494;21;515
 2021-01-19;"Okres Zvolen";920;31;951
-2021-01-19;"Okres Žarnovica";1331;33;1364
+2021-01-19;"Okres Žarnovica";1763;57;1820
 2021-01-19;"Okres Žiar nad Hronom";527;25;552
 2021-01-19;"Okres Žilina";2188;59;2247
 2021-01-20;"Okres Bánovce nad Bebravou";328;16;344
 2021-01-20;"Okres Banská Bystrica";1613;35;1648
 2021-01-20;"Okres Banská Štiavnica";609;5;614
 2021-01-20;"Okres Bardejov";1068;5;1073
-2021-01-20;"Okres Bratislava I";10333;55;10388
+2021-01-20;"Okres Bratislava I";11077;65;11142
 2021-01-20;"Okres Bratislava II";2879;37;2916
 2021-01-20;"Okres Bratislava III";3978;50;4028
 2021-01-20;"Okres Bratislava IV";1753;18;1771
@@ -5772,11 +5777,11 @@
 2021-01-20;"Okres Ilava";381;10;391
 2021-01-20;"Okres Kežmarok";855;22;877
 2021-01-20;"Okres Komárno";2022;301;2323
-2021-01-20;"Okres Košice I";580;19;599
+2021-01-20;"Okres Košice I";581;19;600
 2021-01-20;"Okres Košice II";1068;9;1077
 2021-01-20;"Okres Košice III";4;1;5
 2021-01-20;"Okres Košice IV";987;15;1002
-2021-01-20;"Okres Krupina";239;8;247
+2021-01-20;"Okres Krupina";477;15;492
 2021-01-20;"Okres Kysucké Nové Mesto";248;10;258
 2021-01-20;"Okres Levice";3014;101;3115
 2021-01-20;"Okres Levoča";433;7;440
@@ -5785,36 +5790,36 @@
 2021-01-20;"Okres Malacky";3127;53;3180
 2021-01-20;"Okres Martin";3829;26;3855
 2021-01-20;"Okres Medzilaborce";349;9;358
-2021-01-20;"Okres Michalovce";1504;23;1527
+2021-01-20;"Okres Michalovce";1459;23;1482
 2021-01-20;"Okres Myjava";405;3;408
 2021-01-20;"Okres Námestovo";1205;8;1213
 2021-01-20;"Okres Nitra";895;28;923
 2021-01-20;"Okres Nové Mesto nad Váhom";888;24;912
-2021-01-20;"Okres Nové Zámky";2541;62;2603
+2021-01-20;"Okres Nové Zámky";2865;72;2937
 2021-01-20;"Okres Partizánske";398;61;459
 2021-01-20;"Okres Pezinok";2523;204;2727
 2021-01-20;"Okres Piešťany";1178;16;1194
-2021-01-20;"Okres Poltár";332;4;336
+2021-01-20;"Okres Poltár";661;8;669
 2021-01-20;"Okres Poprad";2371;13;2384
 2021-01-20;"Okres Považská Bystrica";1553;38;1591
 2021-01-20;"Okres Prešov";2601;38;2639
 2021-01-20;"Okres Prievidza";999;30;1029
-2021-01-20;"Okres Púchov";476;8;484
-2021-01-20;"Okres Revúca";986;29;1015
+2021-01-20;"Okres Púchov";707;12;719
+2021-01-20;"Okres Revúca";962;32;994
 2021-01-20;"Okres Rimavská Sobota";781;14;795
 2021-01-20;"Okres Rožňava";2028;25;2053
 2021-01-20;"Okres Ružomberok";1786;25;1811
-2021-01-20;"Okres Sabinov";858;20;878
+2021-01-20;"Okres Sabinov";1263;28;1291
 2021-01-20;"Okres Senec";1211;27;1238
 2021-01-20;"Okres Senica";304;7;311
 2021-01-20;"Okres Skalica";813;17;830
 2021-01-20;"Okres Snina";951;13;964
 2021-01-20;"Okres Sobrance";441;11;452
 2021-01-20;"Okres Spišská Nová Ves";1916;16;1932
-2021-01-20;"Okres Stará Ľubovňa";254;5;259
-2021-01-20;"Okres Stropkov";21;0;21
-2021-01-20;"Okres Svidník";455;3;458
-2021-01-20;"Okres Šaľa";520;26;546
+2021-01-20;"Okres Stará Ľubovňa";798;23;821
+2021-01-20;"Okres Stropkov";247;0;247
+2021-01-20;"Okres Svidník";740;3;743
+2021-01-20;"Okres Šaľa";527;26;553
 2021-01-20;"Okres Topoľčany";2012;72;2084
 2021-01-20;"Okres Trebišov";1700;71;1771
 2021-01-20;"Okres Trenčín";2256;46;2302
@@ -5825,14 +5830,14 @@
 2021-01-20;"Okres Vranov nad Topľou";536;5;541
 2021-01-20;"Okres Zlaté Moravce";506;22;528
 2021-01-20;"Okres Zvolen";778;10;788
-2021-01-20;"Okres Žarnovica";1203;23;1226
+2021-01-20;"Okres Žarnovica";1510;41;1551
 2021-01-20;"Okres Žiar nad Hronom";632;22;654
 2021-01-20;"Okres Žilina";1966;21;1987
 2021-01-21;"Okres Bánovce nad Bebravou";536;15;551
 2021-01-21;"Okres Banská Bystrica";2016;17;2033
 2021-01-21;"Okres Banská Štiavnica";741;5;746
 2021-01-21;"Okres Bardejov";908;5;913
-2021-01-21;"Okres Bratislava I";20486;131;20617
+2021-01-21;"Okres Bratislava I";21155;149;21304
 2021-01-21;"Okres Bratislava II";4859;44;4903
 2021-01-21;"Okres Bratislava III";5540;51;5591
 2021-01-21;"Okres Bratislava IV";2058;19;2077
@@ -5855,7 +5860,7 @@
 2021-01-21;"Okres Košice II";2075;23;2098
 2021-01-21;"Okres Košice III";15;1;16
 2021-01-21;"Okres Košice IV";827;16;843
-2021-01-21;"Okres Krupina";282;4;286
+2021-01-21;"Okres Krupina";664;8;672
 2021-01-21;"Okres Kysucké Nové Mesto";482;3;485
 2021-01-21;"Okres Levice";3389;104;3493
 2021-01-21;"Okres Levoča";573;2;575
@@ -5864,36 +5869,36 @@
 2021-01-21;"Okres Malacky";3925;70;3995
 2021-01-21;"Okres Martin";3498;27;3525
 2021-01-21;"Okres Medzilaborce";373;2;375
-2021-01-21;"Okres Michalovce";1758;24;1782
+2021-01-21;"Okres Michalovce";2080;25;2105
 2021-01-21;"Okres Myjava";396;2;398
 2021-01-21;"Okres Námestovo";1144;11;1155
 2021-01-21;"Okres Nitra";1353;42;1395
 2021-01-21;"Okres Nové Mesto nad Váhom";902;31;933
-2021-01-21;"Okres Nové Zámky";2983;51;3034
+2021-01-21;"Okres Nové Zámky";3315;57;3372
 2021-01-21;"Okres Partizánske";730;42;772
 2021-01-21;"Okres Pezinok";1828;52;1880
 2021-01-21;"Okres Piešťany";1180;7;1187
-2021-01-21;"Okres Poltár";140;0;140
+2021-01-21;"Okres Poltár";262;0;262
 2021-01-21;"Okres Poprad";3057;67;3124
-2021-01-21;"Okres Považská Bystrica";1452;28;1480
+2021-01-21;"Okres Považská Bystrica";1453;28;1481
 2021-01-21;"Okres Prešov";4466;34;4500
-2021-01-21;"Okres Prievidza";1194;13;1207
-2021-01-21;"Okres Púchov";489;10;499
-2021-01-21;"Okres Revúca";2123;52;2175
+2021-01-21;"Okres Prievidza";1733;16;1749
+2021-01-21;"Okres Púchov";825;17;842
+2021-01-21;"Okres Revúca";1786;34;1820
 2021-01-21;"Okres Rimavská Sobota";529;4;533
 2021-01-21;"Okres Rožňava";2165;42;2207
 2021-01-21;"Okres Ružomberok";1675;24;1699
-2021-01-21;"Okres Sabinov";1620;10;1630
+2021-01-21;"Okres Sabinov";1943;15;1958
 2021-01-21;"Okres Senec";1336;39;1375
 2021-01-21;"Okres Senica";536;8;544
 2021-01-21;"Okres Skalica";2853;59;2912
 2021-01-21;"Okres Snina";944;10;954
 2021-01-21;"Okres Sobrance";529;3;532
 2021-01-21;"Okres Spišská Nová Ves";2417;11;2428
-2021-01-21;"Okres Stará Ľubovňa";1201;9;1210
-2021-01-21;"Okres Stropkov";180;0;180
-2021-01-21;"Okres Svidník";670;1;671
-2021-01-21;"Okres Šaľa";555;18;573
+2021-01-21;"Okres Stará Ľubovňa";1689;14;1703
+2021-01-21;"Okres Stropkov";469;5;474
+2021-01-21;"Okres Svidník";925;2;927
+2021-01-21;"Okres Šaľa";560;18;578
 2021-01-21;"Okres Topoľčany";2505;73;2578
 2021-01-21;"Okres Trebišov";2193;29;2222
 2021-01-21;"Okres Trenčín";2206;36;2242
@@ -5904,14 +5909,14 @@
 2021-01-21;"Okres Vranov nad Topľou";1272;10;1282
 2021-01-21;"Okres Zlaté Moravce";904;32;936
 2021-01-21;"Okres Zvolen";1961;24;1985
-2021-01-21;"Okres Žarnovica";1764;30;1794
+2021-01-21;"Okres Žarnovica";2254;42;2296
 2021-01-21;"Okres Žiar nad Hronom";1046;25;1071
 2021-01-21;"Okres Žilina";4304;46;4350
 2021-01-22;"Okres Bánovce nad Bebravou";495;21;516
 2021-01-22;"Okres Banská Bystrica";4362;42;4404
 2021-01-22;"Okres Banská Štiavnica";859;12;871
 2021-01-22;"Okres Bardejov";1298;7;1305
-2021-01-22;"Okres Bratislava I";9682;55;9737
+2021-01-22;"Okres Bratislava I";10957;55;11012
 2021-01-22;"Okres Bratislava II";6811;59;6870
 2021-01-22;"Okres Bratislava III";6041;63;6104
 2021-01-22;"Okres Bratislava IV";3394;19;3413
@@ -5934,7 +5939,7 @@
 2021-01-22;"Okres Košice II";2643;36;2679
 2021-01-22;"Okres Košice III";45;0;45
 2021-01-22;"Okres Košice IV";1588;11;1599
-2021-01-22;"Okres Krupina";301;13;314
+2021-01-22;"Okres Krupina";600;26;626
 2021-01-22;"Okres Kysucké Nové Mesto";487;2;489
 2021-01-22;"Okres Levice";3937;92;4029
 2021-01-22;"Okres Levoča";2555;12;2567
@@ -5943,24 +5948,24 @@
 2021-01-22;"Okres Malacky";6687;56;6743
 2021-01-22;"Okres Martin";4020;25;4045
 2021-01-22;"Okres Medzilaborce";336;12;348
-2021-01-22;"Okres Michalovce";3790;36;3826
+2021-01-22;"Okres Michalovce";3193;34;3227
 2021-01-22;"Okres Myjava";906;6;912
 2021-01-22;"Okres Námestovo";4776;17;4793
 2021-01-22;"Okres Nitra";10070;95;10165
 2021-01-22;"Okres Nové Mesto nad Váhom";1433;19;1452
-2021-01-22;"Okres Nové Zámky";10458;181;10639
+2021-01-22;"Okres Nové Zámky";10631;188;10819
 2021-01-22;"Okres Partizánske";850;27;877
 2021-01-22;"Okres Pezinok";2956;30;2986
 2021-01-22;"Okres Piešťany";1655;14;1669
 2021-01-22;"Okres Poltár";69;0;69
-2021-01-22;"Okres Poprad";6289;43;6332
-2021-01-22;"Okres Považská Bystrica";2188;20;2208
+2021-01-22;"Okres Poprad";6906;46;6952
+2021-01-22;"Okres Považská Bystrica";2190;20;2210
 2021-01-22;"Okres Prešov";6113;46;6159
 2021-01-22;"Okres Prievidza";1441;12;1453
-2021-01-22;"Okres Púchov";581;5;586
+2021-01-22;"Okres Púchov";860;7;867
 2021-01-22;"Okres Revúca";3301;66;3367
 2021-01-22;"Okres Rimavská Sobota";2062;28;2090
-2021-01-22;"Okres Rožňava";2371;48;2419
+2021-01-22;"Okres Rožňava";2707;70;2777
 2021-01-22;"Okres Ružomberok";1983;16;1999
 2021-01-22;"Okres Sabinov";3713;21;3734
 2021-01-22;"Okres Senec";2472;32;2504
@@ -5969,13 +5974,13 @@
 2021-01-22;"Okres Snina";1626;23;1649
 2021-01-22;"Okres Sobrance";782;9;791
 2021-01-22;"Okres Spišská Nová Ves";2424;12;2436
-2021-01-22;"Okres Stará Ľubovňa";2030;13;2043
-2021-01-22;"Okres Stropkov";1279;6;1285
-2021-01-22;"Okres Svidník";1591;6;1597
-2021-01-22;"Okres Šaľa";1238;34;1272
+2021-01-22;"Okres Stará Ľubovňa";2552;18;2570
+2021-01-22;"Okres Stropkov";1557;10;1567
+2021-01-22;"Okres Svidník";1921;6;1927
+2021-01-22;"Okres Šaľa";2128;56;2184
 2021-01-22;"Okres Topoľčany";2490;95;2585
 2021-01-22;"Okres Trebišov";3897;56;3953
-2021-01-22;"Okres Trenčín";4383;41;4424
+2021-01-22;"Okres Trenčín";4820;49;4869
 2021-01-22;"Okres Trnava";8293;151;8444
 2021-01-22;"Okres Turčianske Teplice";894;14;908
 2021-01-22;"Okres Tvrdošín";3100;6;3106
@@ -5983,7 +5988,7 @@
 2021-01-22;"Okres Vranov nad Topľou";1785;8;1793
 2021-01-22;"Okres Zlaté Moravce";1049;17;1066
 2021-01-22;"Okres Zvolen";5179;62;5241
-2021-01-22;"Okres Žarnovica";1915;22;1937
+2021-01-22;"Okres Žarnovica";2310;38;2348
 2021-01-22;"Okres Žiar nad Hronom";1319;25;1344
 2021-01-22;"Okres Žilina";5135;55;5190
 2021-01-23;"Okres Bánovce nad Bebravou";12535;161;12696
@@ -6006,7 +6011,7 @@
 2021-01-23;"Okres Humenné";7632;80;7712
 2021-01-23;"Okres Ilava";16110;108;16218
 2021-01-23;"Okres Kežmarok";11733;43;11776
-2021-01-23;"Okres Komárno";26985;443;27428
+2021-01-23;"Okres Komárno";16873;272;17145
 2021-01-23;"Okres Košice - okolie";14517;228;14745
 2021-01-23;"Okres Košice I";421;4;425
 2021-01-23;"Okres Košice II";2246;45;2291
@@ -6023,14 +6028,14 @@
 2021-01-23;"Okres Michalovce";23949;148;24097
 2021-01-23;"Okres Myjava";5718;23;5741
 2021-01-23;"Okres Námestovo";2068;12;2080
-2021-01-23;"Okres Nitra";5442;73;5515
+2021-01-23;"Okres Nitra";6289;76;6365
 2021-01-23;"Okres Nové Mesto nad Váhom";13005;90;13095
-2021-01-23;"Okres Nové Zámky";22298;291;22589
+2021-01-23;"Okres Nové Zámky";22599;296;22895
 2021-01-23;"Okres Partizánske";7210;77;7287
-2021-01-23;"Okres Pezinok";4700;36;4736
+2021-01-23;"Okres Pezinok";5231;40;5271
 2021-01-23;"Okres Piešťany";4600;19;4619
-2021-01-23;"Okres Poltár";4098;28;4126
-2021-01-23;"Okres Poprad";14931;67;14998
+2021-01-23;"Okres Poltár";4217;28;4245
+2021-01-23;"Okres Poprad";15927;70;15997
 2021-01-23;"Okres Považská Bystrica";16108;90;16198
 2021-01-23;"Okres Prešov";742;3;745
 2021-01-23;"Okres Prievidza";990;5;995
@@ -6039,30 +6044,30 @@
 2021-01-23;"Okres Rimavská Sobota";2044;3;2047
 2021-01-23;"Okres Rožňava";6782;74;6856
 2021-01-23;"Okres Ružomberok";10517;37;10554
-2021-01-23;"Okres Sabinov";11940;52;11992
-2021-01-23;"Okres Senec";11286;129;11415
+2021-01-23;"Okres Sabinov";11944;52;11996
+2021-01-23;"Okres Senec";14316;169;14485
 2021-01-23;"Okres Senica";10066;88;10154
 2021-01-23;"Okres Skalica";14913;100;15013
 2021-01-23;"Okres Snina";6055;47;6102
 2021-01-23;"Okres Sobrance";4914;30;4944
 2021-01-23;"Okres Spišská Nová Ves";17001;155;17156
-2021-01-23;"Okres Stará Ľubovňa";5882;45;5927
+2021-01-23;"Okres Stará Ľubovňa";6173;47;6220
 2021-01-23;"Okres Stropkov";2238;16;2254
 2021-01-23;"Okres Svidník";5558;27;5585
-2021-01-23;"Okres Šaľa";1112;31;1143
+2021-01-23;"Okres Šaľa";5766;105;5871
 2021-01-23;"Okres Topoľčany";14405;298;14703
-2021-01-23;"Okres Trebišov";8071;113;8184
+2021-01-23;"Okres Trebišov";11138;155;11293
 2021-01-23;"Okres Trenčín";26776;106;26882
 2021-01-23;"Okres Trnava";29035;258;29293
 2021-01-23;"Okres Turčianske Teplice";2590;13;2603
-2021-01-23;"Okres Tvrdošín";5039;14;5053
+2021-01-23;"Okres Tvrdošín";5072;14;5086
 2021-01-23;"Okres Veľký Krtíš";4344;9;4353
 2021-01-23;"Okres Vranov nad Topľou";8476;26;8502
 2021-01-23;"Okres Zlaté Moravce";3613;34;3647
-2021-01-23;"Okres Zvolen";20157;117;20274
+2021-01-23;"Okres Zvolen";20325;120;20445
 2021-01-23;"Okres Žarnovica";2594;19;2613
 2021-01-23;"Okres Žiar nad Hronom";1498;9;1507
-2021-01-23;"Okres Žilina";34422;159;34581
+2021-01-23;"Okres Žilina";34950;159;35109
 2021-01-24;"Okres Bánovce nad Bebravou";2990;32;3022
 2021-01-24;"Okres Banská Bystrica";1581;12;1593
 2021-01-24;"Okres Banská Štiavnica";519;5;524
@@ -6083,7 +6088,7 @@
 2021-01-24;"Okres Humenné";4317;33;4350
 2021-01-24;"Okres Ilava";5870;47;5917
 2021-01-24;"Okres Kežmarok";5298;26;5324
-2021-01-24;"Okres Komárno";3750;72;3822
+2021-01-24;"Okres Komárno";7506;140;7646
 2021-01-24;"Okres Košice - okolie";13237;253;13490
 2021-01-24;"Okres Košice I";6;0;6
 2021-01-24;"Okres Košice II";501;8;509
@@ -6098,14 +6103,14 @@
 2021-01-24;"Okres Malacky";7000;73;7073
 2021-01-24;"Okres Martin";610;6;616
 2021-01-24;"Okres Medzilaborce";678;11;689
-2021-01-24;"Okres Michalovce";12901;100;13001
+2021-01-24;"Okres Michalovce";13356;103;13459
 2021-01-24;"Okres Myjava";1059;7;1066
 2021-01-24;"Okres Námestovo";3959;25;3984
 2021-01-24;"Okres Nitra";38395;232;38627
 2021-01-24;"Okres Nové Mesto nad Váhom";6278;54;6332
-2021-01-24;"Okres Nové Zámky";12054;207;12261
+2021-01-24;"Okres Nové Zámky";12297;211;12508
 2021-01-24;"Okres Partizánske";2628;33;2661
-2021-01-24;"Okres Pezinok";2200;13;2213
+2021-01-24;"Okres Pezinok";2579;15;2594
 2021-01-24;"Okres Piešťany";11197;65;11262
 2021-01-24;"Okres Poltár";1636;10;1646
 2021-01-24;"Okres Poprad";10333;65;10398
@@ -6118,29 +6123,29 @@
 2021-01-24;"Okres Rožňava";1895;32;1927
 2021-01-24;"Okres Ružomberok";3970;18;3988
 2021-01-24;"Okres Sabinov";2653;11;2664
-2021-01-24;"Okres Senec";6465;72;6537
+2021-01-24;"Okres Senec";7363;89;7452
 2021-01-24;"Okres Senica";7344;63;7407
 2021-01-24;"Okres Skalica";3550;15;3565
 2021-01-24;"Okres Snina";4862;88;4950
 2021-01-24;"Okres Sobrance";1158;13;1171
 2021-01-24;"Okres Spišská Nová Ves";6547;52;6599
-2021-01-24;"Okres Stará Ľubovňa";3113;6;3119
+2021-01-24;"Okres Stará Ľubovňa";3344;10;3354
 2021-01-24;"Okres Stropkov";227;0;227
 2021-01-24;"Okres Svidník";1214;7;1221
-2021-01-24;"Okres Šaľa";819;15;834
+2021-01-24;"Okres Šaľa";2959;60;3019
 2021-01-24;"Okres Topoľčany";4586;78;4664
-2021-01-24;"Okres Trebišov";6105;103;6208
+2021-01-24;"Okres Trebišov";8177;134;8311
 2021-01-24;"Okres Trenčín";10144;60;10204
 2021-01-24;"Okres Trnava";17902;200;18102
 2021-01-24;"Okres Turčianske Teplice";12948;56;13004
-2021-01-24;"Okres Tvrdošín";2264;3;2267
+2021-01-24;"Okres Tvrdošín";2330;3;2333
 2021-01-24;"Okres Veľký Krtíš";2606;8;2614
 2021-01-24;"Okres Vranov nad Topľou";6051;28;6079
-2021-01-24;"Okres Zlaté Moravce";1796;36;1832
+2021-01-24;"Okres Zlaté Moravce";1796;27;1823
 2021-01-24;"Okres Zvolen";11384;72;11456
 2021-01-24;"Okres Žarnovica";1110;9;1119
 2021-01-24;"Okres Žiar nad Hronom";2590;13;2603
-2021-01-24;"Okres Žilina";6664;36;6700
+2021-01-24;"Okres Žilina";6853;37;6890
 2021-01-25;"Okres Bánovce nad Bebravou";177;17;194
 2021-01-25;"Okres Banská Bystrica";16513;126;16639
 2021-01-25;"Okres Banská Štiavnica";965;7;972
@@ -6149,7 +6154,7 @@
 2021-01-25;"Okres Bratislava II";2861;42;2903
 2021-01-25;"Okres Bratislava III";4324;48;4372
 2021-01-25;"Okres Bratislava IV";2570;27;2597
-2021-01-25;"Okres Bratislava V";1951;5;1956
+2021-01-25;"Okres Bratislava V";1956;5;1961
 2021-01-25;"Okres Brezno";1421;105;1526
 2021-01-25;"Okres Bytča";554;8;562
 2021-01-25;"Okres Čadca";2216;17;2233
@@ -6162,19 +6167,19 @@
 2021-01-25;"Okres Humenné";3594;36;3630
 2021-01-25;"Okres Ilava";4774;42;4816
 2021-01-25;"Okres Kežmarok";3468;45;3513
-2021-01-25;"Okres Komárno";4435;80;4515
+2021-01-25;"Okres Komárno";2318;60;2378
 2021-01-25;"Okres Košice - okolie";11541;169;11710
 2021-01-25;"Okres Košice I";1544;13;1557
 2021-01-25;"Okres Košice II";997;32;1029
-2021-01-25;"Okres Košice III";1462;20;1482
+2021-01-25;"Okres Košice III";20;0;20
 2021-01-25;"Okres Košice IV";642;8;650
-2021-01-25;"Okres Krupina";540;26;566
+2021-01-25;"Okres Krupina";744;28;772
 2021-01-25;"Okres Kysucké Nové Mesto";80;0;80
 2021-01-25;"Okres Levice";6523;115;6638
 2021-01-25;"Okres Levoča";1203;3;1206
 2021-01-25;"Okres Liptovský Mikuláš";1270;5;1275
 2021-01-25;"Okres Lučenec";1077;5;1082
-2021-01-25;"Okres Malacky";2578;42;2620
+2021-01-25;"Okres Malacky";2117;29;2146
 2021-01-25;"Okres Martin";2158;25;2183
 2021-01-25;"Okres Medzilaborce";783;14;797
 2021-01-25;"Okres Michalovce";1461;24;1485
@@ -6182,30 +6187,30 @@
 2021-01-25;"Okres Námestovo";5104;29;5133
 2021-01-25;"Okres Nitra";1454;23;1477
 2021-01-25;"Okres Nové Mesto nad Váhom";6304;44;6348
-2021-01-25;"Okres Nové Zámky";4857;86;4943
+2021-01-25;"Okres Nové Zámky";5209;95;5304
 2021-01-25;"Okres Partizánske";9467;186;9653
 2021-01-25;"Okres Pezinok";584;22;606
 2021-01-25;"Okres Piešťany";7737;64;7801
 2021-01-25;"Okres Poltár";727;4;731
-2021-01-25;"Okres Poprad";5143;47;5190
-2021-01-25;"Okres Považská Bystrica";5569;39;5608
+2021-01-25;"Okres Poprad";5234;49;5283
+2021-01-25;"Okres Považská Bystrica";5570;39;5609
 2021-01-25;"Okres Prešov";3450;37;3487
 2021-01-25;"Okres Prievidza";1271;10;1281
-2021-01-25;"Okres Púchov";444;2;446
-2021-01-25;"Okres Revúca";1126;33;1159
+2021-01-25;"Okres Púchov";540;4;544
+2021-01-25;"Okres Revúca";1266;45;1311
 2021-01-25;"Okres Rimavská Sobota";1333;6;1339
-2021-01-25;"Okres Rožňava";2675;49;2724
+2021-01-25;"Okres Rožňava";3203;70;3273
 2021-01-25;"Okres Ružomberok";1564;15;1579
-2021-01-25;"Okres Sabinov";1272;12;1284
-2021-01-25;"Okres Senec";6549;62;6611
+2021-01-25;"Okres Sabinov";1284;12;1296
+2021-01-25;"Okres Senec";4844;35;4879
 2021-01-25;"Okres Senica";8304;83;8387
 2021-01-25;"Okres Skalica";1630;11;1641
 2021-01-25;"Okres Snina";772;10;782
 2021-01-25;"Okres Sobrance";903;4;907
 2021-01-25;"Okres Spišská Nová Ves";1743;31;1774
-2021-01-25;"Okres Stará Ľubovňa";153;1;154
-2021-01-25;"Okres Stropkov";929;5;934
-2021-01-25;"Okres Svidník";603;3;606
+2021-01-25;"Okres Stará Ľubovňa";330;3;333
+2021-01-25;"Okres Stropkov";1088;10;1098
+2021-01-25;"Okres Svidník";780;4;784
 2021-01-25;"Okres Šaľa";601;21;622
 2021-01-25;"Okres Topoľčany";2722;81;2803
 2021-01-25;"Okres Trebišov";3716;47;3763
@@ -6217,7 +6222,7 @@
 2021-01-25;"Okres Vranov nad Topľou";3967;18;3985
 2021-01-25;"Okres Zlaté Moravce";2910;36;2946
 2021-01-25;"Okres Zvolen";1195;24;1219
-2021-01-25;"Okres Žarnovica";873;7;880
+2021-01-25;"Okres Žarnovica";1154;12;1166
 2021-01-25;"Okres Žiar nad Hronom";1632;20;1652
 2021-01-25;"Okres Žilina";3370;25;3395
 2021-01-26;"Okres Bánovce nad Bebravou";182;22;204
@@ -6232,7 +6237,7 @@
 2021-01-26;"Okres Brezno";469;14;483
 2021-01-26;"Okres Bytča";547;15;562
 2021-01-26;"Okres Čadca";634;8;642
-2021-01-26;"Okres Detva";317;12;329
+2021-01-26;"Okres Detva";331;12;343
 2021-01-26;"Okres Dolný Kubín";885;38;923
 2021-01-26;"Okres Dunajská Streda";3286;196;3482
 2021-01-26;"Okres Galanta";12236;228;12464
@@ -6241,19 +6246,19 @@
 2021-01-26;"Okres Humenné";3173;24;3197
 2021-01-26;"Okres Ilava";495;14;509
 2021-01-26;"Okres Kežmarok";644;5;649
-2021-01-26;"Okres Komárno";3305;79;3384
+2021-01-26;"Okres Komárno";1725;58;1783
 2021-01-26;"Okres Košice - okolie";759;19;778
 2021-01-26;"Okres Košice I";1079;27;1106
 2021-01-26;"Okres Košice II";1570;33;1603
 2021-01-26;"Okres Košice III";7;0;7
 2021-01-26;"Okres Košice IV";1809;17;1826
-2021-01-26;"Okres Krupina";290;20;310
+2021-01-26;"Okres Krupina";482;26;508
 2021-01-26;"Okres Kysucké Nové Mesto";226;8;234
 2021-01-26;"Okres Levice";2684;95;2779
 2021-01-26;"Okres Levoča";1491;8;1499
 2021-01-26;"Okres Liptovský Mikuláš";1565;23;1588
 2021-01-26;"Okres Lučenec";948;6;954
-2021-01-26;"Okres Malacky";2654;63;2717
+2021-01-26;"Okres Malacky";2235;48;2283
 2021-01-26;"Okres Martin";32507;166;32673
 2021-01-26;"Okres Medzilaborce";239;6;245
 2021-01-26;"Okres Michalovce";1191;18;1209
@@ -6261,17 +6266,17 @@
 2021-01-26;"Okres Námestovo";499;6;505
 2021-01-26;"Okres Nitra";748;21;769
 2021-01-26;"Okres Nové Mesto nad Váhom";2544;33;2577
-2021-01-26;"Okres Nové Zámky";4148;79;4227
+2021-01-26;"Okres Nové Zámky";4521;92;4613
 2021-01-26;"Okres Partizánske";1949;49;1998
 2021-01-26;"Okres Pezinok";1143;15;1158
 2021-01-26;"Okres Piešťany";2142;28;2170
-2021-01-26;"Okres Poltár";1764;4;1768
+2021-01-26;"Okres Poltár";1862;4;1866
 2021-01-26;"Okres Poprad";2356;15;2371
-2021-01-26;"Okres Považská Bystrica";1090;19;1109
+2021-01-26;"Okres Považská Bystrica";1092;19;1111
 2021-01-26;"Okres Prešov";2348;28;2376
 2021-01-26;"Okres Prievidza";1933;32;1965
-2021-01-26;"Okres Púchov";452;9;461
-2021-01-26;"Okres Revúca";1409;71;1480
+2021-01-26;"Okres Púchov";589;12;601
+2021-01-26;"Okres Revúca";1269;59;1328
 2021-01-26;"Okres Rimavská Sobota";951;20;971
 2021-01-26;"Okres Rožňava";1182;35;1217
 2021-01-26;"Okres Ružomberok";3948;31;3979
@@ -6282,21 +6287,21 @@
 2021-01-26;"Okres Snina";1240;23;1263
 2021-01-26;"Okres Sobrance";422;3;425
 2021-01-26;"Okres Spišská Nová Ves";1614;24;1638
-2021-01-26;"Okres Stará Ľubovňa";474;3;477
-2021-01-26;"Okres Stropkov";23;0;23
-2021-01-26;"Okres Svidník";199;0;199
-2021-01-26;"Okres Šaľa";2285;79;2364
+2021-01-26;"Okres Stará Ľubovňa";684;6;690
+2021-01-26;"Okres Stropkov";228;1;229
+2021-01-26;"Okres Svidník";315;3;318
+2021-01-26;"Okres Šaľa";2292;79;2371
 2021-01-26;"Okres Topoľčany";3451;94;3545
 2021-01-26;"Okres Trebišov";4089;63;4152
 2021-01-26;"Okres Trenčín";5575;58;5633
 2021-01-26;"Okres Trnava";3166;96;3262
 2021-01-26;"Okres Turčianske Teplice";377;6;383
-2021-01-26;"Okres Tvrdošín";1562;1;1563
+2021-01-26;"Okres Tvrdošín";1571;1;1572
 2021-01-26;"Okres Veľký Krtíš";2469;5;2474
 2021-01-26;"Okres Vranov nad Topľou";2085;18;2103
 2021-01-26;"Okres Zlaté Moravce";384;6;390
 2021-01-26;"Okres Zvolen";1452;29;1481
-2021-01-26;"Okres Žarnovica";1321;25;1346
+2021-01-26;"Okres Žarnovica";1570;40;1610
 2021-01-26;"Okres Žiar nad Hronom";5235;57;5292
 2021-01-26;"Okres Žilina";6654;40;6694
 2021-01-27;"Okres Bánovce nad Bebravou";115;32;147
@@ -6320,13 +6325,13 @@
 2021-01-27;"Okres Humenné";788;29;817
 2021-01-27;"Okres Ilava";240;4;244
 2021-01-27;"Okres Kežmarok";1760;6;1766
-2021-01-27;"Okres Komárno";7619;149;7768
-2021-01-27;"Okres Košice - okolie";1;2;3
-2021-01-27;"Okres Košice I";670;20;690
+2021-01-27;"Okres Komárno";938;65;1003
+2021-01-27;"Okres Košice - okolie";102;8;110
+2021-01-27;"Okres Košice I";673;20;693
 2021-01-27;"Okres Košice II";1099;28;1127
 2021-01-27;"Okres Košice III";2;0;2
 2021-01-27;"Okres Košice IV";964;9;973
-2021-01-27;"Okres Krupina";138;12;150
+2021-01-27;"Okres Krupina";261;24;285
 2021-01-27;"Okres Kysucké Nové Mesto";236;5;241
 2021-01-27;"Okres Levice";1786;72;1858
 2021-01-27;"Okres Levoča";164;2;166
@@ -6340,42 +6345,42 @@
 2021-01-27;"Okres Námestovo";327;1;328
 2021-01-27;"Okres Nitra";717;30;747
 2021-01-27;"Okres Nové Mesto nad Váhom";406;11;417
-2021-01-27;"Okres Nové Zámky";1748;47;1795
+2021-01-27;"Okres Nové Zámky";1913;53;1966
 2021-01-27;"Okres Partizánske";508;48;556
 2021-01-27;"Okres Pezinok";11672;142;11814
 2021-01-27;"Okres Piešťany";732;18;750
-2021-01-27;"Okres Poltár";35;1;36
-2021-01-27;"Okres Poprad";2419;28;2447
-2021-01-27;"Okres Považská Bystrica";516;8;524
+2021-01-27;"Okres Poltár";55;2;57
+2021-01-27;"Okres Poprad";2623;33;2656
+2021-01-27;"Okres Považská Bystrica";518;8;526
 2021-01-27;"Okres Prešov";1501;24;1525
 2021-01-27;"Okres Prievidza";597;16;613
-2021-01-27;"Okres Púchov";66;3;69
+2021-01-27;"Okres Púchov";130;4;134
 2021-01-27;"Okres Revúca";750;34;784
 2021-01-27;"Okres Rimavská Sobota";1084;13;1097
 2021-01-27;"Okres Rožňava";1293;42;1335
 2021-01-27;"Okres Ružomberok";747;18;765
-2021-01-27;"Okres Sabinov";392;5;397
+2021-01-27;"Okres Sabinov";511;9;520
 2021-01-27;"Okres Senec";1182;40;1222
 2021-01-27;"Okres Senica";211;2;213
 2021-01-27;"Okres Skalica";1099;7;1106
 2021-01-27;"Okres Snina";362;15;377
 2021-01-27;"Okres Sobrance";323;5;328
 2021-01-27;"Okres Spišská Nová Ves";885;17;902
-2021-01-27;"Okres Stará Ľubovňa";437;5;442
-2021-01-27;"Okres Stropkov";25;1;26
-2021-01-27;"Okres Svidník";86;2;88
-2021-01-27;"Okres Šaľa";329;21;350
+2021-01-27;"Okres Stará Ľubovňa";548;7;555
+2021-01-27;"Okres Stropkov";145;3;148
+2021-01-27;"Okres Svidník";172;2;174
+2021-01-27;"Okres Šaľa";348;21;369
 2021-01-27;"Okres Topoľčany";682;44;726
 2021-01-27;"Okres Trebišov";1083;40;1123
 2021-01-27;"Okres Trenčín";2150;45;2195
 2021-01-27;"Okres Trnava";1453;48;1501
 2021-01-27;"Okres Turčianske Teplice";317;4;321
-2021-01-27;"Okres Tvrdošín";391;3;394
+2021-01-27;"Okres Tvrdošín";402;3;405
 2021-01-27;"Okres Veľký Krtíš";3057;6;3063
 2021-01-27;"Okres Vranov nad Topľou";558;2;560
 2021-01-27;"Okres Zlaté Moravce";375;14;389
 2021-01-27;"Okres Zvolen";223;14;237
-2021-01-27;"Okres Žarnovica";454;21;475
+2021-01-27;"Okres Žarnovica";761;35;796
 2021-01-27;"Okres Žiar nad Hronom";908;24;932
 2021-01-27;"Okres Žilina";1389;28;1417
 2021-01-28;"Okres Bánovce nad Bebravou";154;12;166
@@ -6383,7 +6388,7 @@
 2021-01-28;"Okres Banská Štiavnica";168;7;175
 2021-01-28;"Okres Bardejov";549;9;558
 2021-01-28;"Okres Bratislava I";947;20;967
-2021-01-28;"Okres Bratislava II";1866;43;1909
+2021-01-28;"Okres Bratislava II";2170;55;2225
 2021-01-28;"Okres Bratislava III";3552;63;3615
 2021-01-28;"Okres Bratislava IV";417;7;424
 2021-01-28;"Okres Bratislava V";1517;40;1557
@@ -6400,12 +6405,12 @@
 2021-01-28;"Okres Ilava";139;5;144
 2021-01-28;"Okres Kežmarok";297;4;301
 2021-01-28;"Okres Komárno";846;51;897
-2021-01-28;"Okres Košice - okolie";1601;13;1614
+2021-01-28;"Okres Košice - okolie";1745;29;1774
 2021-01-28;"Okres Košice I";670;27;697
 2021-01-28;"Okres Košice II";1282;42;1324
 2021-01-28;"Okres Košice III";3;0;3
 2021-01-28;"Okres Košice IV";647;11;658
-2021-01-28;"Okres Krupina";184;9;193
+2021-01-28;"Okres Krupina";368;18;386
 2021-01-28;"Okres Kysucké Nové Mesto";179;10;189
 2021-01-28;"Okres Levice";1627;94;1721
 2021-01-28;"Okres Levoča";248;2;250
@@ -6419,42 +6424,42 @@
 2021-01-28;"Okres Námestovo";374;20;394
 2021-01-28;"Okres Nitra";4676;80;4756
 2021-01-28;"Okres Nové Mesto nad Váhom";441;13;454
-2021-01-28;"Okres Nové Zámky";1838;55;1893
+2021-01-28;"Okres Nové Zámky";2072;68;2140
 2021-01-28;"Okres Partizánske";263;41;304
 2021-01-28;"Okres Pezinok";664;37;701
 2021-01-28;"Okres Piešťany";1637;34;1671
-2021-01-28;"Okres Poltár";599;2;601
+2021-01-28;"Okres Poltár";648;4;652
 2021-01-28;"Okres Poprad";1024;31;1055
-2021-01-28;"Okres Považská Bystrica";707;17;724
+2021-01-28;"Okres Považská Bystrica";708;17;725
 2021-01-28;"Okres Prešov";797;22;819
 2021-01-28;"Okres Prievidza";599;31;630
-2021-01-28;"Okres Púchov";189;7;196
-2021-01-28;"Okres Revúca";557;22;579
+2021-01-28;"Okres Púchov";226;13;239
+2021-01-28;"Okres Revúca";717;38;755
 2021-01-28;"Okres Rimavská Sobota";1731;27;1758
 2021-01-28;"Okres Rožňava";2117;51;2168
 2021-01-28;"Okres Ružomberok";578;16;594
-2021-01-28;"Okres Sabinov";311;9;320
+2021-01-28;"Okres Sabinov";392;11;403
 2021-01-28;"Okres Senec";597;28;625
 2021-01-28;"Okres Senica";203;5;208
 2021-01-28;"Okres Skalica";214;6;220
 2021-01-28;"Okres Snina";287;12;299
 2021-01-28;"Okres Sobrance";129;5;134
 2021-01-28;"Okres Spišská Nová Ves";903;15;918
-2021-01-28;"Okres Stará Ľubovňa";183;3;186
-2021-01-28;"Okres Stropkov";9;0;9
-2021-01-28;"Okres Svidník";66;2;68
-2021-01-28;"Okres Šaľa";348;27;375
+2021-01-28;"Okres Stará Ľubovňa";271;10;281
+2021-01-28;"Okres Stropkov";94;4;98
+2021-01-28;"Okres Svidník";130;4;134
+2021-01-28;"Okres Šaľa";365;27;392
 2021-01-28;"Okres Topoľčany";966;49;1015
 2021-01-28;"Okres Trebišov";619;24;643
 2021-01-28;"Okres Trenčín";2842;29;2871
 2021-01-28;"Okres Trnava";700;32;732
 2021-01-28;"Okres Turčianske Teplice";56;2;58
-2021-01-28;"Okres Tvrdošín";406;7;413
-2021-01-28;"Okres Veľký Krtíš";223;0;223
+2021-01-28;"Okres Tvrdošín";415;7;422
+2021-01-28;"Okres Veľký Krtíš";173;0;173
 2021-01-28;"Okres Vranov nad Topľou";3124;20;3144
 2021-01-28;"Okres Zlaté Moravce";580;12;592
 2021-01-28;"Okres Zvolen";939;34;973
-2021-01-28;"Okres Žarnovica";264;8;272
+2021-01-28;"Okres Žarnovica";491;16;507
 2021-01-28;"Okres Žiar nad Hronom";3015;74;3089
 2021-01-28;"Okres Žilina";789;20;809
 2021-01-29;"Okres Bánovce nad Bebravou";387;19;406
@@ -6462,7 +6467,7 @@
 2021-01-29;"Okres Banská Štiavnica";870;19;889
 2021-01-29;"Okres Bardejov";819;13;832
 2021-01-29;"Okres Bratislava I";918;20;938
-2021-01-29;"Okres Bratislava II";4775;94;4869
+2021-01-29;"Okres Bratislava II";4471;82;4553
 2021-01-29;"Okres Bratislava III";3072;65;3137
 2021-01-29;"Okres Bratislava IV";458;15;473
 2021-01-29;"Okres Bratislava V";501;19;520
@@ -6479,12 +6484,12 @@
 2021-01-29;"Okres Ilava";143;11;154
 2021-01-29;"Okres Kežmarok";874;20;894
 2021-01-29;"Okres Komárno";2263;66;2329
-2021-01-29;"Okres Košice - okolie";487;12;499
+2021-01-29;"Okres Košice - okolie";822;26;848
 2021-01-29;"Okres Košice I";1810;11;1821
 2021-01-29;"Okres Košice II";22185;211;22396
 2021-01-29;"Okres Košice III";24;0;24
 2021-01-29;"Okres Košice IV";971;8;979
-2021-01-29;"Okres Krupina";764;7;771
+2021-01-29;"Okres Krupina";1024;14;1038
 2021-01-29;"Okres Kysucké Nové Mesto";150;14;164
 2021-01-29;"Okres Levice";6110;178;6288
 2021-01-29;"Okres Levoča";265;6;271
@@ -6493,47 +6498,47 @@
 2021-01-29;"Okres Malacky";2594;55;2649
 2021-01-29;"Okres Martin";1291;26;1317
 2021-01-29;"Okres Medzilaborce";276;8;284
-2021-01-29;"Okres Michalovce";803;33;836
+2021-01-29;"Okres Michalovce";942;38;980
 2021-01-29;"Okres Myjava";344;14;358
 2021-01-29;"Okres Námestovo";2903;15;2918
 2021-01-29;"Okres Nitra";4004;52;4056
 2021-01-29;"Okres Nové Mesto nad Váhom";2470;22;2492
-2021-01-29;"Okres Nové Zámky";5674;64;5738
+2021-01-29;"Okres Nové Zámky";6056;81;6137
 2021-01-29;"Okres Partizánske";529;34;563
 2021-01-29;"Okres Pezinok";993;29;1022
 2021-01-29;"Okres Piešťany";557;15;572
 2021-01-29;"Okres Poltár";2;0;2
 2021-01-29;"Okres Poprad";3978;121;4099
-2021-01-29;"Okres Považská Bystrica";877;36;913
+2021-01-29;"Okres Považská Bystrica";878;36;914
 2021-01-29;"Okres Prešov";3176;50;3226
-2021-01-29;"Okres Prievidza";1824;30;1854
-2021-01-29;"Okres Púchov";342;15;357
+2021-01-29;"Okres Prievidza";1285;27;1312
+2021-01-29;"Okres Púchov";452;20;472
 2021-01-29;"Okres Revúca";2073;43;2116
 2021-01-29;"Okres Rimavská Sobota";656;12;668
 2021-01-29;"Okres Rožňava";7140;65;7205
 2021-01-29;"Okres Ružomberok";1391;31;1422
-2021-01-29;"Okres Sabinov";139;8;147
+2021-01-29;"Okres Sabinov";317;16;333
 2021-01-29;"Okres Senec";1251;26;1277
 2021-01-29;"Okres Senica";855;31;886
 2021-01-29;"Okres Skalica";368;6;374
 2021-01-29;"Okres Snina";732;14;746
 2021-01-29;"Okres Sobrance";233;3;236
 2021-01-29;"Okres Spišská Nová Ves";747;18;765
-2021-01-29;"Okres Stará Ľubovňa";235;14;249
-2021-01-29;"Okres Stropkov";2;0;2
-2021-01-29;"Okres Svidník";67;0;67
-2021-01-29;"Okres Šaľa";1774;38;1812
+2021-01-29;"Okres Stará Ľubovňa";361;18;379
+2021-01-29;"Okres Stropkov";118;8;126
+2021-01-29;"Okres Svidník";189;0;189
+2021-01-29;"Okres Šaľa";1787;38;1825
 2021-01-29;"Okres Topoľčany";2406;63;2469
-2021-01-29;"Okres Trebišov";1231;36;1267
+2021-01-29;"Okres Trebišov";1684;69;1753
 2021-01-29;"Okres Trenčín";1157;45;1202
-2021-01-29;"Okres Trnava";3582;59;3641
+2021-01-29;"Okres Trnava";3583;60;3643
 2021-01-29;"Okres Turčianske Teplice";95;1;96
-2021-01-29;"Okres Tvrdošín";586;8;594
+2021-01-29;"Okres Tvrdošín";612;9;621
 2021-01-29;"Okres Veľký Krtíš";265;8;273
 2021-01-29;"Okres Vranov nad Topľou";4924;25;4949
 2021-01-29;"Okres Zlaté Moravce";1127;8;1135
 2021-01-29;"Okres Zvolen";1950;28;1978
-2021-01-29;"Okres Žarnovica";358;12;370
+2021-01-29;"Okres Žarnovica";876;20;896
 2021-01-29;"Okres Žiar nad Hronom";2966;68;3034
 2021-01-29;"Okres Žilina";8883;77;8960
 2021-01-30;"Okres Bánovce nad Bebravou";12549;158;12707
@@ -6544,7 +6549,7 @@
 2021-01-30;"Okres Bratislava II";1516;42;1558
 2021-01-30;"Okres Bratislava III";747;20;767
 2021-01-30;"Okres Bratislava IV";3769;43;3812
-2021-01-30;"Okres Bratislava V";423;5;428
+2021-01-30;"Okres Bratislava V";956;36;992
 2021-01-30;"Okres Brezno";9068;62;9130
 2021-01-30;"Okres Bytča";4218;22;4240
 2021-01-30;"Okres Čadca";72;4;76
@@ -6556,8 +6561,8 @@
 2021-01-30;"Okres Humenné";11618;82;11700
 2021-01-30;"Okres Ilava";105;10;115
 2021-01-30;"Okres Kežmarok";224;5;229
-2021-01-30;"Okres Komárno";6078;89;6167
-2021-01-30;"Okres Košice - okolie";19824;171;19995
+2021-01-30;"Okres Komárno";13168;195;13363
+2021-01-30;"Okres Košice - okolie";20883;179;21062
 2021-01-30;"Okres Košice I";288;4;292
 2021-01-30;"Okres Košice II";28040;172;28212
 2021-01-30;"Okres Košice IV";1616;15;1631
@@ -6565,7 +6570,7 @@
 2021-01-30;"Okres Levice";26249;207;26456
 2021-01-30;"Okres Levoča";166;8;174
 2021-01-30;"Okres Liptovský Mikuláš";9952;108;10060
-2021-01-30;"Okres Lučenec";253;6;259
+2021-01-30;"Okres Lučenec";462;12;474
 2021-01-30;"Okres Malacky";13219;119;13338
 2021-01-30;"Okres Martin";8;1;9
 2021-01-30;"Okres Medzilaborce";1373;6;1379
@@ -6573,35 +6578,36 @@
 2021-01-30;"Okres Myjava";25;1;26
 2021-01-30;"Okres Nitra";1654;17;1671
 2021-01-30;"Okres Nové Mesto nad Váhom";15438;60;15498
-2021-01-30;"Okres Nové Zámky";22357;213;22570
+2021-01-30;"Okres Nové Zámky";22673;216;22889
 2021-01-30;"Okres Partizánske";8197;117;8314
-2021-01-30;"Okres Pezinok";4582;61;4643
+2021-01-30;"Okres Pezinok";5014;63;5077
 2021-01-30;"Okres Piešťany";1188;25;1213
-2021-01-30;"Okres Poltár";2447;7;2454
-2021-01-30;"Okres Poprad";1688;31;1719
+2021-01-30;"Okres Poltár";2574;7;2581
+2021-01-30;"Okres Poprad";1773;33;1806
 2021-01-30;"Okres Považská Bystrica";8;0;8
 2021-01-30;"Okres Prešov";136;6;142
-2021-01-30;"Okres Prievidza";381;4;385
-2021-01-30;"Okres Revúca";5514;74;5588
-2021-01-30;"Okres Rimavská Sobota";54;1;55
-2021-01-30;"Okres Rožňava";9522;102;9624
+2021-01-30;"Okres Prievidza";670;4;674
+2021-01-30;"Okres Revúca";5512;74;5586
+2021-01-30;"Okres Rimavská Sobota";209;9;218
+2021-01-30;"Okres Rožňava";10063;110;10173
 2021-01-30;"Okres Ružomberok";189;2;191
-2021-01-30;"Okres Senec";9703;73;9776
+2021-01-30;"Okres Sabinov";166;3;169
+2021-01-30;"Okres Senec";11617;79;11696
 2021-01-30;"Okres Senica";12136;91;12227
-2021-01-30;"Okres Skalica";596;22;618
-2021-01-30;"Okres Snina";5868;34;5902
+2021-01-30;"Okres Skalica";894;33;927
+2021-01-30;"Okres Snina";6033;35;6068
 2021-01-30;"Okres Sobrance";130;0;130
 2021-01-30;"Okres Spišská Nová Ves";571;20;591
 2021-01-30;"Okres Stará Ľubovňa";847;12;859
 2021-01-30;"Okres Stropkov";911;14;925
 2021-01-30;"Okres Svidník";414;6;420
-2021-01-30;"Okres Šaľa";2219;51;2270
-2021-01-30;"Okres Topoľčany";9913;104;10017
-2021-01-30;"Okres Trebišov";12723;120;12843
+2021-01-30;"Okres Šaľa";5759;101;5860
+2021-01-30;"Okres Topoľčany";10479;109;10588
+2021-01-30;"Okres Trebišov";15292;170;15462
 2021-01-30;"Okres Trenčín";342;5;347
 2021-01-30;"Okres Trnava";35568;276;35844
 2021-01-30;"Okres Turčianske Teplice";3;0;3
-2021-01-30;"Okres Tvrdošín";161;3;164
+2021-01-30;"Okres Tvrdošín";276;5;281
 2021-01-30;"Okres Vranov nad Topľou";230;5;235
 2021-01-30;"Okres Zlaté Moravce";5251;29;5280
 2021-01-30;"Okres Zvolen";13024;110;13134
@@ -6628,8 +6634,8 @@
 2021-01-31;"Okres Humenné";5133;40;5173
 2021-01-31;"Okres Ilava";2;1;3
 2021-01-31;"Okres Kežmarok";8;1;9
-2021-01-31;"Okres Komárno";4539;82;4621
-2021-01-31;"Okres Košice - okolie";8229;116;8345
+2021-01-31;"Okres Komárno";9621;140;9761
+2021-01-31;"Okres Košice - okolie";9073;212;9285
 2021-01-31;"Okres Košice I";11;0;11
 2021-01-31;"Okres Košice II";32133;252;32385
 2021-01-31;"Okres Košice IV";2;0;2
@@ -6637,16 +6643,16 @@
 2021-01-31;"Okres Levice";12913;114;13027
 2021-01-31;"Okres Levoča";51;2;53
 2021-01-31;"Okres Liptovský Mikuláš";536;6;542
-2021-01-31;"Okres Lučenec";539;18;557
+2021-01-31;"Okres Lučenec";330;12;342
 2021-01-31;"Okres Malacky";10287;103;10390
 2021-01-31;"Okres Medzilaborce";885;8;893
 2021-01-31;"Okres Michalovce";87;2;89
 2021-01-31;"Okres Myjava";209;0;209
 2021-01-31;"Okres Nitra";422;3;425
 2021-01-31;"Okres Nové Mesto nad Váhom";11868;84;11952
-2021-01-31;"Okres Nové Zámky";13357;126;13483
+2021-01-31;"Okres Nové Zámky";13687;131;13818
 2021-01-31;"Okres Partizánske";3138;18;3156
-2021-01-31;"Okres Pezinok";8185;77;8262
+2021-01-31;"Okres Pezinok";8601;78;8679
 2021-01-31;"Okres Piešťany";1612;36;1648
 2021-01-31;"Okres Poltár";1709;11;1720
 2021-01-31;"Okres Poprad";22;0;22
@@ -6655,20 +6661,21 @@
 2021-01-31;"Okres Prievidza";910;11;921
 2021-01-31;"Okres Púchov";7;0;7
 2021-01-31;"Okres Revúca";3009;76;3085
-2021-01-31;"Okres Rimavská Sobota";2509;36;2545
+2021-01-31;"Okres Rimavská Sobota";2354;28;2382
 2021-01-31;"Okres Rožňava";5758;52;5810
 2021-01-31;"Okres Ružomberok";3;0;3
-2021-01-31;"Okres Senec";9870;102;9972
+2021-01-31;"Okres Sabinov";166;11;177
+2021-01-31;"Okres Senec";10254;104;10358
 2021-01-31;"Okres Senica";10477;89;10566
 2021-01-31;"Okres Skalica";33;0;33
-2021-01-31;"Okres Snina";3635;27;3662
+2021-01-31;"Okres Snina";3779;27;3806
 2021-01-31;"Okres Sobrance";64;5;69
 2021-01-31;"Okres Spišská Nová Ves";406;19;425
 2021-01-31;"Okres Stará Ľubovňa";25;0;25
 2021-01-31;"Okres Svidník";2;0;2
-2021-01-31;"Okres Šaľa";1019;9;1028
+2021-01-31;"Okres Šaľa";3490;41;3531
 2021-01-31;"Okres Topoľčany";4982;65;5047
-2021-01-31;"Okres Trebišov";3962;36;3998
+2021-01-31;"Okres Trebišov";6599;64;6663
 2021-01-31;"Okres Trenčín";31;1;32
 2021-01-31;"Okres Trnava";16734;157;16891
 2021-01-31;"Okres Tvrdošín";158;2;160
@@ -6687,12 +6694,12 @@
 2021-02-01;"Okres Bratislava II";1941;44;1985
 2021-02-01;"Okres Bratislava III";6269;133;6402
 2021-02-01;"Okres Bratislava IV";1570;25;1595
-2021-02-01;"Okres Bratislava V";1032;42;1074
+2021-02-01;"Okres Bratislava V";499;11;510
 2021-02-01;"Okres Brezno";2818;100;2918
 2021-02-01;"Okres Bytča";3158;30;3188
 2021-02-01;"Okres Čadca";883;27;910
 2021-02-01;"Okres Detva";1151;17;1168
-2021-02-01;"Okres Dolný Kubín";4218;34;4252
+2021-02-01;"Okres Dolný Kubín";4240;36;4276
 2021-02-01;"Okres Dunajská Streda";7873;222;8095
 2021-02-01;"Okres Galanta";16844;260;17104
 2021-02-01;"Okres Gelnica";272;12;284
@@ -6700,11 +6707,11 @@
 2021-02-01;"Okres Humenné";3991;48;4039
 2021-02-01;"Okres Ilava";196;17;213
 2021-02-01;"Okres Kežmarok";1130;17;1147
-2021-02-01;"Okres Komárno";3273;77;3350
+2021-02-01;"Okres Komárno";4018;81;4099
 2021-02-01;"Okres Košice - okolie";5573;70;5643
-2021-02-01;"Okres Košice I";1894;19;1913
+2021-02-01;"Okres Košice I";1905;19;1924
 2021-02-01;"Okres Košice II";5230;62;5292
-2021-02-01;"Okres Košice III";24;0;24
+2021-02-01;"Okres Košice III";399;6;405
 2021-02-01;"Okres Košice IV";1358;7;1365
 2021-02-01;"Okres Krupina";986;15;1001
 2021-02-01;"Okres Kysucké Nové Mesto";266;8;274
@@ -6720,19 +6727,19 @@
 2021-02-01;"Okres Námestovo";647;25;672
 2021-02-01;"Okres Nitra";3596;100;3696
 2021-02-01;"Okres Nové Mesto nad Váhom";1749;16;1765
-2021-02-01;"Okres Nové Zámky";7952;69;8021
+2021-02-01;"Okres Nové Zámky";8369;90;8459
 2021-02-01;"Okres Partizánske";10012;58;10070
 2021-02-01;"Okres Pezinok";6184;62;6246
 2021-02-01;"Okres Piešťany";526;15;541
 2021-02-01;"Okres Poltár";2124;3;2127
-2021-02-01;"Okres Poprad";2355;31;2386
+2021-02-01;"Okres Poprad";2363;36;2399
 2021-02-01;"Okres Považská Bystrica";350;17;367
 2021-02-01;"Okres Prešov";2140;66;2206
-2021-02-01;"Okres Prievidza";2705;46;2751
-2021-02-01;"Okres Púchov";420;37;457
+2021-02-01;"Okres Prievidza";2417;46;2463
+2021-02-01;"Okres Púchov";573;55;628
 2021-02-01;"Okres Revúca";1760;75;1835
 2021-02-01;"Okres Rimavská Sobota";945;54;999
-2021-02-01;"Okres Rožňava";2468;40;2508
+2021-02-01;"Okres Rožňava";2556;42;2598
 2021-02-01;"Okres Ružomberok";623;19;642
 2021-02-01;"Okres Sabinov";344;20;364
 2021-02-01;"Okres Senec";12184;66;12250
@@ -6740,10 +6747,10 @@
 2021-02-01;"Okres Skalica";43;2;45
 2021-02-01;"Okres Snina";2458;32;2490
 2021-02-01;"Okres Sobrance";160;11;171
-2021-02-01;"Okres Spišská Nová Ves";633;44;677
+2021-02-01;"Okres Spišská Nová Ves";666;45;711
 2021-02-01;"Okres Stará Ľubovňa";148;4;152
 2021-02-01;"Okres Stropkov";4;0;4
-2021-02-01;"Okres Svidník";133;2;135
+2021-02-01;"Okres Svidník";243;2;245
 2021-02-01;"Okres Šaľa";1204;39;1243
 2021-02-01;"Okres Topoľčany";3841;68;3909
 2021-02-01;"Okres Trebišov";2360;40;2400
@@ -6754,24 +6761,24 @@
 2021-02-01;"Okres Veľký Krtíš";749;10;759
 2021-02-01;"Okres Vranov nad Topľou";420;8;428
 2021-02-01;"Okres Zlaté Moravce";1278;12;1290
-2021-02-01;"Okres Zvolen";1149;16;1165
-2021-02-01;"Okres Žarnovica";1621;23;1644
+2021-02-01;"Okres Zvolen";1182;16;1198
+2021-02-01;"Okres Žarnovica";1815;29;1844
 2021-02-01;"Okres Žiar nad Hronom";7473;81;7554
 2021-02-01;"Okres Žilina";3264;70;3334
 2021-02-02;"Okres Bánovce nad Bebravou";603;43;646
-2021-02-02;"Okres Banská Bystrica";2059;74;2133
+2021-02-02;"Okres Banská Bystrica";2061;74;2135
 2021-02-02;"Okres Banská Štiavnica";312;7;319
 2021-02-02;"Okres Bardejov";1208;16;1224
 2021-02-02;"Okres Bratislava I";2897;30;2927
-2021-02-02;"Okres Bratislava II";3168;56;3224
-2021-02-02;"Okres Bratislava III";3959;72;4031
+2021-02-02;"Okres Bratislava II";3455;73;3528
+2021-02-02;"Okres Bratislava III";4186;77;4263
 2021-02-02;"Okres Bratislava IV";922;15;937
 2021-02-02;"Okres Bratislava V";1065;34;1099
 2021-02-02;"Okres Brezno";498;14;512
 2021-02-02;"Okres Bytča";288;8;296
 2021-02-02;"Okres Čadca";1871;40;1911
 2021-02-02;"Okres Detva";420;13;433
-2021-02-02;"Okres Dolný Kubín";562;22;584
+2021-02-02;"Okres Dolný Kubín";600;26;626
 2021-02-02;"Okres Dunajská Streda";2900;117;3017
 2021-02-02;"Okres Galanta";1400;79;1479
 2021-02-02;"Okres Gelnica";4051;33;4084
@@ -6779,11 +6786,11 @@
 2021-02-02;"Okres Humenné";1485;36;1521
 2021-02-02;"Okres Ilava";1265;141;1406
 2021-02-02;"Okres Kežmarok";2491;14;2505
-2021-02-02;"Okres Komárno";1852;57;1909
-2021-02-02;"Okres Košice - okolie";76;2;78
+2021-02-02;"Okres Komárno";2105;59;2164
+2021-02-02;"Okres Košice - okolie";404;20;424
 2021-02-02;"Okres Košice I";2279;34;2313
 2021-02-02;"Okres Košice II";5243;94;5337
-2021-02-02;"Okres Košice III";1338;45;1383
+2021-02-02;"Okres Košice III";378;10;388
 2021-02-02;"Okres Košice IV";2309;33;2342
 2021-02-02;"Okres Krupina";993;9;1002
 2021-02-02;"Okres Kysucké Nové Mesto";372;19;391
@@ -6791,42 +6798,42 @@
 2021-02-02;"Okres Levoča";307;17;324
 2021-02-02;"Okres Liptovský Mikuláš";998;32;1030
 2021-02-02;"Okres Lučenec";4280;27;4307
-2021-02-02;"Okres Malacky";3198;71;3269
+2021-02-02;"Okres Malacky";3507;88;3595
 2021-02-02;"Okres Martin";1137;46;1183
 2021-02-02;"Okres Medzilaborce";221;9;230
 2021-02-02;"Okres Michalovce";2003;56;2059
 2021-02-02;"Okres Myjava";219;3;222
 2021-02-02;"Okres Námestovo";436;17;453
-2021-02-02;"Okres Nitra";1844;51;1895
+2021-02-02;"Okres Nitra";2069;51;2120
 2021-02-02;"Okres Nové Mesto nad Váhom";841;21;862
-2021-02-02;"Okres Nové Zámky";2331;61;2392
+2021-02-02;"Okres Nové Zámky";2478;66;2544
 2021-02-02;"Okres Partizánske";558;34;592
-2021-02-02;"Okres Pezinok";2387;48;2435
-2021-02-02;"Okres Piešťany";1032;29;1061
+2021-02-02;"Okres Pezinok";2681;70;2751
+2021-02-02;"Okres Piešťany";1042;30;1072
 2021-02-02;"Okres Poltár";270;6;276
 2021-02-02;"Okres Poprad";1448;58;1506
-2021-02-02;"Okres Považská Bystrica";752;16;768
-2021-02-02;"Okres Prešov";1913;62;1975
-2021-02-02;"Okres Prievidza";1246;46;1292
-2021-02-02;"Okres Púchov";229;10;239
+2021-02-02;"Okres Považská Bystrica";747;16;763
+2021-02-02;"Okres Prešov";2059;65;2124
+2021-02-02;"Okres Prievidza";1563;52;1615
+2021-02-02;"Okres Púchov";308;14;322
 2021-02-02;"Okres Revúca";1592;53;1645
 2021-02-02;"Okres Rimavská Sobota";889;35;924
-2021-02-02;"Okres Rožňava";4558;89;4647
+2021-02-02;"Okres Rožňava";3967;82;4049
 2021-02-02;"Okres Ružomberok";1726;17;1743
-2021-02-02;"Okres Sabinov";155;1;156
-2021-02-02;"Okres Senec";8420;56;8476
+2021-02-02;"Okres Sabinov";385;6;391
+2021-02-02;"Okres Senec";8557;64;8621
 2021-02-02;"Okres Senica";1265;22;1287
 2021-02-02;"Okres Skalica";733;20;753
 2021-02-02;"Okres Snina";1061;15;1076
 2021-02-02;"Okres Sobrance";303;19;322
-2021-02-02;"Okres Spišská Nová Ves";847;25;872
+2021-02-02;"Okres Spišská Nová Ves";918;32;950
 2021-02-02;"Okres Stará Ľubovňa";305;13;318
 2021-02-02;"Okres Stropkov";1;0;1
-2021-02-02;"Okres Svidník";99;3;102
+2021-02-02;"Okres Svidník";187;3;190
 2021-02-02;"Okres Šaľa";1990;63;2053
 2021-02-02;"Okres Topoľčany";5238;59;5297
 2021-02-02;"Okres Trebišov";1815;31;1846
-2021-02-02;"Okres Trenčín";2045;65;2110
+2021-02-02;"Okres Trenčín";2047;65;2112
 2021-02-02;"Okres Trnava";5846;104;5950
 2021-02-02;"Okres Turčianske Teplice";144;10;154
 2021-02-02;"Okres Tvrdošín";280;4;284
@@ -6834,7 +6841,7 @@
 2021-02-02;"Okres Vranov nad Topľou";580;25;605
 2021-02-02;"Okres Zlaté Moravce";1184;6;1190
 2021-02-02;"Okres Zvolen";1735;31;1766
-2021-02-02;"Okres Žarnovica";1318;27;1345
+2021-02-02;"Okres Žarnovica";1525;30;1555
 2021-02-02;"Okres Žiar nad Hronom";1137;29;1166
 2021-02-02;"Okres Žilina";1955;61;2016
 2021-02-03;"Okres Bánovce nad Bebravou";717;44;761
@@ -6842,15 +6849,15 @@
 2021-02-03;"Okres Banská Štiavnica";11;2;13
 2021-02-03;"Okres Bardejov";946;16;962
 2021-02-03;"Okres Bratislava I";826;10;836
-2021-02-03;"Okres Bratislava II";2242;68;2310
-2021-02-03;"Okres Bratislava III";3040;68;3108
+2021-02-03;"Okres Bratislava II";2582;78;2660
+2021-02-03;"Okres Bratislava III";3184;73;3257
 2021-02-03;"Okres Bratislava IV";1059;26;1085
 2021-02-03;"Okres Bratislava V";977;34;1011
 2021-02-03;"Okres Brezno";222;9;231
 2021-02-03;"Okres Bytča";313;13;326
 2021-02-03;"Okres Čadca";1144;17;1161
 2021-02-03;"Okres Detva";334;15;349
-2021-02-03;"Okres Dolný Kubín";354;23;377
+2021-02-03;"Okres Dolný Kubín";438;29;467
 2021-02-03;"Okres Dunajská Streda";1287;118;1405
 2021-02-03;"Okres Galanta";1931;143;2074
 2021-02-03;"Okres Gelnica";292;6;298
@@ -6859,10 +6866,10 @@
 2021-02-03;"Okres Ilava";3627;76;3703
 2021-02-03;"Okres Kežmarok";356;14;370
 2021-02-03;"Okres Komárno";2638;108;2746
-2021-02-03;"Okres Košice - okolie";216;5;221
+2021-02-03;"Okres Košice - okolie";532;23;555
 2021-02-03;"Okres Košice I";920;12;932
 2021-02-03;"Okres Košice II";3859;86;3945
-2021-02-03;"Okres Košice III";6;0;6
+2021-02-03;"Okres Košice III";297;7;304
 2021-02-03;"Okres Košice IV";2057;45;2102
 2021-02-03;"Okres Krupina";241;3;244
 2021-02-03;"Okres Kysucké Nové Mesto";226;8;234
@@ -6870,7 +6877,7 @@
 2021-02-03;"Okres Levoča";358;5;363
 2021-02-03;"Okres Liptovský Mikuláš";1004;20;1024
 2021-02-03;"Okres Lučenec";1472;20;1492
-2021-02-03;"Okres Malacky";591;19;610
+2021-02-03;"Okres Malacky";924;35;959
 2021-02-03;"Okres Martin";1094;36;1130
 2021-02-03;"Okres Medzilaborce";169;5;174
 2021-02-03;"Okres Michalovce";1392;32;1424
@@ -6878,42 +6885,42 @@
 2021-02-03;"Okres Námestovo";428;22;450
 2021-02-03;"Okres Nitra";1922;33;1955
 2021-02-03;"Okres Nové Mesto nad Váhom";569;33;602
-2021-02-03;"Okres Nové Zámky";2077;54;2131
+2021-02-03;"Okres Nové Zámky";2332;64;2396
 2021-02-03;"Okres Partizánske";332;37;369
-2021-02-03;"Okres Pezinok";661;28;689
-2021-02-03;"Okres Piešťany";719;25;744
+2021-02-03;"Okres Pezinok";968;42;1010
+2021-02-03;"Okres Piešťany";713;24;737
 2021-02-03;"Okres Poltár";7;0;7
-2021-02-03;"Okres Poprad";1219;23;1242
+2021-02-03;"Okres Poprad";1314;30;1344
 2021-02-03;"Okres Považská Bystrica";675;26;701
 2021-02-03;"Okres Prešov";1642;59;1701
 2021-02-03;"Okres Prievidza";693;60;753
-2021-02-03;"Okres Púchov";507;14;521
+2021-02-03;"Okres Púchov";655;19;674
 2021-02-03;"Okres Revúca";609;23;632
 2021-02-03;"Okres Rimavská Sobota";1126;42;1168
 2021-02-03;"Okres Rožňava";975;30;1005
 2021-02-03;"Okres Ružomberok";658;35;693
-2021-02-03;"Okres Sabinov";133;5;138
-2021-02-03;"Okres Senec";1814;31;1845
+2021-02-03;"Okres Sabinov";423;14;437
+2021-02-03;"Okres Senec";1983;39;2022
 2021-02-03;"Okres Senica";406;15;421
 2021-02-03;"Okres Skalica";447;12;459
 2021-02-03;"Okres Snina";615;14;629
 2021-02-03;"Okres Sobrance";273;9;282
-2021-02-03;"Okres Spišská Nová Ves";21019;804;21823
+2021-02-03;"Okres Spišská Nová Ves";21149;809;21958
 2021-02-03;"Okres Stará Ľubovňa";80;0;80
 2021-02-03;"Okres Stropkov";2;0;2
-2021-02-03;"Okres Svidník";165;0;165
+2021-02-03;"Okres Svidník";287;3;290
 2021-02-03;"Okres Šaľa";367;32;399
 2021-02-03;"Okres Topoľčany";1385;39;1424
 2021-02-03;"Okres Trebišov";972;51;1023
 2021-02-03;"Okres Trenčín";1781;51;1832
-2021-02-03;"Okres Trnava";889;32;921
+2021-02-03;"Okres Trnava";898;32;930
 2021-02-03;"Okres Turčianske Teplice";130;8;138
 2021-02-03;"Okres Tvrdošín";261;1;262
 2021-02-03;"Okres Veľký Krtíš";522;8;530
 2021-02-03;"Okres Vranov nad Topľou";903;28;931
 2021-02-03;"Okres Zlaté Moravce";1975;22;1997
 2021-02-03;"Okres Zvolen";1482;29;1511
-2021-02-03;"Okres Žarnovica";361;13;374
+2021-02-03;"Okres Žarnovica";452;15;467
 2021-02-03;"Okres Žiar nad Hronom";1012;31;1043
 2021-02-03;"Okres Žilina";3315;64;3379
 2021-02-04;"Okres Bánovce nad Bebravou";265;25;290
@@ -6921,15 +6928,15 @@
 2021-02-04;"Okres Banská Štiavnica";314;10;324
 2021-02-04;"Okres Bardejov";1355;16;1371
 2021-02-04;"Okres Bratislava I";869;8;877
-2021-02-04;"Okres Bratislava II";3493;60;3553
-2021-02-04;"Okres Bratislava III";4485;79;4564
+2021-02-04;"Okres Bratislava II";4122;73;4195
+2021-02-04;"Okres Bratislava III";4784;83;4867
 2021-02-04;"Okres Bratislava IV";1962;35;1997
 2021-02-04;"Okres Bratislava V";1433;21;1454
 2021-02-04;"Okres Brezno";314;102;416
 2021-02-04;"Okres Bytča";252;20;272
 2021-02-04;"Okres Čadca";1722;18;1740
 2021-02-04;"Okres Detva";366;18;384
-2021-02-04;"Okres Dolný Kubín";644;15;659
+2021-02-04;"Okres Dolný Kubín";864;21;885
 2021-02-04;"Okres Dunajská Streda";1620;163;1783
 2021-02-04;"Okres Galanta";1606;137;1743
 2021-02-04;"Okres Gelnica";310;1;311
@@ -6937,19 +6944,19 @@
 2021-02-04;"Okres Humenné";760;25;785
 2021-02-04;"Okres Ilava";849;46;895
 2021-02-04;"Okres Kežmarok";442;17;459
-2021-02-04;"Okres Komárno";1123;114;1237
-2021-02-04;"Okres Košice - okolie";61;3;64
+2021-02-04;"Okres Komárno";1191;114;1305
+2021-02-04;"Okres Košice - okolie";331;27;358
 2021-02-04;"Okres Košice I";854;16;870
 2021-02-04;"Okres Košice II";4473;82;4555
-2021-02-04;"Okres Košice III";6;0;6
+2021-02-04;"Okres Košice III";248;12;260
 2021-02-04;"Okres Košice IV";1149;30;1179
 2021-02-04;"Okres Krupina";208;8;216
 2021-02-04;"Okres Kysucké Nové Mesto";390;8;398
-2021-02-04;"Okres Levice";1994;113;2107
+2021-02-04;"Okres Levice";2088;119;2207
 2021-02-04;"Okres Levoča";537;5;542
 2021-02-04;"Okres Liptovský Mikuláš";1310;38;1348
 2021-02-04;"Okres Lučenec";1261;18;1279
-2021-02-04;"Okres Malacky";696;54;750
+2021-02-04;"Okres Malacky";1158;60;1218
 2021-02-04;"Okres Martin";2489;40;2529
 2021-02-04;"Okres Medzilaborce";125;4;129
 2021-02-04;"Okres Michalovce";2139;32;2171
@@ -6957,33 +6964,33 @@
 2021-02-04;"Okres Námestovo";1243;13;1256
 2021-02-04;"Okres Nitra";2457;42;2499
 2021-02-04;"Okres Nové Mesto nad Váhom";637;33;670
-2021-02-04;"Okres Nové Zámky";2105;77;2182
+2021-02-04;"Okres Nové Zámky";2280;87;2367
 2021-02-04;"Okres Partizánske";554;44;598
-2021-02-04;"Okres Pezinok";622;23;645
-2021-02-04;"Okres Piešťany";4653;165;4818
+2021-02-04;"Okres Pezinok";984;36;1020
+2021-02-04;"Okres Piešťany";4652;165;4817
 2021-02-04;"Okres Poltár";598;2;600
-2021-02-04;"Okres Poprad";2716;36;2752
+2021-02-04;"Okres Poprad";2720;37;2757
 2021-02-04;"Okres Považská Bystrica";810;21;831
 2021-02-04;"Okres Prešov";2860;58;2918
 2021-02-04;"Okres Prievidza";911;61;972
-2021-02-04;"Okres Púchov";579;6;585
+2021-02-04;"Okres Púchov";816;16;832
 2021-02-04;"Okres Revúca";1214;44;1258
 2021-02-04;"Okres Rimavská Sobota";1625;33;1658
 2021-02-04;"Okres Rožňava";1031;30;1061
 2021-02-04;"Okres Ružomberok";1424;27;1451
-2021-02-04;"Okres Sabinov";239;4;243
-2021-02-04;"Okres Senec";376;28;404
+2021-02-04;"Okres Sabinov";780;14;794
+2021-02-04;"Okres Senec";597;33;630
 2021-02-04;"Okres Senica";618;13;631
 2021-02-04;"Okres Skalica";681;12;693
-2021-02-04;"Okres Snina";1198;23;1221
+2021-02-04;"Okres Snina";889;22;911
 2021-02-04;"Okres Sobrance";313;17;330
-2021-02-04;"Okres Spišská Nová Ves";2369;44;2413
+2021-02-04;"Okres Spišská Nová Ves";2794;47;2841
 2021-02-04;"Okres Stará Ľubovňa";294;5;299
 2021-02-04;"Okres Stropkov";12;0;12
-2021-02-04;"Okres Svidník";157;3;160
+2021-02-04;"Okres Svidník";322;5;327
 2021-02-04;"Okres Šaľa";6214;82;6296
 2021-02-04;"Okres Topoľčany";957;52;1009
-2021-02-04;"Okres Trebišov";914;77;991
+2021-02-04;"Okres Trebišov";918;77;995
 2021-02-04;"Okres Trenčín";1901;56;1957
 2021-02-04;"Okres Trnava";793;31;824
 2021-02-04;"Okres Turčianske Teplice";137;8;145
@@ -6992,23 +6999,23 @@
 2021-02-04;"Okres Vranov nad Topľou";828;16;844
 2021-02-04;"Okres Zlaté Moravce";662;11;673
 2021-02-04;"Okres Zvolen";1083;48;1131
-2021-02-04;"Okres Žarnovica";458;19;477
+2021-02-04;"Okres Žarnovica";540;25;565
 2021-02-04;"Okres Žiar nad Hronom";2951;67;3018
 2021-02-04;"Okres Žilina";1950;49;1999
 2021-02-05;"Okres Bánovce nad Bebravou";1137;25;1162
-2021-02-05;"Okres Banská Bystrica";3962;37;3999
+2021-02-05;"Okres Banská Bystrica";3966;37;4003
 2021-02-05;"Okres Banská Štiavnica";532;17;549
 2021-02-05;"Okres Bardejov";1615;10;1625
 2021-02-05;"Okres Bratislava I";2650;31;2681
-2021-02-05;"Okres Bratislava II";5407;48;5455
-2021-02-05;"Okres Bratislava III";4743;65;4808
+2021-02-05;"Okres Bratislava II";6014;58;6072
+2021-02-05;"Okres Bratislava III";5306;76;5382
 2021-02-05;"Okres Bratislava IV";2403;26;2429
-2021-02-05;"Okres Bratislava V";2412;48;2460
+2021-02-05;"Okres Bratislava V";2413;48;2461
 2021-02-05;"Okres Brezno";1529;24;1553
 2021-02-05;"Okres Bytča";1089;17;1106
 2021-02-05;"Okres Čadca";3587;34;3621
 2021-02-05;"Okres Detva";1366;34;1400
-2021-02-05;"Okres Dolný Kubín";1810;28;1838
+2021-02-05;"Okres Dolný Kubín";2300;34;2334
 2021-02-05;"Okres Dunajská Streda";2694;133;2827
 2021-02-05;"Okres Galanta";2799;68;2867
 2021-02-05;"Okres Gelnica";320;4;324
@@ -7017,86 +7024,86 @@
 2021-02-05;"Okres Ilava";2465;54;2519
 2021-02-05;"Okres Kežmarok";1162;5;1167
 2021-02-05;"Okres Komárno";3824;105;3929
-2021-02-05;"Okres Košice - okolie";1094;10;1104
+2021-02-05;"Okres Košice - okolie";1539;32;1571
 2021-02-05;"Okres Košice I";2098;22;2120
-2021-02-05;"Okres Košice II";21276;204;21480
-2021-02-05;"Okres Košice III";18;0;18
+2021-02-05;"Okres Košice II";21287;204;21491
+2021-02-05;"Okres Košice III";324;1;325
 2021-02-05;"Okres Košice IV";1192;19;1211
 2021-02-05;"Okres Krupina";508;23;531
 2021-02-05;"Okres Kysucké Nové Mesto";564;15;579
-2021-02-05;"Okres Levice";3027;58;3085
+2021-02-05;"Okres Levice";3285;60;3345
 2021-02-05;"Okres Levoča";1725;10;1735
 2021-02-05;"Okres Liptovský Mikuláš";4254;51;4305
 2021-02-05;"Okres Lučenec";2995;26;3021
-2021-02-05;"Okres Malacky";2774;36;2810
+2021-02-05;"Okres Malacky";3404;38;3442
 2021-02-05;"Okres Martin";4678;53;4731
 2021-02-05;"Okres Medzilaborce";400;5;405
-2021-02-05;"Okres Michalovce";4134;38;4172
+2021-02-05;"Okres Michalovce";4573;41;4614
 2021-02-05;"Okres Myjava";998;8;1006
 2021-02-05;"Okres Námestovo";3753;21;3774
 2021-02-05;"Okres Nitra";4241;55;4296
 2021-02-05;"Okres Nové Mesto nad Váhom";1769;29;1798
-2021-02-05;"Okres Nové Zámky";9757;146;9903
+2021-02-05;"Okres Nové Zámky";7813;103;7916
 2021-02-05;"Okres Partizánske";1197;53;1250
-2021-02-05;"Okres Pezinok";1017;36;1053
+2021-02-05;"Okres Pezinok";1546;54;1600
 2021-02-05;"Okres Piešťany";1529;28;1557
 2021-02-05;"Okres Poltár";186;2;188
 2021-02-05;"Okres Poprad";8232;50;8282
 2021-02-05;"Okres Považská Bystrica";2717;39;2756
 2021-02-05;"Okres Prešov";3985;63;4048
-2021-02-05;"Okres Prievidza";1866;67;1933
-2021-02-05;"Okres Púchov";791;9;800
+2021-02-05;"Okres Prievidza";1552;62;1614
+2021-02-05;"Okres Púchov";1122;15;1137
 2021-02-05;"Okres Revúca";2859;84;2943
 2021-02-05;"Okres Rimavská Sobota";3553;27;3580
 2021-02-05;"Okres Rožňava";3103;48;3151
-2021-02-05;"Okres Ružomberok";2275;16;2291
-2021-02-05;"Okres Sabinov";1006;6;1012
-2021-02-05;"Okres Senec";1282;25;1307
+2021-02-05;"Okres Ružomberok";1998;10;2008
+2021-02-05;"Okres Sabinov";2126;23;2149
+2021-02-05;"Okres Senec";1842;35;1877
 2021-02-05;"Okres Senica";2107;29;2136
 2021-02-05;"Okres Skalica";420;9;429
 2021-02-05;"Okres Snina";1511;24;1535
 2021-02-05;"Okres Sobrance";579;9;588
-2021-02-05;"Okres Spišská Nová Ves";4395;38;4433
+2021-02-05;"Okres Spišská Nová Ves";5013;39;5052
 2021-02-05;"Okres Stará Ľubovňa";778;7;785
 2021-02-05;"Okres Stropkov";19;0;19
-2021-02-05;"Okres Svidník";1092;3;1095
+2021-02-05;"Okres Svidník";1504;4;1508
 2021-02-05;"Okres Šaľa";5386;92;5478
 2021-02-05;"Okres Topoľčany";1652;50;1702
-2021-02-05;"Okres Trebišov";2297;67;2364
-2021-02-05;"Okres Trenčín";4382;85;4467
+2021-02-05;"Okres Trebišov";2748;72;2820
+2021-02-05;"Okres Trenčín";4614;87;4701
 2021-02-05;"Okres Trnava";5313;49;5362
 2021-02-05;"Okres Turčianske Teplice";608;1;609
 2021-02-05;"Okres Tvrdošín";2785;7;2792
 2021-02-05;"Okres Veľký Krtíš";2798;12;2810
-2021-02-05;"Okres Vranov nad Topľou";3230;22;3252
+2021-02-05;"Okres Vranov nad Topľou";3537;27;3564
 2021-02-05;"Okres Zlaté Moravce";8302;156;8458
 2021-02-05;"Okres Zvolen";1605;23;1628
-2021-02-05;"Okres Žarnovica";1024;20;1044
+2021-02-05;"Okres Žarnovica";1272;27;1299
 2021-02-05;"Okres Žiar nad Hronom";635;29;664
 2021-02-05;"Okres Žilina";4923;50;4973
 2021-02-06;"Okres Bánovce nad Bebravou";11943;118;12061
-2021-02-06;"Okres Banská Bystrica";4876;36;4912
+2021-02-06;"Okres Banská Bystrica";5126;36;5162
 2021-02-06;"Okres Banská Štiavnica";1611;20;1631
-2021-02-06;"Okres Bardejov";4570;35;4605
+2021-02-06;"Okres Bardejov";4828;35;4863
 2021-02-06;"Okres Bratislava I";4430;39;4469
 2021-02-06;"Okres Bratislava II";4885;39;4924
-2021-02-06;"Okres Bratislava III";4053;37;4090
+2021-02-06;"Okres Bratislava III";4284;38;4322
 2021-02-06;"Okres Bratislava IV";9537;103;9640
 2021-02-06;"Okres Bratislava V";2305;13;2318
 2021-02-06;"Okres Brezno";6574;33;6607
 2021-02-06;"Okres Bytča";4673;20;4693
-2021-02-06;"Okres Čadca";5956;39;5995
+2021-02-06;"Okres Čadca";6678;42;6720
 2021-02-06;"Okres Detva";6031;45;6076
-2021-02-06;"Okres Dolný Kubín";4652;33;4685
+2021-02-06;"Okres Dolný Kubín";5012;35;5047
 2021-02-06;"Okres Dunajská Streda";31793;364;32157
-2021-02-06;"Okres Galanta";12951;126;13077
-2021-02-06;"Okres Gelnica";1034;4;1038
+2021-02-06;"Okres Galanta";13176;126;13302
+2021-02-06;"Okres Gelnica";1355;10;1365
 2021-02-06;"Okres Hlohovec";11593;92;11685
-2021-02-06;"Okres Humenné";10336;48;10384
+2021-02-06;"Okres Humenné";10688;49;10737
 2021-02-06;"Okres Ilava";8343;75;8418
 2021-02-06;"Okres Kežmarok";8155;38;8193
-2021-02-06;"Okres Komárno";6962;102;7064
-2021-02-06;"Okres Košice - okolie";23509;211;23720
+2021-02-06;"Okres Komárno";7217;104;7321
+2021-02-06;"Okres Košice - okolie";24392;234;24626
 2021-02-06;"Okres Košice I";817;9;826
 2021-02-06;"Okres Košice II";27381;204;27585
 2021-02-06;"Okres Košice IV";803;7;810
@@ -7106,40 +7113,40 @@
 2021-02-06;"Okres Levoča";3216;8;3224
 2021-02-06;"Okres Liptovský Mikuláš";12045;73;12118
 2021-02-06;"Okres Lučenec";4083;14;4097
-2021-02-06;"Okres Malacky";9581;85;9666
+2021-02-06;"Okres Malacky";10665;97;10762
 2021-02-06;"Okres Martin";5272;50;5322
 2021-02-06;"Okres Medzilaborce";819;5;824
-2021-02-06;"Okres Michalovce";10066;63;10129
+2021-02-06;"Okres Michalovce";11054;66;11120
 2021-02-06;"Okres Myjava";167;1;168
 2021-02-06;"Okres Námestovo";6674;11;6685
-2021-02-06;"Okres Nitra";10971;70;11041
+2021-02-06;"Okres Nitra";12799;67;12866
 2021-02-06;"Okres Nové Mesto nad Váhom";16107;116;16223
-2021-02-06;"Okres Nové Zámky";27768;247;28015
+2021-02-06;"Okres Nové Zámky";28271;248;28519
 2021-02-06;"Okres Partizánske";7516;111;7627
-2021-02-06;"Okres Pezinok";8637;71;8708
+2021-02-06;"Okres Pezinok";9018;73;9091
 2021-02-06;"Okres Piešťany";5866;60;5926
-2021-02-06;"Okres Poltár";3236;7;3243
-2021-02-06;"Okres Poprad";8615;49;8664
+2021-02-06;"Okres Poltár";3493;7;3500
+2021-02-06;"Okres Poprad";9177;49;9226
 2021-02-06;"Okres Považská Bystrica";2948;21;2969
 2021-02-06;"Okres Prešov";2124;13;2137
-2021-02-06;"Okres Prievidza";920;12;932
+2021-02-06;"Okres Prievidza";1206;12;1218
 2021-02-06;"Okres Púchov";5668;31;5699
 2021-02-06;"Okres Revúca";4033;74;4107
 2021-02-06;"Okres Rimavská Sobota";2933;27;2960
-2021-02-06;"Okres Rožňava";9223;91;9314
+2021-02-06;"Okres Rožňava";9819;101;9920
 2021-02-06;"Okres Ružomberok";4450;38;4488
-2021-02-06;"Okres Sabinov";5736;31;5767
-2021-02-06;"Okres Senec";11660;65;11725
+2021-02-06;"Okres Sabinov";6681;34;6715
+2021-02-06;"Okres Senec";13943;79;14022
 2021-02-06;"Okres Senica";11038;64;11102
 2021-02-06;"Okres Skalica";4621;26;4647
 2021-02-06;"Okres Snina";5138;30;5168
 2021-02-06;"Okres Sobrance";772;10;782
-2021-02-06;"Okres Spišská Nová Ves";10003;57;10060
+2021-02-06;"Okres Spišská Nová Ves";10074;54;10128
 2021-02-06;"Okres Stará Ľubovňa";6609;17;6626
 2021-02-06;"Okres Svidník";2907;2;2909
-2021-02-06;"Okres Šaľa";6752;174;6926
-2021-02-06;"Okres Topoľčany";11307;76;11383
-2021-02-06;"Okres Trebišov";12385;112;12497
+2021-02-06;"Okres Šaľa";9554;200;9754
+2021-02-06;"Okres Topoľčany";11857;78;11935
+2021-02-06;"Okres Trebišov";14953;162;15115
 2021-02-06;"Okres Trenčín";9663;95;9758
 2021-02-06;"Okres Trnava";33812;741;34553
 2021-02-06;"Okres Turčianske Teplice";191;1;192
@@ -7150,19 +7157,19 @@
 2021-02-06;"Okres Zvolen";22204;204;22408
 2021-02-06;"Okres Žarnovica";2518;29;2547
 2021-02-06;"Okres Žiar nad Hronom";4980;46;5026
-2021-02-06;"Okres Žilina";21725;85;21810
+2021-02-06;"Okres Žilina";22178;86;22264
 2021-02-07;"Okres Bánovce nad Bebravou";3378;46;3424
-2021-02-07;"Okres Banská Bystrica";9865;58;9923
+2021-02-07;"Okres Banská Bystrica";10223;63;10286
 2021-02-07;"Okres Banská Štiavnica";646;5;651
 2021-02-07;"Okres Bardejov";1760;11;1771
 2021-02-07;"Okres Bratislava I";4361;24;4385
 2021-02-07;"Okres Bratislava II";4110;43;4153
-2021-02-07;"Okres Bratislava III";2947;33;2980
+2021-02-07;"Okres Bratislava III";3235;36;3271
 2021-02-07;"Okres Bratislava IV";9491;93;9584
 2021-02-07;"Okres Bratislava V";2780;15;2795
 2021-02-07;"Okres Brezno";6436;73;6509
 2021-02-07;"Okres Bytča";1795;15;1810
-2021-02-07;"Okres Čadca";2441;17;2458
+2021-02-07;"Okres Čadca";3147;19;3166
 2021-02-07;"Okres Detva";1936;18;1954
 2021-02-07;"Okres Dolný Kubín";2939;15;2954
 2021-02-07;"Okres Dunajská Streda";19952;207;20159
@@ -7172,8 +7179,8 @@
 2021-02-07;"Okres Humenné";4493;31;4524
 2021-02-07;"Okres Ilava";5357;62;5419
 2021-02-07;"Okres Kežmarok";4344;12;4356
-2021-02-07;"Okres Komárno";7265;92;7357
-2021-02-07;"Okres Košice - okolie";4258;28;4286
+2021-02-07;"Okres Komárno";5171;77;5248
+2021-02-07;"Okres Košice - okolie";5556;82;5638
 2021-02-07;"Okres Košice I";13;0;13
 2021-02-07;"Okres Košice II";31492;244;31736
 2021-02-07;"Okres Košice IV";109;4;113
@@ -7191,9 +7198,9 @@
 2021-02-07;"Okres Námestovo";216;1;217
 2021-02-07;"Okres Nitra";7376;43;7419
 2021-02-07;"Okres Nové Mesto nad Váhom";4142;23;4165
-2021-02-07;"Okres Nové Zámky";13730;109;13839
+2021-02-07;"Okres Nové Zámky";14251;111;14362
 2021-02-07;"Okres Partizánske";9214;105;9319
-2021-02-07;"Okres Pezinok";8956;69;9025
+2021-02-07;"Okres Pezinok";9777;75;9852
 2021-02-07;"Okres Piešťany";5567;54;5621
 2021-02-07;"Okres Poltár";735;2;737
 2021-02-07;"Okres Poprad";4104;25;4129
@@ -7205,598 +7212,1387 @@
 2021-02-07;"Okres Rimavská Sobota";2911;31;2942
 2021-02-07;"Okres Rožňava";5347;68;5415
 2021-02-07;"Okres Ružomberok";2845;34;2879
-2021-02-07;"Okres Sabinov";1803;17;1820
-2021-02-07;"Okres Senec";5911;34;5945
+2021-02-07;"Okres Sabinov";2651;20;2671
+2021-02-07;"Okres Senec";6198;36;6234
 2021-02-07;"Okres Senica";9255;39;9294
 2021-02-07;"Okres Skalica";3340;18;3358
 2021-02-07;"Okres Snina";3312;14;3326
 2021-02-07;"Okres Sobrance";956;15;971
-2021-02-07;"Okres Spišská Nová Ves";3784;66;3850
+2021-02-07;"Okres Spišská Nová Ves";4050;67;4117
 2021-02-07;"Okres Stará Ľubovňa";2091;7;2098
 2021-02-07;"Okres Svidník";1791;8;1799
-2021-02-07;"Okres Šaľa";6327;87;6414
+2021-02-07;"Okres Šaľa";7865;110;7975
 2021-02-07;"Okres Topoľčany";6355;62;6417
-2021-02-07;"Okres Trebišov";3862;61;3923
-2021-02-07;"Okres Trenčín";5008;67;5075
+2021-02-07;"Okres Trebišov";5878;102;5980
+2021-02-07;"Okres Trenčín";5358;70;5428
 2021-02-07;"Okres Trnava";16156;150;16306
 2021-02-07;"Okres Turčianske Teplice";1345;4;1349
 2021-02-07;"Okres Tvrdošín";644;2;646
 2021-02-07;"Okres Veľký Krtíš";726;2;728
-2021-02-07;"Okres Vranov nad Topľou";3190;37;3227
+2021-02-07;"Okres Vranov nad Topľou";4500;38;4538
 2021-02-07;"Okres Zlaté Moravce";2685;11;2696
-2021-02-07;"Okres Zvolen";1410;7;1417
+2021-02-07;"Okres Zvolen";2667;17;2684
 2021-02-07;"Okres Žarnovica";898;15;913
 2021-02-07;"Okres Žiar nad Hronom";1517;9;1526
 2021-02-07;"Okres Žilina";27123;96;27219
 2021-02-08;"Okres Bánovce nad Bebravou";613;14;627
-2021-02-08;"Okres Banská Bystrica";14091;113;14204
+2021-02-08;"Okres Banská Bystrica";14096;113;14209
 2021-02-08;"Okres Banská Štiavnica";896;14;910
 2021-02-08;"Okres Bardejov";2300;13;2313
 2021-02-08;"Okres Bratislava I";5243;42;5285
-2021-02-08;"Okres Bratislava II";5702;52;5754
+2021-02-08;"Okres Bratislava II";5721;52;5773
 2021-02-08;"Okres Bratislava III";3619;28;3647
 2021-02-08;"Okres Bratislava IV";2853;37;2890
 2021-02-08;"Okres Bratislava V";4865;78;4943
-2021-02-08;"Okres Brezno";3207;92;3299
+2021-02-08;"Okres Brezno";3221;92;3313
 2021-02-08;"Okres Bytča";3206;55;3261
-2021-02-08;"Okres Čadca";4650;34;4684
+2021-02-08;"Okres Čadca";4416;33;4449
 2021-02-08;"Okres Detva";2967;49;3016
-2021-02-08;"Okres Dolný Kubín";1696;20;1716
-2021-02-08;"Okres Dunajská Streda";7914;155;8069
-2021-02-08;"Okres Galanta";7570;126;7696
+2021-02-08;"Okres Dolný Kubín";1859;24;1883
+2021-02-08;"Okres Dunajská Streda";7922;157;8079
+2021-02-08;"Okres Galanta";7552;123;7675
 2021-02-08;"Okres Gelnica";1541;13;1554
 2021-02-08;"Okres Hlohovec";6233;94;6327
 2021-02-08;"Okres Humenné";3668;34;3702
-2021-02-08;"Okres Ilava";2263;64;2327
+2021-02-08;"Okres Ilava";2392;64;2456
 2021-02-08;"Okres Kežmarok";5151;17;5168
-2021-02-08;"Okres Komárno";6938;146;7084
-2021-02-08;"Okres Košice - okolie";4172;24;4196
-2021-02-08;"Okres Košice I";1867;19;1886
+2021-02-08;"Okres Komárno";3733;89;3822
+2021-02-08;"Okres Košice - okolie";4901;36;4937
+2021-02-08;"Okres Košice I";1981;25;2006
 2021-02-08;"Okres Košice II";4504;69;4573
-2021-02-08;"Okres Košice III";31;0;31
-2021-02-08;"Okres Košice IV";1550;19;1569
+2021-02-08;"Okres Košice III";360;8;368
+2021-02-08;"Okres Košice IV";1554;19;1573
 2021-02-08;"Okres Krupina";951;11;962
-2021-02-08;"Okres Kysucké Nové Mesto";1460;38;1498
+2021-02-08;"Okres Kysucké Nové Mesto";1157;36;1193
 2021-02-08;"Okres Levice";4533;102;4635
 2021-02-08;"Okres Levoča";1151;6;1157
 2021-02-08;"Okres Liptovský Mikuláš";4069;66;4135
-2021-02-08;"Okres Lučenec";4725;45;4770
+2021-02-08;"Okres Lučenec";4815;45;4860
 2021-02-08;"Okres Malacky";3000;57;3057
 2021-02-08;"Okres Martin";8761;78;8839
 2021-02-08;"Okres Medzilaborce";765;3;768
 2021-02-08;"Okres Michalovce";4030;50;4080
 2021-02-08;"Okres Myjava";102;3;105
 2021-02-08;"Okres Námestovo";2141;6;2147
-2021-02-08;"Okres Nitra";7506;103;7609
+2021-02-08;"Okres Nitra";7637;98;7735
 2021-02-08;"Okres Nové Mesto nad Váhom";6134;76;6210
-2021-02-08;"Okres Nové Zámky";11772;181;11953
+2021-02-08;"Okres Nové Zámky";11597;175;11772
 2021-02-08;"Okres Partizánske";468;23;491
-2021-02-08;"Okres Pezinok";824;15;839
+2021-02-08;"Okres Pezinok";1024;23;1047
 2021-02-08;"Okres Piešťany";2462;31;2493
 2021-02-08;"Okres Poltár";1746;7;1753
 2021-02-08;"Okres Poprad";4801;28;4829
 2021-02-08;"Okres Považská Bystrica";5188;61;5249
 2021-02-08;"Okres Prešov";4989;29;5018
-2021-02-08;"Okres Prievidza";3153;53;3206
+2021-02-08;"Okres Prievidza";2867;53;2920
 2021-02-08;"Okres Púchov";2120;32;2152
 2021-02-08;"Okres Revúca";1841;49;1890
 2021-02-08;"Okres Rimavská Sobota";2549;54;2603
-2021-02-08;"Okres Rožňava";4250;102;4352
+2021-02-08;"Okres Rožňava";4449;104;4553
 2021-02-08;"Okres Ružomberok";4962;38;5000
-2021-02-08;"Okres Sabinov";2128;24;2152
-2021-02-08;"Okres Senec";6187;56;6243
+2021-02-08;"Okres Sabinov";2633;33;2666
+2021-02-08;"Okres Senec";4823;44;4867
 2021-02-08;"Okres Senica";1417;26;1443
 2021-02-08;"Okres Skalica";2773;15;2788
 2021-02-08;"Okres Snina";953;12;965
 2021-02-08;"Okres Sobrance";348;5;353
-2021-02-08;"Okres Spišská Nová Ves";2013;31;2044
+2021-02-08;"Okres Spišská Nová Ves";2832;51;2883
 2021-02-08;"Okres Stará Ľubovňa";1539;10;1549
 2021-02-08;"Okres Stropkov";2271;16;2287
-2021-02-08;"Okres Svidník";1762;11;1773
+2021-02-08;"Okres Svidník";1991;12;2003
 2021-02-08;"Okres Šaľa";5194;58;5252
 2021-02-08;"Okres Topoľčany";4431;57;4488
-2021-02-08;"Okres Trebišov";1661;45;1706
-2021-02-08;"Okres Trenčín";7209;77;7286
-2021-02-08;"Okres Trnava";5464;40;5504
+2021-02-08;"Okres Trebišov";1677;45;1722
+2021-02-08;"Okres Trenčín";7825;88;7913
+2021-02-08;"Okres Trnava";5477;40;5517
 2021-02-08;"Okres Turčianske Teplice";1718;13;1731
 2021-02-08;"Okres Tvrdošín";1238;7;1245
 2021-02-08;"Okres Veľký Krtíš";3371;25;3396
 2021-02-08;"Okres Vranov nad Topľou";4347;22;4369
 2021-02-08;"Okres Zlaté Moravce";3341;21;3362
 2021-02-08;"Okres Zvolen";1919;65;1984
-2021-02-08;"Okres Žarnovica";1385;24;1409
+2021-02-08;"Okres Žarnovica";1645;28;1673
 2021-02-08;"Okres Žiar nad Hronom";7212;120;7332
 2021-02-08;"Okres Žilina";9888;52;9940
 2021-02-09;"Okres Bánovce nad Bebravou";976;28;1004
 2021-02-09;"Okres Banská Bystrica";3601;45;3646
 2021-02-09;"Okres Banská Štiavnica";803;8;811
-2021-02-09;"Okres Bardejov";1262;11;1273
-2021-02-09;"Okres Bratislava I";4274;39;4313
-2021-02-09;"Okres Bratislava II";12077;123;12200
-2021-02-09;"Okres Bratislava III";4274;41;4315
+2021-02-09;"Okres Bardejov";1411;17;1428
+2021-02-09;"Okres Bratislava I";4275;39;4314
+2021-02-09;"Okres Bratislava II";12600;133;12733
+2021-02-09;"Okres Bratislava III";4609;42;4651
 2021-02-09;"Okres Bratislava IV";1224;16;1240
 2021-02-09;"Okres Bratislava V";4464;60;4524
 2021-02-09;"Okres Brezno";1827;29;1856
 2021-02-09;"Okres Bytča";272;9;281
-2021-02-09;"Okres Čadca";2607;43;2650
+2021-02-09;"Okres Čadca";2732;43;2775
 2021-02-09;"Okres Detva";627;20;647
-2021-02-09;"Okres Dolný Kubín";1396;19;1415
-2021-02-09;"Okres Dunajská Streda";2315;139;2454
-2021-02-09;"Okres Galanta";1621;46;1667
+2021-02-09;"Okres Dolný Kubín";1587;19;1606
+2021-02-09;"Okres Dunajská Streda";2460;151;2611
+2021-02-09;"Okres Galanta";1622;43;1665
 2021-02-09;"Okres Gelnica";621;15;636
 2021-02-09;"Okres Hlohovec";898;42;940
 2021-02-09;"Okres Humenné";1670;21;1691
 2021-02-09;"Okres Ilava";4362;59;4421
 2021-02-09;"Okres Kežmarok";1399;19;1418
 2021-02-09;"Okres Komárno";2214;76;2290
-2021-02-09;"Okres Košice - okolie";740;11;751
-2021-02-09;"Okres Košice I";1875;51;1926
+2021-02-09;"Okres Košice - okolie";1106;25;1131
+2021-02-09;"Okres Košice I";1761;45;1806
 2021-02-09;"Okres Košice II";4305;71;4376
-2021-02-09;"Okres Košice III";25;1;26
-2021-02-09;"Okres Košice IV";2624;75;2699
+2021-02-09;"Okres Košice III";369;9;378
+2021-02-09;"Okres Košice IV";2762;75;2837
 2021-02-09;"Okres Krupina";390;4;394
-2021-02-09;"Okres Kysucké Nové Mesto";706;9;715
+2021-02-09;"Okres Kysucké Nové Mesto";871;10;881
 2021-02-09;"Okres Levice";4783;92;4875
 2021-02-09;"Okres Levoča";1080;5;1085
 2021-02-09;"Okres Liptovský Mikuláš";2577;43;2620
 2021-02-09;"Okres Lučenec";1758;20;1778
-2021-02-09;"Okres Malacky";1478;28;1506
-2021-02-09;"Okres Martin";4729;40;4769
+2021-02-09;"Okres Malacky";2485;40;2525
+2021-02-09;"Okres Martin";4718;40;4758
 2021-02-09;"Okres Medzilaborce";302;7;309
 2021-02-09;"Okres Michalovce";4998;44;5042
 2021-02-09;"Okres Myjava";516;2;518
 2021-02-09;"Okres Námestovo";1893;18;1911
-2021-02-09;"Okres Nitra";3585;44;3629
+2021-02-09;"Okres Nitra";3538;45;3583
 2021-02-09;"Okres Nové Mesto nad Váhom";849;30;879
-2021-02-09;"Okres Nové Zámky";3833;95;3928
+2021-02-09;"Okres Nové Zámky";3491;85;3576
 2021-02-09;"Okres Partizánske";759;43;802
-2021-02-09;"Okres Pezinok";363;14;377
+2021-02-09;"Okres Pezinok";577;27;604
 2021-02-09;"Okres Piešťany";1868;25;1893
 2021-02-09;"Okres Poltár";365;4;369
 2021-02-09;"Okres Poprad";3701;25;3726
 2021-02-09;"Okres Považská Bystrica";3360;40;3400
-2021-02-09;"Okres Prešov";3972;42;4014
-2021-02-09;"Okres Prievidza";1489;54;1543
+2021-02-09;"Okres Prešov";3981;42;4023
+2021-02-09;"Okres Prievidza";1495;54;1549
 2021-02-09;"Okres Púchov";2076;29;2105
 2021-02-09;"Okres Revúca";1282;48;1330
 2021-02-09;"Okres Rimavská Sobota";1993;39;2032
 2021-02-09;"Okres Rožňava";1740;54;1794
 2021-02-09;"Okres Ružomberok";3737;32;3769
-2021-02-09;"Okres Sabinov";284;5;289
-2021-02-09;"Okres Senec";2330;46;2376
+2021-02-09;"Okres Sabinov";813;23;836
+2021-02-09;"Okres Senec";2115;42;2157
 2021-02-09;"Okres Senica";817;26;843
-2021-02-09;"Okres Skalica";3498;21;3519
+2021-02-09;"Okres Skalica";3566;23;3589
 2021-02-09;"Okres Snina";1577;28;1605
 2021-02-09;"Okres Sobrance";642;13;655
-2021-02-09;"Okres Spišská Nová Ves";2734;34;2768
+2021-02-09;"Okres Spišská Nová Ves";3502;44;3546
 2021-02-09;"Okres Stará Ľubovňa";651;7;658
 2021-02-09;"Okres Stropkov";73;1;74
-2021-02-09;"Okres Svidník";235;2;237
+2021-02-09;"Okres Svidník";476;3;479
 2021-02-09;"Okres Šaľa";1629;28;1657
 2021-02-09;"Okres Topoľčany";2547;46;2593
-2021-02-09;"Okres Trebišov";18057;335;18392
-2021-02-09;"Okres Trenčín";7118;94;7212
-2021-02-09;"Okres Trnava";1709;67;1776
+2021-02-09;"Okres Trebišov";2611;63;2674
+2021-02-09;"Okres Trenčín";6684;90;6774
+2021-02-09;"Okres Trnava";1718;67;1785
 2021-02-09;"Okres Turčianske Teplice";321;7;328
 2021-02-09;"Okres Tvrdošín";1241;8;1249
 2021-02-09;"Okres Veľký Krtíš";994;9;1003
 2021-02-09;"Okres Vranov nad Topľou";2490;147;2637
 2021-02-09;"Okres Zlaté Moravce";258;8;266
 2021-02-09;"Okres Zvolen";1852;53;1905
-2021-02-09;"Okres Žarnovica";1091;28;1119
-2021-02-09;"Okres Žiar nad Hronom";1098;23;1121
-2021-02-09;"Okres Žilina";4178;43;4221
+2021-02-09;"Okres Žarnovica";1327;32;1359
+2021-02-09;"Okres Žiar nad Hronom";1309;46;1355
+2021-02-09;"Okres Žilina";4972;49;5021
 2021-02-10;"Okres Bánovce nad Bebravou";333;38;371
 2021-02-10;"Okres Banská Bystrica";3802;39;3841
 2021-02-10;"Okres Banská Štiavnica";496;10;506
-2021-02-10;"Okres Bardejov";1512;19;1531
+2021-02-10;"Okres Bardejov";1793;27;1820
 2021-02-10;"Okres Bratislava I";3193;42;3235
-2021-02-10;"Okres Bratislava II";3456;48;3504
-2021-02-10;"Okres Bratislava III";3003;32;3035
+2021-02-10;"Okres Bratislava II";4122;55;4177
+2021-02-10;"Okres Bratislava III";3418;33;3451
 2021-02-10;"Okres Bratislava IV";960;14;974
 2021-02-10;"Okres Bratislava V";4442;66;4508
 2021-02-10;"Okres Brezno";583;9;592
 2021-02-10;"Okres Bytča";284;21;305
-2021-02-10;"Okres Čadca";1925;31;1956
+2021-02-10;"Okres Čadca";2036;32;2068
 2021-02-10;"Okres Detva";532;30;562
-2021-02-10;"Okres Dolný Kubín";1050;24;1074
-2021-02-10;"Okres Dunajská Streda";1977;83;2060
-2021-02-10;"Okres Galanta";1443;88;1531
+2021-02-10;"Okres Dolný Kubín";1230;25;1255
+2021-02-10;"Okres Dunajská Streda";2077;94;2171
+2021-02-10;"Okres Galanta";1338;82;1420
 2021-02-10;"Okres Gelnica";291;5;296
-2021-02-10;"Okres Hlohovec";597;21;618
+2021-02-10;"Okres Hlohovec";648;23;671
 2021-02-10;"Okres Humenné";993;26;1019
 2021-02-10;"Okres Ilava";1479;41;1520
 2021-02-10;"Okres Kežmarok";1327;16;1343
-2021-02-10;"Okres Komárno";4358;380;4738
-2021-02-10;"Okres Košice - okolie";20;0;20
+2021-02-10;"Okres Komárno";3902;372;4274
+2021-02-10;"Okres Košice - okolie";416;14;430
 2021-02-10;"Okres Košice I";1072;38;1110
 2021-02-10;"Okres Košice II";3509;78;3587
-2021-02-10;"Okres Košice III";74;6;80
-2021-02-10;"Okres Košice IV";4118;66;4184
+2021-02-10;"Okres Košice III";338;11;349
+2021-02-10;"Okres Košice IV";4090;66;4156
 2021-02-10;"Okres Krupina";6;0;6
-2021-02-10;"Okres Kysucké Nové Mesto";517;10;527
+2021-02-10;"Okres Kysucké Nové Mesto";655;11;666
 2021-02-10;"Okres Levice";2394;72;2466
 2021-02-10;"Okres Levoča";785;4;789
 2021-02-10;"Okres Liptovský Mikuláš";2043;39;2082
 2021-02-10;"Okres Lučenec";1656;31;1687
-2021-02-10;"Okres Malacky";1276;35;1311
-2021-02-10;"Okres Martin";3432;41;3473
+2021-02-10;"Okres Malacky";1452;38;1490
+2021-02-10;"Okres Martin";3423;41;3464
 2021-02-10;"Okres Medzilaborce";187;3;190
 2021-02-10;"Okres Michalovce";3430;35;3465
 2021-02-10;"Okres Myjava";244;2;246
-2021-02-10;"Okres Námestovo";787;7;794
-2021-02-10;"Okres Nitra";4785;44;4829
+2021-02-10;"Okres Námestovo";599;5;604
+2021-02-10;"Okres Nitra";4887;47;4934
 2021-02-10;"Okres Nové Mesto nad Váhom";716;32;748
-2021-02-10;"Okres Nové Zámky";2070;55;2125
-2021-02-10;"Okres Partizánske";517;44;561
-2021-02-10;"Okres Pezinok";1034;22;1056
+2021-02-10;"Okres Nové Zámky";2551;65;2616
+2021-02-10;"Okres Partizánske";669;52;721
+2021-02-10;"Okres Pezinok";1245;31;1276
 2021-02-10;"Okres Piešťany";1574;17;1591
 2021-02-10;"Okres Poltár";178;8;186
-2021-02-10;"Okres Poprad";3952;44;3996
+2021-02-10;"Okres Poprad";4147;44;4191
 2021-02-10;"Okres Považská Bystrica";1676;29;1705
-2021-02-10;"Okres Prešov";4315;52;4367
+2021-02-10;"Okres Prešov";4424;53;4477
 2021-02-10;"Okres Prievidza";1128;67;1195
-2021-02-10;"Okres Púchov";677;10;687
+2021-02-10;"Okres Púchov";1244;18;1262
 2021-02-10;"Okres Revúca";1095;60;1155
-2021-02-10;"Okres Rimavská Sobota";1933;37;1970
+2021-02-10;"Okres Rimavská Sobota";2069;41;2110
 2021-02-10;"Okres Rožňava";1665;47;1712
-2021-02-10;"Okres Ružomberok";1433;17;1450
-2021-02-10;"Okres Sabinov";500;8;508
-2021-02-10;"Okres Senec";1317;34;1351
+2021-02-10;"Okres Ružomberok";1433;18;1451
+2021-02-10;"Okres Sabinov";1001;15;1016
+2021-02-10;"Okres Senec";1025;32;1057
 2021-02-10;"Okres Senica";742;26;768
-2021-02-10;"Okres Skalica";735;10;745
+2021-02-10;"Okres Skalica";840;15;855
 2021-02-10;"Okres Snina";784;25;809
 2021-02-10;"Okres Sobrance";717;7;724
-2021-02-10;"Okres Spišská Nová Ves";2753;48;2801
+2021-02-10;"Okres Spišská Nová Ves";2956;62;3018
 2021-02-10;"Okres Stará Ľubovňa";374;7;381
 2021-02-10;"Okres Stropkov";140;5;145
-2021-02-10;"Okres Svidník";185;2;187
-2021-02-10;"Okres Šaľa";290;16;306
+2021-02-10;"Okres Svidník";358;3;361
+2021-02-10;"Okres Šaľa";445;24;469
 2021-02-10;"Okres Topoľčany";2582;57;2639
-2021-02-10;"Okres Trebišov";1070;73;1143
-2021-02-10;"Okres Trenčín";3906;42;3948
+2021-02-10;"Okres Trebišov";1085;73;1158
+2021-02-10;"Okres Trenčín";3675;36;3711
 2021-02-10;"Okres Trnava";1762;55;1817
 2021-02-10;"Okres Turčianske Teplice";350;4;354
 2021-02-10;"Okres Tvrdošín";994;7;1001
-2021-02-10;"Okres Veľký Krtíš";434;4;438
+2021-02-10;"Okres Veľký Krtíš";899;10;909
 2021-02-10;"Okres Vranov nad Topľou";817;23;840
-2021-02-10;"Okres Zlaté Moravce";666;5;671
+2021-02-10;"Okres Zlaté Moravce";828;7;835
 2021-02-10;"Okres Zvolen";836;35;871
-2021-02-10;"Okres Žarnovica";3;0;3
-2021-02-10;"Okres Žiar nad Hronom";812;32;844
+2021-02-10;"Okres Žarnovica";491;7;498
+2021-02-10;"Okres Žiar nad Hronom";995;40;1035
 2021-02-10;"Okres Žilina";3732;56;3788
 2021-02-11;"Okres Bánovce nad Bebravou";548;22;570
-2021-02-11;"Okres Banská Bystrica";4799;54;4853
+2021-02-11;"Okres Banská Bystrica";4800;54;4854
 2021-02-11;"Okres Banská Štiavnica";397;5;402
-2021-02-11;"Okres Bardejov";1508;25;1533
-2021-02-11;"Okres Bratislava I";1846;15;1861
-2021-02-11;"Okres Bratislava II";3840;33;3873
-2021-02-11;"Okres Bratislava III";5276;39;5315
-2021-02-11;"Okres Bratislava IV";1235;7;1242
-2021-02-11;"Okres Bratislava V";4206;59;4265
+2021-02-11;"Okres Bardejov";1774;29;1803
+2021-02-11;"Okres Bratislava I";1866;15;1881
+2021-02-11;"Okres Bratislava II";4393;46;4439
+2021-02-11;"Okres Bratislava III";5713;43;5756
+2021-02-11;"Okres Bratislava IV";2142;15;2157
+2021-02-11;"Okres Bratislava V";4207;59;4266
 2021-02-11;"Okres Brezno";525;21;546
 2021-02-11;"Okres Bytča";245;9;254
-2021-02-11;"Okres Čadca";2251;36;2287
+2021-02-11;"Okres Čadca";2385;41;2426
 2021-02-11;"Okres Detva";831;30;861
-2021-02-11;"Okres Dolný Kubín";981;23;1004
-2021-02-11;"Okres Dunajská Streda";2334;137;2471
-2021-02-11;"Okres Galanta";1773;80;1853
+2021-02-11;"Okres Dolný Kubín";1343;28;1371
+2021-02-11;"Okres Dunajská Streda";2429;152;2581
+2021-02-11;"Okres Galanta";1780;80;1860
 2021-02-11;"Okres Gelnica";248;6;254
-2021-02-11;"Okres Hlohovec";520;18;538
+2021-02-11;"Okres Hlohovec";574;23;597
 2021-02-11;"Okres Humenné";764;29;793
 2021-02-11;"Okres Ilava";1223;105;1328
-2021-02-11;"Okres Kežmarok";947;12;959
+2021-02-11;"Okres Kežmarok";948;12;960
 2021-02-11;"Okres Komárno";1611;65;1676
-2021-02-11;"Okres Košice - okolie";72;2;74
-2021-02-11;"Okres Košice I";827;22;849
+2021-02-11;"Okres Košice - okolie";395;13;408
+2021-02-11;"Okres Košice I";840;22;862
 2021-02-11;"Okres Košice II";2494;41;2535
-2021-02-11;"Okres Košice III";65;1;66
-2021-02-11;"Okres Košice IV";2476;97;2573
-2021-02-11;"Okres Krupina";278;3;281
+2021-02-11;"Okres Košice III";233;10;243
+2021-02-11;"Okres Košice IV";2736;98;2834
+2021-02-11;"Okres Krupina";439;7;446
 2021-02-11;"Okres Kysucké Nové Mesto";644;11;655
-2021-02-11;"Okres Levice";2831;65;2896
-2021-02-11;"Okres Levoča";675;5;680
-2021-02-11;"Okres Liptovský Mikuláš";1983;38;2021
+2021-02-11;"Okres Levice";2840;65;2905
+2021-02-11;"Okres Levoča";699;5;704
+2021-02-11;"Okres Liptovský Mikuláš";3461;39;3500
 2021-02-11;"Okres Lučenec";2377;27;2404
-2021-02-11;"Okres Malacky";1405;24;1429
-2021-02-11;"Okres Martin";3990;41;4031
+2021-02-11;"Okres Malacky";1146;21;1167
+2021-02-11;"Okres Martin";3967;41;4008
 2021-02-11;"Okres Medzilaborce";154;1;155
-2021-02-11;"Okres Michalovce";2020;14;2034
+2021-02-11;"Okres Michalovce";2038;15;2053
 2021-02-11;"Okres Myjava";307;1;308
 2021-02-11;"Okres Námestovo";1551;21;1572
-2021-02-11;"Okres Nitra";3229;26;3255
+2021-02-11;"Okres Nitra";3215;25;3240
 2021-02-11;"Okres Nové Mesto nad Váhom";692;26;718
-2021-02-11;"Okres Nové Zámky";1898;47;1945
-2021-02-11;"Okres Partizánske";754;31;785
-2021-02-11;"Okres Pezinok";1024;28;1052
+2021-02-11;"Okres Nové Zámky";2229;55;2284
+2021-02-11;"Okres Partizánske";856;35;891
+2021-02-11;"Okres Pezinok";1224;33;1257
 2021-02-11;"Okres Piešťany";1743;23;1766
-2021-02-11;"Okres Poltár";70;1;71
-2021-02-11;"Okres Poprad";3731;41;3772
-2021-02-11;"Okres Považská Bystrica";1468;24;1492
-2021-02-11;"Okres Prešov";3256;48;3304
-2021-02-11;"Okres Prievidza";1686;52;1738
-2021-02-11;"Okres Púchov";782;11;793
+2021-02-11;"Okres Poltár";72;1;73
+2021-02-11;"Okres Poprad";3717;41;3758
+2021-02-11;"Okres Považská Bystrica";1524;24;1548
+2021-02-11;"Okres Prešov";3464;50;3514
+2021-02-11;"Okres Prievidza";1688;52;1740
+2021-02-11;"Okres Púchov";1314;18;1332
 2021-02-11;"Okres Revúca";5094;51;5145
-2021-02-11;"Okres Rimavská Sobota";1953;54;2007
-2021-02-11;"Okres Rožňava";1301;35;1336
+2021-02-11;"Okres Rimavská Sobota";1978;55;2033
+2021-02-11;"Okres Rožňava";1308;35;1343
 2021-02-11;"Okres Ružomberok";2076;36;2112
-2021-02-11;"Okres Sabinov";446;6;452
-2021-02-11;"Okres Senec";1165;121;1286
+2021-02-11;"Okres Sabinov";764;11;775
+2021-02-11;"Okres Senec";954;25;979
 2021-02-11;"Okres Senica";778;25;803
-2021-02-11;"Okres Skalica";1323;11;1334
+2021-02-11;"Okres Skalica";1487;22;1509
 2021-02-11;"Okres Snina";577;19;596
 2021-02-11;"Okres Sobrance";857;21;878
-2021-02-11;"Okres Spišská Nová Ves";2076;30;2106
+2021-02-11;"Okres Spišská Nová Ves";2503;33;2536
 2021-02-11;"Okres Stará Ľubovňa";438;9;447
-2021-02-11;"Okres Stropkov";134;2;136
-2021-02-11;"Okres Svidník";380;1;381
-2021-02-11;"Okres Šaľa";404;12;416
+2021-02-11;"Okres Stropkov";312;2;314
+2021-02-11;"Okres Svidník";563;5;568
+2021-02-11;"Okres Šaľa";555;19;574
 2021-02-11;"Okres Topoľčany";1320;35;1355
 2021-02-11;"Okres Trebišov";1008;38;1046
 2021-02-11;"Okres Trenčín";3050;37;3087
 2021-02-11;"Okres Trnava";1129;49;1178
 2021-02-11;"Okres Turčianske Teplice";299;11;310
 2021-02-11;"Okres Tvrdošín";2236;9;2245
-2021-02-11;"Okres Veľký Krtíš";1337;17;1354
+2021-02-11;"Okres Veľký Krtíš";972;11;983
 2021-02-11;"Okres Vranov nad Topľou";1056;15;1071
-2021-02-11;"Okres Zlaté Moravce";437;3;440
-2021-02-11;"Okres Zvolen";2003;56;2059
-2021-02-11;"Okres Žarnovica";286;6;292
+2021-02-11;"Okres Zlaté Moravce";550;6;556
+2021-02-11;"Okres Zvolen";2003;59;2062
+2021-02-11;"Okres Žarnovica";989;23;1012
 2021-02-11;"Okres Žiar nad Hronom";872;40;912
-2021-02-11;"Okres Žilina";3641;41;3682
-2021-02-12;"Okres Bánovce nad Bebravou";1558;33;1591
-2021-02-12;"Okres Banská Bystrica";8343;72;8415
+2021-02-11;"Okres Žilina";5255;47;5302
+2021-02-12;"Okres Bánovce nad Bebravou";1561;33;1594
+2021-02-12;"Okres Banská Bystrica";8620;76;8696
 2021-02-12;"Okres Banská Štiavnica";783;6;789
-2021-02-12;"Okres Bardejov";2333;10;2343
-2021-02-12;"Okres Bratislava I";3542;18;3560
-2021-02-12;"Okres Bratislava II";5725;40;5765
-2021-02-12;"Okres Bratislava III";4298;43;4341
-2021-02-12;"Okres Bratislava IV";2187;8;2195
-2021-02-12;"Okres Bratislava V";2888;32;2920
-2021-02-12;"Okres Brezno";1935;70;2005
-2021-02-12;"Okres Bytča";748;7;755
-2021-02-12;"Okres Čadca";3326;36;3362
-2021-02-12;"Okres Detva";1042;23;1065
-2021-02-12;"Okres Dolný Kubín";2345;28;2373
-2021-02-12;"Okres Dunajská Streda";3279;91;3370
-2021-02-12;"Okres Galanta";3684;50;3734
+2021-02-12;"Okres Bardejov";3064;17;3081
+2021-02-12;"Okres Bratislava I";4795;36;4831
+2021-02-12;"Okres Bratislava II";7074;52;7126
+2021-02-12;"Okres Bratislava III";4381;31;4412
+2021-02-12;"Okres Bratislava IV";3497;13;3510
+2021-02-12;"Okres Bratislava V";5421;61;5482
+2021-02-12;"Okres Brezno";2367;79;2446
+2021-02-12;"Okres Bytča";1872;21;1893
+2021-02-12;"Okres Čadca";4008;47;4055
+2021-02-12;"Okres Detva";1257;35;1292
+2021-02-12;"Okres Dolný Kubín";3502;36;3538
+2021-02-12;"Okres Dunajská Streda";3941;119;4060
+2021-02-12;"Okres Galanta";3732;52;3784
 2021-02-12;"Okres Gelnica";1215;7;1222
-2021-02-12;"Okres Hlohovec";427;3;430
-2021-02-12;"Okres Humenné";2174;20;2194
-2021-02-12;"Okres Ilava";3979;69;4048
+2021-02-12;"Okres Hlohovec";703;22;725
+2021-02-12;"Okres Humenné";2938;24;2962
+2021-02-12;"Okres Ilava";3994;69;4063
 2021-02-12;"Okres Kežmarok";3087;12;3099
-2021-02-12;"Okres Komárno";5300;118;5418
-2021-02-12;"Okres Košice - okolie";1462;22;1484
-2021-02-12;"Okres Košice I";2138;29;2167
-2021-02-12;"Okres Košice II";15157;114;15271
-2021-02-12;"Okres Košice III";197;8;205
-2021-02-12;"Okres Košice IV";3396;39;3435
-2021-02-12;"Okres Krupina";815;4;819
-2021-02-12;"Okres Kysucké Nové Mesto";629;4;633
+2021-02-12;"Okres Komárno";5213;118;5331
+2021-02-12;"Okres Košice - okolie";1910;34;1944
+2021-02-12;"Okres Košice I";2234;29;2263
+2021-02-12;"Okres Košice II";15731;116;15847
+2021-02-12;"Okres Košice III";481;12;493
+2021-02-12;"Okres Košice IV";3540;46;3586
+2021-02-12;"Okres Krupina";1145;12;1157
+2021-02-12;"Okres Kysucké Nové Mesto";1129;12;1141
 2021-02-12;"Okres Levice";3921;59;3980
-2021-02-12;"Okres Levoča";1468;9;1477
-2021-02-12;"Okres Liptovský Mikuláš";3427;27;3454
-2021-02-12;"Okres Lučenec";2593;28;2621
+2021-02-12;"Okres Levoča";1503;9;1512
+2021-02-12;"Okres Liptovský Mikuláš";4014;31;4045
+2021-02-12;"Okres Lučenec";2558;28;2586
 2021-02-12;"Okres Malacky";2130;38;2168
-2021-02-12;"Okres Martin";4945;59;5004
+2021-02-12;"Okres Martin";4948;59;5007
 2021-02-12;"Okres Medzilaborce";333;6;339
-2021-02-12;"Okres Michalovce";4278;36;4314
-2021-02-12;"Okres Myjava";853;5;858
-2021-02-12;"Okres Námestovo";4378;16;4394
-2021-02-12;"Okres Nitra";11451;52;11503
+2021-02-12;"Okres Michalovce";4857;46;4903
+2021-02-12;"Okres Myjava";855;5;860
+2021-02-12;"Okres Námestovo";4946;21;4967
+2021-02-12;"Okres Nitra";11697;52;11749
 2021-02-12;"Okres Nové Mesto nad Váhom";2157;46;2203
-2021-02-12;"Okres Nové Zámky";4548;62;4610
-2021-02-12;"Okres Partizánske";1108;30;1138
-2021-02-12;"Okres Pezinok";336;3;339
-2021-02-12;"Okres Piešťany";1843;18;1861
+2021-02-12;"Okres Nové Zámky";5271;72;5343
+2021-02-12;"Okres Partizánske";1413;40;1453
+2021-02-12;"Okres Pezinok";359;3;362
+2021-02-12;"Okres Piešťany";1844;18;1862
 2021-02-12;"Okres Poltár";146;5;151
-2021-02-12;"Okres Poprad";8505;58;8563
-2021-02-12;"Okres Považská Bystrica";3575;36;3611
-2021-02-12;"Okres Prešov";8257;51;8308
-2021-02-12;"Okres Prievidza";3312;66;3378
-2021-02-12;"Okres Púchov";2183;20;2203
+2021-02-12;"Okres Poprad";8509;58;8567
+2021-02-12;"Okres Považská Bystrica";3520;36;3556
+2021-02-12;"Okres Prešov";9054;54;9108
+2021-02-12;"Okres Prievidza";3749;71;3820
+2021-02-12;"Okres Púchov";2753;25;2778
 2021-02-12;"Okres Revúca";3226;82;3308
-2021-02-12;"Okres Rimavská Sobota";3037;49;3086
-2021-02-12;"Okres Rožňava";3871;48;3919
-2021-02-12;"Okres Ružomberok";3258;23;3281
-2021-02-12;"Okres Sabinov";1735;12;1747
-2021-02-12;"Okres Senec";2044;25;2069
-2021-02-12;"Okres Senica";2102;24;2126
-2021-02-12;"Okres Skalica";3425;12;3437
+2021-02-12;"Okres Rimavská Sobota";3383;49;3432
+2021-02-12;"Okres Rožňava";3896;48;3944
+2021-02-12;"Okres Ružomberok";3266;23;3289
+2021-02-12;"Okres Sabinov";2282;16;2298
+2021-02-12;"Okres Senec";1903;20;1923
+2021-02-12;"Okres Senica";2698;24;2722
+2021-02-12;"Okres Skalica";3677;14;3691
 2021-02-12;"Okres Snina";1320;12;1332
 2021-02-12;"Okres Sobrance";1043;17;1060
-2021-02-12;"Okres Spišská Nová Ves";5020;58;5078
+2021-02-12;"Okres Spišská Nová Ves";5295;51;5346
 2021-02-12;"Okres Stará Ľubovňa";938;9;947
-2021-02-12;"Okres Stropkov";302;3;305
-2021-02-12;"Okres Svidník";1247;2;1249
-2021-02-12;"Okres Šaľa";2786;248;3034
-2021-02-12;"Okres Topoľčany";1396;26;1422
-2021-02-12;"Okres Trebišov";9457;199;9656
-2021-02-12;"Okres Trenčín";5926;74;6000
-2021-02-12;"Okres Trnava";6878;84;6962
-2021-02-12;"Okres Turčianske Teplice";852;9;861
+2021-02-12;"Okres Stropkov";521;3;524
+2021-02-12;"Okres Svidník";1578;4;1582
+2021-02-12;"Okres Šaľa";3209;43;3252
+2021-02-12;"Okres Topoľčany";1827;41;1868
+2021-02-12;"Okres Trebišov";9967;205;10172
+2021-02-12;"Okres Trenčín";6733;78;6811
+2021-02-12;"Okres Trnava";6945;86;7031
+2021-02-12;"Okres Turčianske Teplice";1297;14;1311
 2021-02-12;"Okres Tvrdošín";3254;7;3261
-2021-02-12;"Okres Veľký Krtíš";1975;20;1995
+2021-02-12;"Okres Veľký Krtíš";2383;23;2406
 2021-02-12;"Okres Vranov nad Topľou";1887;120;2007
-2021-02-12;"Okres Zlaté Moravce";1369;3;1372
-2021-02-12;"Okres Zvolen";4250;54;4304
-2021-02-12;"Okres Žarnovica";463;7;470
-2021-02-12;"Okres Žiar nad Hronom";3709;54;3763
-2021-02-12;"Okres Žilina";6957;60;7017
-2021-02-13;"Okres Bánovce nad Bebravou";2782;34;2816
-2021-02-13;"Okres Banská Bystrica";6244;18;6262
+2021-02-12;"Okres Zlaté Moravce";1591;12;1603
+2021-02-12;"Okres Zvolen";5114;57;5171
+2021-02-12;"Okres Žarnovica";1584;30;1614
+2021-02-12;"Okres Žiar nad Hronom";3720;56;3776
+2021-02-12;"Okres Žilina";8948;59;9007
+2021-02-13;"Okres Bánovce nad Bebravou";9487;67;9554
+2021-02-13;"Okres Banská Bystrica";7815;24;7839
 2021-02-13;"Okres Banská Štiavnica";903;5;908
-2021-02-13;"Okres Bardejov";5478;15;5493
-2021-02-13;"Okres Bratislava I";3443;17;3460
-2021-02-13;"Okres Bratislava II";2665;32;2697
-2021-02-13;"Okres Bratislava III";1886;24;1910
-2021-02-13;"Okres Bratislava IV";1341;12;1353
-2021-02-13;"Okres Bratislava V";2432;15;2447
-2021-02-13;"Okres Brezno";2129;14;2143
-2021-02-13;"Okres Bytča";1945;15;1960
-2021-02-13;"Okres Čadca";3170;19;3189
-2021-02-13;"Okres Detva";4974;49;5023
-2021-02-13;"Okres Dolný Kubín";2121;19;2140
-2021-02-13;"Okres Dunajská Streda";18780;166;18946
-2021-02-13;"Okres Galanta";12403;94;12497
-2021-02-13;"Okres Gelnica";1885;13;1898
-2021-02-13;"Okres Hlohovec";7119;52;7171
-2021-02-13;"Okres Humenné";5453;38;5491
-2021-02-13;"Okres Ilava";5235;66;5301
-2021-02-13;"Okres Kežmarok";7190;25;7215
-2021-02-13;"Okres Komárno";4941;64;5005
-2021-02-13;"Okres Košice - okolie";13837;94;13931
-2021-02-13;"Okres Košice I";1138;1;1139
-2021-02-13;"Okres Košice II";20563;155;20718
-2021-02-13;"Okres Košice III";143;1;144
-2021-02-13;"Okres Košice IV";2696;17;2713
+2021-02-13;"Okres Bardejov";6479;23;6502
+2021-02-13;"Okres Bratislava I";3565;17;3582
+2021-02-13;"Okres Bratislava II";4116;35;4151
+2021-02-13;"Okres Bratislava III";4890;67;4957
+2021-02-13;"Okres Bratislava IV";6033;48;6081
+2021-02-13;"Okres Bratislava V";9888;71;9959
+2021-02-13;"Okres Brezno";5615;30;5645
+2021-02-13;"Okres Bytča";4223;38;4261
+2021-02-13;"Okres Čadca";4825;36;4861
+2021-02-13;"Okres Detva";4409;36;4445
+2021-02-13;"Okres Dolný Kubín";3272;25;3297
+2021-02-13;"Okres Dunajská Streda";42546;337;42883
+2021-02-13;"Okres Galanta";18571;133;18704
+2021-02-13;"Okres Gelnica";2659;16;2675
+2021-02-13;"Okres Hlohovec";11784;89;11873
+2021-02-13;"Okres Humenné";9775;60;9835
+2021-02-13;"Okres Ilava";5688;72;5760
+2021-02-13;"Okres Kežmarok";9036;27;9063
+2021-02-13;"Okres Komárno";9329;134;9463
+2021-02-13;"Okres Košice - okolie";22326;141;22467
+2021-02-13;"Okres Košice I";1418;5;1423
+2021-02-13;"Okres Košice II";20587;155;20742
+2021-02-13;"Okres Košice III";774;2;776
+2021-02-13;"Okres Košice IV";2637;15;2652
 2021-02-13;"Okres Krupina";2192;26;2218
-2021-02-13;"Okres Kysucké Nové Mesto";882;10;892
-2021-02-13;"Okres Levice";15007;81;15088
-2021-02-13;"Okres Levoča";3033;9;3042
-2021-02-13;"Okres Liptovský Mikuláš";2585;33;2618
-2021-02-13;"Okres Lučenec";1718;13;1731
-2021-02-13;"Okres Malacky";2239;18;2257
-2021-02-13;"Okres Martin";6314;73;6387
-2021-02-13;"Okres Medzilaborce";949;3;952
-2021-02-13;"Okres Michalovce";3014;34;3048
-2021-02-13;"Okres Myjava";2527;5;2532
-2021-02-13;"Okres Námestovo";4520;16;4536
-2021-02-13;"Okres Nitra";16062;41;16103
-2021-02-13;"Okres Nové Mesto nad Váhom";15283;141;15424
-2021-02-13;"Okres Nové Zámky";16029;82;16111
-2021-02-13;"Okres Partizánske";5206;61;5267
-2021-02-13;"Okres Pezinok";945;14;959
-2021-02-13;"Okres Piešťany";6542;67;6609
-2021-02-13;"Okres Poltár";309;7;316
-2021-02-13;"Okres Poprad";7592;56;7648
-2021-02-13;"Okres Považská Bystrica";2890;14;2904
-2021-02-13;"Okres Prešov";4270;37;4307
-2021-02-13;"Okres Prievidza";1359;23;1382
-2021-02-13;"Okres Púchov";2246;24;2270
-2021-02-13;"Okres Revúca";3436;65;3501
-2021-02-13;"Okres Rimavská Sobota";2277;37;2314
-2021-02-13;"Okres Rožňava";6983;226;7209
-2021-02-13;"Okres Ružomberok";3586;19;3605
-2021-02-13;"Okres Sabinov";4308;21;4329
-2021-02-13;"Okres Senec";5176;35;5211
-2021-02-13;"Okres Senica";7164;47;7211
-2021-02-13;"Okres Skalica";458;2;460
-2021-02-13;"Okres Snina";3772;24;3796
+2021-02-13;"Okres Kysucké Nové Mesto";1187;10;1197
+2021-02-13;"Okres Levice";18239;91;18330
+2021-02-13;"Okres Levoča";3786;10;3796
+2021-02-13;"Okres Liptovský Mikuláš";3638;42;3680
+2021-02-13;"Okres Lučenec";2595;26;2621
+2021-02-13;"Okres Malacky";5318;64;5382
+2021-02-13;"Okres Martin";8947;115;9062
+2021-02-13;"Okres Medzilaborce";1298;6;1304
+2021-02-13;"Okres Michalovce";9457;72;9529
+2021-02-13;"Okres Myjava";2528;5;2533
+2021-02-13;"Okres Námestovo";7717;20;7737
+2021-02-13;"Okres Nitra";20467;49;20516
+2021-02-13;"Okres Nové Mesto nad Váhom";17149;151;17300
+2021-02-13;"Okres Nové Zámky";28130;153;28283
+2021-02-13;"Okres Partizánske";14609;150;14759
+2021-02-13;"Okres Pezinok";9307;64;9371
+2021-02-13;"Okres Piešťany";9096;80;9176
+2021-02-13;"Okres Poltár";618;9;627
+2021-02-13;"Okres Poprad";10554;69;10623
+2021-02-13;"Okres Považská Bystrica";2893;14;2907
+2021-02-13;"Okres Prešov";4836;40;4876
+2021-02-13;"Okres Prievidza";2303;28;2331
+2021-02-13;"Okres Púchov";4950;38;4988
+2021-02-13;"Okres Revúca";4148;69;4217
+2021-02-13;"Okres Rimavská Sobota";3287;48;3335
+2021-02-13;"Okres Rožňava";9201;88;9289
+2021-02-13;"Okres Ružomberok";6642;47;6689
+2021-02-13;"Okres Sabinov";4891;24;4915
+2021-02-13;"Okres Senec";11719;66;11785
+2021-02-13;"Okres Senica";14566;95;14661
+2021-02-13;"Okres Skalica";2198;12;2210
+2021-02-13;"Okres Snina";4486;28;4514
 2021-02-13;"Okres Sobrance";1805;16;1821
-2021-02-13;"Okres Spišská Nová Ves";8089;79;8168
+2021-02-13;"Okres Spišská Nová Ves";8841;90;8931
 2021-02-13;"Okres Stará Ľubovňa";5040;18;5058
-2021-02-13;"Okres Stropkov";183;2;185
-2021-02-13;"Okres Svidník";721;1;722
-2021-02-13;"Okres Šaľa";4081;37;4118
-2021-02-13;"Okres Topoľčany";3734;26;3760
-2021-02-13;"Okres Trebišov";9020;90;9110
-2021-02-13;"Okres Trenčín";6905;44;6949
-2021-02-13;"Okres Trnava";17906;102;18008
-2021-02-13;"Okres Turčianske Teplice";676;9;685
-2021-02-13;"Okres Tvrdošín";1795;1;1796
-2021-02-13;"Okres Veľký Krtíš";1661;7;1668
-2021-02-13;"Okres Vranov nad Topľou";3470;26;3496
-2021-02-13;"Okres Zlaté Moravce";1751;10;1761
-2021-02-13;"Okres Zvolen";8334;93;8427
-2021-02-13;"Okres Žarnovica";1156;15;1171
-2021-02-13;"Okres Žiar nad Hronom";2501;25;2526
-2021-02-13;"Okres Žilina";16492;78;16570
-2021-02-14;"Okres Bánovce nad Bebravou";2475;29;2504
-2021-02-14;"Okres Banská Bystrica";4980;52;5032
+2021-02-13;"Okres Stropkov";267;2;269
+2021-02-13;"Okres Svidník";2850;5;2855
+2021-02-13;"Okres Šaľa";5871;50;5921
+2021-02-13;"Okres Topoľčany";12081;90;12171
+2021-02-13;"Okres Trebišov";13733;167;13900
+2021-02-13;"Okres Trenčín";8535;56;8591
+2021-02-13;"Okres Trnava";36614;224;36838
+2021-02-13;"Okres Turčianske Teplice";955;11;966
+2021-02-13;"Okres Tvrdošín";3074;3;3077
+2021-02-13;"Okres Veľký Krtíš";2474;15;2489
+2021-02-13;"Okres Vranov nad Topľou";8538;61;8599
+2021-02-13;"Okres Zlaté Moravce";7623;29;7652
+2021-02-13;"Okres Zvolen";10896;106;11002
+2021-02-13;"Okres Žarnovica";1454;18;1472
+2021-02-13;"Okres Žiar nad Hronom";4420;46;4466
+2021-02-13;"Okres Žilina";24132;116;24248
+2021-02-14;"Okres Bánovce nad Bebravou";4137;44;4181
+2021-02-14;"Okres Banská Bystrica";5843;53;5896
 2021-02-14;"Okres Banská Štiavnica";250;3;253
-2021-02-14;"Okres Bardejov";2858;16;2874
-2021-02-14;"Okres Bratislava I";1412;14;1426
-2021-02-14;"Okres Bratislava II";2524;15;2539
-2021-02-14;"Okres Bratislava III";2061;15;2076
-2021-02-14;"Okres Bratislava IV";1116;9;1125
-2021-02-14;"Okres Bratislava V";1689;13;1702
-2021-02-14;"Okres Brezno";3266;23;3289
+2021-02-14;"Okres Bardejov";3456;34;3490
+2021-02-14;"Okres Bratislava I";1416;14;1430
+2021-02-14;"Okres Bratislava II";5565;35;5600
+2021-02-14;"Okres Bratislava III";4232;32;4264
+2021-02-14;"Okres Bratislava IV";6309;53;6362
+2021-02-14;"Okres Bratislava V";9341;62;9403
+2021-02-14;"Okres Brezno";4495;29;4524
 2021-02-14;"Okres Bytča";491;4;495
-2021-02-14;"Okres Čadca";2284;12;2296
+2021-02-14;"Okres Čadca";4417;26;4443
 2021-02-14;"Okres Detva";1768;17;1785
 2021-02-14;"Okres Dolný Kubín";2349;21;2370
-2021-02-14;"Okres Dunajská Streda";15055;127;15182
-2021-02-14;"Okres Galanta";10897;144;11041
+2021-02-14;"Okres Dunajská Streda";14194;108;14302
+2021-02-14;"Okres Galanta";11358;147;11505
 2021-02-14;"Okres Gelnica";3137;22;3159
-2021-02-14;"Okres Hlohovec";1316;223;1539
-2021-02-14;"Okres Humenné";3913;31;3944
-2021-02-14;"Okres Ilava";2296;33;2329
-2021-02-14;"Okres Kežmarok";4047;25;4072
-2021-02-14;"Okres Komárno";4789;43;4832
-2021-02-14;"Okres Košice - okolie";3751;18;3769
+2021-02-14;"Okres Hlohovec";4548;41;4589
+2021-02-14;"Okres Humenné";4350;38;4388
+2021-02-14;"Okres Ilava";2511;33;2544
+2021-02-14;"Okres Kežmarok";5393;40;5433
+2021-02-14;"Okres Komárno";4260;39;4299
+2021-02-14;"Okres Košice - okolie";5274;45;5319
 2021-02-14;"Okres Košice I";735;3;738
-2021-02-14;"Okres Košice II";27087;197;27284
-2021-02-14;"Okres Košice III";178;1;179
-2021-02-14;"Okres Košice IV";1728;23;1751
-2021-02-14;"Okres Krupina";1230;1;1231
-2021-02-14;"Okres Kysucké Nové Mesto";1144;8;1152
-2021-02-14;"Okres Levice";7188;46;7234
-2021-02-14;"Okres Levoča";1702;4;1706
-2021-02-14;"Okres Liptovský Mikuláš";527;9;536
-2021-02-14;"Okres Lučenec";2426;31;2457
-2021-02-14;"Okres Malacky";896;10;906
-2021-02-14;"Okres Martin";2879;46;2925
+2021-02-14;"Okres Košice II";27160;198;27358
+2021-02-14;"Okres Košice III";923;3;926
+2021-02-14;"Okres Košice IV";1848;23;1871
+2021-02-14;"Okres Krupina";1636;1;1637
+2021-02-14;"Okres Kysucké Nové Mesto";1822;9;1831
+2021-02-14;"Okres Levice";8097;47;8144
+2021-02-14;"Okres Levoča";2188;5;2193
+2021-02-14;"Okres Liptovský Mikuláš";1046;20;1066
+2021-02-14;"Okres Lučenec";2711;41;2752
+2021-02-14;"Okres Malacky";2101;24;2125
+2021-02-14;"Okres Martin";3299;53;3352
 2021-02-14;"Okres Medzilaborce";760;6;766
-2021-02-14;"Okres Michalovce";2541;26;2567
+2021-02-14;"Okres Michalovce";3504;34;3538
 2021-02-14;"Okres Myjava";2410;14;2424
-2021-02-14;"Okres Námestovo";317;1;318
-2021-02-14;"Okres Nitra";10487;31;10518
-2021-02-14;"Okres Nové Mesto nad Váhom";5888;49;5937
-2021-02-14;"Okres Nové Zámky";6357;47;6404
-2021-02-14;"Okres Partizánske";7122;62;7184
-2021-02-14;"Okres Pezinok";1293;3;1296
-2021-02-14;"Okres Piešťany";2410;31;2441
-2021-02-14;"Okres Poltár";350;6;356
-2021-02-14;"Okres Poprad";4171;38;4209
-2021-02-14;"Okres Považská Bystrica";2412;54;2466
-2021-02-14;"Okres Prešov";2478;17;2495
-2021-02-14;"Okres Prievidza";1082;13;1095
-2021-02-14;"Okres Púchov";358;1;359
+2021-02-14;"Okres Námestovo";827;3;830
+2021-02-14;"Okres Nitra";12525;38;12563
+2021-02-14;"Okres Nové Mesto nad Váhom";5923;50;5973
+2021-02-14;"Okres Nové Zámky";11076;75;11151
+2021-02-14;"Okres Partizánske";3404;35;3439
+2021-02-14;"Okres Pezinok";1599;4;1603
+2021-02-14;"Okres Piešťany";3052;35;3087
+2021-02-14;"Okres Poltár";675;7;682
+2021-02-14;"Okres Poprad";4616;41;4657
+2021-02-14;"Okres Považská Bystrica";2413;54;2467
+2021-02-14;"Okres Prešov";2882;27;2909
+2021-02-14;"Okres Prievidza";1125;14;1139
+2021-02-14;"Okres Púchov";1790;6;1796
 2021-02-14;"Okres Revúca";3688;87;3775
-2021-02-14;"Okres Rimavská Sobota";2436;52;2488
-2021-02-14;"Okres Rožňava";3099;35;3134
-2021-02-14;"Okres Ružomberok";759;11;770
-2021-02-14;"Okres Sabinov";1572;35;1607
-2021-02-14;"Okres Senec";2622;16;2638
-2021-02-14;"Okres Senica";4567;34;4601
-2021-02-14;"Okres Skalica";1206;10;1216
-2021-02-14;"Okres Snina";2320;31;2351
-2021-02-14;"Okres Sobrance";473;5;478
-2021-02-14;"Okres Spišská Nová Ves";1136;17;1153
-2021-02-14;"Okres Stará Ľubovňa";2927;20;2947
-2021-02-14;"Okres Stropkov";219;1;220
+2021-02-14;"Okres Rimavská Sobota";2876;59;2935
+2021-02-14;"Okres Rožňava";3958;49;4007
+2021-02-14;"Okres Ružomberok";983;11;994
+2021-02-14;"Okres Sabinov";2253;39;2292
+2021-02-14;"Okres Senec";5770;31;5801
+2021-02-14;"Okres Senica";7509;49;7558
+2021-02-14;"Okres Skalica";1753;13;1766
+2021-02-14;"Okres Snina";2761;36;2797
+2021-02-14;"Okres Sobrance";477;6;483
+2021-02-14;"Okres Spišská Nová Ves";3224;39;3263
+2021-02-14;"Okres Stará Ľubovňa";2937;20;2957
+2021-02-14;"Okres Stropkov";370;2;372
 2021-02-14;"Okres Svidník";633;0;633
 2021-02-14;"Okres Šaľa";2034;32;2066
-2021-02-14;"Okres Topoľčany";4731;25;4756
-2021-02-14;"Okres Trebišov";4964;79;5043
-2021-02-14;"Okres Trenčín";4329;41;4370
-2021-02-14;"Okres Trnava";4287;28;4315
-2021-02-14;"Okres Turčianske Teplice";374;3;377
-2021-02-14;"Okres Tvrdošín";611;1;612
-2021-02-14;"Okres Veľký Krtíš";604;0;604
-2021-02-14;"Okres Vranov nad Topľou";3586;19;3605
-2021-02-14;"Okres Zlaté Moravce";1545;7;1552
-2021-02-14;"Okres Zvolen";2704;28;2732
-2021-02-14;"Okres Žarnovica";12;0;12
-2021-02-14;"Okres Žiar nad Hronom";2291;24;2315
-2021-02-14;"Okres Žilina";10091;64;10155
-2021-02-15;"Okres Bratislava III";10;0;10
-2021-02-15;"Okres Bratislava IV";3;0;3
-2021-02-15;"Okres Kežmarok";261;0;261
-2021-02-15;"Okres Komárno";19;0;19
-2021-02-15;"Okres Košice II";115;7;122
-2021-02-15;"Okres Liptovský Mikuláš";1;2;3
-2021-02-15;"Okres Nitra";1888;3;1891
-2021-02-15;"Okres Nové Zámky";15;0;15
-2021-02-15;"Okres Považská Bystrica";20;0;20
-2021-02-15;"Okres Prievidza";6;0;6
-2021-02-15;"Okres Púchov";0;0;0
-2021-02-15;"Okres Snina";195;0;195
-2021-02-15;"Okres Sobrance";66;0;66
-2021-02-15;"Okres Trenčín";14;0;14
-2021-02-15;"Okres Trnava";1;0;1
-2021-02-15;"Okres Vranov nad Topľou";6;1;7
-2021-02-15;"Okres Zvolen";5;0;5
-2021-02-15;"Okres Žiar nad Hronom";4;0;4
-2021-02-15;"Okres Žilina";281;1;282
+2021-02-14;"Okres Topoľčany";7345;40;7385
+2021-02-14;"Okres Trebišov";6892;103;6995
+2021-02-14;"Okres Trenčín";5592;53;5645
+2021-02-14;"Okres Trnava";15429;109;15538
+2021-02-14;"Okres Turčianske Teplice";669;5;674
+2021-02-14;"Okres Tvrdošín";1319;6;1325
+2021-02-14;"Okres Veľký Krtíš";1992;8;2000
+2021-02-14;"Okres Vranov nad Topľou";6355;30;6385
+2021-02-14;"Okres Zlaté Moravce";2031;7;2038
+2021-02-14;"Okres Zvolen";3503;35;3538
+2021-02-14;"Okres Žarnovica";348;12;360
+2021-02-14;"Okres Žiar nad Hronom";2398;26;2424
+2021-02-14;"Okres Žilina";10506;66;10572
+2021-02-15;"Okres Bánovce nad Bebravou";568;17;585
+2021-02-15;"Okres Banská Bystrica";6000;58;6058
+2021-02-15;"Okres Banská Štiavnica";839;19;858
+2021-02-15;"Okres Bardejov";2383;21;2404
+2021-02-15;"Okres Bratislava I";5072;29;5101
+2021-02-15;"Okres Bratislava II";5390;54;5444
+2021-02-15;"Okres Bratislava III";6322;48;6370
+2021-02-15;"Okres Bratislava IV";3483;29;3512
+2021-02-15;"Okres Bratislava V";6064;97;6161
+2021-02-15;"Okres Brezno";1774;46;1820
+2021-02-15;"Okres Bytča";502;19;521
+2021-02-15;"Okres Čadca";3391;36;3427
+2021-02-15;"Okres Detva";2637;39;2676
+2021-02-15;"Okres Dolný Kubín";2033;27;2060
+2021-02-15;"Okres Dunajská Streda";2318;82;2400
+2021-02-15;"Okres Galanta";5011;50;5061
+2021-02-15;"Okres Gelnica";268;12;280
+2021-02-15;"Okres Hlohovec";699;19;718
+2021-02-15;"Okres Humenné";2770;44;2814
+2021-02-15;"Okres Ilava";3336;84;3420
+2021-02-15;"Okres Kežmarok";2816;17;2833
+2021-02-15;"Okres Komárno";2796;85;2881
+2021-02-15;"Okres Košice - okolie";3295;42;3337
+2021-02-15;"Okres Košice I";1724;18;1742
+2021-02-15;"Okres Košice II";4100;66;4166
+2021-02-15;"Okres Košice III";472;12;484
+2021-02-15;"Okres Košice IV";3312;43;3355
+2021-02-15;"Okres Krupina";1574;18;1592
+2021-02-15;"Okres Kysucké Nové Mesto";1242;16;1258
+2021-02-15;"Okres Levice";3673;50;3723
+2021-02-15;"Okres Levoča";607;3;610
+2021-02-15;"Okres Liptovský Mikuláš";3174;40;3214
+2021-02-15;"Okres Lučenec";2707;48;2755
+2021-02-15;"Okres Malacky";1357;20;1377
+2021-02-15;"Okres Martin";6655;66;6721
+2021-02-15;"Okres Medzilaborce";358;2;360
+2021-02-15;"Okres Michalovce";3448;32;3480
+2021-02-15;"Okres Myjava";539;0;539
+2021-02-15;"Okres Námestovo";1650;13;1663
+2021-02-15;"Okres Nitra";7073;173;7246
+2021-02-15;"Okres Nové Mesto nad Váhom";1512;38;1550
+2021-02-15;"Okres Nové Zámky";4197;58;4255
+2021-02-15;"Okres Partizánske";1096;50;1146
+2021-02-15;"Okres Pezinok";977;16;993
+2021-02-15;"Okres Piešťany";1858;28;1886
+2021-02-15;"Okres Poltár";175;5;180
+2021-02-15;"Okres Poprad";4619;49;4668
+2021-02-15;"Okres Považská Bystrica";2729;57;2786
+2021-02-15;"Okres Prešov";5388;52;5440
+2021-02-15;"Okres Prievidza";4551;106;4657
+2021-02-15;"Okres Púchov";2810;34;2844
+2021-02-15;"Okres Revúca";1352;45;1397
+2021-02-15;"Okres Rimavská Sobota";2892;59;2951
+2021-02-15;"Okres Rožňava";2809;50;2859
+2021-02-15;"Okres Ružomberok";4319;40;4359
+2021-02-15;"Okres Sabinov";1357;19;1376
+2021-02-15;"Okres Senec";2628;29;2657
+2021-02-15;"Okres Senica";1282;18;1300
+2021-02-15;"Okres Skalica";2973;22;2995
+2021-02-15;"Okres Snina";1351;12;1363
+2021-02-15;"Okres Sobrance";1448;11;1459
+2021-02-15;"Okres Spišská Nová Ves";3679;63;3742
+2021-02-15;"Okres Stará Ľubovňa";656;5;661
+2021-02-15;"Okres Stropkov";2609;17;2626
+2021-02-15;"Okres Svidník";2037;5;2042
+2021-02-15;"Okres Šaľa";4716;41;4757
+2021-02-15;"Okres Topoľčany";2575;42;2617
+2021-02-15;"Okres Trebišov";3251;72;3323
+2021-02-15;"Okres Trenčín";4840;80;4920
+2021-02-15;"Okres Trnava";2971;35;3006
+2021-02-15;"Okres Turčianske Teplice";750;5;755
+2021-02-15;"Okres Tvrdošín";1367;12;1379
+2021-02-15;"Okres Veľký Krtíš";3075;30;3105
+2021-02-15;"Okres Vranov nad Topľou";2278;39;2317
+2021-02-15;"Okres Zlaté Moravce";1426;13;1439
+2021-02-15;"Okres Zvolen";4866;82;4948
+2021-02-15;"Okres Žarnovica";1629;37;1666
+2021-02-15;"Okres Žiar nad Hronom";6858;108;6966
+2021-02-15;"Okres Žilina";7131;42;7173
+2021-02-16;"Okres Bánovce nad Bebravou";1155;39;1194
+2021-02-16;"Okres Banská Bystrica";5091;76;5167
+2021-02-16;"Okres Banská Štiavnica";668;13;681
+2021-02-16;"Okres Bardejov";1491;21;1512
+2021-02-16;"Okres Bratislava I";3344;18;3362
+2021-02-16;"Okres Bratislava II";5042;55;5097
+2021-02-16;"Okres Bratislava III";4758;41;4799
+2021-02-16;"Okres Bratislava IV";1964;19;1983
+2021-02-16;"Okres Bratislava V";2256;28;2284
+2021-02-16;"Okres Brezno";929;21;950
+2021-02-16;"Okres Bytča";328;12;340
+2021-02-16;"Okres Čadca";2371;33;2404
+2021-02-16;"Okres Detva";812;27;839
+2021-02-16;"Okres Dolný Kubín";1243;36;1279
+2021-02-16;"Okres Dunajská Streda";2559;77;2636
+2021-02-16;"Okres Galanta";1822;51;1873
+2021-02-16;"Okres Gelnica";260;11;271
+2021-02-16;"Okres Hlohovec";815;33;848
+2021-02-16;"Okres Humenné";1474;31;1505
+2021-02-16;"Okres Ilava";1692;56;1748
+2021-02-16;"Okres Kežmarok";1303;10;1313
+2021-02-16;"Okres Komárno";2614;78;2692
+2021-02-16;"Okres Košice - okolie";636;10;646
+2021-02-16;"Okres Košice I";1454;26;1480
+2021-02-16;"Okres Košice II";3138;55;3193
+2021-02-16;"Okres Košice III";465;13;478
+2021-02-16;"Okres Košice IV";4769;126;4895
+2021-02-16;"Okres Krupina";425;5;430
+2021-02-16;"Okres Kysucké Nové Mesto";733;16;749
+2021-02-16;"Okres Levice";2706;43;2749
+2021-02-16;"Okres Levoča";985;6;991
+2021-02-16;"Okres Liptovský Mikuláš";1826;36;1862
+2021-02-16;"Okres Lučenec";1835;27;1862
+2021-02-16;"Okres Malacky";1979;37;2016
+2021-02-16;"Okres Martin";7423;69;7492
+2021-02-16;"Okres Medzilaborce";248;1;249
+2021-02-16;"Okres Michalovce";4311;49;4360
+2021-02-16;"Okres Myjava";245;4;249
+2021-02-16;"Okres Námestovo";858;10;868
+2021-02-16;"Okres Nitra";2619;36;2655
+2021-02-16;"Okres Nové Mesto nad Váhom";1019;36;1055
+2021-02-16;"Okres Nové Zámky";3635;69;3704
+2021-02-16;"Okres Partizánske";836;23;859
+2021-02-16;"Okres Pezinok";1212;25;1237
+2021-02-16;"Okres Piešťany";1745;43;1788
+2021-02-16;"Okres Poltár";592;3;595
+2021-02-16;"Okres Poprad";3869;37;3906
+2021-02-16;"Okres Považská Bystrica";1896;32;1928
+2021-02-16;"Okres Prešov";4784;70;4854
+2021-02-16;"Okres Prievidza";2570;80;2650
+2021-02-16;"Okres Púchov";1131;13;1144
+2021-02-16;"Okres Revúca";1526;70;1596
+2021-02-16;"Okres Rimavská Sobota";2510;40;2550
+2021-02-16;"Okres Rožňava";2378;71;2449
+2021-02-16;"Okres Ružomberok";4151;47;4198
+2021-02-16;"Okres Sabinov";865;17;882
+2021-02-16;"Okres Senec";1881;38;1919
+2021-02-16;"Okres Senica";929;15;944
+2021-02-16;"Okres Skalica";1005;14;1019
+2021-02-16;"Okres Snina";988;20;1008
+2021-02-16;"Okres Sobrance";569;11;580
+2021-02-16;"Okres Spišská Nová Ves";2841;42;2883
+2021-02-16;"Okres Stará Ľubovňa";449;6;455
+2021-02-16;"Okres Stropkov";217;3;220
+2021-02-16;"Okres Svidník";520;7;527
+2021-02-16;"Okres Šaľa";933;18;951
+2021-02-16;"Okres Topoľčany";1412;28;1440
+2021-02-16;"Okres Trebišov";1369;51;1420
+2021-02-16;"Okres Trenčín";6708;110;6818
+2021-02-16;"Okres Trnava";2497;56;2553
+2021-02-16;"Okres Turčianske Teplice";417;13;430
+2021-02-16;"Okres Tvrdošín";1249;9;1258
+2021-02-16;"Okres Veľký Krtíš";1435;13;1448
+2021-02-16;"Okres Vranov nad Topľou";621;23;644
+2021-02-16;"Okres Zlaté Moravce";423;6;429
+2021-02-16;"Okres Zvolen";2492;45;2537
+2021-02-16;"Okres Žarnovica";1048;15;1063
+2021-02-16;"Okres Žiar nad Hronom";1091;19;1110
+2021-02-16;"Okres Žilina";3980;45;4025
+2021-02-17;"Okres Bánovce nad Bebravou";463;25;488
+2021-02-17;"Okres Banská Bystrica";3574;55;3629
+2021-02-17;"Okres Banská Štiavnica";540;11;551
+2021-02-17;"Okres Bardejov";1345;21;1366
+2021-02-17;"Okres Bratislava I";2561;21;2582
+2021-02-17;"Okres Bratislava II";4125;46;4171
+2021-02-17;"Okres Bratislava III";3621;45;3666
+2021-02-17;"Okres Bratislava IV";3254;44;3298
+2021-02-17;"Okres Bratislava V";2555;48;2603
+2021-02-17;"Okres Brezno";659;15;674
+2021-02-17;"Okres Bytča";241;7;248
+2021-02-17;"Okres Čadca";2292;58;2350
+2021-02-17;"Okres Detva";672;17;689
+2021-02-17;"Okres Dolný Kubín";1104;32;1136
+2021-02-17;"Okres Dunajská Streda";1495;75;1570
+2021-02-17;"Okres Galanta";1284;56;1340
+2021-02-17;"Okres Gelnica";383;13;396
+2021-02-17;"Okres Hlohovec";785;137;922
+2021-02-17;"Okres Humenné";1078;34;1112
+2021-02-17;"Okres Ilava";1549;56;1605
+2021-02-17;"Okres Kežmarok";1402;14;1416
+2021-02-17;"Okres Komárno";2150;82;2232
+2021-02-17;"Okres Košice - okolie";646;12;658
+2021-02-17;"Okres Košice I";921;13;934
+2021-02-17;"Okres Košice II";3738;79;3817
+2021-02-17;"Okres Košice III";299;9;308
+2021-02-17;"Okres Košice IV";2614;82;2696
+2021-02-17;"Okres Krupina";325;9;334
+2021-02-17;"Okres Kysucké Nové Mesto";696;17;713
+2021-02-17;"Okres Levice";2264;55;2319
+2021-02-17;"Okres Levoča";681;0;681
+2021-02-17;"Okres Liptovský Mikuláš";1629;40;1669
+2021-02-17;"Okres Lučenec";1666;41;1707
+2021-02-17;"Okres Malacky";1016;17;1033
+2021-02-17;"Okres Martin";3907;66;3973
+2021-02-17;"Okres Medzilaborce";230;4;234
+2021-02-17;"Okres Michalovce";4011;54;4065
+2021-02-17;"Okres Myjava";228;4;232
+2021-02-17;"Okres Námestovo";423;6;429
+2021-02-17;"Okres Nitra";2691;31;2722
+2021-02-17;"Okres Nové Mesto nad Váhom";570;39;609
+2021-02-17;"Okres Nové Zámky";2502;62;2564
+2021-02-17;"Okres Partizánske";543;46;589
+2021-02-17;"Okres Pezinok";1040;18;1058
+2021-02-17;"Okres Piešťany";1147;23;1170
+2021-02-17;"Okres Poltár";180;7;187
+2021-02-17;"Okres Poprad";4616;41;4657
+2021-02-17;"Okres Považská Bystrica";1757;31;1788
+2021-02-17;"Okres Prešov";4089;69;4158
+2021-02-17;"Okres Prievidza";1896;83;1979
+2021-02-17;"Okres Púchov";1118;12;1130
+2021-02-17;"Okres Revúca";1350;39;1389
+2021-02-17;"Okres Rimavská Sobota";2340;51;2391
+2021-02-17;"Okres Rožňava";1248;29;1277
+2021-02-17;"Okres Ružomberok";1859;32;1891
+2021-02-17;"Okres Sabinov";749;11;760
+2021-02-17;"Okres Senec";975;18;993
+2021-02-17;"Okres Senica";848;28;876
+2021-02-17;"Okres Skalica";1133;17;1150
+2021-02-17;"Okres Snina";656;9;665
+2021-02-17;"Okres Sobrance";573;11;584
+2021-02-17;"Okres Spišská Nová Ves";2555;41;2596
+2021-02-17;"Okres Stará Ľubovňa";466;13;479
+2021-02-17;"Okres Stropkov";191;2;193
+2021-02-17;"Okres Svidník";354;3;357
+2021-02-17;"Okres Šaľa";622;23;645
+2021-02-17;"Okres Topoľčany";1184;35;1219
+2021-02-17;"Okres Trebišov";1432;42;1474
+2021-02-17;"Okres Trenčín";3571;76;3647
+2021-02-17;"Okres Trnava";1495;55;1550
+2021-02-17;"Okres Turčianske Teplice";413;9;422
+2021-02-17;"Okres Tvrdošín";1123;6;1129
+2021-02-17;"Okres Veľký Krtíš";906;22;928
+2021-02-17;"Okres Vranov nad Topľou";991;19;1010
+2021-02-17;"Okres Zlaté Moravce";531;10;541
+2021-02-17;"Okres Zvolen";1360;47;1407
+2021-02-17;"Okres Žarnovica";1027;29;1056
+2021-02-17;"Okres Žiar nad Hronom";1286;40;1326
+2021-02-17;"Okres Žilina";3637;60;3697
+2021-02-18;"Okres Bánovce nad Bebravou";865;33;898
+2021-02-18;"Okres Banská Bystrica";4612;34;4646
+2021-02-18;"Okres Banská Štiavnica";487;13;500
+2021-02-18;"Okres Bardejov";1353;42;1395
+2021-02-18;"Okres Bratislava I";3122;32;3154
+2021-02-18;"Okres Bratislava II";4623;62;4685
+2021-02-18;"Okres Bratislava III";4631;56;4687
+2021-02-18;"Okres Bratislava IV";2683;38;2721
+2021-02-18;"Okres Bratislava V";2882;44;2926
+2021-02-18;"Okres Brezno";789;72;861
+2021-02-18;"Okres Bytča";284;9;293
+2021-02-18;"Okres Čadca";2010;41;2051
+2021-02-18;"Okres Detva";1145;23;1168
+2021-02-18;"Okres Dolný Kubín";1158;25;1183
+2021-02-18;"Okres Dunajská Streda";1930;84;2014
+2021-02-18;"Okres Galanta";1895;65;1960
+2021-02-18;"Okres Gelnica";241;9;250
+2021-02-18;"Okres Hlohovec";815;44;859
+2021-02-18;"Okres Humenné";989;34;1023
+2021-02-18;"Okres Ilava";1597;80;1677
+2021-02-18;"Okres Kežmarok";1197;18;1215
+2021-02-18;"Okres Komárno";1583;81;1664
+2021-02-18;"Okres Košice - okolie";519;23;542
+2021-02-18;"Okres Košice I";861;17;878
+2021-02-18;"Okres Košice II";3426;42;3468
+2021-02-18;"Okres Košice III";473;8;481
+2021-02-18;"Okres Košice IV";3346;52;3398
+2021-02-18;"Okres Krupina";534;14;548
+2021-02-18;"Okres Kysucké Nové Mesto";763;14;777
+2021-02-18;"Okres Levice";2516;45;2561
+2021-02-18;"Okres Levoča";615;9;624
+2021-02-18;"Okres Liptovský Mikuláš";3582;61;3643
+2021-02-18;"Okres Lučenec";2011;28;2039
+2021-02-18;"Okres Malacky";991;11;1002
+2021-02-18;"Okres Martin";4292;72;4364
+2021-02-18;"Okres Medzilaborce";166;9;175
+2021-02-18;"Okres Michalovce";3222;50;3272
+2021-02-18;"Okres Myjava";148;4;152
+2021-02-18;"Okres Námestovo";869;13;882
+2021-02-18;"Okres Nitra";6871;25;6896
+2021-02-18;"Okres Nové Mesto nad Váhom";1321;38;1359
+2021-02-18;"Okres Nové Zámky";2511;59;2570
+2021-02-18;"Okres Partizánske";785;33;818
+2021-02-18;"Okres Pezinok";1134;32;1166
+2021-02-18;"Okres Piešťany";1624;43;1667
+2021-02-18;"Okres Poltár";148;3;151
+2021-02-18;"Okres Poprad";3398;52;3450
+2021-02-18;"Okres Považská Bystrica";1799;30;1829
+2021-02-18;"Okres Prešov";4334;55;4389
+2021-02-18;"Okres Prievidza";1662;66;1728
+2021-02-18;"Okres Púchov";1223;21;1244
+2021-02-18;"Okres Revúca";1245;50;1295
+2021-02-18;"Okres Rimavská Sobota";2661;44;2705
+2021-02-18;"Okres Rožňava";1584;41;1625
+2021-02-18;"Okres Ružomberok";1590;22;1612
+2021-02-18;"Okres Sabinov";756;18;774
+2021-02-18;"Okres Senec";1170;16;1186
+2021-02-18;"Okres Senica";935;25;960
+2021-02-18;"Okres Skalica";2165;31;2196
+2021-02-18;"Okres Snina";639;16;655
+2021-02-18;"Okres Sobrance";435;19;454
+2021-02-18;"Okres Spišská Nová Ves";2766;35;2801
+2021-02-18;"Okres Stará Ľubovňa";343;5;348
+2021-02-18;"Okres Stropkov";145;2;147
+2021-02-18;"Okres Svidník";448;2;450
+2021-02-18;"Okres Šaľa";778;24;802
+2021-02-18;"Okres Topoľčany";1348;22;1370
+2021-02-18;"Okres Trebišov";1323;49;1372
+2021-02-18;"Okres Trenčín";3581;62;3643
+2021-02-18;"Okres Trnava";1467;38;1505
+2021-02-18;"Okres Turčianske Teplice";714;9;723
+2021-02-18;"Okres Tvrdošín";1951;4;1955
+2021-02-18;"Okres Veľký Krtíš";1233;29;1262
+2021-02-18;"Okres Vranov nad Topľou";1305;26;1331
+2021-02-18;"Okres Zlaté Moravce";771;7;778
+2021-02-18;"Okres Zvolen";2198;45;2243
+2021-02-18;"Okres Žarnovica";716;14;730
+2021-02-18;"Okres Žiar nad Hronom";1032;25;1057
+2021-02-18;"Okres Žilina";7112;64;7176
+2021-02-19;"Okres Bánovce nad Bebravou";2005;33;2038
+2021-02-19;"Okres Banská Bystrica";9843;90;9933
+2021-02-19;"Okres Banská Štiavnica";932;19;951
+2021-02-19;"Okres Bardejov";3369;44;3413
+2021-02-19;"Okres Bratislava I";4864;29;4893
+2021-02-19;"Okres Bratislava II";7802;50;7852
+2021-02-19;"Okres Bratislava III";6675;58;6733
+2021-02-19;"Okres Bratislava IV";5549;58;5607
+2021-02-19;"Okres Bratislava V";4839;50;4889
+2021-02-19;"Okres Brezno";1934;36;1970
+2021-02-19;"Okres Bytča";1712;10;1722
+2021-02-19;"Okres Čadca";4435;70;4505
+2021-02-19;"Okres Detva";1586;26;1612
+2021-02-19;"Okres Dolný Kubín";3619;37;3656
+2021-02-19;"Okres Dunajská Streda";4347;92;4439
+2021-02-19;"Okres Galanta";4361;61;4422
+2021-02-19;"Okres Gelnica";739;10;749
+2021-02-19;"Okres Hlohovec";709;10;719
+2021-02-19;"Okres Humenné";3141;53;3194
+2021-02-19;"Okres Ilava";4687;87;4774
+2021-02-19;"Okres Kežmarok";3444;21;3465
+2021-02-19;"Okres Komárno";4122;77;4199
+2021-02-19;"Okres Košice - okolie";1820;31;1851
+2021-02-19;"Okres Košice I";3359;11;3370
+2021-02-19;"Okres Košice II";10022;77;10099
+2021-02-19;"Okres Košice III";974;6;980
+2021-02-19;"Okres Košice IV";6429;234;6663
+2021-02-19;"Okres Krupina";1267;8;1275
+2021-02-19;"Okres Kysucké Nové Mesto";1314;15;1329
+2021-02-19;"Okres Levice";3679;52;3731
+2021-02-19;"Okres Levoča";1272;10;1282
+2021-02-19;"Okres Liptovský Mikuláš";5309;73;5382
+2021-02-19;"Okres Lučenec";4541;38;4579
+2021-02-19;"Okres Malacky";1854;45;1899
+2021-02-19;"Okres Martin";5851;69;5920
+2021-02-19;"Okres Medzilaborce";338;4;342
+2021-02-19;"Okres Michalovce";5274;47;5321
+2021-02-19;"Okres Myjava";1235;15;1250
+2021-02-19;"Okres Námestovo";4948;28;4976
+2021-02-19;"Okres Nitra";14651;44;14695
+2021-02-19;"Okres Nové Mesto nad Váhom";2223;55;2278
+2021-02-19;"Okres Nové Zámky";6315;70;6385
+2021-02-19;"Okres Partizánske";2341;57;2398
+2021-02-19;"Okres Pezinok";1542;35;1577
+2021-02-19;"Okres Piešťany";2263;28;2291
+2021-02-19;"Okres Poltár";256;2;258
+2021-02-19;"Okres Poprad";7530;60;7590
+2021-02-19;"Okres Považská Bystrica";4346;55;4401
+2021-02-19;"Okres Prešov";8390;81;8471
+2021-02-19;"Okres Prievidza";3800;76;3876
+2021-02-19;"Okres Púchov";1798;30;1828
+2021-02-19;"Okres Revúca";2895;52;2947
+2021-02-19;"Okres Rimavská Sobota";4643;71;4714
+2021-02-19;"Okres Rožňava";3556;59;3615
+2021-02-19;"Okres Ružomberok";3137;30;3167
+2021-02-19;"Okres Sabinov";2006;36;2042
+2021-02-19;"Okres Senec";2478;20;2498
+2021-02-19;"Okres Senica";3383;34;3417
+2021-02-19;"Okres Skalica";3658;33;3691
+2021-02-19;"Okres Snina";1457;21;1478
+2021-02-19;"Okres Sobrance";1086;14;1100
+2021-02-19;"Okres Spišská Nová Ves";5441;42;5483
+2021-02-19;"Okres Stará Ľubovňa";1191;18;1209
+2021-02-19;"Okres Stropkov";349;3;352
+2021-02-19;"Okres Svidník";1441;12;1453
+2021-02-19;"Okres Šaľa";2683;25;2708
+2021-02-19;"Okres Topoľčany";2176;35;2211
+2021-02-19;"Okres Trebišov";2787;51;2838
+2021-02-19;"Okres Trenčín";6330;92;6422
+2021-02-19;"Okres Trnava";7259;75;7334
+2021-02-19;"Okres Turčianske Teplice";914;10;924
+2021-02-19;"Okres Tvrdošín";3903;9;3912
+2021-02-19;"Okres Veľký Krtíš";3328;37;3365
+2021-02-19;"Okres Vranov nad Topľou";1800;38;1838
+2021-02-19;"Okres Zlaté Moravce";1763;8;1771
+2021-02-19;"Okres Zvolen";5085;77;5162
+2021-02-19;"Okres Žarnovica";1283;34;1317
+2021-02-19;"Okres Žiar nad Hronom";1661;25;1686
+2021-02-19;"Okres Žilina";8915;60;8975
+2021-02-20;"Okres Bánovce nad Bebravou";9587;52;9639
+2021-02-20;"Okres Banská Bystrica";9291;56;9347
+2021-02-20;"Okres Banská Štiavnica";1043;15;1058
+2021-02-20;"Okres Bardejov";3097;33;3130
+2021-02-20;"Okres Bratislava I";2187;15;2202
+2021-02-20;"Okres Bratislava II";9163;51;9214
+2021-02-20;"Okres Bratislava III";6288;55;6343
+2021-02-20;"Okres Bratislava IV";7798;55;7853
+2021-02-20;"Okres Bratislava V";4482;48;4530
+2021-02-20;"Okres Brezno";9394;87;9481
+2021-02-20;"Okres Bytča";4186;23;4209
+2021-02-20;"Okres Čadca";10061;96;10157
+2021-02-20;"Okres Detva";5103;34;5137
+2021-02-20;"Okres Dolný Kubín";4343;38;4381
+2021-02-20;"Okres Dunajská Streda";40003;256;40259
+2021-02-20;"Okres Galanta";15929;117;16046
+2021-02-20;"Okres Gelnica";2269;27;2296
+2021-02-20;"Okres Hlohovec";10707;76;10783
+2021-02-20;"Okres Humenné";10639;81;10720
+2021-02-20;"Okres Ilava";4669;66;4735
+2021-02-20;"Okres Kežmarok";9861;59;9920
+2021-02-20;"Okres Komárno";9356;111;9467
+2021-02-20;"Okres Košice - okolie";24885;145;25030
+2021-02-20;"Okres Košice I";3202;10;3212
+2021-02-20;"Okres Košice II";11565;90;11655
+2021-02-20;"Okres Košice III";1248;7;1255
+2021-02-20;"Okres Košice IV";4494;51;4545
+2021-02-20;"Okres Krupina";3720;19;3739
+2021-02-20;"Okres Kysucké Nové Mesto";3880;23;3903
+2021-02-20;"Okres Levice";18458;72;18530
+2021-02-20;"Okres Levoča";3410;14;3424
+2021-02-20;"Okres Liptovský Mikuláš";9852;96;9948
+2021-02-20;"Okres Lučenec";4851;37;4888
+2021-02-20;"Okres Malacky";7660;85;7745
+2021-02-20;"Okres Martin";9460;113;9573
+2021-02-20;"Okres Medzilaborce";1344;3;1347
+2021-02-20;"Okres Michalovce";9097;73;9170
+2021-02-20;"Okres Myjava";2770;27;2797
+2021-02-20;"Okres Námestovo";9890;35;9925
+2021-02-20;"Okres Nitra";15609;39;15648
+2021-02-20;"Okres Nové Mesto nad Váhom";16320;154;16474
+2021-02-20;"Okres Nové Zámky";24196;139;24335
+2021-02-20;"Okres Partizánske";7152;69;7221
+2021-02-20;"Okres Pezinok";8698;68;8766
+2021-02-20;"Okres Piešťany";10111;82;10193
+2021-02-20;"Okres Poltár";3706;21;3727
+2021-02-20;"Okres Poprad";10866;98;10964
+2021-02-20;"Okres Považská Bystrica";6511;73;6584
+2021-02-20;"Okres Prešov";6044;38;6082
+2021-02-20;"Okres Prievidza";3611;38;3649
+2021-02-20;"Okres Púchov";7533;65;7598
+2021-02-20;"Okres Revúca";4443;95;4538
+2021-02-20;"Okres Rimavská Sobota";3312;34;3346
+2021-02-20;"Okres Rožňava";9092;97;9189
+2021-02-20;"Okres Ružomberok";8521;85;8606
+2021-02-20;"Okres Sabinov";4718;26;4744
+2021-02-20;"Okres Senec";9085;55;9140
+2021-02-20;"Okres Senica";16558;109;16667
+2021-02-20;"Okres Skalica";3436;14;3450
+2021-02-20;"Okres Snina";4380;32;4412
+2021-02-20;"Okres Sobrance";2742;19;2761
+2021-02-20;"Okres Spišská Nová Ves";7866;57;7923
+2021-02-20;"Okres Stará Ľubovňa";2992;22;3014
+2021-02-20;"Okres Stropkov";256;0;256
+2021-02-20;"Okres Svidník";2065;3;2068
+2021-02-20;"Okres Šaľa";6421;30;6451
+2021-02-20;"Okres Topoľčany";9084;50;9134
+2021-02-20;"Okres Trebišov";15517;196;15713
+2021-02-20;"Okres Trenčín";13957;146;14103
+2021-02-20;"Okres Trnava";34998;179;35177
+2021-02-20;"Okres Turčianske Teplice";1669;20;1689
+2021-02-20;"Okres Tvrdošín";3504;9;3513
+2021-02-20;"Okres Veľký Krtíš";5361;55;5416
+2021-02-20;"Okres Vranov nad Topľou";9270;92;9362
+2021-02-20;"Okres Zlaté Moravce";7555;22;7577
+2021-02-20;"Okres Zvolen";9828;70;9898
+2021-02-20;"Okres Žarnovica";2302;24;2326
+2021-02-20;"Okres Žiar nad Hronom";5584;50;5634
+2021-02-20;"Okres Žilina";21498;115;21613
+2021-02-21;"Okres Bánovce nad Bebravou";2617;41;2658
+2021-02-21;"Okres Banská Bystrica";6571;44;6615
+2021-02-21;"Okres Banská Štiavnica";313;3;316
+2021-02-21;"Okres Bardejov";1622;23;1645
+2021-02-21;"Okres Bratislava I";1255;11;1266
+2021-02-21;"Okres Bratislava II";9240;69;9309
+2021-02-21;"Okres Bratislava III";4395;44;4439
+2021-02-21;"Okres Bratislava IV";7412;51;7463
+2021-02-21;"Okres Bratislava V";3921;35;3956
+2021-02-21;"Okres Brezno";4665;53;4718
+2021-02-21;"Okres Bytča";1703;10;1713
+2021-02-21;"Okres Čadca";4149;44;4193
+2021-02-21;"Okres Detva";3159;16;3175
+2021-02-21;"Okres Dolný Kubín";1488;22;1510
+2021-02-21;"Okres Dunajská Streda";13217;82;13299
+2021-02-21;"Okres Galanta";4754;37;4791
+2021-02-21;"Okres Gelnica";780;9;789
+2021-02-21;"Okres Hlohovec";5450;34;5484
+2021-02-21;"Okres Humenné";3045;28;3073
+2021-02-21;"Okres Ilava";2522;49;2571
+2021-02-21;"Okres Kežmarok";4113;40;4153
+2021-02-21;"Okres Komárno";4522;56;4578
+2021-02-21;"Okres Košice - okolie";5322;45;5367
+2021-02-21;"Okres Košice I";1725;12;1737
+2021-02-21;"Okres Košice II";11320;83;11403
+2021-02-21;"Okres Košice III";1163;4;1167
+2021-02-21;"Okres Košice IV";4397;33;4430
+2021-02-21;"Okres Krupina";663;6;669
+2021-02-21;"Okres Kysucké Nové Mesto";1478;16;1494
+2021-02-21;"Okres Levice";7950;28;7978
+2021-02-21;"Okres Levoča";1408;5;1413
+2021-02-21;"Okres Liptovský Mikuláš";2398;54;2452
+2021-02-21;"Okres Lučenec";4126;46;4172
+2021-02-21;"Okres Malacky";1469;23;1492
+2021-02-21;"Okres Martin";3175;64;3239
+2021-02-21;"Okres Medzilaborce";428;3;431
+2021-02-21;"Okres Michalovce";3848;28;3876
+2021-02-21;"Okres Myjava";1836;11;1847
+2021-02-21;"Okres Námestovo";480;1;481
+2021-02-21;"Okres Nitra";9518;30;9548
+2021-02-21;"Okres Nové Mesto nad Váhom";5362;67;5429
+2021-02-21;"Okres Nové Zámky";6390;68;6458
+2021-02-21;"Okres Partizánske";2729;21;2750
+2021-02-21;"Okres Pezinok";1114;9;1123
+2021-02-21;"Okres Piešťany";2933;35;2968
+2021-02-21;"Okres Poltár";1257;3;1260
+2021-02-21;"Okres Poprad";3743;49;3792
+2021-02-21;"Okres Považská Bystrica";3218;62;3280
+2021-02-21;"Okres Prešov";4388;36;4424
+2021-02-21;"Okres Prievidza";1937;32;1969
+2021-02-21;"Okres Púchov";2151;25;2176
+2021-02-21;"Okres Revúca";3638;83;3721
+2021-02-21;"Okres Rimavská Sobota";3162;47;3209
+2021-02-21;"Okres Rožňava";3334;43;3377
+2021-02-21;"Okres Ružomberok";1164;13;1177
+2021-02-21;"Okres Sabinov";2506;34;2540
+2021-02-21;"Okres Senec";6371;38;6409
+2021-02-21;"Okres Senica";5931;54;5985
+2021-02-21;"Okres Skalica";994;9;1003
+2021-02-21;"Okres Snina";2189;20;2209
+2021-02-21;"Okres Sobrance";505;4;509
+2021-02-21;"Okres Spišská Nová Ves";3073;39;3112
+2021-02-21;"Okres Stará Ľubovňa";1278;4;1282
+2021-02-21;"Okres Stropkov";409;3;412
+2021-02-21;"Okres Svidník";491;2;493
+2021-02-21;"Okres Šaľa";2853;29;2882
+2021-02-21;"Okres Topoľčany";3248;25;3273
+2021-02-21;"Okres Trebišov";4937;81;5018
+2021-02-21;"Okres Trenčín";6153;68;6221
+2021-02-21;"Okres Trnava";14215;74;14289
+2021-02-21;"Okres Turčianske Teplice";1365;14;1379
+2021-02-21;"Okres Tvrdošín";1548;8;1556
+2021-02-21;"Okres Veľký Krtíš";1577;16;1593
+2021-02-21;"Okres Vranov nad Topľou";3318;29;3347
+2021-02-21;"Okres Zlaté Moravce";1520;6;1526
+2021-02-21;"Okres Zvolen";3634;48;3682
+2021-02-21;"Okres Žarnovica";1268;29;1297
+2021-02-21;"Okres Žiar nad Hronom";3143;31;3174
+2021-02-21;"Okres Žilina";9343;64;9407
+2021-02-22;"Okres Bánovce nad Bebravou";1024;36;1060
+2021-02-22;"Okres Banská Bystrica";5315;71;5386
+2021-02-22;"Okres Banská Štiavnica";806;15;821
+2021-02-22;"Okres Bardejov";2221;31;2252
+2021-02-22;"Okres Bratislava I";4770;40;4810
+2021-02-22;"Okres Bratislava II";6319;67;6386
+2021-02-22;"Okres Bratislava III";6057;91;6148
+2021-02-22;"Okres Bratislava IV";3773;44;3817
+2021-02-22;"Okres Bratislava V";3446;62;3508
+2021-02-22;"Okres Brezno";1599;78;1677
+2021-02-22;"Okres Bytča";419;7;426
+2021-02-22;"Okres Čadca";3071;64;3135
+2021-02-22;"Okres Detva";1042;17;1059
+2021-02-22;"Okres Dolný Kubín";2315;25;2340
+2021-02-22;"Okres Dunajská Streda";3653;76;3729
+2021-02-22;"Okres Galanta";4427;69;4496
+2021-02-22;"Okres Gelnica";667;16;683
+2021-02-22;"Okres Hlohovec";1219;31;1250
+2021-02-22;"Okres Humenné";2140;55;2195
+2021-02-22;"Okres Ilava";2931;103;3034
+2021-02-22;"Okres Kežmarok";2003;34;2037
+2021-02-22;"Okres Komárno";2374;82;2456
+2021-02-22;"Okres Košice - okolie";1306;13;1319
+2021-02-22;"Okres Košice I";2573;27;2600
+2021-02-22;"Okres Košice II";7974;85;8059
+2021-02-22;"Okres Košice III";939;11;950
+2021-02-22;"Okres Košice IV";3824;41;3865
+2021-02-22;"Okres Krupina";1404;19;1423
+2021-02-22;"Okres Kysucké Nové Mesto";1002;15;1017
+2021-02-22;"Okres Levice";2732;39;2771
+2021-02-22;"Okres Levoča";760;9;769
+2021-02-22;"Okres Liptovský Mikuláš";3201;75;3276
+2021-02-22;"Okres Lučenec";2630;68;2698
+2021-02-22;"Okres Malacky";1346;21;1367
+2021-02-22;"Okres Martin";4609;85;4694
+2021-02-22;"Okres Medzilaborce";317;2;319
+2021-02-22;"Okres Michalovce";4223;53;4276
+2021-02-22;"Okres Myjava";644;4;648
+2021-02-22;"Okres Námestovo";1179;13;1192
+2021-02-22;"Okres Nitra";8050;53;8103
+2021-02-22;"Okres Nové Mesto nad Váhom";1694;35;1729
+2021-02-22;"Okres Nové Zámky";5224;65;5289
+2021-02-22;"Okres Partizánske";1180;46;1226
+2021-02-22;"Okres Pezinok";1097;26;1123
+2021-02-22;"Okres Piešťany";1251;21;1272
+2021-02-22;"Okres Poltár";204;2;206
+2021-02-22;"Okres Poprad";5412;55;5467
+2021-02-22;"Okres Považská Bystrica";2825;57;2882
+2021-02-22;"Okres Prešov";5863;50;5913
+2021-02-22;"Okres Prievidza";3458;81;3539
+2021-02-22;"Okres Púchov";1472;24;1496
+2021-02-22;"Okres Revúca";1027;22;1049
+2021-02-22;"Okres Rimavská Sobota";2897;65;2962
+2021-02-22;"Okres Rožňava";2656;48;2704
+2021-02-22;"Okres Ružomberok";3044;43;3087
+2021-02-22;"Okres Sabinov";1132;13;1145
+2021-02-22;"Okres Senec";2592;21;2613
+2021-02-22;"Okres Senica";1222;30;1252
+2021-02-22;"Okres Skalica";4517;35;4552
+2021-02-22;"Okres Snina";1155;10;1165
+2021-02-22;"Okres Sobrance";546;7;553
+2021-02-22;"Okres Spišská Nová Ves";4243;83;4326
+2021-02-22;"Okres Stará Ľubovňa";848;8;856
+2021-02-22;"Okres Stropkov";368;6;374
+2021-02-22;"Okres Svidník";222;3;225
+2021-02-22;"Okres Šaľa";2881;40;2921
+2021-02-22;"Okres Topoľčany";1421;19;1440
+2021-02-22;"Okres Trebišov";1941;44;1985
+2021-02-22;"Okres Trenčín";5134;87;5221
+2021-02-22;"Okres Trnava";3076;54;3130
+2021-02-22;"Okres Turčianske Teplice";539;7;546
+2021-02-22;"Okres Tvrdošín";1433;8;1441
+2021-02-22;"Okres Veľký Krtíš";1505;25;1530
+2021-02-22;"Okres Vranov nad Topľou";1938;38;1976
+2021-02-22;"Okres Zlaté Moravce";1574;6;1580
+2021-02-22;"Okres Zvolen";4106;99;4205
+2021-02-22;"Okres Žarnovica";1011;27;1038
+2021-02-22;"Okres Žiar nad Hronom";4556;75;4631
+2021-02-22;"Okres Žilina";7849;76;7925
+2021-02-23;"Okres Bánovce nad Bebravou";1136;29;1165
+2021-02-23;"Okres Banská Bystrica";4391;68;4459
+2021-02-23;"Okres Banská Štiavnica";712;9;721
+2021-02-23;"Okres Bardejov";1562;24;1586
+2021-02-23;"Okres Bratislava I";4552;28;4580
+2021-02-23;"Okres Bratislava II";4576;41;4617
+2021-02-23;"Okres Bratislava III";4448;35;4483
+2021-02-23;"Okres Bratislava IV";3058;33;3091
+2021-02-23;"Okres Bratislava V";2749;52;2801
+2021-02-23;"Okres Brezno";1009;27;1036
+2021-02-23;"Okres Bytča";288;22;310
+2021-02-23;"Okres Čadca";2252;53;2305
+2021-02-23;"Okres Detva";986;20;1006
+2021-02-23;"Okres Dolný Kubín";1378;46;1424
+2021-02-23;"Okres Dunajská Streda";2125;73;2198
+2021-02-23;"Okres Galanta";2155;60;2215
+2021-02-23;"Okres Gelnica";307;18;325
+2021-02-23;"Okres Hlohovec";882;26;908
+2021-02-23;"Okres Humenné";1638;33;1671
+2021-02-23;"Okres Ilava";1775;60;1835
+2021-02-23;"Okres Kežmarok";1469;33;1502
+2021-02-23;"Okres Komárno";2628;59;2687
+2021-02-23;"Okres Košice - okolie";526;12;538
+2021-02-23;"Okres Košice I";1813;26;1839
+2021-02-23;"Okres Košice II";4326;57;4383
+2021-02-23;"Okres Košice III";405;13;418
+2021-02-23;"Okres Košice IV";2951;48;2999
+2021-02-23;"Okres Krupina";342;8;350
+2021-02-23;"Okres Kysucké Nové Mesto";778;20;798
+2021-02-23;"Okres Levice";2428;48;2476
+2021-02-23;"Okres Levoča";754;3;757
+2021-02-23;"Okres Liptovský Mikuláš";2088;60;2148
+2021-02-23;"Okres Lučenec";2068;44;2112
+2021-02-23;"Okres Malacky";2314;40;2354
+2021-02-23;"Okres Martin";4199;80;4279
+2021-02-23;"Okres Medzilaborce";294;3;297
+2021-02-23;"Okres Michalovce";3284;26;3310
+2021-02-23;"Okres Myjava";204;7;211
+2021-02-23;"Okres Námestovo";759;17;776
+2021-02-23;"Okres Nitra";3344;27;3371
+2021-02-23;"Okres Nové Mesto nad Váhom";960;42;1002
+2021-02-23;"Okres Nové Zámky";3445;66;3511
+2021-02-23;"Okres Partizánske";1012;31;1043
+2021-02-23;"Okres Pezinok";1261;35;1296
+2021-02-23;"Okres Piešťany";1672;40;1712
+2021-02-23;"Okres Poltár";104;2;106
+2021-02-23;"Okres Poprad";3637;49;3686
+2021-02-23;"Okres Považská Bystrica";2511;56;2567
+2021-02-23;"Okres Prešov";3880;52;3932
+2021-02-23;"Okres Prievidza";1603;44;1647
+2021-02-23;"Okres Púchov";935;23;958
+2021-02-23;"Okres Revúca";1741;61;1802
+2021-02-23;"Okres Rimavská Sobota";2253;67;2320
+2021-02-23;"Okres Rožňava";1688;19;1707
+2021-02-23;"Okres Ružomberok";4259;31;4290
+2021-02-23;"Okres Sabinov";848;18;866
+2021-02-23;"Okres Senec";1903;23;1926
+2021-02-23;"Okres Senica";889;16;905
+2021-02-23;"Okres Skalica";2111;20;2131
+2021-02-23;"Okres Snina";918;14;932
+2021-02-23;"Okres Sobrance";478;8;486
+2021-02-23;"Okres Spišská Nová Ves";3080;58;3138
+2021-02-23;"Okres Stará Ľubovňa";604;13;617
+2021-02-23;"Okres Stropkov";1266;14;1280
+2021-02-23;"Okres Svidník";1561;16;1577
+2021-02-23;"Okres Šaľa";1014;16;1030
+2021-02-23;"Okres Topoľčany";991;29;1020
+2021-02-23;"Okres Trebišov";1691;39;1730
+2021-02-23;"Okres Trenčín";4518;84;4602
+2021-02-23;"Okres Trnava";2150;50;2200
+2021-02-23;"Okres Turčianske Teplice";406;6;412
+2021-02-23;"Okres Tvrdošín";1206;10;1216
+2021-02-23;"Okres Veľký Krtíš";1059;24;1083
+2021-02-23;"Okres Vranov nad Topľou";913;43;956
+2021-02-23;"Okres Zlaté Moravce";487;9;496
+2021-02-23;"Okres Zvolen";2900;64;2964
+2021-02-23;"Okres Žarnovica";1019;21;1040
+2021-02-23;"Okres Žiar nad Hronom";1153;31;1184
+2021-02-23;"Okres Žilina";4160;55;4215
+2021-02-24;"Okres Bánovce nad Bebravou";582;28;610
+2021-02-24;"Okres Banská Bystrica";4109;51;4160
+2021-02-24;"Okres Banská Štiavnica";574;11;585
+2021-02-24;"Okres Bardejov";1591;38;1629
+2021-02-24;"Okres Bratislava I";1897;16;1913
+2021-02-24;"Okres Bratislava II";4428;53;4481
+2021-02-24;"Okres Bratislava III";5360;39;5399
+2021-02-24;"Okres Bratislava IV";1831;18;1849
+2021-02-24;"Okres Bratislava V";2388;58;2446
+2021-02-24;"Okres Brezno";720;14;734
+2021-02-24;"Okres Bytča";101;3;104
+2021-02-24;"Okres Čadca";2123;45;2168
+2021-02-24;"Okres Detva";634;18;652
+2021-02-24;"Okres Dolný Kubín";1121;31;1152
+2021-02-24;"Okres Dunajská Streda";1196;37;1233
+2021-02-24;"Okres Galanta";1256;42;1298
+2021-02-24;"Okres Gelnica";374;11;385
+2021-02-24;"Okres Hlohovec";692;22;714
+2021-02-24;"Okres Humenné";1189;44;1233
+2021-02-24;"Okres Ilava";1547;72;1619
+2021-02-24;"Okres Kežmarok";1230;25;1255
+2021-02-24;"Okres Komárno";1818;58;1876
+2021-02-24;"Okres Košice - okolie";521;16;537
+2021-02-24;"Okres Košice I";1126;22;1148
+2021-02-24;"Okres Košice II";3709;63;3772
+2021-02-24;"Okres Košice III";301;18;319
+2021-02-24;"Okres Košice IV";2630;199;2829
+2021-02-24;"Okres Krupina";134;2;136
+2021-02-24;"Okres Kysucké Nové Mesto";610;19;629
+2021-02-24;"Okres Levice";2323;39;2362
+2021-02-24;"Okres Levoča";538;4;542
+2021-02-24;"Okres Liptovský Mikuláš";1330;33;1363
+2021-02-24;"Okres Lučenec";1567;28;1595
+2021-02-24;"Okres Malacky";1061;24;1085
+2021-02-24;"Okres Martin";3171;43;3214
+2021-02-24;"Okres Medzilaborce";201;2;203
+2021-02-24;"Okres Michalovce";2975;38;3013
+2021-02-24;"Okres Myjava";207;9;216
+2021-02-24;"Okres Námestovo";427;10;437
+2021-02-24;"Okres Nitra";3813;23;3836
+2021-02-24;"Okres Nové Mesto nad Váhom";618;45;663
+2021-02-24;"Okres Nové Zámky";1866;39;1905
+2021-02-24;"Okres Partizánske";617;35;652
+2021-02-24;"Okres Pezinok";1284;72;1356
+2021-02-24;"Okres Piešťany";1403;37;1440
+2021-02-24;"Okres Poltár";3;1;4
+2021-02-24;"Okres Poprad";3518;50;3568
+2021-02-24;"Okres Považská Bystrica";1997;37;2034
+2021-02-24;"Okres Prešov";4062;45;4107
+2021-02-24;"Okres Prievidza";1124;65;1189
+2021-02-24;"Okres Púchov";14;2;16
+2021-02-24;"Okres Revúca";951;39;990
+2021-02-24;"Okres Rimavská Sobota";2212;61;2273
+2021-02-24;"Okres Rožňava";1289;25;1314
+2021-02-24;"Okres Ružomberok";1396;24;1420
+2021-02-24;"Okres Sabinov";869;24;893
+2021-02-24;"Okres Senec";1072;22;1094
+2021-02-24;"Okres Senica";835;40;875
+2021-02-24;"Okres Skalica";826;11;837
+2021-02-24;"Okres Snina";795;15;810
+2021-02-24;"Okres Sobrance";248;10;258
+2021-02-24;"Okres Spišská Nová Ves";2333;41;2374
+2021-02-24;"Okres Stará Ľubovňa";364;10;374
+2021-02-24;"Okres Stropkov";290;0;290
+2021-02-24;"Okres Svidník";138;0;138
+2021-02-24;"Okres Šaľa";486;14;500
+2021-02-24;"Okres Topoľčany";762;20;782
+2021-02-24;"Okres Trebišov";1003;22;1025
+2021-02-24;"Okres Trenčín";2854;51;2905
+2021-02-24;"Okres Trnava";1209;51;1260
+2021-02-24;"Okres Turčianske Teplice";315;6;321
+2021-02-24;"Okres Tvrdošín";1294;4;1298
+2021-02-24;"Okres Veľký Krtíš";662;10;672
+2021-02-24;"Okres Vranov nad Topľou";1036;42;1078
+2021-02-24;"Okres Zlaté Moravce";290;2;292
+2021-02-24;"Okres Zvolen";1812;47;1859
+2021-02-24;"Okres Žarnovica";291;11;302
+2021-02-24;"Okres Žiar nad Hronom";1159;37;1196
+2021-02-24;"Okres Žilina";4140;71;4211
+2021-02-25;"Okres Bratislava II";50;0;50
+2021-02-25;"Okres Bratislava IV";1;0;1
+2021-02-25;"Okres Čadca";94;1;95
+2021-02-25;"Okres Humenné";16;0;16
+2021-02-25;"Okres Liptovský Mikuláš";2;0;2
+2021-02-25;"Okres Myjava";2;0;2
+2021-02-25;"Okres Nitra";2;0;2
+2021-02-25;"Okres Poprad";23;0;23
+2021-02-25;"Okres Prešov";171;3;174
+2021-02-25;"Okres Prievidza";69;1;70
+2021-02-25;"Okres Ružomberok";2;0;2
+2021-02-25;"Okres Senec";1;0;1
+2021-02-25;"Okres Senica";2;2;4
+2021-02-25;"Okres Trenčín";4;0;4
+2021-02-25;"Okres Trnava";101;5;106
+2021-02-25;"Okres Zvolen";0;0;0
+2021-02-25;"Okres Žiar nad Hronom";163;3;166
+2021-02-25;"Okres Žilina";2;0;2
