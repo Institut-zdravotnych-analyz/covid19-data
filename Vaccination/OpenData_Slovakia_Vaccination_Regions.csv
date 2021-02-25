@@ -1,17 +1,25 @@
 "Date";"Region";"Region_code";"first_dose";"second_dose"
-2021-02-23;"Banskobystrický kraj";"SK032";610;400
+2021-02-24;"Banskobystrický kraj";"SK032";547;439
+2021-02-24;"Bratislavský kraj";"SK010";1296;1430
+2021-02-24;"Košický kraj";"SK042";860;1215
+2021-02-24;"Nitriansky kraj";"SK023";639;652
+2021-02-24;"Prešovský kraj";"SK041";1091;677
+2021-02-24;"Trenčiansky kraj";"SK022";488;508
+2021-02-24;"Trnavský kraj";"SK021";421;678
+2021-02-24;"Žilinský kraj";"SK031";627;724
+2021-02-23;"Banskobystrický kraj";"SK032";1008;780
 2021-02-23;"Bratislavský kraj";"SK010";1250;1246
 2021-02-23;"Košický kraj";"SK042";655;1138
-2021-02-23;"Nitriansky kraj";"SK023";558;511
-2021-02-23;"Prešovský kraj";"SK041";812;872
-2021-02-23;"Trenčiansky kraj";"SK022";713;513
+2021-02-23;"Nitriansky kraj";"SK023";623;592
+2021-02-23;"Prešovský kraj";"SK041";834;872
+2021-02-23;"Trenčiansky kraj";"SK022";746;630
 2021-02-23;"Trnavský kraj";"SK021";466;736
 2021-02-23;"Žilinský kraj";"SK031";605;567
 2021-02-22;"Banskobystrický kraj";"SK032";1042;847
 2021-02-22;"Bratislavský kraj";"SK010";931;1195
 2021-02-22;"Košický kraj";"SK042";740;1421
 2021-02-22;"Nitriansky kraj";"SK023";802;881
-2021-02-22;"Prešovský kraj";"SK041";994;863
+2021-02-22;"Prešovský kraj";"SK041";1038;863
 2021-02-22;"Trenčiansky kraj";"SK022";241;599
 2021-02-22;"Trnavský kraj";"SK021";266;360
 2021-02-22;"Žilinský kraj";"SK031";414;724
@@ -35,7 +43,7 @@
 2021-02-19;"Bratislavský kraj";"SK010";1237;1395
 2021-02-19;"Košický kraj";"SK042";680;758
 2021-02-19;"Nitriansky kraj";"SK023";862;752
-2021-02-19;"Prešovský kraj";"SK041";355;1279
+2021-02-19;"Prešovský kraj";"SK041";564;1279
 2021-02-19;"Trenčiansky kraj";"SK022";463;562
 2021-02-19;"Trnavský kraj";"SK021";697;679
 2021-02-19;"Žilinský kraj";"SK031";1020;740
@@ -43,7 +51,7 @@
 2021-02-18;"Bratislavský kraj";"SK010";744;865
 2021-02-18;"Košický kraj";"SK042";98;598
 2021-02-18;"Nitriansky kraj";"SK023";443;955
-2021-02-18;"Prešovský kraj";"SK041";1012;1281
+2021-02-18;"Prešovský kraj";"SK041";1233;1281
 2021-02-18;"Trenčiansky kraj";"SK022";228;960
 2021-02-18;"Trnavský kraj";"SK021";348;698
 2021-02-18;"Žilinský kraj";"SK031";327;705
@@ -51,7 +59,7 @@
 2021-02-17;"Bratislavský kraj";"SK010";1265;924
 2021-02-17;"Košický kraj";"SK042";462;811
 2021-02-17;"Nitriansky kraj";"SK023";1088;339
-2021-02-17;"Prešovský kraj";"SK041";395;1437
+2021-02-17;"Prešovský kraj";"SK041";605;1437
 2021-02-17;"Trenčiansky kraj";"SK022";655;898
 2021-02-17;"Trnavský kraj";"SK021";220;562
 2021-02-17;"Žilinský kraj";"SK031";622;684
@@ -59,7 +67,7 @@
 2021-02-16;"Bratislavský kraj";"SK010";1165;1152
 2021-02-16;"Košický kraj";"SK042";329;863
 2021-02-16;"Nitriansky kraj";"SK023";1130;334
-2021-02-16;"Prešovský kraj";"SK041";159;1475
+2021-02-16;"Prešovský kraj";"SK041";379;1475
 2021-02-16;"Trenčiansky kraj";"SK022";208;566
 2021-02-16;"Trnavský kraj";"SK021";217;577
 2021-02-16;"Žilinský kraj";"SK031";759;655
@@ -67,7 +75,7 @@
 2021-02-15;"Bratislavský kraj";"SK010";1283;1052
 2021-02-15;"Košický kraj";"SK042";2368;859
 2021-02-15;"Nitriansky kraj";"SK023";810;170
-2021-02-15;"Prešovský kraj";"SK041";181;1285
+2021-02-15;"Prešovský kraj";"SK041";401;1285
 2021-02-15;"Trenčiansky kraj";"SK022";49;712
 2021-02-15;"Trnavský kraj";"SK021";283;1211
 2021-02-15;"Žilinský kraj";"SK031";578;876
@@ -93,7 +101,7 @@
 2021-02-12;"Žilinský kraj";"SK031";639;871
 2021-02-11;"Banskobystrický kraj";"SK032";1004;723
 2021-02-11;"Bratislavský kraj";"SK010";1087;1192
-2021-02-11;"Košický kraj";"SK042";644;764
+2021-02-11;"Košický kraj";"SK042";776;764
 2021-02-11;"Nitriansky kraj";"SK023";1462;915
 2021-02-11;"Prešovský kraj";"SK041";837;875
 2021-02-11;"Trenčiansky kraj";"SK022";608;546
@@ -141,7 +149,7 @@
 2021-02-05;"Prešovský kraj";"SK041";1483;459
 2021-02-05;"Trenčiansky kraj";"SK022";917;916
 2021-02-05;"Trnavský kraj";"SK021";1025;324
-2021-02-05;"Žilinský kraj";"SK031";1008;965
+2021-02-05;"Žilinský kraj";"SK031";1022;951
 2021-02-04;"Banskobystrický kraj";"SK032";993;631
 2021-02-04;"Bratislavský kraj";"SK010";895;1347
 2021-02-04;"Košický kraj";"SK042";1141;983
