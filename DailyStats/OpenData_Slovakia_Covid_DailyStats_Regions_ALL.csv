@@ -1,4 +1,5 @@
 "date";"Region";"newcases";"positive"
+2021-03-01;"Banskobystrický kraj";469;61116
 2021-02-28;"Banskobystrický kraj";184;60647
 2021-02-27;"Banskobystrický kraj";806;60463
 2021-02-26;"Banskobystrický kraj";811;59657
@@ -264,6 +265,7 @@
 2020-03-17;"Banskobystrický kraj";1;3
 2020-03-15;"Banskobystrický kraj";1;2
 2020-03-13;"Banskobystrický kraj";1;1
+2021-03-01;"Bratislavský kraj";682;70563
 2021-02-28;"Bratislavský kraj";465;69881
 2021-02-27;"Bratislavský kraj";422;69416
 2021-02-26;"Bratislavský kraj";610;68994
@@ -567,6 +569,7 @@
 2020-03-08;"Bratislavský kraj";2;6
 2020-03-07;"Bratislavský kraj";2;4
 2020-03-06;"Bratislavský kraj";1;2
+2021-03-01;"Košický kraj";814;73202
 2021-02-28;"Košický kraj";531;72388
 2021-02-27;"Košický kraj";1003;71857
 2021-02-26;"Košický kraj";926;70854
@@ -853,6 +856,7 @@
 2020-03-15;"Košický kraj";1;3
 2020-03-13;"Košický kraj";2;2
 2020-03-09;"Košický kraj";1;0
+2021-03-01;"Nitriansky kraj";365;79860
 2021-02-28;"Nitriansky kraj";284;79495
 2021-02-27;"Nitriansky kraj";545;79211
 2021-02-26;"Nitriansky kraj";419;78666
@@ -1110,6 +1114,7 @@
 2020-03-17;"Nitriansky kraj";1;6
 2020-03-15;"Nitriansky kraj";4;5
 2020-03-14;"Nitriansky kraj";1;1
+2021-03-01;"Prešovský kraj";619;82194
 2021-02-28;"Prešovský kraj";353;81575
 2021-02-27;"Prešovský kraj";971;81222
 2021-02-26;"Prešovský kraj";895;80251
@@ -1396,6 +1401,7 @@
 2020-03-17;"Prešovský kraj";1;6
 2020-03-16;"Prešovský kraj";4;5
 2020-03-14;"Prešovský kraj";1;1
+2021-03-01;"Trenčiansky kraj";593;76817
 2021-02-28;"Trenčiansky kraj";375;76224
 2021-02-27;"Trenčiansky kraj";913;75849
 2021-02-26;"Trenčiansky kraj";873;74936
@@ -1680,6 +1686,7 @@
 2020-03-16;"Trenčiansky kraj";1;7
 2020-03-15;"Trenčiansky kraj";5;6
 2020-03-12;"Trenčiansky kraj";1;1
+2021-03-01;"Trnavský kraj";373;73882
 2021-02-28;"Trnavský kraj";305;73509
 2021-02-27;"Trnavský kraj";963;73204
 2021-02-26;"Trnavský kraj";637;72241
@@ -1940,6 +1947,7 @@
 2020-03-16;"Trnavský kraj";1;3
 2020-03-13;"Trnavský kraj";1;2
 2020-03-12;"Trnavský kraj";1;1
+2021-03-01;"Žilinský kraj";714;75712
 2021-02-28;"Žilinský kraj";299;74998
 2021-02-27;"Žilinský kraj";682;74699
 2021-02-26;"Žilinský kraj";962;74017
@@ -2578,3 +2586,4 @@
 2021-02-26;"Slovensko";6133;579616
 2021-02-27;"Slovensko";6305;585921
 2021-02-28;"Slovensko";2796;588717
+2021-03-01;"Slovensko";4629;593346
