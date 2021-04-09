@@ -1,14 +1,23 @@
 "Date";"Region";"Region_code";"first_dose";"second_dose"
-2021-04-07;"Banskobystrický kraj";"SK032";1261;77
-2021-04-07;"Bratislavský kraj";"SK010";2850;333
-2021-04-07;"Košický kraj";"SK042";2001;211
+2021-04-09;"Košický kraj";"SK042";0;435
+2021-04-08;"Banskobystrický kraj";"SK032";1855;260
+2021-04-08;"Bratislavský kraj";"SK010";2099;1226
+2021-04-08;"Košický kraj";"SK042";1238;915
+2021-04-08;"Nitriansky kraj";"SK023";1844;1016
+2021-04-08;"Prešovský kraj";"SK041";1695;1130
+2021-04-08;"Trenčiansky kraj";"SK022";699;480
+2021-04-08;"Trnavský kraj";"SK021";1200;424
+2021-04-08;"Žilinský kraj";"SK031";1531;1381
+2021-04-07;"Banskobystrický kraj";"SK032";1825;245
+2021-04-07;"Bratislavský kraj";"SK010";3484;364
+2021-04-07;"Košický kraj";"SK042";3896;211
 2021-04-07;"Nitriansky kraj";"SK023";2605;643
 2021-04-07;"Prešovský kraj";"SK041";2269;154
-2021-04-07;"Trenčiansky kraj";"SK022";1115;77
+2021-04-07;"Trenčiansky kraj";"SK022";1384;84
 2021-04-07;"Trnavský kraj";"SK021";1926;369
 2021-04-07;"Žilinský kraj";"SK031";2307;123
 2021-04-06;"Banskobystrický kraj";"SK032";1138;795
-2021-04-06;"Bratislavský kraj";"SK010";3226;371
+2021-04-06;"Bratislavský kraj";"SK010";3287;379
 2021-04-06;"Košický kraj";"SK042";1871;362
 2021-04-06;"Nitriansky kraj";"SK023";2218;487
 2021-04-06;"Prešovský kraj";"SK041";2145;499
@@ -22,7 +31,7 @@
 2021-04-04;"Nitriansky kraj";"SK023";1620;0
 2021-04-04;"Prešovský kraj";"SK041";0;0
 2021-04-04;"Žilinský kraj";"SK031";0;0
-2021-04-03;"Bratislavský kraj";"SK010";2289;0
+2021-04-03;"Bratislavský kraj";"SK010";2530;0
 2021-04-03;"Nitriansky kraj";"SK023";1700;0
 2021-04-03;"Prešovský kraj";"SK041";185;1
 2021-04-03;"Trenčiansky kraj";"SK022";313;162
