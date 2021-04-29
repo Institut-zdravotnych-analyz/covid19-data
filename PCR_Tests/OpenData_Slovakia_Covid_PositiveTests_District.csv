@@ -15,8 +15,8 @@
 2020-03-13;"Košice";1
 2020-03-13;"Spišská Nová Ves";1
 2020-03-13;"Trnava";1
-2020-03-13;"Žilina";5
 2020-03-13;"Zvolen";1
+2020-03-13;"Žilina";5
 2020-03-14;"Bratislava";7
 2020-03-14;"Bytca";1
 2020-03-14;"Nové Zámky";1
@@ -101,8 +101,8 @@
 2020-03-22;"Bratislava";2
 2020-03-22;"Poprad";1
 2020-03-22;"Trnava";1
-2020-03-22;"Žilina";1
 2020-03-22;"Zlaté Moravce";2
+2020-03-22;"Žilina";1
 2020-03-23;"Banská Bystrica";1
 2020-03-23;"Bratislava";6
 2020-03-23;"Cadca";2
@@ -179,8 +179,8 @@
 2020-03-28;"Prievidza";2
 2020-03-28;"Rimavská Sobota";1
 2020-03-28;"Senica";1
-2020-03-28;"Žilina";1
 2020-03-28;"Zlaté Moravce";1
+2020-03-28;"Žilina";1
 2020-03-29;"Banská Bystrica";2
 2020-03-29;"Bratislava";7
 2020-03-29;"Ilava";1
@@ -255,9 +255,9 @@
 2020-04-02;"Ružomberok";1
 2020-04-02;"Snina";1
 2020-04-02;"Tvrdošín";1
-2020-04-02;"Žilina";1
 2020-04-02;"Zlaté Moravce";1
 2020-04-02;"Zvolen";1
+2020-04-02;"Žilina";1
 2020-04-03;"Banská Bystrica";1
 2020-04-03;"Bratislava";1
 2020-04-03;"Brezno";1
@@ -321,10 +321,10 @@
 2020-04-06;"Pieštany";3
 2020-04-06;"Poprad";2
 2020-04-06;"Prešov";3
-2020-04-06;"Šala";1
 2020-04-06;"Skalica";1
 2020-04-06;"Snina";2
 2020-04-06;"Spišská Nová Ves";4
+2020-04-06;"Šala";1
 2020-04-06;"Trebišov";1
 2020-04-06;"Trnava";1
 2020-04-06;"Vranov nad Toplou";1
@@ -475,8 +475,8 @@
 2020-04-15;"Trnava";1
 2020-04-15;"Turcianske Teplice";1
 2020-04-15;"Vranov nad Toplou";4
-2020-04-15;"Žilina";1
 2020-04-15;"Zvolen";2
+2020-04-15;"Žilina";1
 2020-04-16;"Bardejov";1
 2020-04-16;"Bratislava";10
 2020-04-16;"Cadca";2
@@ -594,7 +594,6 @@
 2020-04-22;"Prešov";1
 2020-04-22;"Púchov";1
 2020-04-22;"Revúca";1
-2020-04-22;"Šala";1
 2020-04-22;"Senec";1
 2020-04-22;"Senica";2
 2020-04-22;"Skalica";1
@@ -602,6 +601,7 @@
 2020-04-22;"Spišská Nová Ves";1
 2020-04-22;"Stropkov";1
 2020-04-22;"Svidník";1
+2020-04-22;"Šala";1
 2020-04-22;"Trebišov";1
 2020-04-22;"Vranov nad Toplou";5
 2020-04-23;"Bánovce nad Bebravou";1
@@ -870,9 +870,9 @@
 2020-07-08;"Pieštany";2
 2020-07-08;"Prešov";12
 2020-07-08;"Sabinov";2
-2020-07-08;"Šala";1
 2020-07-08;"Senec";1
 2020-07-08;"Spišská Nová Ves";1
+2020-07-08;"Šala";1
 2020-07-08;"Trebišov";3
 2020-07-09;"Bratislava";2
 2020-07-09;"Komárno";1
@@ -991,8 +991,8 @@
 2020-07-22;"Prievidza";3
 2020-07-22;"Revúca";1
 2020-07-22;"Trencín";3
-2020-07-22;"Žilina";1
 2020-07-22;"Zlaté Moravce";1
+2020-07-22;"Žilina";1
 2020-07-23;"Bánovce nad Bebravou";1
 2020-07-23;"Bratislava";7
 2020-07-23;"Galanta";1
@@ -1018,10 +1018,10 @@
 2020-07-24;"Prievidza";2
 2020-07-24;"Revúca";1
 2020-07-24;"Senec";1
+2020-07-24;"Zvolen";1
 2020-07-24;"Žarnovica";2
 2020-07-24;"Žiar nad Hronom";2
 2020-07-24;"Žilina";2
-2020-07-24;"Zvolen";1
 2020-07-25;"Bánovce nad Bebravou";1
 2020-07-25;"Bratislava";6
 2020-07-25;"Košice";2
@@ -1096,8 +1096,8 @@
 2020-07-31;"Prievidza";2
 2020-07-31;"Senec";1
 2020-07-31;"Trencín";3
-2020-07-31;"Žilina";2
 2020-07-31;"Zvolen";1
+2020-07-31;"Žilina";2
 2020-08-01;"Bánovce nad Bebravou";2
 2020-08-01;"Banská Štiavnica";1
 2020-08-01;"Nové Mesto nad Váhom";4
@@ -1128,9 +1128,9 @@
 2020-08-04;"Prešov";2
 2020-08-04;"Prievidza";1
 2020-08-04;"Sabinov";1
-2020-08-04;"Šala";1
 2020-08-04;"Senec";3
 2020-08-04;"Stropkov";1
+2020-08-04;"Šala";1
 2020-08-04;"Trencín";3
 2020-08-04;"Žilina";1
 2020-08-05;"Bánovce nad Bebravou";14
@@ -1162,8 +1162,8 @@
 2020-08-06;"Prievidza";8
 2020-08-06;"Púchov";1
 2020-08-06;"Revúca";1
-2020-08-06;"Šala";1
 2020-08-06;"Senec";2
+2020-08-06;"Šala";1
 2020-08-06;"Trnava";1
 2020-08-06;"Vranov nad Toplou";1
 2020-08-06;"Žilina";1
@@ -1186,8 +1186,8 @@
 2020-08-07;"Stará Lubovna";2
 2020-08-07;"Trnava";2
 2020-08-07;"Vranov nad Toplou";2
-2020-08-07;"Žilina";4
 2020-08-07;"Zlaté Moravce";1
+2020-08-07;"Žilina";4
 2020-08-08;"Bratislava";1
 2020-08-08;"Cadca";1
 2020-08-08;"Dunajská Streda";5
@@ -1258,9 +1258,9 @@
 2020-08-13;"Pezinok";1
 2020-08-13;"Považská Bystrica";1
 2020-08-13;"Sabinov";1
-2020-08-13;"Šala";1
 2020-08-13;"Skalica";1
 2020-08-13;"Stropkov";1
+2020-08-13;"Šala";1
 2020-08-13;"Trencín";11
 2020-08-13;"Trnava";3
 2020-08-13;"Vranov nad Toplou";3
@@ -1283,9 +1283,9 @@
 2020-08-14;"Trencín";9
 2020-08-14;"Trnava";2
 2020-08-14;"Vranov nad Toplou";2
+2020-08-14;"Zvolen";1
 2020-08-14;"Žiar nad Hronom";1
 2020-08-14;"Žilina";2
-2020-08-14;"Zvolen";1
 2020-08-15;"Bánovce nad Bebravou";1
 2020-08-15;"Bratislava";12
 2020-08-15;"Dunajská Streda";1
@@ -1361,9 +1361,9 @@
 2020-08-19;"Senec";1
 2020-08-19;"Trencín";4
 2020-08-19;"Vranov nad Toplou";2
-2020-08-19;"Žilina";5
 2020-08-19;"Zlaté Moravce";1
 2020-08-19;"Zvolen";1
+2020-08-19;"Žilina";5
 2020-08-20;"Bánovce nad Bebravou";1
 2020-08-20;"Banská Bystrica";1
 2020-08-20;"Bratislava";34
@@ -1383,9 +1383,9 @@
 2020-08-20;"Prešov";5
 2020-08-20;"Prievidza";3
 2020-08-20;"Púchov";1
-2020-08-20;"Šala";1
 2020-08-20;"Senec";5
 2020-08-20;"Spišská Nová Ves";6
+2020-08-20;"Šala";1
 2020-08-20;"Trebišov";1
 2020-08-20;"Trencín";13
 2020-08-20;"Trnava";17
@@ -1505,9 +1505,9 @@
 2020-08-26;"Prešov";3
 2020-08-26;"Prievidza";3
 2020-08-26;"Sabinov";1
-2020-08-26;"Šala";1
 2020-08-26;"Senec";1
 2020-08-26;"Stará Lubovna";5
+2020-08-26;"Šala";1
 2020-08-26;"Trencín";5
 2020-08-26;"Trnava";1
 2020-08-26;"Vranov nad Toplou";2
@@ -1532,10 +1532,10 @@
 2020-08-27;"Púchov";2
 2020-08-27;"Rimavská Sobota";1
 2020-08-27;"Rožnava";5
-2020-08-27;"Šala";1
 2020-08-27;"Senec";3
 2020-08-27;"Senica";2
 2020-08-27;"Stará Lubovna";2
+2020-08-27;"Šala";1
 2020-08-27;"Topolcany";1
 2020-08-27;"Trencín";6
 2020-08-27;"Žilina";8
@@ -1561,17 +1561,17 @@
 2020-08-28;"Púchov";1
 2020-08-28;"Ružomberok";1
 2020-08-28;"Sabinov";1
-2020-08-28;"Šala";3
 2020-08-28;"Senec";4
 2020-08-28;"Senica";1
 2020-08-28;"Skalica";1
 2020-08-28;"Snina";1
+2020-08-28;"Šala";3
 2020-08-28;"Trebišov";1
 2020-08-28;"Trencín";2
 2020-08-28;"Trnava";10
 2020-08-28;"Vranov nad Toplou";2
-2020-08-28;"Žilina";5
 2020-08-28;"Zvolen";2
+2020-08-28;"Žilina";5
 2020-08-29;"Bratislava";12
 2020-08-29;"Galanta";1
 2020-08-29;"Hlohovec";1
@@ -1591,8 +1591,8 @@
 2020-08-30;"Prešov";2
 2020-08-30;"Rožnava";1
 2020-08-30;"Sabinov";2
-2020-08-30;"Šala";1
 2020-08-30;"Svidník";1
+2020-08-30;"Šala";1
 2020-08-30;"Trebišov";1
 2020-08-30;"Trnava";1
 2020-08-30;"Žilina";3
@@ -1662,8 +1662,8 @@
 2020-09-02;"Trnava";2
 2020-09-02;"Turcianske Teplice";1
 2020-09-02;"Tvrdošín";7
-2020-09-02;"Žilina";1
 2020-09-02;"Zvolen";3
+2020-09-02;"Žilina";1
 2020-09-03;"Banská Bystrica";2
 2020-09-03;"Bratislava";42
 2020-09-03;"Brezno";3
@@ -1698,8 +1698,8 @@
 2020-09-03;"Trencín";4
 2020-09-03;"Trnava";2
 2020-09-03;"Tvrdošín";4
-2020-09-03;"Žilina";5
 2020-09-03;"Zlaté Moravce";1
+2020-09-03;"Žilina";5
 2020-09-04;"Banská Bystrica";2
 2020-09-04;"Bardejov";2
 2020-09-04;"Bratislava";75
@@ -1723,7 +1723,6 @@
 2020-09-04;"Prievidza";4
 2020-09-04;"Ružomberok";2
 2020-09-04;"Sabinov";2
-2020-09-04;"Šala";4
 2020-09-04;"Senec";5
 2020-09-04;"Senica";2
 2020-09-04;"Skalica";2
@@ -1731,6 +1730,7 @@
 2020-09-04;"Sobrance";1
 2020-09-04;"Spišská Nová Ves";3
 2020-09-04;"Stará Lubovna";5
+2020-09-04;"Šala";4
 2020-09-04;"Topolcany";1
 2020-09-04;"Trencín";4
 2020-09-04;"Trnava";6
@@ -1781,16 +1781,16 @@
 2020-09-07;"Prievidza";2
 2020-09-07;"Púchov";3
 2020-09-07;"Ružomberok";2
-2020-09-07;"Šala";3
 2020-09-07;"Senec";3
 2020-09-07;"Senica";2
 2020-09-07;"Skalica";2
+2020-09-07;"Šala";3
 2020-09-07;"Trebišov";2
 2020-09-07;"Trnava";3
 2020-09-07;"Tvrdošín";6
 2020-09-07;"Vranov nad Toplou";1
-2020-09-07;"Žilina";1
 2020-09-07;"Zvolen";1
+2020-09-07;"Žilina";1
 2020-09-08;"Banská Bystrica";1
 2020-09-08;"Bratislava";44
 2020-09-08;"Brezno";1
@@ -1817,13 +1817,13 @@
 2020-09-08;"Prievidza";3
 2020-09-08;"Rimavská Sobota";1
 2020-09-08;"Sabinov";1
-2020-09-08;"Šala";2
 2020-09-08;"Senec";5
 2020-09-08;"Skalica";1
 2020-09-08;"Snina";3
 2020-09-08;"Sobrance";1
 2020-09-08;"Stará Lubovna";7
 2020-09-08;"Svidník";1
+2020-09-08;"Šala";2
 2020-09-08;"Trencín";5
 2020-09-08;"Trnava";4
 2020-09-08;"Tvrdošín";17
@@ -1850,7 +1850,6 @@
 2020-09-09;"Prešov";5
 2020-09-09;"Prievidza";3
 2020-09-09;"Púchov";3
-2020-09-09;"Šala";1
 2020-09-09;"Senec";3
 2020-09-09;"Skalica";1
 2020-09-09;"Snina";1
@@ -1858,14 +1857,15 @@
 2020-09-09;"Spišská Nová Ves";1
 2020-09-09;"Stará Lubovna";10
 2020-09-09;"Stropkov";1
+2020-09-09;"Šala";1
 2020-09-09;"Topolcany";1
 2020-09-09;"Trebišov";2
 2020-09-09;"Trencín";2
 2020-09-09;"Trnava";8
 2020-09-09;"Tvrdošín";5
 2020-09-09;"Vranov nad Toplou";3
-2020-09-09;"Žilina";9
 2020-09-09;"Zvolen";1
+2020-09-09;"Žilina";9
 2020-09-10;"Banská Bystrica";3
 2020-09-10;"Banská Štiavnica";1
 2020-09-10;"Bratislava";38
@@ -1896,12 +1896,12 @@
 2020-09-10;"Prievidza";1
 2020-09-10;"Rimavská Sobota";2
 2020-09-10;"Ružomberok";4
-2020-09-10;"Šala";2
 2020-09-10;"Senec";4
 2020-09-10;"Senica";2
 2020-09-10;"Snina";2
 2020-09-10;"Spišská Nová Ves";2
 2020-09-10;"Stará Lubovna";1
+2020-09-10;"Šala";2
 2020-09-10;"Topolcany";2
 2020-09-10;"Trebišov";1
 2020-09-10;"Trencín";6
@@ -1940,10 +1940,10 @@
 2020-09-11;"Prešov";10
 2020-09-11;"Prievidza";3
 2020-09-11;"Púchov";6
-2020-09-11;"Šala";5
 2020-09-11;"Snina";1
 2020-09-11;"Sobrance";3
 2020-09-11;"Stará Lubovna";1
+2020-09-11;"Šala";5
 2020-09-11;"Topolcany";3
 2020-09-11;"Trebišov";1
 2020-09-11;"Trencín";9
@@ -1951,10 +1951,10 @@
 2020-09-11;"Tvrdošín";9
 2020-09-11;"Velký Krtíš";4
 2020-09-11;"Vranov nad Toplou";1
-2020-09-11;"Žarnovica";2
-2020-09-11;"Žilina";11
 2020-09-11;"Zlaté Moravce";1
 2020-09-11;"Zvolen";1
+2020-09-11;"Žarnovica";2
+2020-09-11;"Žilina";11
 2020-09-12;"Banská Bystrica";4
 2020-09-12;"Bardejov";1
 2020-09-12;"Bratislava";21
@@ -2021,20 +2021,20 @@
 2020-09-14;"Prešov";13
 2020-09-14;"Prievidza";3
 2020-09-14;"Sabinov";19
-2020-09-14;"Šala";1
 2020-09-14;"Senec";1
 2020-09-14;"Senica";3
 2020-09-14;"Skalica";1
 2020-09-14;"Snina";14
+2020-09-14;"Šala";1
 2020-09-14;"Topolcany";2
 2020-09-14;"Trencín";1
 2020-09-14;"Trnava";16
 2020-09-14;"Tvrdošín";20
 2020-09-14;"Velký Krtíš";3
 2020-09-14;"Vranov nad Toplou";1
+2020-09-14;"Zlaté Moravce";1
 2020-09-14;"Žarnovica";4
 2020-09-14;"Žilina";10
-2020-09-14;"Zlaté Moravce";1
 2020-09-15;"Banská Bystrica";2
 2020-09-15;"Bratislava";23
 2020-09-15;"Cadca";2
@@ -2054,11 +2054,11 @@
 2020-09-15;"Prešov";5
 2020-09-15;"Prievidza";2
 2020-09-15;"Ružomberok";1
-2020-09-15;"Šala";2
 2020-09-15;"Senec";2
 2020-09-15;"Snina";1
 2020-09-15;"Sobrance";2
 2020-09-15;"Stará Lubovna";2
+2020-09-15;"Šala";2
 2020-09-15;"Topolcany";2
 2020-09-15;"Trebišov";1
 2020-09-15;"Trencín";1
@@ -2091,12 +2091,12 @@
 2020-09-16;"Prievidza";5
 2020-09-16;"Púchov";1
 2020-09-16;"Ružomberok";1
-2020-09-16;"Šala";1
 2020-09-16;"Senec";3
 2020-09-16;"Senica";7
 2020-09-16;"Skalica";20
 2020-09-16;"Sobrance";4
 2020-09-16;"Stará Lubovna";2
+2020-09-16;"Šala";1
 2020-09-16;"Trencín";5
 2020-09-16;"Trnava";9
 2020-09-16;"Turcianske Teplice";1
@@ -2190,10 +2190,10 @@
 2020-09-18;"Trnava";6
 2020-09-18;"Tvrdošín";30
 2020-09-18;"Velký Krtíš";8
-2020-09-18;"Žiar nad Hronom";3
-2020-09-18;"Žilina";11
 2020-09-18;"Zlaté Moravce";2
 2020-09-18;"Zvolen";3
+2020-09-18;"Žiar nad Hronom";3
+2020-09-18;"Žilina";11
 2020-09-19;"Bánovce nad Bebravou";3
 2020-09-19;"Banská Bystrica";3
 2020-09-19;"Bratislava";42
@@ -2223,8 +2223,8 @@
 2020-09-19;"Trebišov";1
 2020-09-19;"Trencín";4
 2020-09-19;"Tvrdošín";1
-2020-09-19;"Žilina";4
 2020-09-19;"Zlaté Moravce";1
+2020-09-19;"Žilina";4
 2020-09-20;"Bratislava";19
 2020-09-20;"Cadca";1
 2020-09-20;"Dunajská Streda";6
@@ -2242,11 +2242,11 @@
 2020-09-20;"Prievidza";5
 2020-09-20;"Púchov";1
 2020-09-20;"Ružomberok";2
-2020-09-20;"Šala";1
 2020-09-20;"Senec";5
 2020-09-20;"Skalica";1
 2020-09-20;"Stará Lubovna";2
 2020-09-20;"Svidník";1
+2020-09-20;"Šala";1
 2020-09-20;"Topolcany";2
 2020-09-20;"Trencín";10
 2020-09-20;"Trnava";4
@@ -2284,8 +2284,8 @@
 2020-09-21;"Trencín";15
 2020-09-21;"Trnava";20
 2020-09-21;"Tvrdošín";7
-2020-09-21;"Žilina";4
 2020-09-21;"Zvolen";1
+2020-09-21;"Žilina";4
 2020-09-22;"Bánovce nad Bebravou";1
 2020-09-22;"Banská Bystrica";14
 2020-09-22;"Banská Štiavnica";2
@@ -2332,9 +2332,9 @@
 2020-09-22;"Trnava";16
 2020-09-22;"Tvrdošín";26
 2020-09-22;"Velký Krtíš";4
+2020-09-22;"Zlaté Moravce";2
 2020-09-22;"Žiar nad Hronom";3
 2020-09-22;"Žilina";3
-2020-09-22;"Zlaté Moravce";2
 2020-09-23;"Banská Bystrica";6
 2020-09-23;"Bardejov";15
 2020-09-23;"Bratislava";42
@@ -2386,8 +2386,8 @@
 2020-09-23;"Tvrdošín";14
 2020-09-23;"Velký Krtíš";2
 2020-09-23;"Vranov nad Toplou";1
-2020-09-23;"Žilina";6
 2020-09-23;"Zvolen";1
+2020-09-23;"Žilina";6
 2020-09-24;"Bánovce nad Bebravou";3
 2020-09-24;"Banská Bystrica";11
 2020-09-24;"Banská Štiavnica";3
@@ -2426,7 +2426,6 @@
 2020-09-24;"Rimavská Sobota";1
 2020-09-24;"Ružomberok";1
 2020-09-24;"Sabinov";8
-2020-09-24;"Šala";2
 2020-09-24;"Senec";10
 2020-09-24;"Senica";5
 2020-09-24;"Skalica";15
@@ -2434,6 +2433,7 @@
 2020-09-24;"Sobrance";3
 2020-09-24;"Spišská Nová Ves";13
 2020-09-24;"Stará Lubovna";8
+2020-09-24;"Šala";2
 2020-09-24;"Topolcany";10
 2020-09-24;"Trebišov";5
 2020-09-24;"Trencín";10
@@ -2442,10 +2442,10 @@
 2020-09-24;"Tvrdošín";26
 2020-09-24;"Velký Krtíš";1
 2020-09-24;"Vranov nad Toplou";1
+2020-09-24;"Zvolen";1
 2020-09-24;"Žarnovica";2
 2020-09-24;"Žiar nad Hronom";3
 2020-09-24;"Žilina";4
-2020-09-24;"Zvolen";1
 2020-09-25;"Bánovce nad Bebravou";2
 2020-09-25;"Banská Bystrica";6
 2020-09-25;"Banská Štiavnica";3
@@ -2490,7 +2490,6 @@
 2020-09-25;"Revúca";2
 2020-09-25;"Rožnava";3
 2020-09-25;"Sabinov";1
-2020-09-25;"Šala";2
 2020-09-25;"Senec";8
 2020-09-25;"Senica";1
 2020-09-25;"Skalica";2
@@ -2500,14 +2499,15 @@
 2020-09-25;"Stará Lubovna";14
 2020-09-25;"Stropkov";5
 2020-09-25;"Svidník";7
+2020-09-25;"Šala";2
 2020-09-25;"Topolcany";6
 2020-09-25;"Trebišov";3
 2020-09-25;"Trencín";9
 2020-09-25;"Trnava";17
 2020-09-25;"Tvrdošín";30
 2020-09-25;"Velký Krtíš";4
-2020-09-25;"Žiar nad Hronom";7
 2020-09-25;"Zvolen";2
+2020-09-25;"Žiar nad Hronom";7
 2020-09-26;"Bánovce nad Bebravou";5
 2020-09-26;"Banská Bystrica";15
 2020-09-26;"Bardejov";16
@@ -2547,7 +2547,6 @@
 2020-09-26;"Prievidza";10
 2020-09-26;"Rožnava";1
 2020-09-26;"Ružomberok";3
-2020-09-26;"Šala";4
 2020-09-26;"Senec";11
 2020-09-26;"Senica";8
 2020-09-26;"Skalica";1
@@ -2557,15 +2556,16 @@
 2020-09-26;"Stará Lubovna";8
 2020-09-26;"Stropkov";10
 2020-09-26;"Svidník";12
+2020-09-26;"Šala";4
 2020-09-26;"Topolcany";16
 2020-09-26;"Trencín";1
 2020-09-26;"Trnava";20
 2020-09-26;"Turcianske Teplice";1
 2020-09-26;"Tvrdošín";5
 2020-09-26;"Vranov nad Toplou";3
+2020-09-26;"Zvolen";3
 2020-09-26;"Žiar nad Hronom";2
 2020-09-26;"Žilina";7
-2020-09-26;"Zvolen";3
 2020-09-27;"Banská Bystrica";5
 2020-09-27;"Bardejov";4
 2020-09-27;"Bratislava";41
@@ -2601,11 +2601,11 @@
 2020-09-27;"Trnava";2
 2020-09-27;"Tvrdošín";11
 2020-09-27;"Velký Krtíš";3
+2020-09-27;"Zlaté Moravce";4
+2020-09-27;"Zvolen";6
 2020-09-27;"Žarnovica";1
 2020-09-27;"Žiar nad Hronom";3
 2020-09-27;"Žilina";3
-2020-09-27;"Zlaté Moravce";4
-2020-09-27;"Zvolen";6
 2020-09-28;"Bánovce nad Bebravou";1
 2020-09-28;"Bardejov";3
 2020-09-28;"Bratislava";13
@@ -2680,7 +2680,6 @@
 2020-09-29;"Prievidza";21
 2020-09-29;"Ružomberok";4
 2020-09-29;"Sabinov";10
-2020-09-29;"Šala";1
 2020-09-29;"Senec";7
 2020-09-29;"Senica";14
 2020-09-29;"Skalica";6
@@ -2690,6 +2689,7 @@
 2020-09-29;"Stará Lubovna";9
 2020-09-29;"Stropkov";3
 2020-09-29;"Svidník";24
+2020-09-29;"Šala";1
 2020-09-29;"Topolcany";6
 2020-09-29;"Trebišov";10
 2020-09-29;"Trencín";2
@@ -2697,10 +2697,10 @@
 2020-09-29;"Turcianske Teplice";2
 2020-09-29;"Tvrdošín";8
 2020-09-29;"Vranov nad Toplou";2
+2020-09-29;"Zvolen";4
 2020-09-29;"Žarnovica";1
 2020-09-29;"Žiar nad Hronom";6
 2020-09-29;"Žilina";5
-2020-09-29;"Zvolen";4
 2020-09-30;"Bánovce nad Bebravou";3
 2020-09-30;"Banská Bystrica";21
 2020-09-30;"Bardejov";45
@@ -2743,7 +2743,6 @@
 2020-09-30;"Rožnava";1
 2020-09-30;"Ružomberok";3
 2020-09-30;"Sabinov";6
-2020-09-30;"Šala";2
 2020-09-30;"Senec";12
 2020-09-30;"Senica";22
 2020-09-30;"Skalica";13
@@ -2752,6 +2751,7 @@
 2020-09-30;"Spišská Nová Ves";19
 2020-09-30;"Stará Lubovna";12
 2020-09-30;"Stropkov";1
+2020-09-30;"Šala";2
 2020-09-30;"Topolcany";8
 2020-09-30;"Trebišov";17
 2020-09-30;"Trencín";10
@@ -2760,10 +2760,10 @@
 2020-09-30;"Tvrdošín";47
 2020-09-30;"Velký Krtíš";8
 2020-09-30;"Vranov nad Toplou";9
-2020-09-30;"Žiar nad Hronom";4
-2020-09-30;"Žilina";10
 2020-09-30;"Zlaté Moravce";2
 2020-09-30;"Zvolen";4
+2020-09-30;"Žiar nad Hronom";4
+2020-09-30;"Žilina";10
 2020-10-01;"Banská Bystrica";23
 2020-10-01;"Bardejov";50
 2020-10-01;"Bratislava";52
@@ -2803,7 +2803,6 @@
 2020-10-01;"Púchov";2
 2020-10-01;"Ružomberok";1
 2020-10-01;"Sabinov";4
-2020-10-01;"Šala";3
 2020-10-01;"Senec";9
 2020-10-01;"Senica";3
 2020-10-01;"Skalica";4
@@ -2813,17 +2812,18 @@
 2020-10-01;"Stará Lubovna";9
 2020-10-01;"Stropkov";8
 2020-10-01;"Svidník";22
+2020-10-01;"Šala";3
 2020-10-01;"Topolcany";19
 2020-10-01;"Trebišov";16
 2020-10-01;"Trencín";6
 2020-10-01;"Trnava";27
 2020-10-01;"Tvrdošín";54
 2020-10-01;"Velký Krtíš";4
+2020-10-01;"Zlaté Moravce";1
+2020-10-01;"Zvolen";3
 2020-10-01;"Žarnovica";2
 2020-10-01;"Žiar nad Hronom";2
 2020-10-01;"Žilina";16
-2020-10-01;"Zlaté Moravce";1
-2020-10-01;"Zvolen";3
 2020-10-02;"Bánovce nad Bebravou";3
 2020-10-02;"Banská Bystrica";19
 2020-10-02;"Banská Štiavnica";6
@@ -2867,7 +2867,6 @@
 2020-10-02;"Rimavská Sobota";2
 2020-10-02;"Ružomberok";5
 2020-10-02;"Sabinov";4
-2020-10-02;"Šala";1
 2020-10-02;"Senec";6
 2020-10-02;"Senica";1
 2020-10-02;"Snina";5
@@ -2876,6 +2875,7 @@
 2020-10-02;"Stará Lubovna";28
 2020-10-02;"Stropkov";8
 2020-10-02;"Svidník";13
+2020-10-02;"Šala";1
 2020-10-02;"Topolcany";3
 2020-10-02;"Trebišov";4
 2020-10-02;"Trencín";3
@@ -2883,11 +2883,11 @@
 2020-10-02;"Tvrdošín";12
 2020-10-02;"Velký Krtíš";18
 2020-10-02;"Vranov nad Toplou";1
+2020-10-02;"Zlaté Moravce";12
+2020-10-02;"Zvolen";6
 2020-10-02;"Žarnovica";3
 2020-10-02;"Žiar nad Hronom";6
 2020-10-02;"Žilina";15
-2020-10-02;"Zlaté Moravce";12
-2020-10-02;"Zvolen";6
 2020-10-03;"Bánovce nad Bebravou";3
 2020-10-03;"Banská Bystrica";8
 2020-10-03;"Banská Štiavnica";1
@@ -2933,7 +2933,6 @@
 2020-10-03;"Rimavská Sobota";2
 2020-10-03;"Ružomberok";14
 2020-10-03;"Sabinov";3
-2020-10-03;"Šala";1
 2020-10-03;"Senec";12
 2020-10-03;"Senica";12
 2020-10-03;"Skalica";20
@@ -2943,6 +2942,7 @@
 2020-10-03;"Stará Lubovna";16
 2020-10-03;"Stropkov";20
 2020-10-03;"Svidník";20
+2020-10-03;"Šala";1
 2020-10-03;"Topolcany";10
 2020-10-03;"Trebišov";4
 2020-10-03;"Trencín";14
@@ -2951,11 +2951,11 @@
 2020-10-03;"Tvrdošín";29
 2020-10-03;"Velký Krtíš";6
 2020-10-03;"Vranov nad Toplou";13
+2020-10-03;"Zlaté Moravce";15
+2020-10-03;"Zvolen";5
 2020-10-03;"Žarnovica";1
 2020-10-03;"Žiar nad Hronom";1
 2020-10-03;"Žilina";17
-2020-10-03;"Zlaté Moravce";15
-2020-10-03;"Zvolen";5
 2020-10-04;"Banská Bystrica";4
 2020-10-04;"Bardejov";31
 2020-10-04;"Bratislava";34
@@ -3008,10 +3008,10 @@
 2020-10-04;"Trnava";13
 2020-10-04;"Tvrdošín";3
 2020-10-04;"Vranov nad Toplou";12
-2020-10-04;"Žiar nad Hronom";1
-2020-10-04;"Žilina";14
 2020-10-04;"Zlaté Moravce";1
 2020-10-04;"Zvolen";1
+2020-10-04;"Žiar nad Hronom";1
+2020-10-04;"Žilina";14
 2020-10-05;"Bánovce nad Bebravou";2
 2020-10-05;"Banská Bystrica";22
 2020-10-05;"Bardejov";22
@@ -3045,7 +3045,6 @@
 2020-10-05;"Prievidza";2
 2020-10-05;"Ružomberok";1
 2020-10-05;"Sabinov";5
-2020-10-05;"Šala";1
 2020-10-05;"Senec";1
 2020-10-05;"Senica";1
 2020-10-05;"Skalica";7
@@ -3055,15 +3054,16 @@
 2020-10-05;"Stará Lubovna";16
 2020-10-05;"Stropkov";4
 2020-10-05;"Svidník";6
+2020-10-05;"Šala";1
 2020-10-05;"Topolcany";2
 2020-10-05;"Trebišov";6
 2020-10-05;"Trencín";17
 2020-10-05;"Trnava";15
 2020-10-05;"Tvrdošín";3
 2020-10-05;"Velký Krtíš";2
+2020-10-05;"Zvolen";5
 2020-10-05;"Žiar nad Hronom";2
 2020-10-05;"Žilina";2
-2020-10-05;"Zvolen";5
 2020-10-06;"Bánovce nad Bebravou";9
 2020-10-06;"Banská Bystrica";22
 2020-10-06;"Banská Štiavnica";2
@@ -3111,7 +3111,6 @@
 2020-10-06;"Rožnava";2
 2020-10-06;"Ružomberok";11
 2020-10-06;"Sabinov";25
-2020-10-06;"Šala";5
 2020-10-06;"Senec";8
 2020-10-06;"Senica";10
 2020-10-06;"Skalica";8
@@ -3121,17 +3120,18 @@
 2020-10-06;"Stará Lubovna";22
 2020-10-06;"Stropkov";6
 2020-10-06;"Svidník";3
+2020-10-06;"Šala";5
 2020-10-06;"Topolcany";4
 2020-10-06;"Trebišov";17
 2020-10-06;"Trencín";28
 2020-10-06;"Trnava";44
 2020-10-06;"Tvrdošín";40
 2020-10-06;"Velký Krtíš";5
+2020-10-06;"Zlaté Moravce";8
+2020-10-06;"Zvolen";3
 2020-10-06;"Žarnovica";4
 2020-10-06;"Žiar nad Hronom";8
 2020-10-06;"Žilina";20
-2020-10-06;"Zlaté Moravce";8
-2020-10-06;"Zvolen";3
 2020-10-07;"Bánovce nad Bebravou";5
 2020-10-07;"Banská Bystrica";21
 2020-10-07;"Banská Štiavnica";1
@@ -3179,7 +3179,6 @@
 2020-10-07;"Rožnava";2
 2020-10-07;"Ružomberok";1
 2020-10-07;"Sabinov";30
-2020-10-07;"Šala";3
 2020-10-07;"Senec";12
 2020-10-07;"Senica";5
 2020-10-07;"Skalica";4
@@ -3189,6 +3188,7 @@
 2020-10-07;"Stará Lubovna";2
 2020-10-07;"Stropkov";10
 2020-10-07;"Svidník";8
+2020-10-07;"Šala";3
 2020-10-07;"Topolcany";3
 2020-10-07;"Trebišov";56
 2020-10-07;"Trencín";8
@@ -3196,11 +3196,11 @@
 2020-10-07;"Tvrdošín";28
 2020-10-07;"Velký Krtíš";48
 2020-10-07;"Vranov nad Toplou";14
+2020-10-07;"Zlaté Moravce";8
+2020-10-07;"Zvolen";10
 2020-10-07;"Žarnovica";3
 2020-10-07;"Žiar nad Hronom";6
 2020-10-07;"Žilina";31
-2020-10-07;"Zlaté Moravce";8
-2020-10-07;"Zvolen";10
 2020-10-08;"Bánovce nad Bebravou";8
 2020-10-08;"Banská Bystrica";25
 2020-10-08;"Banská Štiavnica";4
@@ -3248,7 +3248,6 @@
 2020-10-08;"Rimavská Sobota";18
 2020-10-08;"Ružomberok";13
 2020-10-08;"Sabinov";26
-2020-10-08;"Šala";6
 2020-10-08;"Senec";8
 2020-10-08;"Senica";17
 2020-10-08;"Skalica";36
@@ -3258,6 +3257,7 @@
 2020-10-08;"Stará Lubovna";11
 2020-10-08;"Stropkov";16
 2020-10-08;"Svidník";14
+2020-10-08;"Šala";6
 2020-10-08;"Topolcany";35
 2020-10-08;"Trebišov";23
 2020-10-08;"Trencín";13
@@ -3266,11 +3266,11 @@
 2020-10-08;"Tvrdošín";49
 2020-10-08;"Velký Krtíš";3
 2020-10-08;"Vranov nad Toplou";11
+2020-10-08;"Zlaté Moravce";12
+2020-10-08;"Zvolen";5
 2020-10-08;"Žarnovica";2
 2020-10-08;"Žiar nad Hronom";10
 2020-10-08;"Žilina";24
-2020-10-08;"Zlaté Moravce";12
-2020-10-08;"Zvolen";5
 2020-10-09;"Bánovce nad Bebravou";3
 2020-10-09;"Banská Bystrica";20
 2020-10-09;"Banská Štiavnica";13
@@ -3318,7 +3318,6 @@
 2020-10-09;"Rožnava";3
 2020-10-09;"Ružomberok";20
 2020-10-09;"Sabinov";42
-2020-10-09;"Šala";3
 2020-10-09;"Senec";12
 2020-10-09;"Senica";11
 2020-10-09;"Skalica";17
@@ -3328,6 +3327,7 @@
 2020-10-09;"Stará Lubovna";9
 2020-10-09;"Stropkov";16
 2020-10-09;"Svidník";19
+2020-10-09;"Šala";3
 2020-10-09;"Topolcany";9
 2020-10-09;"Trebišov";50
 2020-10-09;"Trencín";34
@@ -3336,11 +3336,11 @@
 2020-10-09;"Tvrdošín";96
 2020-10-09;"Velký Krtíš";29
 2020-10-09;"Vranov nad Toplou";18
+2020-10-09;"Zlaté Moravce";13
+2020-10-09;"Zvolen";8
 2020-10-09;"Žarnovica";4
 2020-10-09;"Žiar nad Hronom";29
 2020-10-09;"Žilina";32
-2020-10-09;"Zlaté Moravce";13
-2020-10-09;"Zvolen";8
 2020-10-10;"Bánovce nad Bebravou";3
 2020-10-10;"Banská Bystrica";19
 2020-10-10;"Banská Štiavnica";2
@@ -3388,7 +3388,6 @@
 2020-10-10;"Rožnava";1
 2020-10-10;"Ružomberok";22
 2020-10-10;"Sabinov";18
-2020-10-10;"Šala";15
 2020-10-10;"Senec";7
 2020-10-10;"Senica";16
 2020-10-10;"Skalica";36
@@ -3398,6 +3397,7 @@
 2020-10-10;"Stará Lubovna";27
 2020-10-10;"Stropkov";8
 2020-10-10;"Svidník";15
+2020-10-10;"Šala";15
 2020-10-10;"Topolcany";12
 2020-10-10;"Trebišov";12
 2020-10-10;"Trencín";16
@@ -3406,10 +3406,10 @@
 2020-10-10;"Tvrdošín";7
 2020-10-10;"Velký Krtíš";1
 2020-10-10;"Vranov nad Toplou";6
-2020-10-10;"Žiar nad Hronom";5
-2020-10-10;"Žilina";37
 2020-10-10;"Zlaté Moravce";7
 2020-10-10;"Zvolen";6
+2020-10-10;"Žiar nad Hronom";5
+2020-10-10;"Žilina";37
 2020-10-11;"Bánovce nad Bebravou";3
 2020-10-11;"Banská Bystrica";3
 2020-10-11;"Banská Štiavnica";1
@@ -3466,11 +3466,11 @@
 2020-10-11;"Tvrdošín";1
 2020-10-11;"Velký Krtíš";1
 2020-10-11;"Vranov nad Toplou";1
+2020-10-11;"Zlaté Moravce";1
+2020-10-11;"Zvolen";2
 2020-10-11;"Žarnovica";1
 2020-10-11;"Žiar nad Hronom";1
 2020-10-11;"Žilina";3
-2020-10-11;"Zlaté Moravce";1
-2020-10-11;"Zvolen";2
 2020-10-12;"Bánovce nad Bebravou";4
 2020-10-12;"Banská Bystrica";3
 2020-10-12;"Bardejov";60
@@ -3510,7 +3510,6 @@
 2020-10-12;"Púchov";2
 2020-10-12;"Ružomberok";3
 2020-10-12;"Sabinov";19
-2020-10-12;"Šala";1
 2020-10-12;"Senec";7
 2020-10-12;"Senica";2
 2020-10-12;"Skalica";1
@@ -3520,6 +3519,7 @@
 2020-10-12;"Stará Lubovna";3
 2020-10-12;"Stropkov";10
 2020-10-12;"Svidník";10
+2020-10-12;"Šala";1
 2020-10-12;"Topolcany";3
 2020-10-12;"Trebišov";3
 2020-10-12;"Trencín";26
@@ -3575,7 +3575,6 @@
 2020-10-13;"Rožnava";6
 2020-10-13;"Ružomberok";23
 2020-10-13;"Sabinov";29
-2020-10-13;"Šala";6
 2020-10-13;"Senec";9
 2020-10-13;"Senica";10
 2020-10-13;"Skalica";12
@@ -3585,6 +3584,7 @@
 2020-10-13;"Stará Lubovna";13
 2020-10-13;"Stropkov";11
 2020-10-13;"Svidník";11
+2020-10-13;"Šala";6
 2020-10-13;"Topolcany";17
 2020-10-13;"Trebišov";36
 2020-10-13;"Trencín";24
@@ -3593,11 +3593,11 @@
 2020-10-13;"Tvrdošín";49
 2020-10-13;"Velký Krtíš";4
 2020-10-13;"Vranov nad Toplou";5
+2020-10-13;"Zlaté Moravce";11
+2020-10-13;"Zvolen";7
 2020-10-13;"Žarnovica";9
 2020-10-13;"Žiar nad Hronom";34
 2020-10-13;"Žilina";27
-2020-10-13;"Zlaté Moravce";11
-2020-10-13;"Zvolen";7
 2020-10-14;"Bánovce nad Bebravou";5
 2020-10-14;"Banská Bystrica";52
 2020-10-14;"Banská Štiavnica";4
@@ -3647,7 +3647,6 @@
 2020-10-14;"Rožnava";6
 2020-10-14;"Ružomberok";45
 2020-10-14;"Sabinov";65
-2020-10-14;"Šala";1
 2020-10-14;"Senec";11
 2020-10-14;"Senica";23
 2020-10-14;"Skalica";52
@@ -3657,6 +3656,7 @@
 2020-10-14;"Stará Lubovna";17
 2020-10-14;"Stropkov";3
 2020-10-14;"Svidník";13
+2020-10-14;"Šala";1
 2020-10-14;"Topolcany";17
 2020-10-14;"Trebišov";29
 2020-10-14;"Trencín";30
@@ -3665,11 +3665,11 @@
 2020-10-14;"Tvrdošín";75
 2020-10-14;"Velký Krtíš";10
 2020-10-14;"Vranov nad Toplou";21
+2020-10-14;"Zlaté Moravce";8
+2020-10-14;"Zvolen";9
 2020-10-14;"Žarnovica";5
 2020-10-14;"Žiar nad Hronom";16
 2020-10-14;"Žilina";52
-2020-10-14;"Zlaté Moravce";8
-2020-10-14;"Zvolen";9
 2020-10-15;"Bánovce nad Bebravou";49
 2020-10-15;"Banská Bystrica";51
 2020-10-15;"Bardejov";129
@@ -3718,7 +3718,6 @@
 2020-10-15;"Rožnava";5
 2020-10-15;"Ružomberok";26
 2020-10-15;"Sabinov";58
-2020-10-15;"Šala";2
 2020-10-15;"Senec";13
 2020-10-15;"Senica";27
 2020-10-15;"Skalica";44
@@ -3728,6 +3727,7 @@
 2020-10-15;"Stará Lubovna";21
 2020-10-15;"Stropkov";11
 2020-10-15;"Svidník";21
+2020-10-15;"Šala";2
 2020-10-15;"Topolcany";16
 2020-10-15;"Trebišov";29
 2020-10-15;"Trencín";52
@@ -3736,11 +3736,11 @@
 2020-10-15;"Tvrdošín";68
 2020-10-15;"Velký Krtíš";5
 2020-10-15;"Vranov nad Toplou";19
+2020-10-15;"Zlaté Moravce";7
+2020-10-15;"Zvolen";2
 2020-10-15;"Žarnovica";1
 2020-10-15;"Žiar nad Hronom";9
 2020-10-15;"Žilina";121
-2020-10-15;"Zlaté Moravce";7
-2020-10-15;"Zvolen";2
 2020-10-16;"Bánovce nad Bebravou";20
 2020-10-16;"Banská Bystrica";91
 2020-10-16;"Banská Štiavnica";10
@@ -3789,7 +3789,6 @@
 2020-10-16;"Rožnava";10
 2020-10-16;"Ružomberok";30
 2020-10-16;"Sabinov";43
-2020-10-16;"Šala";5
 2020-10-16;"Senec";9
 2020-10-16;"Senica";10
 2020-10-16;"Skalica";10
@@ -3799,6 +3798,7 @@
 2020-10-16;"Stará Lubovna";11
 2020-10-16;"Stropkov";6
 2020-10-16;"Svidník";17
+2020-10-16;"Šala";5
 2020-10-16;"Topolcany";14
 2020-10-16;"Trebišov";22
 2020-10-16;"Trencín";32
@@ -3806,11 +3806,11 @@
 2020-10-16;"Tvrdošín";112
 2020-10-16;"Velký Krtíš";33
 2020-10-16;"Vranov nad Toplou";15
+2020-10-16;"Zlaté Moravce";11
+2020-10-16;"Zvolen";12
 2020-10-16;"Žarnovica";14
 2020-10-16;"Žiar nad Hronom";19
 2020-10-16;"Žilina";32
-2020-10-16;"Zlaté Moravce";11
-2020-10-16;"Zvolen";12
 2020-10-17;"Bánovce nad Bebravou";9
 2020-10-17;"Banská Bystrica";30
 2020-10-17;"Bardejov";67
@@ -3857,7 +3857,6 @@
 2020-10-17;"Rimavská Sobota";1
 2020-10-17;"Ružomberok";55
 2020-10-17;"Sabinov";46
-2020-10-17;"Šala";2
 2020-10-17;"Senec";4
 2020-10-17;"Senica";39
 2020-10-17;"Skalica";27
@@ -3867,6 +3866,7 @@
 2020-10-17;"Stará Lubovna";14
 2020-10-17;"Stropkov";6
 2020-10-17;"Svidník";12
+2020-10-17;"Šala";2
 2020-10-17;"Topolcany";25
 2020-10-17;"Trebišov";19
 2020-10-17;"Trencín";23
@@ -3875,11 +3875,11 @@
 2020-10-17;"Tvrdošín";66
 2020-10-17;"Velký Krtíš";2
 2020-10-17;"Vranov nad Toplou";9
+2020-10-17;"Zlaté Moravce";1
+2020-10-17;"Zvolen";10
 2020-10-17;"Žarnovica";2
 2020-10-17;"Žiar nad Hronom";5
 2020-10-17;"Žilina";98
-2020-10-17;"Zlaté Moravce";1
-2020-10-17;"Zvolen";10
 2020-10-18;"Bánovce nad Bebravou";18
 2020-10-18;"Banská Bystrica";24
 2020-10-18;"Banská Štiavnica";1
@@ -3924,7 +3924,6 @@
 2020-10-18;"Rožnava";5
 2020-10-18;"Ružomberok";21
 2020-10-18;"Sabinov";22
-2020-10-18;"Šala";2
 2020-10-18;"Senec";2
 2020-10-18;"Snina";13
 2020-10-18;"Sobrance";13
@@ -3932,6 +3931,7 @@
 2020-10-18;"Stará Lubovna";13
 2020-10-18;"Stropkov";6
 2020-10-18;"Svidník";4
+2020-10-18;"Šala";2
 2020-10-18;"Topolcany";4
 2020-10-18;"Trebišov";12
 2020-10-18;"Trencín";27
@@ -3939,10 +3939,10 @@
 2020-10-18;"Tvrdošín";21
 2020-10-18;"Velký Krtíš";1
 2020-10-18;"Vranov nad Toplou";6
-2020-10-18;"Žiar nad Hronom";1
-2020-10-18;"Žilina";28
 2020-10-18;"Zlaté Moravce";2
 2020-10-18;"Zvolen";7
+2020-10-18;"Žiar nad Hronom";1
+2020-10-18;"Žilina";28
 2020-10-19;"Bánovce nad Bebravou";3
 2020-10-19;"Banská Bystrica";12
 2020-10-19;"Bardejov";47
@@ -3981,7 +3981,6 @@
 2020-10-19;"Rožnava";1
 2020-10-19;"Ružomberok";11
 2020-10-19;"Sabinov";7
-2020-10-19;"Šala";2
 2020-10-19;"Senec";16
 2020-10-19;"Senica";6
 2020-10-19;"Skalica";10
@@ -3989,15 +3988,16 @@
 2020-10-19;"Spišská Nová Ves";7
 2020-10-19;"Stropkov";2
 2020-10-19;"Svidník";21
+2020-10-19;"Šala";2
 2020-10-19;"Topolcany";14
 2020-10-19;"Trencín";21
 2020-10-19;"Trnava";32
 2020-10-19;"Tvrdošín";2
 2020-10-19;"Vranov nad Toplou";4
-2020-10-19;"Žiar nad Hronom";1
-2020-10-19;"Žilina";10
 2020-10-19;"Zlaté Moravce";9
 2020-10-19;"Zvolen";3
+2020-10-19;"Žiar nad Hronom";1
+2020-10-19;"Žilina";10
 2020-10-20;"Bánovce nad Bebravou";24
 2020-10-20;"Banská Bystrica";56
 2020-10-20;"Banská Štiavnica";10
@@ -4047,7 +4047,6 @@
 2020-10-20;"Rožnava";3
 2020-10-20;"Ružomberok";65
 2020-10-20;"Sabinov";76
-2020-10-20;"Šala";4
 2020-10-20;"Senec";18
 2020-10-20;"Senica";34
 2020-10-20;"Skalica";35
@@ -4057,6 +4056,7 @@
 2020-10-20;"Stará Lubovna";36
 2020-10-20;"Stropkov";9
 2020-10-20;"Svidník";19
+2020-10-20;"Šala";4
 2020-10-20;"Topolcany";15
 2020-10-20;"Trebišov";40
 2020-10-20;"Trencín";33
@@ -4065,11 +4065,11 @@
 2020-10-20;"Tvrdošín";54
 2020-10-20;"Velký Krtíš";4
 2020-10-20;"Vranov nad Toplou";7
+2020-10-20;"Zlaté Moravce";15
+2020-10-20;"Zvolen";12
 2020-10-20;"Žarnovica";7
 2020-10-20;"Žiar nad Hronom";16
 2020-10-20;"Žilina";80
-2020-10-20;"Zlaté Moravce";15
-2020-10-20;"Zvolen";12
 2020-10-21;"Bánovce nad Bebravou";33
 2020-10-21;"Banská Bystrica";75
 2020-10-21;"Banská Štiavnica";5
@@ -4119,7 +4119,6 @@
 2020-10-21;"Rožnava";1
 2020-10-21;"Ružomberok";24
 2020-10-21;"Sabinov";50
-2020-10-21;"Šala";4
 2020-10-21;"Senec";7
 2020-10-21;"Senica";16
 2020-10-21;"Skalica";20
@@ -4129,6 +4128,7 @@
 2020-10-21;"Stará Lubovna";19
 2020-10-21;"Stropkov";22
 2020-10-21;"Svidník";26
+2020-10-21;"Šala";4
 2020-10-21;"Topolcany";30
 2020-10-21;"Trebišov";10
 2020-10-21;"Trencín";33
@@ -4137,11 +4137,11 @@
 2020-10-21;"Tvrdošín";109
 2020-10-21;"Velký Krtíš";58
 2020-10-21;"Vranov nad Toplou";28
+2020-10-21;"Zlaté Moravce";11
+2020-10-21;"Zvolen";15
 2020-10-21;"Žarnovica";4
 2020-10-21;"Žiar nad Hronom";9
 2020-10-21;"Žilina";54
-2020-10-21;"Zlaté Moravce";11
-2020-10-21;"Zvolen";15
 2020-10-22;"Bánovce nad Bebravou";54
 2020-10-22;"Banská Bystrica";65
 2020-10-22;"Banská Štiavnica";4
@@ -4191,7 +4191,6 @@
 2020-10-22;"Rožnava";7
 2020-10-22;"Ružomberok";101
 2020-10-22;"Sabinov";98
-2020-10-22;"Šala";7
 2020-10-22;"Senec";23
 2020-10-22;"Senica";38
 2020-10-22;"Skalica";28
@@ -4201,6 +4200,7 @@
 2020-10-22;"Stará Lubovna";37
 2020-10-22;"Stropkov";15
 2020-10-22;"Svidník";37
+2020-10-22;"Šala";7
 2020-10-22;"Topolcany";35
 2020-10-22;"Trebišov";29
 2020-10-22;"Trencín";38
@@ -4209,11 +4209,11 @@
 2020-10-22;"Tvrdošín";57
 2020-10-22;"Velký Krtíš";42
 2020-10-22;"Vranov nad Toplou";37
+2020-10-22;"Zlaté Moravce";4
+2020-10-22;"Zvolen";8
 2020-10-22;"Žarnovica";15
 2020-10-22;"Žiar nad Hronom";28
 2020-10-22;"Žilina";52
-2020-10-22;"Zlaté Moravce";4
-2020-10-22;"Zvolen";8
 2020-10-23;"Bánovce nad Bebravou";45
 2020-10-23;"Banská Bystrica";99
 2020-10-23;"Banská Štiavnica";16
@@ -4263,7 +4263,6 @@
 2020-10-23;"Rožnava";15
 2020-10-23;"Ružomberok";51
 2020-10-23;"Sabinov";172
-2020-10-23;"Šala";4
 2020-10-23;"Senec";17
 2020-10-23;"Senica";29
 2020-10-23;"Skalica";53
@@ -4273,6 +4272,7 @@
 2020-10-23;"Stará Lubovna";35
 2020-10-23;"Stropkov";29
 2020-10-23;"Svidník";50
+2020-10-23;"Šala";4
 2020-10-23;"Topolcany";46
 2020-10-23;"Trebišov";45
 2020-10-23;"Trencín";67
@@ -4281,11 +4281,11 @@
 2020-10-23;"Tvrdošín";117
 2020-10-23;"Velký Krtíš";6
 2020-10-23;"Vranov nad Toplou";30
+2020-10-23;"Zlaté Moravce";21
+2020-10-23;"Zvolen";23
 2020-10-23;"Žarnovica";6
 2020-10-23;"Žiar nad Hronom";16
 2020-10-23;"Žilina";75
-2020-10-23;"Zlaté Moravce";21
-2020-10-23;"Zvolen";23
 2020-10-24;"Bánovce nad Bebravou";31
 2020-10-24;"Banská Bystrica";66
 2020-10-24;"Banská Štiavnica";6
@@ -4334,7 +4334,6 @@
 2020-10-24;"Rimavská Sobota";9
 2020-10-24;"Ružomberok";96
 2020-10-24;"Sabinov";105
-2020-10-24;"Šala";6
 2020-10-24;"Senec";17
 2020-10-24;"Senica";23
 2020-10-24;"Skalica";9
@@ -4344,6 +4343,7 @@
 2020-10-24;"Stará Lubovna";65
 2020-10-24;"Stropkov";20
 2020-10-24;"Svidník";26
+2020-10-24;"Šala";6
 2020-10-24;"Topolcany";24
 2020-10-24;"Trebišov";35
 2020-10-24;"Trencín";67
@@ -4352,11 +4352,11 @@
 2020-10-24;"Tvrdošín";49
 2020-10-24;"Velký Krtíš";57
 2020-10-24;"Vranov nad Toplou";35
+2020-10-24;"Zlaté Moravce";7
+2020-10-24;"Zvolen";24
 2020-10-24;"Žarnovica";4
 2020-10-24;"Žiar nad Hronom";13
 2020-10-24;"Žilina";240
-2020-10-24;"Zlaté Moravce";7
-2020-10-24;"Zvolen";24
 2020-10-25;"Bánovce nad Bebravou";31
 2020-10-25;"Banská Bystrica";21
 2020-10-25;"Bardejov";76
@@ -4403,7 +4403,6 @@
 2020-10-25;"Rožnava";2
 2020-10-25;"Ružomberok";79
 2020-10-25;"Sabinov";12
-2020-10-25;"Šala";2
 2020-10-25;"Senec";17
 2020-10-25;"Senica";5
 2020-10-25;"Skalica";8
@@ -4413,6 +4412,7 @@
 2020-10-25;"Stará Lubovna";7
 2020-10-25;"Stropkov";2
 2020-10-25;"Svidník";7
+2020-10-25;"Šala";2
 2020-10-25;"Topolcany";17
 2020-10-25;"Trebišov";19
 2020-10-25;"Trencín";23
@@ -4420,10 +4420,10 @@
 2020-10-25;"Turcianske Teplice";1
 2020-10-25;"Tvrdošín";5
 2020-10-25;"Vranov nad Toplou";12
+2020-10-25;"Zvolen";9
 2020-10-25;"Žarnovica";2
 2020-10-25;"Žiar nad Hronom";3
 2020-10-25;"Žilina";80
-2020-10-25;"Zvolen";9
 2020-10-26;"Bánovce nad Bebravou";31
 2020-10-26;"Banská Bystrica";17
 2020-10-26;"Bardejov";10
@@ -4468,13 +4468,13 @@
 2020-10-26;"Rimavská Sobota";1
 2020-10-26;"Ružomberok";21
 2020-10-26;"Sabinov";40
-2020-10-26;"Šala";4
 2020-10-26;"Senec";11
 2020-10-26;"Senica";13
 2020-10-26;"Skalica";27
 2020-10-26;"Snina";2
 2020-10-26;"Spišská Nová Ves";16
 2020-10-26;"Stará Lubovna";1
+2020-10-26;"Šala";4
 2020-10-26;"Topolcany";36
 2020-10-26;"Trebišov";2
 2020-10-26;"Trencín";55
@@ -4483,11 +4483,11 @@
 2020-10-26;"Tvrdošín";1
 2020-10-26;"Velký Krtíš";2
 2020-10-26;"Vranov nad Toplou";1
+2020-10-26;"Zlaté Moravce";2
+2020-10-26;"Zvolen";7
 2020-10-26;"Žarnovica";1
 2020-10-26;"Žiar nad Hronom";1
 2020-10-26;"Žilina";7
-2020-10-26;"Zlaté Moravce";2
-2020-10-26;"Zvolen";7
 2020-10-27;"Bánovce nad Bebravou";75
 2020-10-27;"Banská Bystrica";39
 2020-10-27;"Banská Štiavnica";1
@@ -4537,7 +4537,6 @@
 2020-10-27;"Rožnava";1
 2020-10-27;"Ružomberok";66
 2020-10-27;"Sabinov";81
-2020-10-27;"Šala";1
 2020-10-27;"Senec";27
 2020-10-27;"Senica";35
 2020-10-27;"Skalica";19
@@ -4547,6 +4546,7 @@
 2020-10-27;"Stará Lubovna";30
 2020-10-27;"Stropkov";25
 2020-10-27;"Svidník";71
+2020-10-27;"Šala";1
 2020-10-27;"Topolcany";42
 2020-10-27;"Trebišov";38
 2020-10-27;"Trencín";75
@@ -4555,11 +4555,11 @@
 2020-10-27;"Tvrdošín";46
 2020-10-27;"Velký Krtíš";13
 2020-10-27;"Vranov nad Toplou";53
+2020-10-27;"Zlaté Moravce";10
+2020-10-27;"Zvolen";7
 2020-10-27;"Žarnovica";7
 2020-10-27;"Žiar nad Hronom";8
 2020-10-27;"Žilina";33
-2020-10-27;"Zlaté Moravce";10
-2020-10-27;"Zvolen";7
 2020-10-28;"Bánovce nad Bebravou";32
 2020-10-28;"Banská Bystrica";60
 2020-10-28;"Banská Štiavnica";4
@@ -4609,7 +4609,6 @@
 2020-10-28;"Rožnava";9
 2020-10-28;"Ružomberok";124
 2020-10-28;"Sabinov";105
-2020-10-28;"Šala";8
 2020-10-28;"Senec";35
 2020-10-28;"Senica";61
 2020-10-28;"Skalica";55
@@ -4619,6 +4618,7 @@
 2020-10-28;"Stará Lubovna";57
 2020-10-28;"Stropkov";15
 2020-10-28;"Svidník";17
+2020-10-28;"Šala";8
 2020-10-28;"Topolcany";37
 2020-10-28;"Trebišov";28
 2020-10-28;"Trencín";41
@@ -4627,11 +4627,11 @@
 2020-10-28;"Tvrdošín";13
 2020-10-28;"Velký Krtíš";13
 2020-10-28;"Vranov nad Toplou";25
+2020-10-28;"Zlaté Moravce";10
+2020-10-28;"Zvolen";20
 2020-10-28;"Žarnovica";10
 2020-10-28;"Žiar nad Hronom";13
 2020-10-28;"Žilina";100
-2020-10-28;"Zlaté Moravce";10
-2020-10-28;"Zvolen";20
 2020-10-29;"Bánovce nad Bebravou";41
 2020-10-29;"Banská Bystrica";105
 2020-10-29;"Banská Štiavnica";2
@@ -4681,7 +4681,6 @@
 2020-10-29;"Rožnava";12
 2020-10-29;"Ružomberok";90
 2020-10-29;"Sabinov";66
-2020-10-29;"Šala";10
 2020-10-29;"Senec";40
 2020-10-29;"Senica";20
 2020-10-29;"Skalica";43
@@ -4691,6 +4690,7 @@
 2020-10-29;"Stará Lubovna";45
 2020-10-29;"Stropkov";16
 2020-10-29;"Svidník";33
+2020-10-29;"Šala";10
 2020-10-29;"Topolcany";60
 2020-10-29;"Trebišov";21
 2020-10-29;"Trencín";79
@@ -4699,11 +4699,11 @@
 2020-10-29;"Tvrdošín";10
 2020-10-29;"Velký Krtíš";11
 2020-10-29;"Vranov nad Toplou";44
+2020-10-29;"Zlaté Moravce";15
+2020-10-29;"Zvolen";22
 2020-10-29;"Žarnovica";6
 2020-10-29;"Žiar nad Hronom";10
 2020-10-29;"Žilina";244
-2020-10-29;"Zlaté Moravce";15
-2020-10-29;"Zvolen";22
 2020-10-30;"Bánovce nad Bebravou";50
 2020-10-30;"Banská Bystrica";96
 2020-10-30;"Banská Štiavnica";1
@@ -4752,7 +4752,6 @@
 2020-10-30;"Rožnava";4
 2020-10-30;"Ružomberok";93
 2020-10-30;"Sabinov";83
-2020-10-30;"Šala";4
 2020-10-30;"Senec";26
 2020-10-30;"Senica";17
 2020-10-30;"Skalica";21
@@ -4762,6 +4761,7 @@
 2020-10-30;"Stará Lubovna";46
 2020-10-30;"Stropkov";19
 2020-10-30;"Svidník";22
+2020-10-30;"Šala";4
 2020-10-30;"Topolcany";20
 2020-10-30;"Trebišov";42
 2020-10-30;"Trencín";49
@@ -4770,11 +4770,11 @@
 2020-10-30;"Tvrdošín";25
 2020-10-30;"Velký Krtíš";13
 2020-10-30;"Vranov nad Toplou";26
+2020-10-30;"Zlaté Moravce";10
+2020-10-30;"Zvolen";30
 2020-10-30;"Žarnovica";8
 2020-10-30;"Žiar nad Hronom";14
 2020-10-30;"Žilina";122
-2020-10-30;"Zlaté Moravce";10
-2020-10-30;"Zvolen";30
 2020-10-31;"Bánovce nad Bebravou";30
 2020-10-31;"Banská Bystrica";75
 2020-10-31;"Banská Štiavnica";2
@@ -4822,7 +4822,6 @@
 2020-10-31;"Rimavská Sobota";12
 2020-10-31;"Ružomberok";74
 2020-10-31;"Sabinov";19
-2020-10-31;"Šala";7
 2020-10-31;"Senec";17
 2020-10-31;"Senica";39
 2020-10-31;"Skalica";27
@@ -4832,6 +4831,7 @@
 2020-10-31;"Stará Lubovna";3
 2020-10-31;"Stropkov";4
 2020-10-31;"Svidník";28
+2020-10-31;"Šala";7
 2020-10-31;"Topolcany";82
 2020-10-31;"Trebišov";11
 2020-10-31;"Trencín";46
@@ -4840,11 +4840,11 @@
 2020-10-31;"Tvrdošín";15
 2020-10-31;"Velký Krtíš";3
 2020-10-31;"Vranov nad Toplou";6
+2020-10-31;"Zlaté Moravce";1
+2020-10-31;"Zvolen";16
 2020-10-31;"Žarnovica";1
 2020-10-31;"Žiar nad Hronom";6
 2020-10-31;"Žilina";153
-2020-10-31;"Zlaté Moravce";1
-2020-10-31;"Zvolen";16
 2020-11-01;"Bánovce nad Bebravou";40
 2020-11-01;"Banská Bystrica";34
 2020-11-01;"Banská Štiavnica";1
@@ -4892,7 +4892,6 @@
 2020-11-01;"Rožnava";4
 2020-11-01;"Ružomberok";5
 2020-11-01;"Sabinov";45
-2020-11-01;"Šala";6
 2020-11-01;"Senec";36
 2020-11-01;"Senica";4
 2020-11-01;"Skalica";6
@@ -4902,6 +4901,7 @@
 2020-11-01;"Stará Lubovna";34
 2020-11-01;"Stropkov";15
 2020-11-01;"Svidník";10
+2020-11-01;"Šala";6
 2020-11-01;"Topolcany";59
 2020-11-01;"Trebišov";48
 2020-11-01;"Trencín";65
@@ -4910,11 +4910,11 @@
 2020-11-01;"Tvrdošín";5
 2020-11-01;"Velký Krtíš";1
 2020-11-01;"Vranov nad Toplou";57
+2020-11-01;"Zlaté Moravce";8
+2020-11-01;"Zvolen";23
 2020-11-01;"Žarnovica";4
 2020-11-01;"Žiar nad Hronom";3
 2020-11-01;"Žilina";142
-2020-11-01;"Zlaté Moravce";8
-2020-11-01;"Zvolen";23
 2020-11-02;"Bánovce nad Bebravou";26
 2020-11-02;"Banská Bystrica";49
 2020-11-02;"Bardejov";7
@@ -4961,7 +4961,6 @@
 2020-11-02;"Rimavská Sobota";1
 2020-11-02;"Ružomberok";24
 2020-11-02;"Sabinov";31
-2020-11-02;"Šala";14
 2020-11-02;"Senec";29
 2020-11-02;"Senica";26
 2020-11-02;"Skalica";25
@@ -4971,6 +4970,7 @@
 2020-11-02;"Stará Lubovna";24
 2020-11-02;"Stropkov";9
 2020-11-02;"Svidník";4
+2020-11-02;"Šala";14
 2020-11-02;"Topolcany";45
 2020-11-02;"Trebišov";10
 2020-11-02;"Trencín";36
@@ -4978,10 +4978,10 @@
 2020-11-02;"Turcianske Teplice";4
 2020-11-02;"Tvrdošín";7
 2020-11-02;"Vranov nad Toplou";13
-2020-11-02;"Žiar nad Hronom";1
-2020-11-02;"Žilina";153
 2020-11-02;"Zlaté Moravce";9
 2020-11-02;"Zvolen";13
+2020-11-02;"Žiar nad Hronom";1
+2020-11-02;"Žilina";153
 2020-11-03;"Bánovce nad Bebravou";67
 2020-11-03;"Banská Bystrica";86
 2020-11-03;"Banská Štiavnica";2
@@ -5031,7 +5031,6 @@
 2020-11-03;"Rožnava";16
 2020-11-03;"Ružomberok";55
 2020-11-03;"Sabinov";66
-2020-11-03;"Šala";13
 2020-11-03;"Senec";31
 2020-11-03;"Senica";38
 2020-11-03;"Skalica";42
@@ -5041,6 +5040,7 @@
 2020-11-03;"Stará Lubovna";55
 2020-11-03;"Stropkov";12
 2020-11-03;"Svidník";44
+2020-11-03;"Šala";13
 2020-11-03;"Topolcany";60
 2020-11-03;"Trebišov";41
 2020-11-03;"Trencín";112
@@ -5049,11 +5049,11 @@
 2020-11-03;"Tvrdošín";21
 2020-11-03;"Velký Krtíš";1
 2020-11-03;"Vranov nad Toplou";32
+2020-11-03;"Zlaté Moravce";8
+2020-11-03;"Zvolen";39
 2020-11-03;"Žarnovica";2
 2020-11-03;"Žiar nad Hronom";10
 2020-11-03;"Žilina";213
-2020-11-03;"Zlaté Moravce";8
-2020-11-03;"Zvolen";39
 2020-11-04;"Bánovce nad Bebravou";33
 2020-11-04;"Banská Bystrica";103
 2020-11-04;"Banská Štiavnica";3
@@ -5103,7 +5103,6 @@
 2020-11-04;"Rožnava";6
 2020-11-04;"Ružomberok";22
 2020-11-04;"Sabinov";40
-2020-11-04;"Šala";7
 2020-11-04;"Senec";4
 2020-11-04;"Senica";9
 2020-11-04;"Skalica";97
@@ -5113,6 +5112,7 @@
 2020-11-04;"Stará Lubovna";27
 2020-11-04;"Stropkov";18
 2020-11-04;"Svidník";13
+2020-11-04;"Šala";7
 2020-11-04;"Topolcany";28
 2020-11-04;"Trebišov";30
 2020-11-04;"Trencín";68
@@ -5121,11 +5121,11 @@
 2020-11-04;"Tvrdošín";14
 2020-11-04;"Velký Krtíš";7
 2020-11-04;"Vranov nad Toplou";21
+2020-11-04;"Zlaté Moravce";15
+2020-11-04;"Zvolen";26
 2020-11-04;"Žarnovica";10
 2020-11-04;"Žiar nad Hronom";14
 2020-11-04;"Žilina";66
-2020-11-04;"Zlaté Moravce";15
-2020-11-04;"Zvolen";26
 2020-11-05;"Bánovce nad Bebravou";14
 2020-11-05;"Banská Bystrica";86
 2020-11-05;"Banská Štiavnica";5
@@ -5174,7 +5174,6 @@
 2020-11-05;"Rožnava";8
 2020-11-05;"Ružomberok";32
 2020-11-05;"Sabinov";52
-2020-11-05;"Šala";5
 2020-11-05;"Senec";14
 2020-11-05;"Senica";6
 2020-11-05;"Skalica";40
@@ -5184,6 +5183,7 @@
 2020-11-05;"Stará Lubovna";22
 2020-11-05;"Stropkov";13
 2020-11-05;"Svidník";7
+2020-11-05;"Šala";5
 2020-11-05;"Topolcany";39
 2020-11-05;"Trebišov";27
 2020-11-05;"Trencín";72
@@ -5192,11 +5192,11 @@
 2020-11-05;"Tvrdošín";8
 2020-11-05;"Velký Krtíš";5
 2020-11-05;"Vranov nad Toplou";22
+2020-11-05;"Zlaté Moravce";7
+2020-11-05;"Zvolen";73
 2020-11-05;"Žarnovica";8
 2020-11-05;"Žiar nad Hronom";7
 2020-11-05;"Žilina";116
-2020-11-05;"Zlaté Moravce";7
-2020-11-05;"Zvolen";73
 2020-11-06;"Bánovce nad Bebravou";19
 2020-11-06;"Banská Bystrica";81
 2020-11-06;"Banská Štiavnica";1
@@ -5246,7 +5246,6 @@
 2020-11-06;"Rožnava";2
 2020-11-06;"Ružomberok";29
 2020-11-06;"Sabinov";41
-2020-11-06;"Šala";10
 2020-11-06;"Senec";26
 2020-11-06;"Senica";21
 2020-11-06;"Skalica";31
@@ -5256,6 +5255,7 @@
 2020-11-06;"Stará Lubovna";40
 2020-11-06;"Stropkov";13
 2020-11-06;"Svidník";51
+2020-11-06;"Šala";10
 2020-11-06;"Topolcany";47
 2020-11-06;"Trebišov";29
 2020-11-06;"Trencín";105
@@ -5264,11 +5264,11 @@
 2020-11-06;"Tvrdošín";29
 2020-11-06;"Velký Krtíš";6
 2020-11-06;"Vranov nad Toplou";25
+2020-11-06;"Zlaté Moravce";8
+2020-11-06;"Zvolen";28
 2020-11-06;"Žarnovica";8
 2020-11-06;"Žiar nad Hronom";11
 2020-11-06;"Žilina";120
-2020-11-06;"Zlaté Moravce";8
-2020-11-06;"Zvolen";28
 2020-11-07;"Bánovce nad Bebravou";20
 2020-11-07;"Banská Bystrica";65
 2020-11-07;"Banská Štiavnica";2
@@ -5317,7 +5317,6 @@
 2020-11-07;"Rožnava";10
 2020-11-07;"Ružomberok";28
 2020-11-07;"Sabinov";31
-2020-11-07;"Šala";4
 2020-11-07;"Senec";12
 2020-11-07;"Senica";12
 2020-11-07;"Skalica";19
@@ -5327,6 +5326,7 @@
 2020-11-07;"Stará Lubovna";36
 2020-11-07;"Stropkov";12
 2020-11-07;"Svidník";16
+2020-11-07;"Šala";4
 2020-11-07;"Topolcany";13
 2020-11-07;"Trebišov";35
 2020-11-07;"Trencín";77
@@ -5335,11 +5335,11 @@
 2020-11-07;"Tvrdošín";9
 2020-11-07;"Velký Krtíš";2
 2020-11-07;"Vranov nad Toplou";51
+2020-11-07;"Zlaté Moravce";7
+2020-11-07;"Zvolen";20
 2020-11-07;"Žarnovica";1
 2020-11-07;"Žiar nad Hronom";20
 2020-11-07;"Žilina";55
-2020-11-07;"Zlaté Moravce";7
-2020-11-07;"Zvolen";20
 2020-11-08;"Bánovce nad Bebravou";7
 2020-11-08;"Banská Bystrica";28
 2020-11-08;"Bardejov";1
@@ -5381,7 +5381,6 @@
 2020-11-08;"Púchov";6
 2020-11-08;"Ružomberok";4
 2020-11-08;"Sabinov";9
-2020-11-08;"Šala";1
 2020-11-08;"Senec";9
 2020-11-08;"Skalica";2
 2020-11-08;"Snina";2
@@ -5389,16 +5388,17 @@
 2020-11-08;"Spišská Nová Ves";7
 2020-11-08;"Stará Lubovna";36
 2020-11-08;"Svidník";1
+2020-11-08;"Šala";1
 2020-11-08;"Topolcany";22
 2020-11-08;"Trebišov";6
 2020-11-08;"Trencín";26
 2020-11-08;"Trnava";10
 2020-11-08;"Turcianske Teplice";2
 2020-11-08;"Vranov nad Toplou";4
+2020-11-08;"Zvolen";13
 2020-11-08;"Žarnovica";2
 2020-11-08;"Žiar nad Hronom";1
 2020-11-08;"Žilina";1
-2020-11-08;"Zvolen";13
 2020-11-09;"Bánovce nad Bebravou";22
 2020-11-09;"Banská Bystrica";27
 2020-11-09;"Bardejov";5
@@ -5445,7 +5445,6 @@
 2020-11-09;"Rimavská Sobota";2
 2020-11-09;"Ružomberok";21
 2020-11-09;"Sabinov";29
-2020-11-09;"Šala";4
 2020-11-09;"Senec";6
 2020-11-09;"Senica";19
 2020-11-09;"Skalica";40
@@ -5454,6 +5453,7 @@
 2020-11-09;"Spišská Nová Ves";28
 2020-11-09;"Stropkov";1
 2020-11-09;"Svidník";15
+2020-11-09;"Šala";4
 2020-11-09;"Topolcany";26
 2020-11-09;"Trebišov";3
 2020-11-09;"Trencín";52
@@ -5462,11 +5462,11 @@
 2020-11-09;"Tvrdošín";1
 2020-11-09;"Velký Krtíš";2
 2020-11-09;"Vranov nad Toplou";8
+2020-11-09;"Zlaté Moravce";6
+2020-11-09;"Zvolen";16
 2020-11-09;"Žarnovica";1
 2020-11-09;"Žiar nad Hronom";4
 2020-11-09;"Žilina";23
-2020-11-09;"Zlaté Moravce";6
-2020-11-09;"Zvolen";16
 2020-11-10;"Bánovce nad Bebravou";8
 2020-11-10;"Banská Bystrica";39
 2020-11-10;"Banská Štiavnica";7
@@ -5516,7 +5516,6 @@
 2020-11-10;"Rožnava";8
 2020-11-10;"Ružomberok";17
 2020-11-10;"Sabinov";65
-2020-11-10;"Šala";15
 2020-11-10;"Senec";14
 2020-11-10;"Senica";14
 2020-11-10;"Skalica";45
@@ -5526,6 +5525,7 @@
 2020-11-10;"Stará Lubovna";17
 2020-11-10;"Stropkov";15
 2020-11-10;"Svidník";32
+2020-11-10;"Šala";15
 2020-11-10;"Topolcany";18
 2020-11-10;"Trebišov";64
 2020-11-10;"Trencín";42
@@ -5534,11 +5534,11 @@
 2020-11-10;"Tvrdošín";5
 2020-11-10;"Velký Krtíš";2
 2020-11-10;"Vranov nad Toplou";42
+2020-11-10;"Zlaté Moravce";10
+2020-11-10;"Zvolen";15
 2020-11-10;"Žarnovica";6
 2020-11-10;"Žiar nad Hronom";7
 2020-11-10;"Žilina";119
-2020-11-10;"Zlaté Moravce";10
-2020-11-10;"Zvolen";15
 2020-11-11;"Bánovce nad Bebravou";9
 2020-11-11;"Banská Bystrica";38
 2020-11-11;"Banská Štiavnica";4
@@ -5588,7 +5588,6 @@
 2020-11-11;"Rožnava";13
 2020-11-11;"Ružomberok";42
 2020-11-11;"Sabinov";57
-2020-11-11;"Šala";14
 2020-11-11;"Senec";24
 2020-11-11;"Senica";23
 2020-11-11;"Skalica";33
@@ -5598,6 +5597,7 @@
 2020-11-11;"Stará Lubovna";48
 2020-11-11;"Stropkov";13
 2020-11-11;"Svidník";11
+2020-11-11;"Šala";14
 2020-11-11;"Topolcany";32
 2020-11-11;"Trebišov";38
 2020-11-11;"Trencín";61
@@ -5606,11 +5606,11 @@
 2020-11-11;"Tvrdošín";7
 2020-11-11;"Velký Krtíš";12
 2020-11-11;"Vranov nad Toplou";53
+2020-11-11;"Zlaté Moravce";10
+2020-11-11;"Zvolen";30
 2020-11-11;"Žarnovica";16
 2020-11-11;"Žiar nad Hronom";11
 2020-11-11;"Žilina";139
-2020-11-11;"Zlaté Moravce";10
-2020-11-11;"Zvolen";30
 2020-11-12;"Bánovce nad Bebravou";18
 2020-11-12;"Banská Bystrica";57
 2020-11-12;"Banská Štiavnica";5
@@ -5660,7 +5660,6 @@
 2020-11-12;"Rožnava";27
 2020-11-12;"Ružomberok";30
 2020-11-12;"Sabinov";24
-2020-11-12;"Šala";11
 2020-11-12;"Senec";15
 2020-11-12;"Senica";8
 2020-11-12;"Skalica";19
@@ -5670,6 +5669,7 @@
 2020-11-12;"Stará Lubovna";54
 2020-11-12;"Stropkov";6
 2020-11-12;"Svidník";6
+2020-11-12;"Šala";11
 2020-11-12;"Topolcany";26
 2020-11-12;"Trebišov";40
 2020-11-12;"Trencín";64
@@ -5678,11 +5678,11 @@
 2020-11-12;"Tvrdošín";7
 2020-11-12;"Velký Krtíš";4
 2020-11-12;"Vranov nad Toplou";70
+2020-11-12;"Zlaté Moravce";12
+2020-11-12;"Zvolen";26
 2020-11-12;"Žarnovica";3
 2020-11-12;"Žiar nad Hronom";9
 2020-11-12;"Žilina";80
-2020-11-12;"Zlaté Moravce";12
-2020-11-12;"Zvolen";26
 2020-11-13;"Bánovce nad Bebravou";14
 2020-11-13;"Banská Bystrica";32
 2020-11-13;"Banská Štiavnica";13
@@ -5732,7 +5732,6 @@
 2020-11-13;"Rožnava";6
 2020-11-13;"Ružomberok";26
 2020-11-13;"Sabinov";28
-2020-11-13;"Šala";8
 2020-11-13;"Senec";12
 2020-11-13;"Senica";11
 2020-11-13;"Skalica";17
@@ -5742,6 +5741,7 @@
 2020-11-13;"Stará Lubovna";11
 2020-11-13;"Stropkov";4
 2020-11-13;"Svidník";15
+2020-11-13;"Šala";8
 2020-11-13;"Topolcany";23
 2020-11-13;"Trebišov";35
 2020-11-13;"Trencín";69
@@ -5750,11 +5750,11 @@
 2020-11-13;"Tvrdošín";3
 2020-11-13;"Velký Krtíš";1
 2020-11-13;"Vranov nad Toplou";42
+2020-11-13;"Zlaté Moravce";11
+2020-11-13;"Zvolen";10
 2020-11-13;"Žarnovica";5
 2020-11-13;"Žiar nad Hronom";18
 2020-11-13;"Žilina";53
-2020-11-13;"Zlaté Moravce";11
-2020-11-13;"Zvolen";10
 2020-11-14;"Bánovce nad Bebravou";10
 2020-11-14;"Banská Bystrica";23
 2020-11-14;"Banská Štiavnica";1
@@ -5801,7 +5801,6 @@
 2020-11-14;"Rožnava";14
 2020-11-14;"Ružomberok";2
 2020-11-14;"Sabinov";18
-2020-11-14;"Šala";6
 2020-11-14;"Senec";9
 2020-11-14;"Senica";2
 2020-11-14;"Snina";1
@@ -5810,6 +5809,7 @@
 2020-11-14;"Stará Lubovna";37
 2020-11-14;"Stropkov";14
 2020-11-14;"Svidník";15
+2020-11-14;"Šala";6
 2020-11-14;"Topolcany";13
 2020-11-14;"Trebišov";49
 2020-11-14;"Trencín";10
@@ -5817,10 +5817,10 @@
 2020-11-14;"Turcianske Teplice";2
 2020-11-14;"Tvrdošín";1
 2020-11-14;"Vranov nad Toplou";14
-2020-11-14;"Žarnovica";2
-2020-11-14;"Žilina";37
 2020-11-14;"Zlaté Moravce";1
 2020-11-14;"Zvolen";23
+2020-11-14;"Žarnovica";2
+2020-11-14;"Žilina";37
 2020-11-15;"Bánovce nad Bebravou";1
 2020-11-15;"Banská Bystrica";16
 2020-11-15;"Bardejov";3
@@ -5869,10 +5869,10 @@
 2020-11-15;"Trencín";43
 2020-11-15;"Trnava";3
 2020-11-15;"Vranov nad Toplou";136
-2020-11-15;"Žiar nad Hronom";1
-2020-11-15;"Žilina";2
 2020-11-15;"Zlaté Moravce";3
 2020-11-15;"Zvolen";20
+2020-11-15;"Žiar nad Hronom";1
+2020-11-15;"Žilina";2
 2020-11-16;"Bánovce nad Bebravou";13
 2020-11-16;"Banská Bystrica";30
 2020-11-16;"Banská Štiavnica";1
@@ -5920,7 +5920,6 @@
 2020-11-16;"Rožnava";2
 2020-11-16;"Ružomberok";15
 2020-11-16;"Sabinov";34
-2020-11-16;"Šala";9
 2020-11-16;"Senec";20
 2020-11-16;"Senica";19
 2020-11-16;"Skalica";29
@@ -5929,6 +5928,7 @@
 2020-11-16;"Stará Lubovna";4
 2020-11-16;"Stropkov";7
 2020-11-16;"Svidník";9
+2020-11-16;"Šala";9
 2020-11-16;"Topolcany";28
 2020-11-16;"Trebišov";15
 2020-11-16;"Trencín";49
@@ -5937,10 +5937,10 @@
 2020-11-16;"Tvrdošín";12
 2020-11-16;"Velký Krtíš";1
 2020-11-16;"Vranov nad Toplou";14
-2020-11-16;"Žiar nad Hronom";13
-2020-11-16;"Žilina";55
 2020-11-16;"Zlaté Moravce";2
 2020-11-16;"Zvolen";12
+2020-11-16;"Žiar nad Hronom";13
+2020-11-16;"Žilina";55
 2020-11-17;"Bánovce nad Bebravou";17
 2020-11-17;"Banská Bystrica";15
 2020-11-17;"Bardejov";40
@@ -5987,7 +5987,6 @@
 2020-11-17;"Rožnava";5
 2020-11-17;"Ružomberok";13
 2020-11-17;"Sabinov";13
-2020-11-17;"Šala";12
 2020-11-17;"Senec";18
 2020-11-17;"Senica";2
 2020-11-17;"Snina";50
@@ -5996,6 +5995,7 @@
 2020-11-17;"Stará Lubovna";32
 2020-11-17;"Stropkov";43
 2020-11-17;"Svidník";13
+2020-11-17;"Šala";12
 2020-11-17;"Topolcany";1
 2020-11-17;"Trebišov";40
 2020-11-17;"Trencín";57
@@ -6003,11 +6003,11 @@
 2020-11-17;"Tvrdošín";1
 2020-11-17;"Velký Krtíš";1
 2020-11-17;"Vranov nad Toplou";3
+2020-11-17;"Zlaté Moravce";6
+2020-11-17;"Zvolen";2
 2020-11-17;"Žarnovica";4
 2020-11-17;"Žiar nad Hronom";2
 2020-11-17;"Žilina";13
-2020-11-17;"Zlaté Moravce";6
-2020-11-17;"Zvolen";2
 2020-11-18;"Bánovce nad Bebravou";12
 2020-11-18;"Banská Bystrica";26
 2020-11-18;"Banská Štiavnica";2
@@ -6056,7 +6056,6 @@
 2020-11-18;"Rimavská Sobota";27
 2020-11-18;"Ružomberok";29
 2020-11-18;"Sabinov";26
-2020-11-18;"Šala";18
 2020-11-18;"Senec";13
 2020-11-18;"Senica";22
 2020-11-18;"Skalica";63
@@ -6065,6 +6064,7 @@
 2020-11-18;"Stará Lubovna";4
 2020-11-18;"Stropkov";18
 2020-11-18;"Svidník";5
+2020-11-18;"Šala";18
 2020-11-18;"Topolcany";18
 2020-11-18;"Trebišov";15
 2020-11-18;"Trencín";75
@@ -6073,11 +6073,11 @@
 2020-11-18;"Tvrdošín";1
 2020-11-18;"Velký Krtíš";3
 2020-11-18;"Vranov nad Toplou";36
+2020-11-18;"Zlaté Moravce";9
+2020-11-18;"Zvolen";32
 2020-11-18;"Žarnovica";3
 2020-11-18;"Žiar nad Hronom";5
 2020-11-18;"Žilina";80
-2020-11-18;"Zlaté Moravce";9
-2020-11-18;"Zvolen";32
 2020-11-19;"Bánovce nad Bebravou";12
 2020-11-19;"Banská Bystrica";18
 2020-11-19;"Banská Štiavnica";8
@@ -6127,7 +6127,6 @@
 2020-11-19;"Rožnava";5
 2020-11-19;"Ružomberok";28
 2020-11-19;"Sabinov";19
-2020-11-19;"Šala";19
 2020-11-19;"Senec";31
 2020-11-19;"Senica";5
 2020-11-19;"Skalica";26
@@ -6137,6 +6136,7 @@
 2020-11-19;"Stará Lubovna";34
 2020-11-19;"Stropkov";6
 2020-11-19;"Svidník";22
+2020-11-19;"Šala";19
 2020-11-19;"Topolcany";47
 2020-11-19;"Trebišov";43
 2020-11-19;"Trencín";60
@@ -6145,11 +6145,11 @@
 2020-11-19;"Tvrdošín";10
 2020-11-19;"Velký Krtíš";11
 2020-11-19;"Vranov nad Toplou";27
+2020-11-19;"Zlaté Moravce";6
+2020-11-19;"Zvolen";22
 2020-11-19;"Žarnovica";8
 2020-11-19;"Žiar nad Hronom";20
 2020-11-19;"Žilina";43
-2020-11-19;"Zlaté Moravce";6
-2020-11-19;"Zvolen";22
 2020-11-20;"Bánovce nad Bebravou";10
 2020-11-20;"Banská Bystrica";23
 2020-11-20;"Banská Štiavnica";4
@@ -6199,7 +6199,6 @@
 2020-11-20;"Rožnava";3
 2020-11-20;"Ružomberok";20
 2020-11-20;"Sabinov";10
-2020-11-20;"Šala";26
 2020-11-20;"Senec";21
 2020-11-20;"Senica";13
 2020-11-20;"Skalica";21
@@ -6209,6 +6208,7 @@
 2020-11-20;"Stará Lubovna";36
 2020-11-20;"Stropkov";9
 2020-11-20;"Svidník";9
+2020-11-20;"Šala";26
 2020-11-20;"Topolcany";36
 2020-11-20;"Trebišov";14
 2020-11-20;"Trencín";67
@@ -6217,11 +6217,11 @@
 2020-11-20;"Tvrdošín";6
 2020-11-20;"Velký Krtíš";8
 2020-11-20;"Vranov nad Toplou";54
+2020-11-20;"Zlaté Moravce";7
+2020-11-20;"Zvolen";9
 2020-11-20;"Žarnovica";7
 2020-11-20;"Žiar nad Hronom";28
 2020-11-20;"Žilina";81
-2020-11-20;"Zlaté Moravce";7
-2020-11-20;"Zvolen";9
 2020-11-21;"Bánovce nad Bebravou";20
 2020-11-21;"Banská Bystrica";18
 2020-11-21;"Banská Štiavnica";1
@@ -6267,7 +6267,6 @@
 2020-11-21;"Rožnava";3
 2020-11-21;"Ružomberok";5
 2020-11-21;"Sabinov";8
-2020-11-21;"Šala";4
 2020-11-21;"Senec";18
 2020-11-21;"Skalica";1
 2020-11-21;"Snina";16
@@ -6276,6 +6275,7 @@
 2020-11-21;"Stará Lubovna";32
 2020-11-21;"Stropkov";7
 2020-11-21;"Svidník";5
+2020-11-21;"Šala";4
 2020-11-21;"Topolcany";4
 2020-11-21;"Trebišov";8
 2020-11-21;"Trencín";37
@@ -6284,10 +6284,10 @@
 2020-11-21;"Tvrdošín";1
 2020-11-21;"Velký Krtíš";1
 2020-11-21;"Vranov nad Toplou";14
-2020-11-21;"Žiar nad Hronom";5
-2020-11-21;"Žilina";28
 2020-11-21;"Zlaté Moravce";3
 2020-11-21;"Zvolen";9
+2020-11-21;"Žiar nad Hronom";5
+2020-11-21;"Žilina";28
 2020-11-22;"Bánovce nad Bebravou";1
 2020-11-22;"Banská Bystrica";19
 2020-11-22;"Bardejov";1
@@ -6327,8 +6327,8 @@
 2020-11-22;"Tvrdošín";1
 2020-11-22;"Velký Krtíš";3
 2020-11-22;"Vranov nad Toplou";4
-2020-11-22;"Žiar nad Hronom";1
 2020-11-22;"Zvolen";5
+2020-11-22;"Žiar nad Hronom";1
 2020-11-23;"Bánovce nad Bebravou";3
 2020-11-23;"Banská Bystrica";4
 2020-11-23;"Banská Štiavnica";3
@@ -6376,7 +6376,6 @@
 2020-11-23;"Rimavská Sobota";10
 2020-11-23;"Ružomberok";14
 2020-11-23;"Sabinov";7
-2020-11-23;"Šala";4
 2020-11-23;"Senec";10
 2020-11-23;"Senica";41
 2020-11-23;"Skalica";66
@@ -6385,6 +6384,7 @@
 2020-11-23;"Stará Lubovna";15
 2020-11-23;"Stropkov";23
 2020-11-23;"Svidník";10
+2020-11-23;"Šala";4
 2020-11-23;"Topolcany";23
 2020-11-23;"Trebišov";5
 2020-11-23;"Trencín";38
@@ -6393,11 +6393,11 @@
 2020-11-23;"Tvrdošín";1
 2020-11-23;"Velký Krtíš";1
 2020-11-23;"Vranov nad Toplou";7
+2020-11-23;"Zlaté Moravce";3
+2020-11-23;"Zvolen";13
 2020-11-23;"Žarnovica";8
 2020-11-23;"Žiar nad Hronom";12
 2020-11-23;"Žilina";44
-2020-11-23;"Zlaté Moravce";3
-2020-11-23;"Zvolen";13
 2020-11-24;"Bánovce nad Bebravou";20
 2020-11-24;"Banská Bystrica";48
 2020-11-24;"Banská Štiavnica";4
@@ -6447,7 +6447,6 @@
 2020-11-24;"Rožnava";6
 2020-11-24;"Ružomberok";13
 2020-11-24;"Sabinov";22
-2020-11-24;"Šala";10
 2020-11-24;"Senec";12
 2020-11-24;"Senica";136
 2020-11-24;"Skalica";26
@@ -6457,6 +6456,7 @@
 2020-11-24;"Stará Lubovna";17
 2020-11-24;"Stropkov";19
 2020-11-24;"Svidník";23
+2020-11-24;"Šala";10
 2020-11-24;"Topolcany";8
 2020-11-24;"Trebišov";31
 2020-11-24;"Trencín";58
@@ -6464,11 +6464,11 @@
 2020-11-24;"Tvrdošín";4
 2020-11-24;"Velký Krtíš";3
 2020-11-24;"Vranov nad Toplou";42
+2020-11-24;"Zlaté Moravce";6
+2020-11-24;"Zvolen";31
 2020-11-24;"Žarnovica";2
 2020-11-24;"Žiar nad Hronom";10
 2020-11-24;"Žilina";58
-2020-11-24;"Zlaté Moravce";6
-2020-11-24;"Zvolen";31
 2020-11-25;"Bánovce nad Bebravou";4
 2020-11-25;"Banská Bystrica";29
 2020-11-25;"Banská Štiavnica";1
@@ -6517,7 +6517,6 @@
 2020-11-25;"Rožnava";4
 2020-11-25;"Ružomberok";12
 2020-11-25;"Sabinov";9
-2020-11-25;"Šala";14
 2020-11-25;"Senec";19
 2020-11-25;"Senica";72
 2020-11-25;"Skalica";15
@@ -6527,6 +6526,7 @@
 2020-11-25;"Stará Lubovna";38
 2020-11-25;"Stropkov";11
 2020-11-25;"Svidník";10
+2020-11-25;"Šala";14
 2020-11-25;"Topolcany";61
 2020-11-25;"Trebišov";20
 2020-11-25;"Trencín";85
@@ -6535,11 +6535,11 @@
 2020-11-25;"Tvrdošín";6
 2020-11-25;"Velký Krtíš";46
 2020-11-25;"Vranov nad Toplou";48
+2020-11-25;"Zlaté Moravce";15
+2020-11-25;"Zvolen";18
 2020-11-25;"Žarnovica";6
 2020-11-25;"Žiar nad Hronom";9
 2020-11-25;"Žilina";69
-2020-11-25;"Zlaté Moravce";15
-2020-11-25;"Zvolen";18
 2020-11-26;"Bánovce nad Bebravou";11
 2020-11-26;"Banská Bystrica";37
 2020-11-26;"Banská Štiavnica";8
@@ -6587,7 +6587,6 @@
 2020-11-26;"Rožnava";5
 2020-11-26;"Ružomberok";10
 2020-11-26;"Sabinov";3
-2020-11-26;"Šala";21
 2020-11-26;"Senec";11
 2020-11-26;"Senica";67
 2020-11-26;"Skalica";9
@@ -6597,6 +6596,7 @@
 2020-11-26;"Stará Lubovna";28
 2020-11-26;"Stropkov";2
 2020-11-26;"Svidník";14
+2020-11-26;"Šala";21
 2020-11-26;"Topolcany";15
 2020-11-26;"Trebišov";62
 2020-11-26;"Trencín";73
@@ -6605,11 +6605,11 @@
 2020-11-26;"Tvrdošín";7
 2020-11-26;"Velký Krtíš";23
 2020-11-26;"Vranov nad Toplou";50
+2020-11-26;"Zlaté Moravce";14
+2020-11-26;"Zvolen";24
 2020-11-26;"Žarnovica";13
 2020-11-26;"Žiar nad Hronom";16
 2020-11-26;"Žilina";56
-2020-11-26;"Zlaté Moravce";14
-2020-11-26;"Zvolen";24
 2020-11-27;"Bánovce nad Bebravou";8
 2020-11-27;"Banská Bystrica";65
 2020-11-27;"Banská Štiavnica";5
@@ -6659,7 +6659,6 @@
 2020-11-27;"Rožnava";1
 2020-11-27;"Ružomberok";28
 2020-11-27;"Sabinov";18
-2020-11-27;"Šala";9
 2020-11-27;"Senec";2
 2020-11-27;"Senica";31
 2020-11-27;"Skalica";11
@@ -6669,6 +6668,7 @@
 2020-11-27;"Stará Lubovna";5
 2020-11-27;"Stropkov";1
 2020-11-27;"Svidník";7
+2020-11-27;"Šala";9
 2020-11-27;"Topolcany";21
 2020-11-27;"Trebišov";18
 2020-11-27;"Trencín";75
@@ -6677,11 +6677,11 @@
 2020-11-27;"Tvrdošín";1
 2020-11-27;"Velký Krtíš";22
 2020-11-27;"Vranov nad Toplou";38
+2020-11-27;"Zlaté Moravce";8
+2020-11-27;"Zvolen";23
 2020-11-27;"Žarnovica";12
 2020-11-27;"Žiar nad Hronom";20
 2020-11-27;"Žilina";62
-2020-11-27;"Zlaté Moravce";8
-2020-11-27;"Zvolen";23
 2020-11-28;"Bánovce nad Bebravou";5
 2020-11-28;"Banská Bystrica";40
 2020-11-28;"Banská Štiavnica";1
@@ -6729,7 +6729,6 @@
 2020-11-28;"Rožnava";4
 2020-11-28;"Ružomberok";13
 2020-11-28;"Sabinov";8
-2020-11-28;"Šala";5
 2020-11-28;"Senec";27
 2020-11-28;"Senica";4
 2020-11-28;"Skalica";2
@@ -6738,6 +6737,7 @@
 2020-11-28;"Stará Lubovna";39
 2020-11-28;"Stropkov";8
 2020-11-28;"Svidník";12
+2020-11-28;"Šala";5
 2020-11-28;"Topolcany";3
 2020-11-28;"Trebišov";4
 2020-11-28;"Trencín";61
@@ -6745,11 +6745,11 @@
 2020-11-28;"Tvrdošín";2
 2020-11-28;"Velký Krtíš";5
 2020-11-28;"Vranov nad Toplou";7
+2020-11-28;"Zlaté Moravce";12
+2020-11-28;"Zvolen";10
 2020-11-28;"Žarnovica";2
 2020-11-28;"Žiar nad Hronom";2
 2020-11-28;"Žilina";16
-2020-11-28;"Zlaté Moravce";12
-2020-11-28;"Zvolen";10
 2020-11-29;"Bánovce nad Bebravou";1
 2020-11-29;"Banská Bystrica";7
 2020-11-29;"Bratislava";43
@@ -6790,8 +6790,8 @@
 2020-11-29;"Trencín";18
 2020-11-29;"Trnava";6
 2020-11-29;"Vranov nad Toplou";3
-2020-11-29;"Žilina";1
 2020-11-29;"Zvolen";4
+2020-11-29;"Žilina";1
 2020-11-30;"Bánovce nad Bebravou";5
 2020-11-30;"Banská Bystrica";10
 2020-11-30;"Banská Štiavnica";3
@@ -6838,7 +6838,6 @@
 2020-11-30;"Rožnava";1
 2020-11-30;"Ružomberok";14
 2020-11-30;"Sabinov";1
-2020-11-30;"Šala";7
 2020-11-30;"Senec";21
 2020-11-30;"Senica";28
 2020-11-30;"Skalica";26
@@ -6847,6 +6846,7 @@
 2020-11-30;"Spišská Nová Ves";59
 2020-11-30;"Stropkov";12
 2020-11-30;"Svidník";16
+2020-11-30;"Šala";7
 2020-11-30;"Topolcany";9
 2020-11-30;"Trebišov";33
 2020-11-30;"Trencín";39
@@ -6854,11 +6854,11 @@
 2020-11-30;"Turcianske Teplice";10
 2020-11-30;"Velký Krtíš";2
 2020-11-30;"Vranov nad Toplou";27
+2020-11-30;"Zlaté Moravce";9
+2020-11-30;"Zvolen";17
 2020-11-30;"Žarnovica";4
 2020-11-30;"Žiar nad Hronom";7
 2020-11-30;"Žilina";64
-2020-11-30;"Zlaté Moravce";9
-2020-11-30;"Zvolen";17
 2020-12-01;"Bánovce nad Bebravou";12
 2020-12-01;"Banská Bystrica";41
 2020-12-01;"Bardejov";52
@@ -6907,7 +6907,6 @@
 2020-12-01;"Rožnava";8
 2020-12-01;"Ružomberok";21
 2020-12-01;"Sabinov";6
-2020-12-01;"Šala";23
 2020-12-01;"Senec";18
 2020-12-01;"Senica";27
 2020-12-01;"Skalica";17
@@ -6917,6 +6916,7 @@
 2020-12-01;"Stará Lubovna";28
 2020-12-01;"Stropkov";2
 2020-12-01;"Svidník";12
+2020-12-01;"Šala";23
 2020-12-01;"Topolcany";33
 2020-12-01;"Trebišov";31
 2020-12-01;"Trencín";69
@@ -6925,11 +6925,11 @@
 2020-12-01;"Tvrdošín";4
 2020-12-01;"Velký Krtíš";19
 2020-12-01;"Vranov nad Toplou";24
+2020-12-01;"Zlaté Moravce";13
+2020-12-01;"Zvolen";29
 2020-12-01;"Žarnovica";2
 2020-12-01;"Žiar nad Hronom";8
 2020-12-01;"Žilina";61
-2020-12-01;"Zlaté Moravce";13
-2020-12-01;"Zvolen";29
 2020-12-02;"Bánovce nad Bebravou";5
 2020-12-02;"Banská Bystrica";51
 2020-12-02;"Banská Štiavnica";2
@@ -6977,7 +6977,6 @@
 2020-12-02;"Rožnava";11
 2020-12-02;"Ružomberok";10
 2020-12-02;"Sabinov";15
-2020-12-02;"Šala";17
 2020-12-02;"Senec";30
 2020-12-02;"Senica";20
 2020-12-02;"Skalica";19
@@ -6987,6 +6986,7 @@
 2020-12-02;"Stará Lubovna";19
 2020-12-02;"Stropkov";6
 2020-12-02;"Svidník";4
+2020-12-02;"Šala";17
 2020-12-02;"Topolcany";20
 2020-12-02;"Trebišov";31
 2020-12-02;"Trencín";137
@@ -6994,11 +6994,11 @@
 2020-12-02;"Turcianske Teplice";1
 2020-12-02;"Velký Krtíš";19
 2020-12-02;"Vranov nad Toplou";16
+2020-12-02;"Zlaté Moravce";8
+2020-12-02;"Zvolen";33
 2020-12-02;"Žarnovica";16
 2020-12-02;"Žiar nad Hronom";18
 2020-12-02;"Žilina";54
-2020-12-02;"Zlaté Moravce";8
-2020-12-02;"Zvolen";33
 2020-12-03;"Bánovce nad Bebravou";44
 2020-12-03;"Banská Bystrica";58
 2020-12-03;"Banská Štiavnica";3
@@ -7047,7 +7047,6 @@
 2020-12-03;"Rožnava";10
 2020-12-03;"Ružomberok";6
 2020-12-03;"Sabinov";8
-2020-12-03;"Šala";3
 2020-12-03;"Senec";32
 2020-12-03;"Senica";16
 2020-12-03;"Skalica";16
@@ -7057,6 +7056,7 @@
 2020-12-03;"Stará Lubovna";10
 2020-12-03;"Stropkov";4
 2020-12-03;"Svidník";10
+2020-12-03;"Šala";3
 2020-12-03;"Topolcany";16
 2020-12-03;"Trebišov";24
 2020-12-03;"Trencín";104
@@ -7065,11 +7065,11 @@
 2020-12-03;"Tvrdošín";2
 2020-12-03;"Velký Krtíš";32
 2020-12-03;"Vranov nad Toplou";47
+2020-12-03;"Zlaté Moravce";15
+2020-12-03;"Zvolen";32
 2020-12-03;"Žarnovica";9
 2020-12-03;"Žiar nad Hronom";12
 2020-12-03;"Žilina";66
-2020-12-03;"Zlaté Moravce";15
-2020-12-03;"Zvolen";32
 2020-12-04;"Bánovce nad Bebravou";7
 2020-12-04;"Banská Bystrica";37
 2020-12-04;"Bardejov";8
@@ -7117,7 +7117,6 @@
 2020-12-04;"Rožnava";5
 2020-12-04;"Ružomberok";22
 2020-12-04;"Sabinov";26
-2020-12-04;"Šala";25
 2020-12-04;"Senec";28
 2020-12-04;"Senica";45
 2020-12-04;"Skalica";1
@@ -7127,6 +7126,7 @@
 2020-12-04;"Stará Lubovna";26
 2020-12-04;"Stropkov";9
 2020-12-04;"Svidník";18
+2020-12-04;"Šala";25
 2020-12-04;"Topolcany";16
 2020-12-04;"Trebišov";43
 2020-12-04;"Trencín";98
@@ -7135,11 +7135,11 @@
 2020-12-04;"Tvrdošín";3
 2020-12-04;"Velký Krtíš";25
 2020-12-04;"Vranov nad Toplou";46
+2020-12-04;"Zlaté Moravce";8
+2020-12-04;"Zvolen";35
 2020-12-04;"Žarnovica";4
 2020-12-04;"Žiar nad Hronom";16
 2020-12-04;"Žilina";78
-2020-12-04;"Zlaté Moravce";8
-2020-12-04;"Zvolen";35
 2020-12-05;"Bánovce nad Bebravou";6
 2020-12-05;"Banská Bystrica";48
 2020-12-05;"Banská Štiavnica";2
@@ -7183,7 +7183,6 @@
 2020-12-05;"Rožnava";5
 2020-12-05;"Ružomberok";6
 2020-12-05;"Sabinov";9
-2020-12-05;"Šala";14
 2020-12-05;"Senec";22
 2020-12-05;"Senica";37
 2020-12-05;"Skalica";43
@@ -7193,17 +7192,18 @@
 2020-12-05;"Stará Lubovna";59
 2020-12-05;"Stropkov";1
 2020-12-05;"Svidník";8
+2020-12-05;"Šala";14
 2020-12-05;"Topolcany";2
 2020-12-05;"Trebišov";6
 2020-12-05;"Trencín";59
 2020-12-05;"Trnava";23
 2020-12-05;"Velký Krtíš";3
 2020-12-05;"Vranov nad Toplou";33
+2020-12-05;"Zlaté Moravce";2
+2020-12-05;"Zvolen";16
 2020-12-05;"Žarnovica";4
 2020-12-05;"Žiar nad Hronom";3
 2020-12-05;"Žilina";38
-2020-12-05;"Zlaté Moravce";2
-2020-12-05;"Zvolen";16
 2020-12-06;"Bánovce nad Bebravou";8
 2020-12-06;"Banská Bystrica";47
 2020-12-06;"Banská Štiavnica";4
@@ -7261,10 +7261,10 @@
 2020-12-06;"Trencín";34
 2020-12-06;"Trnava";22
 2020-12-06;"Vranov nad Toplou";6
+2020-12-06;"Zvolen";24
 2020-12-06;"Žarnovica";3
 2020-12-06;"Žiar nad Hronom";13
 2020-12-06;"Žilina";1
-2020-12-06;"Zvolen";24
 2020-12-07;"Bánovce nad Bebravou";8
 2020-12-07;"Banská Bystrica";20
 2020-12-07;"Bardejov";7
@@ -7311,7 +7311,6 @@
 2020-12-07;"Rimavská Sobota";31
 2020-12-07;"Ružomberok";21
 2020-12-07;"Sabinov";6
-2020-12-07;"Šala";5
 2020-12-07;"Senec";36
 2020-12-07;"Senica";28
 2020-12-07;"Skalica";31
@@ -7321,6 +7320,7 @@
 2020-12-07;"Stará Lubovna";4
 2020-12-07;"Stropkov";10
 2020-12-07;"Svidník";29
+2020-12-07;"Šala";5
 2020-12-07;"Topolcany";19
 2020-12-07;"Trebišov";35
 2020-12-07;"Trencín";129
@@ -7329,10 +7329,10 @@
 2020-12-07;"Tvrdošín";4
 2020-12-07;"Velký Krtíš";16
 2020-12-07;"Vranov nad Toplou";46
-2020-12-07;"Žiar nad Hronom";6
-2020-12-07;"Žilina";93
 2020-12-07;"Zlaté Moravce";4
 2020-12-07;"Zvolen";17
+2020-12-07;"Žiar nad Hronom";6
+2020-12-07;"Žilina";93
 2020-12-08;"Bánovce nad Bebravou";40
 2020-12-08;"Banská Bystrica";79
 2020-12-08;"Banská Štiavnica";3
@@ -7382,7 +7382,6 @@
 2020-12-08;"Rožnava";12
 2020-12-08;"Ružomberok";31
 2020-12-08;"Sabinov";8
-2020-12-08;"Šala";24
 2020-12-08;"Senec";15
 2020-12-08;"Senica";51
 2020-12-08;"Skalica";57
@@ -7392,6 +7391,7 @@
 2020-12-08;"Stará Lubovna";29
 2020-12-08;"Stropkov";15
 2020-12-08;"Svidník";24
+2020-12-08;"Šala";24
 2020-12-08;"Topolcany";30
 2020-12-08;"Trebišov";36
 2020-12-08;"Trencín";132
@@ -7400,11 +7400,11 @@
 2020-12-08;"Tvrdošín";7
 2020-12-08;"Velký Krtíš";6
 2020-12-08;"Vranov nad Toplou";22
+2020-12-08;"Zlaté Moravce";17
+2020-12-08;"Zvolen";27
 2020-12-08;"Žarnovica";2
 2020-12-08;"Žiar nad Hronom";16
 2020-12-08;"Žilina";149
-2020-12-08;"Zlaté Moravce";17
-2020-12-08;"Zvolen";27
 2020-12-09;"Bánovce nad Bebravou";16
 2020-12-09;"Banská Bystrica";60
 2020-12-09;"Banská Štiavnica";10
@@ -7454,7 +7454,6 @@
 2020-12-09;"Rožnava";8
 2020-12-09;"Ružomberok";26
 2020-12-09;"Sabinov";11
-2020-12-09;"Šala";32
 2020-12-09;"Senec";66
 2020-12-09;"Senica";50
 2020-12-09;"Skalica";55
@@ -7464,6 +7463,7 @@
 2020-12-09;"Stará Lubovna";22
 2020-12-09;"Stropkov";20
 2020-12-09;"Svidník";27
+2020-12-09;"Šala";32
 2020-12-09;"Topolcany";34
 2020-12-09;"Trebišov";40
 2020-12-09;"Trencín";131
@@ -7472,11 +7472,11 @@
 2020-12-09;"Tvrdošín";8
 2020-12-09;"Velký Krtíš";40
 2020-12-09;"Vranov nad Toplou";29
+2020-12-09;"Zlaté Moravce";11
+2020-12-09;"Zvolen";47
 2020-12-09;"Žarnovica";13
 2020-12-09;"Žiar nad Hronom";17
 2020-12-09;"Žilina";103
-2020-12-09;"Zlaté Moravce";11
-2020-12-09;"Zvolen";47
 2020-12-10;"Bánovce nad Bebravou";2
 2020-12-10;"Banská Bystrica";89
 2020-12-10;"Bardejov";12
@@ -7525,7 +7525,6 @@
 2020-12-10;"Rožnava";7
 2020-12-10;"Ružomberok";10
 2020-12-10;"Sabinov";11
-2020-12-10;"Šala";26
 2020-12-10;"Senec";26
 2020-12-10;"Senica";17
 2020-12-10;"Skalica";31
@@ -7535,6 +7534,7 @@
 2020-12-10;"Stará Lubovna";31
 2020-12-10;"Stropkov";17
 2020-12-10;"Svidník";11
+2020-12-10;"Šala";26
 2020-12-10;"Topolcany";8
 2020-12-10;"Trebišov";35
 2020-12-10;"Trencín";121
@@ -7543,11 +7543,11 @@
 2020-12-10;"Tvrdošín";7
 2020-12-10;"Velký Krtíš";33
 2020-12-10;"Vranov nad Toplou";42
+2020-12-10;"Zlaté Moravce";6
+2020-12-10;"Zvolen";30
 2020-12-10;"Žarnovica";7
 2020-12-10;"Žiar nad Hronom";3
 2020-12-10;"Žilina";56
-2020-12-10;"Zlaté Moravce";6
-2020-12-10;"Zvolen";30
 2020-12-11;"Bánovce nad Bebravou";20
 2020-12-11;"Banská Bystrica";106
 2020-12-11;"Banská Štiavnica";13
@@ -7597,7 +7597,6 @@
 2020-12-11;"Rožnava";16
 2020-12-11;"Ružomberok";34
 2020-12-11;"Sabinov";16
-2020-12-11;"Šala";22
 2020-12-11;"Senec";61
 2020-12-11;"Senica";67
 2020-12-11;"Skalica";22
@@ -7607,6 +7606,7 @@
 2020-12-11;"Stará Lubovna";27
 2020-12-11;"Stropkov";26
 2020-12-11;"Svidník";48
+2020-12-11;"Šala";22
 2020-12-11;"Topolcany";35
 2020-12-11;"Trebišov";52
 2020-12-11;"Trencín";156
@@ -7615,11 +7615,11 @@
 2020-12-11;"Tvrdošín";6
 2020-12-11;"Velký Krtíš";33
 2020-12-11;"Vranov nad Toplou";59
+2020-12-11;"Zlaté Moravce";31
+2020-12-11;"Zvolen";73
 2020-12-11;"Žarnovica";8
 2020-12-11;"Žiar nad Hronom";62
 2020-12-11;"Žilina";143
-2020-12-11;"Zlaté Moravce";31
-2020-12-11;"Zvolen";73
 2020-12-12;"Bánovce nad Bebravou";28
 2020-12-12;"Banská Bystrica";36
 2020-12-12;"Bardejov";37
@@ -7666,7 +7666,6 @@
 2020-12-12;"Rožnava";19
 2020-12-12;"Ružomberok";7
 2020-12-12;"Sabinov";6
-2020-12-12;"Šala";27
 2020-12-12;"Senec";46
 2020-12-12;"Senica";6
 2020-12-12;"Skalica";32
@@ -7676,6 +7675,7 @@
 2020-12-12;"Stará Lubovna";23
 2020-12-12;"Stropkov";5
 2020-12-12;"Svidník";31
+2020-12-12;"Šala";27
 2020-12-12;"Topolcany";16
 2020-12-12;"Trebišov";17
 2020-12-12;"Trencín";54
@@ -7683,11 +7683,11 @@
 2020-12-12;"Tvrdošín";1
 2020-12-12;"Velký Krtíš";1
 2020-12-12;"Vranov nad Toplou";42
+2020-12-12;"Zlaté Moravce";8
+2020-12-12;"Zvolen";14
 2020-12-12;"Žarnovica";1
 2020-12-12;"Žiar nad Hronom";5
 2020-12-12;"Žilina";61
-2020-12-12;"Zlaté Moravce";8
-2020-12-12;"Zvolen";14
 2020-12-13;"Bánovce nad Bebravou";4
 2020-12-13;"Banská Bystrica";65
 2020-12-13;"Banská Štiavnica";2
@@ -7723,7 +7723,6 @@
 2020-12-13;"Púchov";2
 2020-12-13;"Ružomberok";7
 2020-12-13;"Sabinov";1
-2020-12-13;"Šala";2
 2020-12-13;"Senec";14
 2020-12-13;"Senica";1
 2020-12-13;"Snina";3
@@ -7732,16 +7731,17 @@
 2020-12-13;"Stará Lubovna";16
 2020-12-13;"Stropkov";15
 2020-12-13;"Svidník";15
+2020-12-13;"Šala";2
 2020-12-13;"Topolcany";1
 2020-12-13;"Trebišov";1
 2020-12-13;"Trencín";53
 2020-12-13;"Trnava";2
 2020-12-13;"Velký Krtíš";3
+2020-12-13;"Zlaté Moravce";1
+2020-12-13;"Zvolen";16
 2020-12-13;"Žarnovica";1
 2020-12-13;"Žiar nad Hronom";9
 2020-12-13;"Žilina";4
-2020-12-13;"Zlaté Moravce";1
-2020-12-13;"Zvolen";16
 2020-12-14;"Bánovce nad Bebravou";26
 2020-12-14;"Banská Bystrica";26
 2020-12-14;"Bardejov";13
@@ -7789,7 +7789,6 @@
 2020-12-14;"Rimavská Sobota";6
 2020-12-14;"Ružomberok";40
 2020-12-14;"Sabinov";22
-2020-12-14;"Šala";5
 2020-12-14;"Senec";38
 2020-12-14;"Senica";12
 2020-12-14;"Skalica";1
@@ -7799,6 +7798,7 @@
 2020-12-14;"Stará Lubovna";31
 2020-12-14;"Stropkov";3
 2020-12-14;"Svidník";54
+2020-12-14;"Šala";5
 2020-12-14;"Topolcany";28
 2020-12-14;"Trebišov";43
 2020-12-14;"Trencín";110
@@ -7807,11 +7807,11 @@
 2020-12-14;"Tvrdošín";2
 2020-12-14;"Velký Krtíš";5
 2020-12-14;"Vranov nad Toplou";21
+2020-12-14;"Zlaté Moravce";8
+2020-12-14;"Zvolen";16
 2020-12-14;"Žarnovica";1
 2020-12-14;"Žiar nad Hronom";10
 2020-12-14;"Žilina";113
-2020-12-14;"Zlaté Moravce";8
-2020-12-14;"Zvolen";16
 2020-12-15;"Bánovce nad Bebravou";33
 2020-12-15;"Banská Bystrica";63
 2020-12-15;"Banská Štiavnica";4
@@ -7861,7 +7861,6 @@
 2020-12-15;"Rožnava";31
 2020-12-15;"Ružomberok";100
 2020-12-15;"Sabinov";6
-2020-12-15;"Šala";35
 2020-12-15;"Senec";45
 2020-12-15;"Senica";86
 2020-12-15;"Skalica";87
@@ -7871,6 +7870,7 @@
 2020-12-15;"Stará Lubovna";22
 2020-12-15;"Stropkov";20
 2020-12-15;"Svidník";20
+2020-12-15;"Šala";35
 2020-12-15;"Topolcany";20
 2020-12-15;"Trebišov";77
 2020-12-15;"Trencín";169
@@ -7879,11 +7879,11 @@
 2020-12-15;"Tvrdošín";11
 2020-12-15;"Velký Krtíš";18
 2020-12-15;"Vranov nad Toplou";68
+2020-12-15;"Zlaté Moravce";22
+2020-12-15;"Zvolen";41
 2020-12-15;"Žarnovica";5
 2020-12-15;"Žiar nad Hronom";15
 2020-12-15;"Žilina";138
-2020-12-15;"Zlaté Moravce";22
-2020-12-15;"Zvolen";41
 2020-12-16;"Bánovce nad Bebravou";14
 2020-12-16;"Banská Bystrica";88
 2020-12-16;"Banská Štiavnica";4
@@ -7933,7 +7933,6 @@
 2020-12-16;"Rožnava";29
 2020-12-16;"Ružomberok";26
 2020-12-16;"Sabinov";13
-2020-12-16;"Šala";16
 2020-12-16;"Senec";26
 2020-12-16;"Senica";84
 2020-12-16;"Skalica";20
@@ -7943,6 +7942,7 @@
 2020-12-16;"Stará Lubovna";34
 2020-12-16;"Stropkov";12
 2020-12-16;"Svidník";41
+2020-12-16;"Šala";16
 2020-12-16;"Topolcany";25
 2020-12-16;"Trebišov";70
 2020-12-16;"Trencín";96
@@ -7951,11 +7951,11 @@
 2020-12-16;"Tvrdošín";32
 2020-12-16;"Velký Krtíš";44
 2020-12-16;"Vranov nad Toplou";58
+2020-12-16;"Zlaté Moravce";18
+2020-12-16;"Zvolen";45
 2020-12-16;"Žarnovica";11
 2020-12-16;"Žiar nad Hronom";23
 2020-12-16;"Žilina";82
-2020-12-16;"Zlaté Moravce";18
-2020-12-16;"Zvolen";45
 2020-12-17;"Bánovce nad Bebravou";47
 2020-12-17;"Banská Bystrica";78
 2020-12-17;"Banská Štiavnica";7
@@ -8005,7 +8005,6 @@
 2020-12-17;"Rožnava";21
 2020-12-17;"Ružomberok";41
 2020-12-17;"Sabinov";21
-2020-12-17;"Šala";12
 2020-12-17;"Senec";56
 2020-12-17;"Senica";50
 2020-12-17;"Skalica";31
@@ -8015,6 +8014,7 @@
 2020-12-17;"Stará Lubovna";13
 2020-12-17;"Stropkov";19
 2020-12-17;"Svidník";40
+2020-12-17;"Šala";12
 2020-12-17;"Topolcany";19
 2020-12-17;"Trebišov";65
 2020-12-17;"Trencín";191
@@ -8023,11 +8023,11 @@
 2020-12-17;"Tvrdošín";8
 2020-12-17;"Velký Krtíš";71
 2020-12-17;"Vranov nad Toplou";48
+2020-12-17;"Zlaté Moravce";33
+2020-12-17;"Zvolen";47
 2020-12-17;"Žarnovica";8
 2020-12-17;"Žiar nad Hronom";37
 2020-12-17;"Žilina";172
-2020-12-17;"Zlaté Moravce";33
-2020-12-17;"Zvolen";47
 2020-12-18;"Bánovce nad Bebravou";6
 2020-12-18;"Banská Bystrica";150
 2020-12-18;"Banská Štiavnica";4
@@ -8077,7 +8077,6 @@
 2020-12-18;"Rožnava";2
 2020-12-18;"Ružomberok";25
 2020-12-18;"Sabinov";25
-2020-12-18;"Šala";34
 2020-12-18;"Senec";40
 2020-12-18;"Senica";59
 2020-12-18;"Skalica";39
@@ -8087,6 +8086,7 @@
 2020-12-18;"Stará Lubovna";32
 2020-12-18;"Stropkov";12
 2020-12-18;"Svidník";21
+2020-12-18;"Šala";34
 2020-12-18;"Topolcany";18
 2020-12-18;"Trebišov";31
 2020-12-18;"Trencín";110
@@ -8095,11 +8095,11 @@
 2020-12-18;"Tvrdošín";16
 2020-12-18;"Velký Krtíš";26
 2020-12-18;"Vranov nad Toplou";42
+2020-12-18;"Zlaté Moravce";29
+2020-12-18;"Zvolen";60
 2020-12-18;"Žarnovica";19
 2020-12-18;"Žiar nad Hronom";16
 2020-12-18;"Žilina";137
-2020-12-18;"Zlaté Moravce";29
-2020-12-18;"Zvolen";60
 2020-12-19;"Bánovce nad Bebravou";20
 2020-12-19;"Banská Bystrica";42
 2020-12-19;"Banská Štiavnica";1
@@ -8147,7 +8147,6 @@
 2020-12-19;"Rožnava";13
 2020-12-19;"Ružomberok";36
 2020-12-19;"Sabinov";4
-2020-12-19;"Šala";9
 2020-12-19;"Senec";45
 2020-12-19;"Senica";4
 2020-12-19;"Snina";1
@@ -8155,6 +8154,7 @@
 2020-12-19;"Stará Lubovna";5
 2020-12-19;"Stropkov";1
 2020-12-19;"Svidník";3
+2020-12-19;"Šala";9
 2020-12-19;"Topolcany";15
 2020-12-19;"Trebišov";38
 2020-12-19;"Trencín";98
@@ -8163,11 +8163,11 @@
 2020-12-19;"Tvrdošín";2
 2020-12-19;"Velký Krtíš";1
 2020-12-19;"Vranov nad Toplou";25
+2020-12-19;"Zlaté Moravce";6
+2020-12-19;"Zvolen";10
 2020-12-19;"Žarnovica";1
 2020-12-19;"Žiar nad Hronom";4
 2020-12-19;"Žilina";52
-2020-12-19;"Zlaté Moravce";6
-2020-12-19;"Zvolen";10
 2020-12-20;"Bánovce nad Bebravou";11
 2020-12-20;"Banská Bystrica";66
 2020-12-20;"Banská Štiavnica";1
@@ -8210,7 +8210,6 @@
 2020-12-20;"Rožnava";6
 2020-12-20;"Ružomberok";11
 2020-12-20;"Sabinov";1
-2020-12-20;"Šala";11
 2020-12-20;"Senec";24
 2020-12-20;"Senica";2
 2020-12-20;"Snina";2
@@ -8218,6 +8217,7 @@
 2020-12-20;"Stará Lubovna";11
 2020-12-20;"Stropkov";15
 2020-12-20;"Svidník";35
+2020-12-20;"Šala";11
 2020-12-20;"Topolcany";6
 2020-12-20;"Trebišov";48
 2020-12-20;"Trencín";119
@@ -8225,10 +8225,10 @@
 2020-12-20;"Turcianske Teplice";1
 2020-12-20;"Velký Krtíš";1
 2020-12-20;"Vranov nad Toplou";35
-2020-12-20;"Žiar nad Hronom";9
-2020-12-20;"Žilina";4
 2020-12-20;"Zlaté Moravce";5
 2020-12-20;"Zvolen";29
+2020-12-20;"Žiar nad Hronom";9
+2020-12-20;"Žilina";4
 2020-12-21;"Bánovce nad Bebravou";15
 2020-12-21;"Banská Bystrica";57
 2020-12-21;"Banská Štiavnica";2
@@ -8278,7 +8278,6 @@
 2020-12-21;"Rožnava";5
 2020-12-21;"Ružomberok";34
 2020-12-21;"Sabinov";31
-2020-12-21;"Šala";9
 2020-12-21;"Senec";52
 2020-12-21;"Senica";52
 2020-12-21;"Skalica";40
@@ -8288,6 +8287,7 @@
 2020-12-21;"Stará Lubovna";39
 2020-12-21;"Stropkov";15
 2020-12-21;"Svidník";37
+2020-12-21;"Šala";9
 2020-12-21;"Topolcany";17
 2020-12-21;"Trebišov";73
 2020-12-21;"Trencín";74
@@ -8296,11 +8296,11 @@
 2020-12-21;"Tvrdošín";20
 2020-12-21;"Velký Krtíš";8
 2020-12-21;"Vranov nad Toplou";39
+2020-12-21;"Zlaté Moravce";8
+2020-12-21;"Zvolen";44
 2020-12-21;"Žarnovica";1
 2020-12-21;"Žiar nad Hronom";9
 2020-12-21;"Žilina";102
-2020-12-21;"Zlaté Moravce";8
-2020-12-21;"Zvolen";44
 2020-12-22;"Bánovce nad Bebravou";41
 2020-12-22;"Banská Bystrica";88
 2020-12-22;"Banská Štiavnica";5
@@ -8350,7 +8350,6 @@
 2020-12-22;"Rožnava";12
 2020-12-22;"Ružomberok";51
 2020-12-22;"Sabinov";18
-2020-12-22;"Šala";27
 2020-12-22;"Senec";24
 2020-12-22;"Senica";60
 2020-12-22;"Skalica";46
@@ -8360,6 +8359,7 @@
 2020-12-22;"Stará Lubovna";4
 2020-12-22;"Stropkov";10
 2020-12-22;"Svidník";34
+2020-12-22;"Šala";27
 2020-12-22;"Topolcany";7
 2020-12-22;"Trebišov";34
 2020-12-22;"Trencín";85
@@ -8367,11 +8367,11 @@
 2020-12-22;"Turcianske Teplice";4
 2020-12-22;"Velký Krtíš";8
 2020-12-22;"Vranov nad Toplou";39
+2020-12-22;"Zlaté Moravce";13
+2020-12-22;"Zvolen";55
 2020-12-22;"Žarnovica";3
 2020-12-22;"Žiar nad Hronom";22
 2020-12-22;"Žilina";129
-2020-12-22;"Zlaté Moravce";13
-2020-12-22;"Zvolen";55
 2020-12-23;"Bánovce nad Bebravou";20
 2020-12-23;"Banská Bystrica";104
 2020-12-23;"Banská Štiavnica";1
@@ -8420,7 +8420,6 @@
 2020-12-23;"Rožnava";5
 2020-12-23;"Ružomberok";16
 2020-12-23;"Sabinov";10
-2020-12-23;"Šala";9
 2020-12-23;"Senec";32
 2020-12-23;"Senica";35
 2020-12-23;"Snina";11
@@ -8429,6 +8428,7 @@
 2020-12-23;"Stará Lubovna";38
 2020-12-23;"Stropkov";20
 2020-12-23;"Svidník";63
+2020-12-23;"Šala";9
 2020-12-23;"Topolcany";15
 2020-12-23;"Trebišov";114
 2020-12-23;"Trencín";216
@@ -8437,11 +8437,11 @@
 2020-12-23;"Tvrdošín";21
 2020-12-23;"Velký Krtíš";31
 2020-12-23;"Vranov nad Toplou";22
+2020-12-23;"Zlaté Moravce";35
+2020-12-23;"Zvolen";43
 2020-12-23;"Žarnovica";7
 2020-12-23;"Žiar nad Hronom";18
 2020-12-23;"Žilina";20
-2020-12-23;"Zlaté Moravce";35
-2020-12-23;"Zvolen";43
 2020-12-24;"Bánovce nad Bebravou";26
 2020-12-24;"Banská Bystrica";149
 2020-12-24;"Banská Štiavnica";3
@@ -8491,7 +8491,6 @@
 2020-12-24;"Rožnava";41
 2020-12-24;"Ružomberok";69
 2020-12-24;"Sabinov";11
-2020-12-24;"Šala";22
 2020-12-24;"Senec";62
 2020-12-24;"Senica";24
 2020-12-24;"Skalica";68
@@ -8501,6 +8500,7 @@
 2020-12-24;"Stará Lubovna";40
 2020-12-24;"Stropkov";25
 2020-12-24;"Svidník";47
+2020-12-24;"Šala";22
 2020-12-24;"Topolcany";38
 2020-12-24;"Trebišov";85
 2020-12-24;"Trencín";93
@@ -8509,11 +8509,11 @@
 2020-12-24;"Tvrdošín";2
 2020-12-24;"Velký Krtíš";19
 2020-12-24;"Vranov nad Toplou";57
+2020-12-24;"Zlaté Moravce";46
+2020-12-24;"Zvolen";67
 2020-12-24;"Žarnovica";15
 2020-12-24;"Žiar nad Hronom";14
 2020-12-24;"Žilina";311
-2020-12-24;"Zlaté Moravce";46
-2020-12-24;"Zvolen";67
 2020-12-25;"Bánovce nad Bebravou";7
 2020-12-25;"Banská Bystrica";19
 2020-12-25;"Bardejov";16
@@ -8556,13 +8556,13 @@
 2020-12-25;"Rožnava";4
 2020-12-25;"Ružomberok";20
 2020-12-25;"Sabinov";13
-2020-12-25;"Šala";1
 2020-12-25;"Senec";23
 2020-12-25;"Skalica";1
 2020-12-25;"Sobrance";2
 2020-12-25;"Spišská Nová Ves";41
 2020-12-25;"Stará Lubovna";1
 2020-12-25;"Svidník";29
+2020-12-25;"Šala";1
 2020-12-25;"Topolcany";7
 2020-12-25;"Trebišov";26
 2020-12-25;"Trencín";93
@@ -8570,10 +8570,10 @@
 2020-12-25;"Tvrdošín";1
 2020-12-25;"Velký Krtíš";1
 2020-12-25;"Vranov nad Toplou";45
+2020-12-25;"Zvolen";8
 2020-12-25;"Žarnovica";3
 2020-12-25;"Žiar nad Hronom";10
 2020-12-25;"Žilina";3
-2020-12-25;"Zvolen";8
 2020-12-26;"Bánovce nad Bebravou";10
 2020-12-26;"Banská Bystrica";28
 2020-12-26;"Bardejov";4
@@ -8616,7 +8616,6 @@
 2020-12-26;"Rožnava";1
 2020-12-26;"Ružomberok";1
 2020-12-26;"Sabinov";2
-2020-12-26;"Šala";9
 2020-12-26;"Senec";17
 2020-12-26;"Senica";32
 2020-12-26;"Skalica";32
@@ -8625,16 +8624,17 @@
 2020-12-26;"Spišská Nová Ves";4
 2020-12-26;"Stará Lubovna";1
 2020-12-26;"Svidník";3
+2020-12-26;"Šala";9
 2020-12-26;"Topolcany";1
 2020-12-26;"Trebišov";11
 2020-12-26;"Trencín";69
 2020-12-26;"Trnava";14
 2020-12-26;"Tvrdošín";1
 2020-12-26;"Vranov nad Toplou";16
+2020-12-26;"Zvolen";13
 2020-12-26;"Žarnovica";1
 2020-12-26;"Žiar nad Hronom";3
 2020-12-26;"Žilina";99
-2020-12-26;"Zvolen";13
 2020-12-27;"Banská Bystrica";30
 2020-12-27;"Bardejov";9
 2020-12-27;"Bratislava";127
@@ -8682,10 +8682,10 @@
 2020-12-27;"Trnava";17
 2020-12-27;"Tvrdošín";2
 2020-12-27;"Vranov nad Toplou";9
-2020-12-27;"Žarnovica";1
-2020-12-27;"Žiar nad Hronom";8
 2020-12-27;"Zlaté Moravce";1
 2020-12-27;"Zvolen";5
+2020-12-27;"Žarnovica";1
+2020-12-27;"Žiar nad Hronom";8
 2020-12-28;"Bánovce nad Bebravou";14
 2020-12-28;"Banská Bystrica";35
 2020-12-28;"Banská Štiavnica";2
@@ -8734,7 +8734,6 @@
 2020-12-28;"Rožnava";6
 2020-12-28;"Ružomberok";31
 2020-12-28;"Sabinov";47
-2020-12-28;"Šala";6
 2020-12-28;"Senec";23
 2020-12-28;"Senica";11
 2020-12-28;"Skalica";2
@@ -8744,6 +8743,7 @@
 2020-12-28;"Stará Lubovna";39
 2020-12-28;"Stropkov";5
 2020-12-28;"Svidník";34
+2020-12-28;"Šala";6
 2020-12-28;"Topolcany";12
 2020-12-28;"Trebišov";58
 2020-12-28;"Trencín";107
@@ -8751,11 +8751,11 @@
 2020-12-28;"Turcianske Teplice";9
 2020-12-28;"Velký Krtíš";2
 2020-12-28;"Vranov nad Toplou";8
+2020-12-28;"Zlaté Moravce";2
+2020-12-28;"Zvolen";36
 2020-12-28;"Žarnovica";3
 2020-12-28;"Žiar nad Hronom";9
 2020-12-28;"Žilina";141
-2020-12-28;"Zlaté Moravce";2
-2020-12-28;"Zvolen";36
 2020-12-29;"Bánovce nad Bebravou";39
 2020-12-29;"Banská Bystrica";46
 2020-12-29;"Bardejov";40
@@ -8804,7 +8804,6 @@
 2020-12-29;"Rožnava";22
 2020-12-29;"Ružomberok";25
 2020-12-29;"Sabinov";19
-2020-12-29;"Šala";9
 2020-12-29;"Senec";42
 2020-12-29;"Senica";2
 2020-12-29;"Sobrance";5
@@ -8812,6 +8811,7 @@
 2020-12-29;"Stará Lubovna";19
 2020-12-29;"Stropkov";23
 2020-12-29;"Svidník";39
+2020-12-29;"Šala";9
 2020-12-29;"Topolcany";16
 2020-12-29;"Trebišov";45
 2020-12-29;"Trencín";67
@@ -8820,11 +8820,11 @@
 2020-12-29;"Tvrdošín";29
 2020-12-29;"Velký Krtíš";5
 2020-12-29;"Vranov nad Toplou";60
+2020-12-29;"Zlaté Moravce";34
+2020-12-29;"Zvolen";36
 2020-12-29;"Žarnovica";4
 2020-12-29;"Žiar nad Hronom";12
 2020-12-29;"Žilina";73
-2020-12-29;"Zlaté Moravce";34
-2020-12-29;"Zvolen";36
 2020-12-30;"Bánovce nad Bebravou";21
 2020-12-30;"Banská Bystrica";184
 2020-12-30;"Banská Štiavnica";5
@@ -8874,7 +8874,6 @@
 2020-12-30;"Rožnava";29
 2020-12-30;"Ružomberok";107
 2020-12-30;"Sabinov";42
-2020-12-30;"Šala";41
 2020-12-30;"Senec";57
 2020-12-30;"Senica";150
 2020-12-30;"Skalica";165
@@ -8884,6 +8883,7 @@
 2020-12-30;"Stará Lubovna";62
 2020-12-30;"Stropkov";16
 2020-12-30;"Svidník";66
+2020-12-30;"Šala";41
 2020-12-30;"Topolcany";180
 2020-12-30;"Trebišov";67
 2020-12-30;"Trencín";183
@@ -8892,11 +8892,11 @@
 2020-12-30;"Tvrdošín";11
 2020-12-30;"Velký Krtíš";19
 2020-12-30;"Vranov nad Toplou";78
+2020-12-30;"Zlaté Moravce";69
+2020-12-30;"Zvolen";65
 2020-12-30;"Žarnovica";20
 2020-12-30;"Žiar nad Hronom";14
 2020-12-30;"Žilina";377
-2020-12-30;"Zlaté Moravce";69
-2020-12-30;"Zvolen";65
 2020-12-31;"Bánovce nad Bebravou";35
 2020-12-31;"Banská Bystrica";160
 2020-12-31;"Banská Štiavnica";3
@@ -8946,7 +8946,6 @@
 2020-12-31;"Rožnava";17
 2020-12-31;"Ružomberok";42
 2020-12-31;"Sabinov";8
-2020-12-31;"Šala";36
 2020-12-31;"Senec";115
 2020-12-31;"Senica";37
 2020-12-31;"Skalica";34
@@ -8956,6 +8955,7 @@
 2020-12-31;"Stará Lubovna";35
 2020-12-31;"Stropkov";16
 2020-12-31;"Svidník";24
+2020-12-31;"Šala";36
 2020-12-31;"Topolcany";18
 2020-12-31;"Trebišov";78
 2020-12-31;"Trencín";122
@@ -8964,11 +8964,11 @@
 2020-12-31;"Tvrdošín";20
 2020-12-31;"Velký Krtíš";16
 2020-12-31;"Vranov nad Toplou";59
+2020-12-31;"Zlaté Moravce";61
+2020-12-31;"Zvolen";54
 2020-12-31;"Žarnovica";16
 2020-12-31;"Žiar nad Hronom";21
 2020-12-31;"Žilina";33
-2020-12-31;"Zlaté Moravce";61
-2020-12-31;"Zvolen";54
 2021-01-01;"Bánovce nad Bebravou";10
 2021-01-01;"Banská Bystrica";126
 2021-01-01;"Bardejov";45
@@ -9014,7 +9014,6 @@
 2021-01-01;"Rožnava";25
 2021-01-01;"Ružomberok";8
 2021-01-01;"Sabinov";6
-2021-01-01;"Šala";19
 2021-01-01;"Senec";41
 2021-01-01;"Senica";1
 2021-01-01;"Snina";2
@@ -9022,6 +9021,7 @@
 2021-01-01;"Spišská Nová Ves";5
 2021-01-01;"Stropkov";7
 2021-01-01;"Svidník";23
+2021-01-01;"Šala";19
 2021-01-01;"Topolcany";17
 2021-01-01;"Trebišov";32
 2021-01-01;"Trencín";161
@@ -9030,11 +9030,11 @@
 2021-01-01;"Tvrdošín";1
 2021-01-01;"Velký Krtíš";1
 2021-01-01;"Vranov nad Toplou";41
+2021-01-01;"Zlaté Moravce";16
+2021-01-01;"Zvolen";39
 2021-01-01;"Žarnovica";7
 2021-01-01;"Žiar nad Hronom";18
 2021-01-01;"Žilina";8
-2021-01-01;"Zlaté Moravce";16
-2021-01-01;"Zvolen";39
 2021-01-02;"Bánovce nad Bebravou";24
 2021-01-02;"Banská Bystrica";62
 2021-01-02;"Banská Štiavnica";2
@@ -9079,7 +9079,6 @@
 2021-01-02;"Rožnava";1
 2021-01-02;"Ružomberok";14
 2021-01-02;"Sabinov";2
-2021-01-02;"Šala";17
 2021-01-02;"Senec";29
 2021-01-02;"Senica";29
 2021-01-02;"Skalica";8
@@ -9089,16 +9088,17 @@
 2021-01-02;"Stará Lubovna";1
 2021-01-02;"Stropkov";3
 2021-01-02;"Svidník";2
+2021-01-02;"Šala";17
 2021-01-02;"Topolcany";23
 2021-01-02;"Trebišov";3
 2021-01-02;"Trencín";17
 2021-01-02;"Trnava";89
 2021-01-02;"Vranov nad Toplou";6
+2021-01-02;"Zlaté Moravce";24
+2021-01-02;"Zvolen";25
 2021-01-02;"Žarnovica";7
 2021-01-02;"Žiar nad Hronom";16
 2021-01-02;"Žilina";45
-2021-01-02;"Zlaté Moravce";24
-2021-01-02;"Zvolen";25
 2021-01-03;"Bánovce nad Bebravou";6
 2021-01-03;"Banská Bystrica";144
 2021-01-03;"Banská Štiavnica";1
@@ -9134,23 +9134,23 @@
 2021-01-03;"Prievidza";1
 2021-01-03;"Ružomberok";4
 2021-01-03;"Sabinov";13
-2021-01-03;"Šala";6
 2021-01-03;"Senec";7
 2021-01-03;"Skalica";1
 2021-01-03;"Sobrance";3
 2021-01-03;"Spišská Nová Ves";2
 2021-01-03;"Stropkov";1
 2021-01-03;"Svidník";1
+2021-01-03;"Šala";6
 2021-01-03;"Topolcany";3
 2021-01-03;"Trebišov";1
 2021-01-03;"Trencín";21
 2021-01-03;"Trnava";19
 2021-01-03;"Turcianske Teplice";1
 2021-01-03;"Vranov nad Toplou";5
+2021-01-03;"Zvolen";15
 2021-01-03;"Žarnovica";2
 2021-01-03;"Žiar nad Hronom";6
 2021-01-03;"Žilina";1
-2021-01-03;"Zvolen";15
 2021-01-04;"Bánovce nad Bebravou";10
 2021-01-04;"Banská Bystrica";22
 2021-01-04;"Banská Štiavnica";1
@@ -9200,7 +9200,6 @@
 2021-01-04;"Rožnava";2
 2021-01-04;"Ružomberok";28
 2021-01-04;"Sabinov";50
-2021-01-04;"Šala";19
 2021-01-04;"Senec";66
 2021-01-04;"Senica";75
 2021-01-04;"Skalica";48
@@ -9210,6 +9209,7 @@
 2021-01-04;"Stará Lubovna";6
 2021-01-04;"Stropkov";17
 2021-01-04;"Svidník";47
+2021-01-04;"Šala";19
 2021-01-04;"Topolcany";13
 2021-01-04;"Trebišov";13
 2021-01-04;"Trencín";148
@@ -9218,11 +9218,11 @@
 2021-01-04;"Tvrdošín";2
 2021-01-04;"Velký Krtíš";4
 2021-01-04;"Vranov nad Toplou";21
+2021-01-04;"Zlaté Moravce";26
+2021-01-04;"Zvolen";40
 2021-01-04;"Žarnovica";3
 2021-01-04;"Žiar nad Hronom";2
 2021-01-04;"Žilina";172
-2021-01-04;"Zlaté Moravce";26
-2021-01-04;"Zvolen";40
 2021-01-05;"Bánovce nad Bebravou";21
 2021-01-05;"Banská Bystrica";106
 2021-01-05;"Banská Štiavnica";4
@@ -9272,7 +9272,6 @@
 2021-01-05;"Rožnava";27
 2021-01-05;"Ružomberok";41
 2021-01-05;"Sabinov";32
-2021-01-05;"Šala";36
 2021-01-05;"Senec";75
 2021-01-05;"Senica";87
 2021-01-05;"Skalica";63
@@ -9282,6 +9281,7 @@
 2021-01-05;"Stará Lubovna";55
 2021-01-05;"Stropkov";6
 2021-01-05;"Svidník";26
+2021-01-05;"Šala";36
 2021-01-05;"Topolcany";51
 2021-01-05;"Trebišov";95
 2021-01-05;"Trencín";180
@@ -9290,11 +9290,11 @@
 2021-01-05;"Tvrdošín";9
 2021-01-05;"Velký Krtíš";1
 2021-01-05;"Vranov nad Toplou";120
+2021-01-05;"Zlaté Moravce";71
+2021-01-05;"Zvolen";63
 2021-01-05;"Žarnovica";5
 2021-01-05;"Žiar nad Hronom";16
 2021-01-05;"Žilina";216
-2021-01-05;"Zlaté Moravce";71
-2021-01-05;"Zvolen";63
 2021-01-06;"Bánovce nad Bebravou";9
 2021-01-06;"Banská Bystrica";135
 2021-01-06;"Banská Štiavnica";4
@@ -9344,7 +9344,6 @@
 2021-01-06;"Rožnava";3
 2021-01-06;"Ružomberok";35
 2021-01-06;"Sabinov";16
-2021-01-06;"Šala";20
 2021-01-06;"Senec";46
 2021-01-06;"Senica";2
 2021-01-06;"Skalica";1
@@ -9354,6 +9353,7 @@
 2021-01-06;"Stará Lubovna";43
 2021-01-06;"Stropkov";14
 2021-01-06;"Svidník";25
+2021-01-06;"Šala";20
 2021-01-06;"Topolcany";33
 2021-01-06;"Trebišov";48
 2021-01-06;"Trencín";53
@@ -9361,11 +9361,11 @@
 2021-01-06;"Turcianske Teplice";1
 2021-01-06;"Velký Krtíš";9
 2021-01-06;"Vranov nad Toplou";36
+2021-01-06;"Zlaté Moravce";33
+2021-01-06;"Zvolen";21
 2021-01-06;"Žarnovica";21
 2021-01-06;"Žiar nad Hronom";17
 2021-01-06;"Žilina";6
-2021-01-06;"Zlaté Moravce";33
-2021-01-06;"Zvolen";21
 2021-01-07;"Bánovce nad Bebravou";24
 2021-01-07;"Banská Bystrica";35
 2021-01-07;"Banská Štiavnica";2
@@ -9413,7 +9413,6 @@
 2021-01-07;"Rožnava";12
 2021-01-07;"Ružomberok";27
 2021-01-07;"Sabinov";38
-2021-01-07;"Šala";30
 2021-01-07;"Senec";63
 2021-01-07;"Senica";45
 2021-01-07;"Skalica";41
@@ -9421,6 +9420,7 @@
 2021-01-07;"Spišská Nová Ves";47
 2021-01-07;"Stará Lubovna";35
 2021-01-07;"Svidník";10
+2021-01-07;"Šala";30
 2021-01-07;"Topolcany";25
 2021-01-07;"Trebišov";40
 2021-01-07;"Trencín";115
@@ -9429,11 +9429,11 @@
 2021-01-07;"Tvrdošín";1
 2021-01-07;"Velký Krtíš";1
 2021-01-07;"Vranov nad Toplou";3
+2021-01-07;"Zlaté Moravce";10
+2021-01-07;"Zvolen";25
 2021-01-07;"Žarnovica";6
 2021-01-07;"Žiar nad Hronom";3
 2021-01-07;"Žilina";144
-2021-01-07;"Zlaté Moravce";10
-2021-01-07;"Zvolen";25
 2021-01-08;"Bánovce nad Bebravou";19
 2021-01-08;"Banská Bystrica";100
 2021-01-08;"Bardejov";52
@@ -9482,7 +9482,6 @@
 2021-01-08;"Rožnava";20
 2021-01-08;"Ružomberok";37
 2021-01-08;"Sabinov";14
-2021-01-08;"Šala";47
 2021-01-08;"Senec";61
 2021-01-08;"Senica";27
 2021-01-08;"Skalica";33
@@ -9492,6 +9491,7 @@
 2021-01-08;"Stará Lubovna";9
 2021-01-08;"Stropkov";23
 2021-01-08;"Svidník";16
+2021-01-08;"Šala";47
 2021-01-08;"Topolcany";56
 2021-01-08;"Trebišov";75
 2021-01-08;"Trencín";160
@@ -9500,11 +9500,11 @@
 2021-01-08;"Tvrdošín";21
 2021-01-08;"Velký Krtíš";26
 2021-01-08;"Vranov nad Toplou";64
+2021-01-08;"Zlaté Moravce";72
+2021-01-08;"Zvolen";24
 2021-01-08;"Žarnovica";19
 2021-01-08;"Žiar nad Hronom";15
 2021-01-08;"Žilina";130
-2021-01-08;"Zlaté Moravce";72
-2021-01-08;"Zvolen";24
 2021-01-09;"Bánovce nad Bebravou";24
 2021-01-09;"Banská Bystrica";99
 2021-01-09;"Banská Štiavnica";11
@@ -9551,7 +9551,6 @@
 2021-01-09;"Rožnava";14
 2021-01-09;"Ružomberok";16
 2021-01-09;"Sabinov";31
-2021-01-09;"Šala";39
 2021-01-09;"Senec";40
 2021-01-09;"Senica";12
 2021-01-09;"Skalica";5
@@ -9561,6 +9560,7 @@
 2021-01-09;"Stará Lubovna";60
 2021-01-09;"Stropkov";8
 2021-01-09;"Svidník";16
+2021-01-09;"Šala";39
 2021-01-09;"Topolcany";52
 2021-01-09;"Trebišov";16
 2021-01-09;"Trencín";50
@@ -9569,11 +9569,11 @@
 2021-01-09;"Tvrdošín";3
 2021-01-09;"Velký Krtíš";2
 2021-01-09;"Vranov nad Toplou";72
+2021-01-09;"Zlaté Moravce";31
+2021-01-09;"Zvolen";30
 2021-01-09;"Žarnovica";30
 2021-01-09;"Žiar nad Hronom";29
 2021-01-09;"Žilina";45
-2021-01-09;"Zlaté Moravce";31
-2021-01-09;"Zvolen";30
 2021-01-10;"Bánovce nad Bebravou";2
 2021-01-10;"Banská Bystrica";68
 2021-01-10;"Bardejov";6
@@ -9614,7 +9614,6 @@
 2021-01-10;"Rožnava";1
 2021-01-10;"Ružomberok";5
 2021-01-10;"Sabinov";6
-2021-01-10;"Šala";3
 2021-01-10;"Senec";38
 2021-01-10;"Senica";4
 2021-01-10;"Skalica";1
@@ -9622,6 +9621,7 @@
 2021-01-10;"Spišská Nová Ves";4
 2021-01-10;"Stará Lubovna";1
 2021-01-10;"Stropkov";1
+2021-01-10;"Šala";3
 2021-01-10;"Topolcany";2
 2021-01-10;"Trebišov";5
 2021-01-10;"Trencín";60
@@ -9630,11 +9630,11 @@
 2021-01-10;"Tvrdošín";1
 2021-01-10;"Velký Krtíš";1
 2021-01-10;"Vranov nad Toplou";9
+2021-01-10;"Zlaté Moravce";3
+2021-01-10;"Zvolen";8
 2021-01-10;"Žarnovica";3
 2021-01-10;"Žiar nad Hronom";5
 2021-01-10;"Žilina";3
-2021-01-10;"Zlaté Moravce";3
-2021-01-10;"Zvolen";8
 2021-01-11;"Bánovce nad Bebravou";4
 2021-01-11;"Banská Bystrica";13
 2021-01-11;"Banská Štiavnica";2
@@ -9684,7 +9684,6 @@
 2021-01-11;"Rožnava";1
 2021-01-11;"Ružomberok";26
 2021-01-11;"Sabinov";39
-2021-01-11;"Šala";25
 2021-01-11;"Senec";43
 2021-01-11;"Senica";42
 2021-01-11;"Skalica";31
@@ -9694,6 +9693,7 @@
 2021-01-11;"Stará Lubovna";40
 2021-01-11;"Stropkov";9
 2021-01-11;"Svidník";20
+2021-01-11;"Šala";25
 2021-01-11;"Topolcany";21
 2021-01-11;"Trebišov";23
 2021-01-11;"Trencín";45
@@ -9702,11 +9702,11 @@
 2021-01-11;"Tvrdošín";8
 2021-01-11;"Velký Krtíš";1
 2021-01-11;"Vranov nad Toplou";10
+2021-01-11;"Zlaté Moravce";14
+2021-01-11;"Zvolen";15
 2021-01-11;"Žarnovica";4
 2021-01-11;"Žiar nad Hronom";11
 2021-01-11;"Žilina";123
-2021-01-11;"Zlaté Moravce";14
-2021-01-11;"Zvolen";15
 2021-01-12;"Bánovce nad Bebravou";32
 2021-01-12;"Banská Bystrica";37
 2021-01-12;"Banská Štiavnica";2
@@ -9756,7 +9756,6 @@
 2021-01-12;"Rožnava";17
 2021-01-12;"Ružomberok";15
 2021-01-12;"Sabinov";26
-2021-01-12;"Šala";48
 2021-01-12;"Senec";38
 2021-01-12;"Senica";35
 2021-01-12;"Skalica";36
@@ -9766,6 +9765,7 @@
 2021-01-12;"Stará Lubovna";52
 2021-01-12;"Stropkov";2
 2021-01-12;"Svidník";8
+2021-01-12;"Šala";48
 2021-01-12;"Topolcany";88
 2021-01-12;"Trebišov";95
 2021-01-12;"Trencín";80
@@ -9774,11 +9774,11 @@
 2021-01-12;"Tvrdošín";12
 2021-01-12;"Velký Krtíš";3
 2021-01-12;"Vranov nad Toplou";47
+2021-01-12;"Zlaté Moravce";50
+2021-01-12;"Zvolen";24
 2021-01-12;"Žarnovica";2
 2021-01-12;"Žiar nad Hronom";17
 2021-01-12;"Žilina";104
-2021-01-12;"Zlaté Moravce";50
-2021-01-12;"Zvolen";24
 2021-01-13;"Bánovce nad Bebravou";11
 2021-01-13;"Banská Bystrica";71
 2021-01-13;"Bardejov";34
@@ -9826,7 +9826,6 @@
 2021-01-13;"Rožnava";13
 2021-01-13;"Ružomberok";12
 2021-01-13;"Sabinov";21
-2021-01-13;"Šala";70
 2021-01-13;"Senec";44
 2021-01-13;"Senica";25
 2021-01-13;"Skalica";19
@@ -9836,6 +9835,7 @@
 2021-01-13;"Stará Lubovna";6
 2021-01-13;"Stropkov";3
 2021-01-13;"Svidník";7
+2021-01-13;"Šala";70
 2021-01-13;"Topolcany";84
 2021-01-13;"Trebišov";49
 2021-01-13;"Trencín";50
@@ -9844,11 +9844,11 @@
 2021-01-13;"Tvrdošín";2
 2021-01-13;"Velký Krtíš";15
 2021-01-13;"Vranov nad Toplou";62
+2021-01-13;"Zlaté Moravce";53
+2021-01-13;"Zvolen";28
 2021-01-13;"Žarnovica";18
 2021-01-13;"Žiar nad Hronom";20
 2021-01-13;"Žilina";85
-2021-01-13;"Zlaté Moravce";53
-2021-01-13;"Zvolen";28
 2021-01-14;"Bánovce nad Bebravou";9
 2021-01-14;"Banská Bystrica";53
 2021-01-14;"Banská Štiavnica";2
@@ -9898,7 +9898,6 @@
 2021-01-14;"Rožnava";7
 2021-01-14;"Ružomberok";11
 2021-01-14;"Sabinov";10
-2021-01-14;"Šala";28
 2021-01-14;"Senec";37
 2021-01-14;"Senica";24
 2021-01-14;"Skalica";16
@@ -9908,6 +9907,7 @@
 2021-01-14;"Stará Lubovna";34
 2021-01-14;"Stropkov";5
 2021-01-14;"Svidník";8
+2021-01-14;"Šala";28
 2021-01-14;"Topolcany";35
 2021-01-14;"Trebišov";75
 2021-01-14;"Trencín";47
@@ -9916,11 +9916,11 @@
 2021-01-14;"Tvrdošín";1
 2021-01-14;"Velký Krtíš";6
 2021-01-14;"Vranov nad Toplou";27
+2021-01-14;"Zlaté Moravce";224
+2021-01-14;"Zvolen";21
 2021-01-14;"Žarnovica";10
 2021-01-14;"Žiar nad Hronom";12
 2021-01-14;"Žilina";79
-2021-01-14;"Zlaté Moravce";224
-2021-01-14;"Zvolen";21
 2021-01-15;"Bánovce nad Bebravou";8
 2021-01-15;"Banská Bystrica";49
 2021-01-15;"Banská Štiavnica";5
@@ -9968,7 +9968,6 @@
 2021-01-15;"Rožnava";9
 2021-01-15;"Ružomberok";26
 2021-01-15;"Sabinov";20
-2021-01-15;"Šala";28
 2021-01-15;"Senec";24
 2021-01-15;"Senica";30
 2021-01-15;"Skalica";18
@@ -9976,6 +9975,7 @@
 2021-01-15;"Sobrance";5
 2021-01-15;"Spišská Nová Ves";40
 2021-01-15;"Stará Lubovna";13
+2021-01-15;"Šala";28
 2021-01-15;"Topolcany";37
 2021-01-15;"Trebišov";42
 2021-01-15;"Trencín";52
@@ -9984,11 +9984,11 @@
 2021-01-15;"Tvrdošín";8
 2021-01-15;"Velký Krtíš";1
 2021-01-15;"Vranov nad Toplou";13
+2021-01-15;"Zlaté Moravce";21
+2021-01-15;"Zvolen";14
 2021-01-15;"Žarnovica";11
 2021-01-15;"Žiar nad Hronom";26
 2021-01-15;"Žilina";68
-2021-01-15;"Zlaté Moravce";21
-2021-01-15;"Zvolen";14
 2021-01-16;"Banská Bystrica";19
 2021-01-16;"Bardejov";13
 2021-01-16;"Bratislava";43
@@ -10020,13 +10020,13 @@
 2021-01-16;"Revúca";2
 2021-01-16;"Rimavská Sobota";30
 2021-01-16;"Rožnava";17
-2021-01-16;"Šala";21
 2021-01-16;"Senec";16
 2021-01-16;"Snina";1
 2021-01-16;"Sobrance";5
 2021-01-16;"Spišská Nová Ves";18
 2021-01-16;"Stropkov";1
 2021-01-16;"Svidník";3
+2021-01-16;"Šala";21
 2021-01-16;"Topolcany";9
 2021-01-16;"Trebišov";9
 2021-01-16;"Trencín";2
@@ -10080,7 +10080,6 @@
 2021-01-17;"Rožnava";1
 2021-01-17;"Ružomberok";17
 2021-01-17;"Sabinov";9
-2021-01-17;"Šala";4
 2021-01-17;"Senec";29
 2021-01-17;"Senica";1
 2021-01-17;"Snina";4
@@ -10089,6 +10088,7 @@
 2021-01-17;"Stará Lubovna";26
 2021-01-17;"Stropkov";4
 2021-01-17;"Svidník";4
+2021-01-17;"Šala";4
 2021-01-17;"Topolcany";4
 2021-01-17;"Trebišov";9
 2021-01-17;"Trencín";46
@@ -10096,11 +10096,11 @@
 2021-01-17;"Tvrdošín";3
 2021-01-17;"Velký Krtíš";1
 2021-01-17;"Vranov nad Toplou";4
+2021-01-17;"Zlaté Moravce";3
+2021-01-17;"Zvolen";9
 2021-01-17;"Žarnovica";1
 2021-01-17;"Žiar nad Hronom";6
 2021-01-17;"Žilina";43
-2021-01-17;"Zlaté Moravce";3
-2021-01-17;"Zvolen";9
 2021-01-18;"Bánovce nad Bebravou";4
 2021-01-18;"Banská Bystrica";18
 2021-01-18;"Banská Štiavnica";3
@@ -10148,7 +10148,6 @@
 2021-01-18;"Rimavská Sobota";1
 2021-01-18;"Ružomberok";10
 2021-01-18;"Sabinov";23
-2021-01-18;"Šala";8
 2021-01-18;"Senec";38
 2021-01-18;"Senica";32
 2021-01-18;"Skalica";33
@@ -10158,6 +10157,7 @@
 2021-01-18;"Stará Lubovna";9
 2021-01-18;"Stropkov";1
 2021-01-18;"Svidník";4
+2021-01-18;"Šala";8
 2021-01-18;"Topolcany";31
 2021-01-18;"Trebišov";46
 2021-01-18;"Trencín";17
@@ -10166,11 +10166,11 @@
 2021-01-18;"Tvrdošín";6
 2021-01-18;"Velký Krtíš";4
 2021-01-18;"Vranov nad Toplou";37
+2021-01-18;"Zlaté Moravce";25
+2021-01-18;"Zvolen";18
 2021-01-18;"Žarnovica";3
 2021-01-18;"Žiar nad Hronom";19
 2021-01-18;"Žilina";65
-2021-01-18;"Zlaté Moravce";25
-2021-01-18;"Zvolen";18
 2021-01-19;"Bánovce nad Bebravou";32
 2021-01-19;"Banská Bystrica";52
 2021-01-19;"Banská Štiavnica";1
@@ -10218,7 +10218,6 @@
 2021-01-19;"Rožnava";17
 2021-01-19;"Ružomberok";31
 2021-01-19;"Sabinov";7
-2021-01-19;"Šala";30
 2021-01-19;"Senec";40
 2021-01-19;"Senica";16
 2021-01-19;"Skalica";1
@@ -10228,6 +10227,7 @@
 2021-01-19;"Stará Lubovna";6
 2021-01-19;"Stropkov";9
 2021-01-19;"Svidník";4
+2021-01-19;"Šala";30
 2021-01-19;"Topolcany";57
 2021-01-19;"Trebišov";25
 2021-01-19;"Trencín";60
@@ -10236,11 +10236,11 @@
 2021-01-19;"Tvrdošín";1
 2021-01-19;"Velký Krtíš";1
 2021-01-19;"Vranov nad Toplou";3
+2021-01-19;"Zlaté Moravce";25
+2021-01-19;"Zvolen";20
 2021-01-19;"Žarnovica";15
 2021-01-19;"Žiar nad Hronom";15
 2021-01-19;"Žilina";78
-2021-01-19;"Zlaté Moravce";25
-2021-01-19;"Zvolen";20
 2021-01-20;"Bánovce nad Bebravou";10
 2021-01-20;"Banská Bystrica";44
 2021-01-20;"Bardejov";24
@@ -10289,7 +10289,6 @@
 2021-01-20;"Rožnava";19
 2021-01-20;"Ružomberok";16
 2021-01-20;"Sabinov";18
-2021-01-20;"Šala";45
 2021-01-20;"Senec";34
 2021-01-20;"Senica";30
 2021-01-20;"Skalica";23
@@ -10299,6 +10298,7 @@
 2021-01-20;"Stará Lubovna";26
 2021-01-20;"Stropkov";9
 2021-01-20;"Svidník";9
+2021-01-20;"Šala";45
 2021-01-20;"Topolcany";27
 2021-01-20;"Trebišov";52
 2021-01-20;"Trencín";44
@@ -10307,11 +10307,11 @@
 2021-01-20;"Tvrdošín";5
 2021-01-20;"Velký Krtíš";12
 2021-01-20;"Vranov nad Toplou";31
+2021-01-20;"Zlaté Moravce";9
+2021-01-20;"Zvolen";17
 2021-01-20;"Žarnovica";19
 2021-01-20;"Žiar nad Hronom";10
 2021-01-20;"Žilina";79
-2021-01-20;"Zlaté Moravce";9
-2021-01-20;"Zvolen";17
 2021-01-21;"Bánovce nad Bebravou";5
 2021-01-21;"Banská Bystrica";28
 2021-01-21;"Banská Štiavnica";1
@@ -10359,7 +10359,6 @@
 2021-01-21;"Rožnava";16
 2021-01-21;"Ružomberok";7
 2021-01-21;"Sabinov";11
-2021-01-21;"Šala";15
 2021-01-21;"Senec";44
 2021-01-21;"Senica";28
 2021-01-21;"Skalica";17
@@ -10369,6 +10368,7 @@
 2021-01-21;"Stará Lubovna";17
 2021-01-21;"Stropkov";7
 2021-01-21;"Svidník";2
+2021-01-21;"Šala";15
 2021-01-21;"Topolcany";6
 2021-01-21;"Trebišov";46
 2021-01-21;"Trencín";28
@@ -10377,11 +10377,11 @@
 2021-01-21;"Tvrdošín";1
 2021-01-21;"Velký Krtíš";5
 2021-01-21;"Vranov nad Toplou";6
+2021-01-21;"Zlaté Moravce";27
+2021-01-21;"Zvolen";26
 2021-01-21;"Žarnovica";10
 2021-01-21;"Žiar nad Hronom";8
 2021-01-21;"Žilina";56
-2021-01-21;"Zlaté Moravce";27
-2021-01-21;"Zvolen";26
 2021-01-22;"Bánovce nad Bebravou";1
 2021-01-22;"Banská Bystrica";42
 2021-01-22;"Banská Štiavnica";3
@@ -10431,7 +10431,6 @@
 2021-01-22;"Rožnava";34
 2021-01-22;"Ružomberok";14
 2021-01-22;"Sabinov";25
-2021-01-22;"Šala";5
 2021-01-22;"Senec";10
 2021-01-22;"Senica";28
 2021-01-22;"Skalica";14
@@ -10441,6 +10440,7 @@
 2021-01-22;"Stará Lubovna";29
 2021-01-22;"Stropkov";4
 2021-01-22;"Svidník";10
+2021-01-22;"Šala";5
 2021-01-22;"Topolcany";19
 2021-01-22;"Trebišov";56
 2021-01-22;"Trencín";23
@@ -10448,11 +10448,11 @@
 2021-01-22;"Turcianske Teplice";6
 2021-01-22;"Velký Krtíš";7
 2021-01-22;"Vranov nad Toplou";16
+2021-01-22;"Zlaté Moravce";3
+2021-01-22;"Zvolen";18
 2021-01-22;"Žarnovica";5
 2021-01-22;"Žiar nad Hronom";11
 2021-01-22;"Žilina";47
-2021-01-22;"Zlaté Moravce";3
-2021-01-22;"Zvolen";18
 2021-01-23;"Bánovce nad Bebravou";26
 2021-01-23;"Banská Bystrica";38
 2021-01-23;"Banská Štiavnica";1
@@ -10502,7 +10502,6 @@
 2021-01-23;"Rožnava";15
 2021-01-23;"Ružomberok";19
 2021-01-23;"Sabinov";12
-2021-01-23;"Šala";38
 2021-01-23;"Senec";52
 2021-01-23;"Senica";21
 2021-01-23;"Skalica";17
@@ -10511,6 +10510,7 @@
 2021-01-23;"Stará Lubovna";6
 2021-01-23;"Stropkov";4
 2021-01-23;"Svidník";4
+2021-01-23;"Šala";38
 2021-01-23;"Topolcany";51
 2021-01-23;"Trebišov";14
 2021-01-23;"Trencín";36
@@ -10518,11 +10518,11 @@
 2021-01-23;"Tvrdošín";2
 2021-01-23;"Velký Krtíš";1
 2021-01-23;"Vranov nad Toplou";23
+2021-01-23;"Zlaté Moravce";5
+2021-01-23;"Zvolen";5
 2021-01-23;"Žarnovica";8
 2021-01-23;"Žiar nad Hronom";17
 2021-01-23;"Žilina";15
-2021-01-23;"Zlaté Moravce";5
-2021-01-23;"Zvolen";5
 2021-01-24;"Bánovce nad Bebravou";6
 2021-01-24;"Banská Bystrica";23
 2021-01-24;"Bratislava";130
@@ -10556,12 +10556,12 @@
 2021-01-24;"Rožnava";2
 2021-01-24;"Ružomberok";10
 2021-01-24;"Sabinov";1
-2021-01-24;"Šala";3
 2021-01-24;"Senec";22
 2021-01-24;"Snina";1
 2021-01-24;"Sobrance";9
 2021-01-24;"Spišská Nová Ves";1
 2021-01-24;"Svidník";2
+2021-01-24;"Šala";3
 2021-01-24;"Trebišov";3
 2021-01-24;"Trencín";31
 2021-01-24;"Trnava";62
@@ -10614,7 +10614,6 @@
 2021-01-25;"Rožnava";1
 2021-01-25;"Ružomberok";13
 2021-01-25;"Sabinov";20
-2021-01-25;"Šala";11
 2021-01-25;"Senec";52
 2021-01-25;"Senica";17
 2021-01-25;"Skalica";1
@@ -10624,6 +10623,7 @@
 2021-01-25;"Stará Lubovna";16
 2021-01-25;"Stropkov";2
 2021-01-25;"Svidník";10
+2021-01-25;"Šala";11
 2021-01-25;"Topolcany";9
 2021-01-25;"Trebišov";49
 2021-01-25;"Trencín";56
@@ -10632,10 +10632,10 @@
 2021-01-25;"Tvrdošín";1
 2021-01-25;"Velký Krtíš";2
 2021-01-25;"Vranov nad Toplou";5
-2021-01-25;"Žiar nad Hronom";2
-2021-01-25;"Žilina";48
 2021-01-25;"Zlaté Moravce";8
 2021-01-25;"Zvolen";25
+2021-01-25;"Žiar nad Hronom";2
+2021-01-25;"Žilina";48
 2021-01-26;"Bánovce nad Bebravou";39
 2021-01-26;"Banská Bystrica";85
 2021-01-26;"Banská Štiavnica";1
@@ -10685,7 +10685,6 @@
 2021-01-26;"Rožnava";29
 2021-01-26;"Ružomberok";24
 2021-01-26;"Sabinov";8
-2021-01-26;"Šala";19
 2021-01-26;"Senec";37
 2021-01-26;"Senica";45
 2021-01-26;"Skalica";25
@@ -10695,6 +10694,7 @@
 2021-01-26;"Stará Lubovna";3
 2021-01-26;"Stropkov";11
 2021-01-26;"Svidník";7
+2021-01-26;"Šala";19
 2021-01-26;"Topolcany";66
 2021-01-26;"Trebišov";122
 2021-01-26;"Trencín";65
@@ -10703,11 +10703,11 @@
 2021-01-26;"Tvrdošín";2
 2021-01-26;"Velký Krtíš";7
 2021-01-26;"Vranov nad Toplou";37
+2021-01-26;"Zlaté Moravce";24
+2021-01-26;"Zvolen";17
 2021-01-26;"Žarnovica";4
 2021-01-26;"Žiar nad Hronom";26
 2021-01-26;"Žilina";58
-2021-01-26;"Zlaté Moravce";24
-2021-01-26;"Zvolen";17
 2021-01-27;"Bánovce nad Bebravou";14
 2021-01-27;"Banská Bystrica";30
 2021-01-27;"Banská Štiavnica";2
@@ -10756,7 +10756,6 @@
 2021-01-27;"Rožnava";7
 2021-01-27;"Ružomberok";24
 2021-01-27;"Sabinov";24
-2021-01-27;"Šala";21
 2021-01-27;"Senec";47
 2021-01-27;"Senica";58
 2021-01-27;"Skalica";31
@@ -10766,6 +10765,7 @@
 2021-01-27;"Stará Lubovna";24
 2021-01-27;"Stropkov";5
 2021-01-27;"Svidník";1
+2021-01-27;"Šala";21
 2021-01-27;"Topolcany";47
 2021-01-27;"Trebišov";10
 2021-01-27;"Trencín";24
@@ -10774,11 +10774,11 @@
 2021-01-27;"Tvrdošín";1
 2021-01-27;"Velký Krtíš";3
 2021-01-27;"Vranov nad Toplou";3
+2021-01-27;"Zlaté Moravce";6
+2021-01-27;"Zvolen";34
 2021-01-27;"Žarnovica";15
 2021-01-27;"Žiar nad Hronom";23
 2021-01-27;"Žilina";61
-2021-01-27;"Zlaté Moravce";6
-2021-01-27;"Zvolen";34
 2021-01-28;"Bánovce nad Bebravou";19
 2021-01-28;"Banská Bystrica";45
 2021-01-28;"Banská Štiavnica";5
@@ -10828,7 +10828,6 @@
 2021-01-28;"Rožnava";16
 2021-01-28;"Ružomberok";16
 2021-01-28;"Sabinov";14
-2021-01-28;"Šala";38
 2021-01-28;"Senec";38
 2021-01-28;"Senica";23
 2021-01-28;"Skalica";10
@@ -10838,6 +10837,7 @@
 2021-01-28;"Stará Lubovna";16
 2021-01-28;"Stropkov";12
 2021-01-28;"Svidník";14
+2021-01-28;"Šala";38
 2021-01-28;"Topolcany";20
 2021-01-28;"Trebišov";199
 2021-01-28;"Trencín";46
@@ -10846,11 +10846,11 @@
 2021-01-28;"Tvrdošín";2
 2021-01-28;"Velký Krtíš";5
 2021-01-28;"Vranov nad Toplou";48
+2021-01-28;"Zlaté Moravce";15
+2021-01-28;"Zvolen";24
 2021-01-28;"Žarnovica";9
 2021-01-28;"Žiar nad Hronom";29
 2021-01-28;"Žilina";67
-2021-01-28;"Zlaté Moravce";15
-2021-01-28;"Zvolen";24
 2021-01-29;"Bánovce nad Bebravou";41
 2021-01-29;"Banská Bystrica";47
 2021-01-29;"Banská Štiavnica";1
@@ -10900,7 +10900,6 @@
 2021-01-29;"Rožnava";33
 2021-01-29;"Ružomberok";13
 2021-01-29;"Sabinov";19
-2021-01-29;"Šala";51
 2021-01-29;"Senec";48
 2021-01-29;"Senica";36
 2021-01-29;"Skalica";13
@@ -10910,6 +10909,7 @@
 2021-01-29;"Stará Lubovna";8
 2021-01-29;"Stropkov";3
 2021-01-29;"Svidník";5
+2021-01-29;"Šala";51
 2021-01-29;"Topolcany";27
 2021-01-29;"Trebišov";27
 2021-01-29;"Trencín";27
@@ -10918,11 +10918,11 @@
 2021-01-29;"Tvrdošín";4
 2021-01-29;"Velký Krtíš";2
 2021-01-29;"Vranov nad Toplou";13
+2021-01-29;"Zlaté Moravce";10
+2021-01-29;"Zvolen";20
 2021-01-29;"Žarnovica";3
 2021-01-29;"Žiar nad Hronom";6
 2021-01-29;"Žilina";47
-2021-01-29;"Zlaté Moravce";10
-2021-01-29;"Zvolen";20
 2021-01-30;"Bánovce nad Bebravou";42
 2021-01-30;"Banská Bystrica";60
 2021-01-30;"Banská Štiavnica";2
@@ -10969,7 +10969,6 @@
 2021-01-30;"Rožnava";30
 2021-01-30;"Ružomberok";10
 2021-01-30;"Sabinov";1
-2021-01-30;"Šala";20
 2021-01-30;"Senec";29
 2021-01-30;"Senica";16
 2021-01-30;"Skalica";19
@@ -10979,6 +10978,7 @@
 2021-01-30;"Stará Lubovna";3
 2021-01-30;"Stropkov";3
 2021-01-30;"Svidník";9
+2021-01-30;"Šala";20
 2021-01-30;"Topolcany";2
 2021-01-30;"Trebišov";40
 2021-01-30;"Trencín";50
@@ -10986,10 +10986,10 @@
 2021-01-30;"Tvrdošín";1
 2021-01-30;"Velký Krtíš";1
 2021-01-30;"Vranov nad Toplou";26
-2021-01-30;"Žiar nad Hronom";14
-2021-01-30;"Žilina";41
 2021-01-30;"Zlaté Moravce";6
 2021-01-30;"Zvolen";14
+2021-01-30;"Žiar nad Hronom";14
+2021-01-30;"Žilina";41
 2021-01-31;"Bánovce nad Bebravou";1
 2021-01-31;"Banská Bystrica";24
 2021-01-31;"Bratislava";117
@@ -11017,19 +11017,19 @@
 2021-01-31;"Rožnava";1
 2021-01-31;"Ružomberok";4
 2021-01-31;"Sabinov";6
-2021-01-31;"Šala";1
 2021-01-31;"Senec";32
 2021-01-31;"Senica";1
 2021-01-31;"Stará Lubovna";6
 2021-01-31;"Stropkov";1
 2021-01-31;"Svidník";2
+2021-01-31;"Šala";1
 2021-01-31;"Topolcany";4
 2021-01-31;"Trebišov";3
 2021-01-31;"Trencín";1
 2021-01-31;"Trnava";1
 2021-01-31;"Vranov nad Toplou";4
-2021-01-31;"Žilina";1
 2021-01-31;"Zvolen";6
+2021-01-31;"Žilina";1
 2021-02-01;"Bánovce nad Bebravou";5
 2021-02-01;"Banská Bystrica";19
 2021-02-01;"Bardejov";5
@@ -11075,7 +11075,6 @@
 2021-02-01;"Revúca";7
 2021-02-01;"Ružomberok";10
 2021-02-01;"Sabinov";22
-2021-02-01;"Šala";16
 2021-02-01;"Senec";16
 2021-02-01;"Senica";16
 2021-02-01;"Skalica";1
@@ -11085,6 +11084,7 @@
 2021-02-01;"Stará Lubovna";3
 2021-02-01;"Stropkov";8
 2021-02-01;"Svidník";12
+2021-02-01;"Šala";16
 2021-02-01;"Topolcany";32
 2021-02-01;"Trebišov";81
 2021-02-01;"Trencín";19
@@ -11093,10 +11093,10 @@
 2021-02-01;"Tvrdošín";2
 2021-02-01;"Velký Krtíš";2
 2021-02-01;"Vranov nad Toplou";29
-2021-02-01;"Žiar nad Hronom";2
-2021-02-01;"Žilina";64
 2021-02-01;"Zlaté Moravce";4
 2021-02-01;"Zvolen";27
+2021-02-01;"Žiar nad Hronom";2
+2021-02-01;"Žilina";64
 2021-02-02;"Bánovce nad Bebravou";42
 2021-02-02;"Banská Bystrica";39
 2021-02-02;"Banská Štiavnica";6
@@ -11145,7 +11145,6 @@
 2021-02-02;"Rožnava";52
 2021-02-02;"Ružomberok";1
 2021-02-02;"Sabinov";16
-2021-02-02;"Šala";31
 2021-02-02;"Senec";55
 2021-02-02;"Senica";53
 2021-02-02;"Skalica";26
@@ -11155,6 +11154,7 @@
 2021-02-02;"Stará Lubovna";41
 2021-02-02;"Stropkov";11
 2021-02-02;"Svidník";7
+2021-02-02;"Šala";31
 2021-02-02;"Topolcany";38
 2021-02-02;"Trebišov";69
 2021-02-02;"Trencín";43
@@ -11163,11 +11163,11 @@
 2021-02-02;"Tvrdošín";6
 2021-02-02;"Velký Krtíš";3
 2021-02-02;"Vranov nad Toplou";20
+2021-02-02;"Zlaté Moravce";34
+2021-02-02;"Zvolen";46
 2021-02-02;"Žarnovica";4
 2021-02-02;"Žiar nad Hronom";34
 2021-02-02;"Žilina";57
-2021-02-02;"Zlaté Moravce";34
-2021-02-02;"Zvolen";46
 2021-02-03;"Bánovce nad Bebravou";14
 2021-02-03;"Banská Bystrica";108
 2021-02-03;"Banská Štiavnica";1
@@ -11216,7 +11216,6 @@
 2021-02-03;"Rožnava";28
 2021-02-03;"Ružomberok";31
 2021-02-03;"Sabinov";11
-2021-02-03;"Šala";34
 2021-02-03;"Senec";11
 2021-02-03;"Senica";22
 2021-02-03;"Skalica";26
@@ -11226,6 +11225,7 @@
 2021-02-03;"Stará Lubovna";13
 2021-02-03;"Stropkov";4
 2021-02-03;"Svidník";7
+2021-02-03;"Šala";34
 2021-02-03;"Topolcany";14
 2021-02-03;"Trebišov";86
 2021-02-03;"Trencín";32
@@ -11233,10 +11233,10 @@
 2021-02-03;"Turcianske Teplice";21
 2021-02-03;"Velký Krtíš";29
 2021-02-03;"Vranov nad Toplou";21
+2021-02-03;"Zvolen";23
 2021-02-03;"Žarnovica";3
 2021-02-03;"Žiar nad Hronom";22
 2021-02-03;"Žilina";43
-2021-02-03;"Zvolen";23
 2021-02-04;"Bánovce nad Bebravou";20
 2021-02-04;"Banská Bystrica";61
 2021-02-04;"Banská Štiavnica";10
@@ -11284,7 +11284,6 @@
 2021-02-04;"Rožnava";26
 2021-02-04;"Ružomberok";19
 2021-02-04;"Sabinov";8
-2021-02-04;"Šala";38
 2021-02-04;"Senec";99
 2021-02-04;"Senica";38
 2021-02-04;"Skalica";22
@@ -11294,6 +11293,7 @@
 2021-02-04;"Stará Lubovna";24
 2021-02-04;"Stropkov";2
 2021-02-04;"Svidník";8
+2021-02-04;"Šala";38
 2021-02-04;"Topolcany";43
 2021-02-04;"Trebišov";60
 2021-02-04;"Trencín";42
@@ -11302,11 +11302,11 @@
 2021-02-04;"Tvrdošín";1
 2021-02-04;"Velký Krtíš";5
 2021-02-04;"Vranov nad Toplou";25
+2021-02-04;"Zlaté Moravce";11
+2021-02-04;"Zvolen";29
 2021-02-04;"Žarnovica";13
 2021-02-04;"Žiar nad Hronom";23
 2021-02-04;"Žilina";48
-2021-02-04;"Zlaté Moravce";11
-2021-02-04;"Zvolen";29
 2021-02-05;"Bánovce nad Bebravou";13
 2021-02-05;"Banská Bystrica";41
 2021-02-05;"Banská Štiavnica";3
@@ -11355,7 +11355,6 @@
 2021-02-05;"Rožnava";65
 2021-02-05;"Ružomberok";11
 2021-02-05;"Sabinov";11
-2021-02-05;"Šala";27
 2021-02-05;"Senec";23
 2021-02-05;"Senica";25
 2021-02-05;"Skalica";9
@@ -11365,6 +11364,7 @@
 2021-02-05;"Stará Lubovna";3
 2021-02-05;"Stropkov";4
 2021-02-05;"Svidník";6
+2021-02-05;"Šala";27
 2021-02-05;"Topolcany";20
 2021-02-05;"Trebišov";69
 2021-02-05;"Trencín";28
@@ -11373,11 +11373,11 @@
 2021-02-05;"Tvrdošín";2
 2021-02-05;"Velký Krtíš";6
 2021-02-05;"Vranov nad Toplou";4
+2021-02-05;"Zlaté Moravce";7
+2021-02-05;"Zvolen";44
 2021-02-05;"Žarnovica";10
 2021-02-05;"Žiar nad Hronom";29
 2021-02-05;"Žilina";53
-2021-02-05;"Zlaté Moravce";7
-2021-02-05;"Zvolen";44
 2021-02-06;"Bánovce nad Bebravou";28
 2021-02-06;"Banská Bystrica";45
 2021-02-06;"Banská Štiavnica";2
@@ -11424,7 +11424,6 @@
 2021-02-06;"Rožnava";39
 2021-02-06;"Ružomberok";5
 2021-02-06;"Sabinov";13
-2021-02-06;"Šala";44
 2021-02-06;"Senec";24
 2021-02-06;"Senica";17
 2021-02-06;"Skalica";22
@@ -11434,6 +11433,7 @@
 2021-02-06;"Stará Lubovna";7
 2021-02-06;"Stropkov";7
 2021-02-06;"Svidník";7
+2021-02-06;"Šala";44
 2021-02-06;"Topolcany";27
 2021-02-06;"Trebišov";44
 2021-02-06;"Trencín";40
@@ -11441,11 +11441,11 @@
 2021-02-06;"Tvrdošín";2
 2021-02-06;"Velký Krtíš";3
 2021-02-06;"Vranov nad Toplou";31
+2021-02-06;"Zlaté Moravce";1
+2021-02-06;"Zvolen";12
 2021-02-06;"Žarnovica";1
 2021-02-06;"Žiar nad Hronom";17
 2021-02-06;"Žilina";35
-2021-02-06;"Zlaté Moravce";1
-2021-02-06;"Zvolen";12
 2021-02-07;"Bánovce nad Bebravou";1
 2021-02-07;"Banská Bystrica";44
 2021-02-07;"Banská Štiavnica";1
@@ -11484,7 +11484,6 @@
 2021-02-07;"Prievidza";9
 2021-02-07;"Rožnava";2
 2021-02-07;"Ružomberok";11
-2021-02-07;"Šala";1
 2021-02-07;"Senec";33
 2021-02-07;"Senica";5
 2021-02-07;"Skalica";2
@@ -11492,6 +11491,7 @@
 2021-02-07;"Spišská Nová Ves";1
 2021-02-07;"Stropkov";2
 2021-02-07;"Svidník";1
+2021-02-07;"Šala";1
 2021-02-07;"Topolcany";2
 2021-02-07;"Trebišov";6
 2021-02-07;"Trencín";13
@@ -11499,9 +11499,9 @@
 2021-02-07;"Turcianske Teplice";1
 2021-02-07;"Velký Krtíš";1
 2021-02-07;"Vranov nad Toplou";4
+2021-02-07;"Zvolen";10
 2021-02-07;"Žiar nad Hronom";6
 2021-02-07;"Žilina";2
-2021-02-07;"Zvolen";10
 2021-02-08;"Bánovce nad Bebravou";4
 2021-02-08;"Banská Bystrica";28
 2021-02-08;"Banská Štiavnica";2
@@ -11550,7 +11550,6 @@
 2021-02-08;"Rožnava";1
 2021-02-08;"Ružomberok";24
 2021-02-08;"Sabinov";6
-2021-02-08;"Šala";12
 2021-02-08;"Senec";52
 2021-02-08;"Senica";23
 2021-02-08;"Skalica";1
@@ -11559,6 +11558,7 @@
 2021-02-08;"Stará Lubovna";9
 2021-02-08;"Stropkov";8
 2021-02-08;"Svidník";5
+2021-02-08;"Šala";12
 2021-02-08;"Topolcany";25
 2021-02-08;"Trebišov";39
 2021-02-08;"Trencín";19
@@ -11566,11 +11566,11 @@
 2021-02-08;"Turcianske Teplice";2
 2021-02-08;"Tvrdošín";3
 2021-02-08;"Vranov nad Toplou";5
+2021-02-08;"Zlaté Moravce";4
+2021-02-08;"Zvolen";33
 2021-02-08;"Žarnovica";3
 2021-02-08;"Žiar nad Hronom";1
 2021-02-08;"Žilina";59
-2021-02-08;"Zlaté Moravce";4
-2021-02-08;"Zvolen";33
 2021-02-09;"Bánovce nad Bebravou";70
 2021-02-09;"Banská Bystrica";94
 2021-02-09;"Banská Štiavnica";6
@@ -11619,7 +11619,6 @@
 2021-02-09;"Rožnava";53
 2021-02-09;"Ružomberok";26
 2021-02-09;"Sabinov";14
-2021-02-09;"Šala";37
 2021-02-09;"Senec";33
 2021-02-09;"Senica";38
 2021-02-09;"Skalica";30
@@ -11629,6 +11628,7 @@
 2021-02-09;"Stará Lubovna";17
 2021-02-09;"Stropkov";6
 2021-02-09;"Svidník";6
+2021-02-09;"Šala";37
 2021-02-09;"Topolcany";41
 2021-02-09;"Trebišov";75
 2021-02-09;"Trencín";88
@@ -11637,11 +11637,11 @@
 2021-02-09;"Tvrdošín";7
 2021-02-09;"Velký Krtíš";3
 2021-02-09;"Vranov nad Toplou";32
+2021-02-09;"Zlaté Moravce";10
+2021-02-09;"Zvolen";38
 2021-02-09;"Žarnovica";10
 2021-02-09;"Žiar nad Hronom";28
 2021-02-09;"Žilina";51
-2021-02-09;"Zlaté Moravce";10
-2021-02-09;"Zvolen";38
 2021-02-10;"Bánovce nad Bebravou";6
 2021-02-10;"Banská Bystrica";57
 2021-02-10;"Banská Štiavnica";2
@@ -11691,7 +11691,6 @@
 2021-02-10;"Rožnava";45
 2021-02-10;"Ružomberok";5
 2021-02-10;"Sabinov";6
-2021-02-10;"Šala";24
 2021-02-10;"Senec";37
 2021-02-10;"Senica";37
 2021-02-10;"Skalica";11
@@ -11701,6 +11700,7 @@
 2021-02-10;"Stará Lubovna";12
 2021-02-10;"Stropkov";1
 2021-02-10;"Svidník";13
+2021-02-10;"Šala";24
 2021-02-10;"Topolcany";18
 2021-02-10;"Trebišov";58
 2021-02-10;"Trencín";80
@@ -11709,11 +11709,11 @@
 2021-02-10;"Tvrdošín";1
 2021-02-10;"Velký Krtíš";15
 2021-02-10;"Vranov nad Toplou";27
+2021-02-10;"Zlaté Moravce";1
+2021-02-10;"Zvolen";44
 2021-02-10;"Žarnovica";13
 2021-02-10;"Žiar nad Hronom";42
 2021-02-10;"Žilina";45
-2021-02-10;"Zlaté Moravce";1
-2021-02-10;"Zvolen";44
 2021-02-11;"Bánovce nad Bebravou";22
 2021-02-11;"Banská Bystrica";113
 2021-02-11;"Banská Štiavnica";5
@@ -11762,7 +11762,6 @@
 2021-02-11;"Rožnava";44
 2021-02-11;"Ružomberok";22
 2021-02-11;"Sabinov";6
-2021-02-11;"Šala";37
 2021-02-11;"Senec";30
 2021-02-11;"Senica";7
 2021-02-11;"Skalica";9
@@ -11772,6 +11771,7 @@
 2021-02-11;"Stará Lubovna";19
 2021-02-11;"Stropkov";10
 2021-02-11;"Svidník";9
+2021-02-11;"Šala";37
 2021-02-11;"Topolcany";29
 2021-02-11;"Trebišov";88
 2021-02-11;"Trencín";59
@@ -11780,11 +11780,11 @@
 2021-02-11;"Tvrdošín";3
 2021-02-11;"Velký Krtíš";18
 2021-02-11;"Vranov nad Toplou";21
+2021-02-11;"Zlaté Moravce";5
+2021-02-11;"Zvolen";33
 2021-02-11;"Žarnovica";14
 2021-02-11;"Žiar nad Hronom";21
 2021-02-11;"Žilina";43
-2021-02-11;"Zlaté Moravce";5
-2021-02-11;"Zvolen";33
 2021-02-12;"Bánovce nad Bebravou";19
 2021-02-12;"Banská Bystrica";81
 2021-02-12;"Banská Štiavnica";2
@@ -11834,7 +11834,6 @@
 2021-02-12;"Rožnava";28
 2021-02-12;"Ružomberok";26
 2021-02-12;"Sabinov";18
-2021-02-12;"Šala";17
 2021-02-12;"Senec";30
 2021-02-12;"Senica";26
 2021-02-12;"Skalica";17
@@ -11844,6 +11843,7 @@
 2021-02-12;"Stará Lubovna";11
 2021-02-12;"Stropkov";8
 2021-02-12;"Svidník";3
+2021-02-12;"Šala";17
 2021-02-12;"Topolcany";9
 2021-02-12;"Trebišov";80
 2021-02-12;"Trencín";71
@@ -11852,11 +11852,11 @@
 2021-02-12;"Tvrdošín";1
 2021-02-12;"Velký Krtíš";3
 2021-02-12;"Vranov nad Toplou";73
+2021-02-12;"Zlaté Moravce";1
+2021-02-12;"Zvolen";23
 2021-02-12;"Žarnovica";4
 2021-02-12;"Žiar nad Hronom";10
 2021-02-12;"Žilina";62
-2021-02-12;"Zlaté Moravce";1
-2021-02-12;"Zvolen";23
 2021-02-13;"Bánovce nad Bebravou";37
 2021-02-13;"Banská Bystrica";55
 2021-02-13;"Banská Štiavnica";3
@@ -11903,7 +11903,6 @@
 2021-02-13;"Rožnava";20
 2021-02-13;"Ružomberok";10
 2021-02-13;"Sabinov";3
-2021-02-13;"Šala";15
 2021-02-13;"Senec";35
 2021-02-13;"Senica";3
 2021-02-13;"Skalica";20
@@ -11913,6 +11912,7 @@
 2021-02-13;"Stará Lubovna";5
 2021-02-13;"Stropkov";6
 2021-02-13;"Svidník";1
+2021-02-13;"Šala";15
 2021-02-13;"Topolcany";16
 2021-02-13;"Trebišov";3
 2021-02-13;"Trencín";76
@@ -11920,10 +11920,10 @@
 2021-02-13;"Turcianske Teplice";1
 2021-02-13;"Tvrdošín";1
 2021-02-13;"Vranov nad Toplou";35
-2021-02-13;"Žiar nad Hronom";24
-2021-02-13;"Žilina";36
 2021-02-13;"Zlaté Moravce";1
 2021-02-13;"Zvolen";40
+2021-02-13;"Žiar nad Hronom";24
+2021-02-13;"Žilina";36
 2021-02-14;"Banská Bystrica";42
 2021-02-14;"Bratislava";94
 2021-02-14;"Brezno";7
@@ -11951,7 +11951,6 @@
 2021-02-14;"Rožnava";1
 2021-02-14;"Ružomberok";13
 2021-02-14;"Sabinov";2
-2021-02-14;"Šala";2
 2021-02-14;"Senec";32
 2021-02-14;"Senica";8
 2021-02-14;"Snina";2
@@ -11959,13 +11958,14 @@
 2021-02-14;"Spišská Nová Ves";1
 2021-02-14;"Stará Lubovna";2
 2021-02-14;"Stropkov";4
+2021-02-14;"Šala";2
 2021-02-14;"Trebišov";9
 2021-02-14;"Trencín";2
 2021-02-14;"Trnava";35
 2021-02-14;"Tvrdošín";2
 2021-02-14;"Vranov nad Toplou";2
-2021-02-14;"Žilina";1
 2021-02-14;"Zvolen";5
+2021-02-14;"Žilina";1
 2021-02-15;"Bánovce nad Bebravou";5
 2021-02-15;"Banská Bystrica";11
 2021-02-15;"Banská Štiavnica";7
@@ -12013,7 +12013,6 @@
 2021-02-15;"Rimavská Sobota";2
 2021-02-15;"Ružomberok";7
 2021-02-15;"Sabinov";25
-2021-02-15;"Šala";10
 2021-02-15;"Senec";25
 2021-02-15;"Senica";16
 2021-02-15;"Skalica";3
@@ -12023,6 +12022,7 @@
 2021-02-15;"Stará Lubovna";25
 2021-02-15;"Stropkov";1
 2021-02-15;"Svidník";1
+2021-02-15;"Šala";10
 2021-02-15;"Topolcany";26
 2021-02-15;"Trebišov";49
 2021-02-15;"Trencín";25
@@ -12031,9 +12031,9 @@
 2021-02-15;"Tvrdošín";7
 2021-02-15;"Velký Krtíš";4
 2021-02-15;"Vranov nad Toplou";6
+2021-02-15;"Zvolen";32
 2021-02-15;"Žiar nad Hronom";4
 2021-02-15;"Žilina";52
-2021-02-15;"Zvolen";32
 2021-02-16;"Bánovce nad Bebravou";51
 2021-02-16;"Banská Bystrica";83
 2021-02-16;"Banská Štiavnica";6
@@ -12082,7 +12082,6 @@
 2021-02-16;"Rožnava";75
 2021-02-16;"Ružomberok";32
 2021-02-16;"Sabinov";11
-2021-02-16;"Šala";39
 2021-02-16;"Senec";25
 2021-02-16;"Senica";19
 2021-02-16;"Skalica";42
@@ -12092,6 +12091,7 @@
 2021-02-16;"Stará Lubovna";16
 2021-02-16;"Stropkov";11
 2021-02-16;"Svidník";7
+2021-02-16;"Šala";39
 2021-02-16;"Topolcany";55
 2021-02-16;"Trebišov";136
 2021-02-16;"Trencín";85
@@ -12099,11 +12099,11 @@
 2021-02-16;"Turcianske Teplice";10
 2021-02-16;"Velký Krtíš";4
 2021-02-16;"Vranov nad Toplou";148
+2021-02-16;"Zlaté Moravce";6
+2021-02-16;"Zvolen";45
 2021-02-16;"Žarnovica";5
 2021-02-16;"Žiar nad Hronom";47
 2021-02-16;"Žilina";55
-2021-02-16;"Zlaté Moravce";6
-2021-02-16;"Zvolen";45
 2021-02-17;"Bánovce nad Bebravou";8
 2021-02-17;"Banská Bystrica";60
 2021-02-17;"Banská Štiavnica";10
@@ -12152,7 +12152,6 @@
 2021-02-17;"Rožnava";37
 2021-02-17;"Ružomberok";12
 2021-02-17;"Sabinov";14
-2021-02-17;"Šala";53
 2021-02-17;"Senec";36
 2021-02-17;"Senica";22
 2021-02-17;"Skalica";10
@@ -12162,6 +12161,7 @@
 2021-02-17;"Stará Lubovna";26
 2021-02-17;"Stropkov";6
 2021-02-17;"Svidník";6
+2021-02-17;"Šala";53
 2021-02-17;"Topolcany";25
 2021-02-17;"Trebišov";72
 2021-02-17;"Trencín";94
@@ -12170,10 +12170,10 @@
 2021-02-17;"Tvrdošín";2
 2021-02-17;"Velký Krtíš";23
 2021-02-17;"Vranov nad Toplou";67
+2021-02-17;"Zvolen";30
 2021-02-17;"Žarnovica";24
 2021-02-17;"Žiar nad Hronom";63
 2021-02-17;"Žilina";45
-2021-02-17;"Zvolen";30
 2021-02-18;"Bánovce nad Bebravou";21
 2021-02-18;"Banská Bystrica";58
 2021-02-18;"Banská Štiavnica";3
@@ -12222,7 +12222,6 @@
 2021-02-18;"Rožnava";21
 2021-02-18;"Ružomberok";22
 2021-02-18;"Sabinov";6
-2021-02-18;"Šala";12
 2021-02-18;"Senec";39
 2021-02-18;"Senica";15
 2021-02-18;"Skalica";31
@@ -12232,6 +12231,7 @@
 2021-02-18;"Stará Lubovna";7
 2021-02-18;"Stropkov";17
 2021-02-18;"Svidník";11
+2021-02-18;"Šala";12
 2021-02-18;"Topolcany";35
 2021-02-18;"Trebišov";90
 2021-02-18;"Trencín";80
@@ -12239,11 +12239,11 @@
 2021-02-18;"Turcianske Teplice";8
 2021-02-18;"Velký Krtíš";23
 2021-02-18;"Vranov nad Toplou";33
+2021-02-18;"Zlaté Moravce";14
+2021-02-18;"Zvolen";45
 2021-02-18;"Žarnovica";14
 2021-02-18;"Žiar nad Hronom";29
 2021-02-18;"Žilina";55
-2021-02-18;"Zlaté Moravce";14
-2021-02-18;"Zvolen";45
 2021-02-19;"Bánovce nad Bebravou";7
 2021-02-19;"Banská Bystrica";94
 2021-02-19;"Bardejov";26
@@ -12291,7 +12291,6 @@
 2021-02-19;"Rožnava";25
 2021-02-19;"Ružomberok";30
 2021-02-19;"Sabinov";15
-2021-02-19;"Šala";15
 2021-02-19;"Senec";41
 2021-02-19;"Senica";26
 2021-02-19;"Skalica";20
@@ -12301,6 +12300,7 @@
 2021-02-19;"Stará Lubovna";14
 2021-02-19;"Stropkov";15
 2021-02-19;"Svidník";7
+2021-02-19;"Šala";15
 2021-02-19;"Topolcany";23
 2021-02-19;"Trebišov";77
 2021-02-19;"Trencín";56
@@ -12309,11 +12309,11 @@
 2021-02-19;"Tvrdošín";6
 2021-02-19;"Velký Krtíš";34
 2021-02-19;"Vranov nad Toplou";105
+2021-02-19;"Zlaté Moravce";10
+2021-02-19;"Zvolen";14
 2021-02-19;"Žarnovica";18
 2021-02-19;"Žiar nad Hronom";5
 2021-02-19;"Žilina";93
-2021-02-19;"Zlaté Moravce";10
-2021-02-19;"Zvolen";14
 2021-02-20;"Bánovce nad Bebravou";23
 2021-02-20;"Banská Bystrica";89
 2021-02-20;"Banská Štiavnica";8
@@ -12360,7 +12360,6 @@
 2021-02-20;"Rožnava";27
 2021-02-20;"Ružomberok";8
 2021-02-20;"Sabinov";6
-2021-02-20;"Šala";19
 2021-02-20;"Senec";15
 2021-02-20;"Senica";8
 2021-02-20;"Skalica";29
@@ -12370,17 +12369,18 @@
 2021-02-20;"Stará Lubovna";9
 2021-02-20;"Stropkov";8
 2021-02-20;"Svidník";5
+2021-02-20;"Šala";19
 2021-02-20;"Topolcany";18
 2021-02-20;"Trebišov";71
 2021-02-20;"Trencín";64
 2021-02-20;"Trnava";71
 2021-02-20;"Velký Krtíš";1
 2021-02-20;"Vranov nad Toplou";2
+2021-02-20;"Zlaté Moravce";7
+2021-02-20;"Zvolen";37
 2021-02-20;"Žarnovica";5
 2021-02-20;"Žiar nad Hronom";28
 2021-02-20;"Žilina";46
-2021-02-20;"Zlaté Moravce";7
-2021-02-20;"Zvolen";37
 2021-02-21;"Bánovce nad Bebravou";7
 2021-02-21;"Banská Bystrica";48
 2021-02-21;"Bratislava";134
@@ -12422,22 +12422,22 @@
 2021-02-21;"Rožnava";1
 2021-02-21;"Ružomberok";13
 2021-02-21;"Sabinov";3
-2021-02-21;"Šala";1
 2021-02-21;"Senec";24
 2021-02-21;"Snina";2
 2021-02-21;"Sobrance";11
 2021-02-21;"Spišská Nová Ves";2
 2021-02-21;"Stará Lubovna";3
 2021-02-21;"Svidník";1
+2021-02-21;"Šala";1
 2021-02-21;"Trebišov";6
 2021-02-21;"Trencín";34
 2021-02-21;"Trnava";13
 2021-02-21;"Tvrdošín";1
 2021-02-21;"Vranov nad Toplou";7
-2021-02-21;"Žarnovica";2
-2021-02-21;"Žilina";3
 2021-02-21;"Zlaté Moravce";2
 2021-02-21;"Zvolen";7
+2021-02-21;"Žarnovica";2
+2021-02-21;"Žilina";3
 2021-02-22;"Bánovce nad Bebravou";3
 2021-02-22;"Banská Bystrica";1
 2021-02-22;"Bardejov";10
@@ -12484,7 +12484,6 @@
 2021-02-22;"Rožnava";1
 2021-02-22;"Ružomberok";2
 2021-02-22;"Sabinov";28
-2021-02-22;"Šala";11
 2021-02-22;"Senec";43
 2021-02-22;"Senica";37
 2021-02-22;"Skalica";1
@@ -12494,6 +12493,7 @@
 2021-02-22;"Stará Lubovna";4
 2021-02-22;"Stropkov";1
 2021-02-22;"Svidník";7
+2021-02-22;"Šala";11
 2021-02-22;"Topolcany";30
 2021-02-22;"Trebišov";82
 2021-02-22;"Trencín";35
@@ -12502,10 +12502,10 @@
 2021-02-22;"Tvrdošín";3
 2021-02-22;"Velký Krtíš";7
 2021-02-22;"Vranov nad Toplou";73
+2021-02-22;"Zvolen";20
 2021-02-22;"Žarnovica";3
 2021-02-22;"Žiar nad Hronom";6
 2021-02-22;"Žilina";116
-2021-02-22;"Zvolen";20
 2021-02-23;"Bánovce nad Bebravou";31
 2021-02-23;"Banská Bystrica";85
 2021-02-23;"Banská Štiavnica";2
@@ -12554,7 +12554,6 @@
 2021-02-23;"Rožnava";37
 2021-02-23;"Ružomberok";28
 2021-02-23;"Sabinov";21
-2021-02-23;"Šala";19
 2021-02-23;"Senec";23
 2021-02-23;"Senica";42
 2021-02-23;"Skalica";38
@@ -12564,6 +12563,7 @@
 2021-02-23;"Stará Lubovna";26
 2021-02-23;"Stropkov";14
 2021-02-23;"Svidník";14
+2021-02-23;"Šala";19
 2021-02-23;"Topolcany";50
 2021-02-23;"Trebišov";163
 2021-02-23;"Trencín";114
@@ -12572,11 +12572,11 @@
 2021-02-23;"Tvrdošín";1
 2021-02-23;"Velký Krtíš";9
 2021-02-23;"Vranov nad Toplou";62
+2021-02-23;"Zlaté Moravce";18
+2021-02-23;"Zvolen";57
 2021-02-23;"Žarnovica";7
 2021-02-23;"Žiar nad Hronom";24
 2021-02-23;"Žilina";97
-2021-02-23;"Zlaté Moravce";18
-2021-02-23;"Zvolen";57
 2021-02-24;"Bánovce nad Bebravou";4
 2021-02-24;"Banská Bystrica";63
 2021-02-24;"Banská Štiavnica";2
@@ -12625,7 +12625,6 @@
 2021-02-24;"Rožnava";28
 2021-02-24;"Ružomberok";27
 2021-02-24;"Sabinov";24
-2021-02-24;"Šala";22
 2021-02-24;"Senec";24
 2021-02-24;"Senica";27
 2021-02-24;"Skalica";32
@@ -12635,6 +12634,7 @@
 2021-02-24;"Stará Lubovna";11
 2021-02-24;"Stropkov";9
 2021-02-24;"Svidník";3
+2021-02-24;"Šala";22
 2021-02-24;"Topolcany";13
 2021-02-24;"Trebišov";24
 2021-02-24;"Trencín";121
@@ -12643,11 +12643,11 @@
 2021-02-24;"Tvrdošín";5
 2021-02-24;"Velký Krtíš";36
 2021-02-24;"Vranov nad Toplou";46
+2021-02-24;"Zlaté Moravce";2
+2021-02-24;"Zvolen";31
 2021-02-24;"Žarnovica";12
 2021-02-24;"Žiar nad Hronom";18
 2021-02-24;"Žilina";65
-2021-02-24;"Zlaté Moravce";2
-2021-02-24;"Zvolen";31
 2021-02-25;"Bánovce nad Bebravou";66
 2021-02-25;"Banská Bystrica";82
 2021-02-25;"Banská Štiavnica";5
@@ -12697,7 +12697,6 @@
 2021-02-25;"Rožnava";17
 2021-02-25;"Ružomberok";16
 2021-02-25;"Sabinov";14
-2021-02-25;"Šala";11
 2021-02-25;"Senec";33
 2021-02-25;"Senica";35
 2021-02-25;"Skalica";32
@@ -12707,6 +12706,7 @@
 2021-02-25;"Stará Lubovna";18
 2021-02-25;"Stropkov";3
 2021-02-25;"Svidník";11
+2021-02-25;"Šala";11
 2021-02-25;"Topolcany";18
 2021-02-25;"Trebišov";55
 2021-02-25;"Trencín";108
@@ -12715,11 +12715,11 @@
 2021-02-25;"Tvrdošín";2
 2021-02-25;"Velký Krtíš";21
 2021-02-25;"Vranov nad Toplou";19
+2021-02-25;"Zlaté Moravce";9
+2021-02-25;"Zvolen";47
 2021-02-25;"Žarnovica";33
 2021-02-25;"Žiar nad Hronom";26
 2021-02-25;"Žilina";96
-2021-02-25;"Zlaté Moravce";9
-2021-02-25;"Zvolen";47
 2021-02-26;"Bánovce nad Bebravou";10
 2021-02-26;"Banská Bystrica";63
 2021-02-26;"Banská Štiavnica";3
@@ -12769,7 +12769,6 @@
 2021-02-26;"Rožnava";23
 2021-02-26;"Ružomberok";55
 2021-02-26;"Sabinov";26
-2021-02-26;"Šala";17
 2021-02-26;"Senec";20
 2021-02-26;"Senica";33
 2021-02-26;"Skalica";19
@@ -12779,6 +12778,7 @@
 2021-02-26;"Stará Lubovna";27
 2021-02-26;"Stropkov";15
 2021-02-26;"Svidník";34
+2021-02-26;"Šala";17
 2021-02-26;"Topolcany";10
 2021-02-26;"Trebišov";58
 2021-02-26;"Trencín";93
@@ -12787,11 +12787,11 @@
 2021-02-26;"Tvrdošín";1
 2021-02-26;"Velký Krtíš";29
 2021-02-26;"Vranov nad Toplou";104
+2021-02-26;"Zlaté Moravce";1
+2021-02-26;"Zvolen";26
 2021-02-26;"Žarnovica";12
 2021-02-26;"Žiar nad Hronom";23
 2021-02-26;"Žilina";95
-2021-02-26;"Zlaté Moravce";1
-2021-02-26;"Zvolen";26
 2021-02-27;"Bánovce nad Bebravou";36
 2021-02-27;"Banská Bystrica";110
 2021-02-27;"Banská Štiavnica";4
@@ -12838,7 +12838,6 @@
 2021-02-27;"Rožnava";24
 2021-02-27;"Ružomberok";10
 2021-02-27;"Sabinov";6
-2021-02-27;"Šala";13
 2021-02-27;"Senec";16
 2021-02-27;"Senica";16
 2021-02-27;"Skalica";32
@@ -12848,6 +12847,7 @@
 2021-02-27;"Stará Lubovna";4
 2021-02-27;"Stropkov";1
 2021-02-27;"Svidník";3
+2021-02-27;"Šala";13
 2021-02-27;"Topolcany";12
 2021-02-27;"Trebišov";42
 2021-02-27;"Trencín";85
@@ -12855,10 +12855,10 @@
 2021-02-27;"Tvrdošín";2
 2021-02-27;"Velký Krtíš";1
 2021-02-27;"Vranov nad Toplou";64
+2021-02-27;"Zvolen";39
 2021-02-27;"Žarnovica";6
 2021-02-27;"Žiar nad Hronom";17
 2021-02-27;"Žilina";54
-2021-02-27;"Zvolen";39
 2021-02-28;"Bánovce nad Bebravou";1
 2021-02-28;"Banská Bystrica";36
 2021-02-28;"Banská Štiavnica";1
@@ -12895,7 +12895,6 @@
 2021-02-28;"Rimavská Sobota";3
 2021-02-28;"Rožnava";1
 2021-02-28;"Ružomberok";19
-2021-02-28;"Šala";2
 2021-02-28;"Senec";30
 2021-02-28;"Senica";6
 2021-02-28;"Skalica";1
@@ -12904,6 +12903,7 @@
 2021-02-28;"Stará Lubovna";1
 2021-02-28;"Stropkov";4
 2021-02-28;"Svidník";4
+2021-02-28;"Šala";2
 2021-02-28;"Topolcany";19
 2021-02-28;"Trebišov";8
 2021-02-28;"Trencín";2
@@ -12912,8 +12912,8 @@
 2021-02-28;"Tvrdošín";3
 2021-02-28;"Velký Krtíš";2
 2021-02-28;"Vranov nad Toplou";9
-2021-02-28;"Žilina";3
 2021-02-28;"Zlaté Moravce";1
+2021-02-28;"Žilina";3
 2021-03-01;"Bánovce nad Bebravou";3
 2021-03-01;"Banská Bystrica";9
 2021-03-01;"Banská Štiavnica";5
@@ -12963,7 +12963,6 @@
 2021-03-01;"Rožnava";1
 2021-03-01;"Ružomberok";13
 2021-03-01;"Sabinov";18
-2021-03-01;"Šala";4
 2021-03-01;"Senec";50
 2021-03-01;"Senica";29
 2021-03-01;"Skalica";1
@@ -12973,6 +12972,7 @@
 2021-03-01;"Stará Lubovna";2
 2021-03-01;"Stropkov";5
 2021-03-01;"Svidník";16
+2021-03-01;"Šala";4
 2021-03-01;"Topolcany";4
 2021-03-01;"Trebišov";37
 2021-03-01;"Trencín";55
@@ -12981,11 +12981,11 @@
 2021-03-01;"Tvrdošín";8
 2021-03-01;"Velký Krtíš";17
 2021-03-01;"Vranov nad Toplou";39
+2021-03-01;"Zlaté Moravce";3
+2021-03-01;"Zvolen";21
 2021-03-01;"Žarnovica";7
 2021-03-01;"Žiar nad Hronom";8
 2021-03-01;"Žilina";117
-2021-03-01;"Zlaté Moravce";3
-2021-03-01;"Zvolen";21
 2021-03-02;"Bánovce nad Bebravou";26
 2021-03-02;"Banská Bystrica";63
 2021-03-02;"Banská Štiavnica";3
@@ -13035,7 +13035,6 @@
 2021-03-02;"Rožnava";45
 2021-03-02;"Ružomberok";55
 2021-03-02;"Sabinov";24
-2021-03-02;"Šala";22
 2021-03-02;"Senec";44
 2021-03-02;"Senica";85
 2021-03-02;"Skalica";39
@@ -13045,6 +13044,7 @@
 2021-03-02;"Stará Lubovna";14
 2021-03-02;"Stropkov";5
 2021-03-02;"Svidník";35
+2021-03-02;"Šala";22
 2021-03-02;"Topolcany";47
 2021-03-02;"Trebišov";73
 2021-03-02;"Trencín";168
@@ -13053,11 +13053,11 @@
 2021-03-02;"Tvrdošín";7
 2021-03-02;"Velký Krtíš";14
 2021-03-02;"Vranov nad Toplou";63
+2021-03-02;"Zlaté Moravce";11
+2021-03-02;"Zvolen";34
 2021-03-02;"Žarnovica";8
 2021-03-02;"Žiar nad Hronom";20
 2021-03-02;"Žilina";103
-2021-03-02;"Zlaté Moravce";11
-2021-03-02;"Zvolen";34
 2021-03-03;"Bánovce nad Bebravou";7
 2021-03-03;"Banská Bystrica";68
 2021-03-03;"Banská Štiavnica";6
@@ -13107,7 +13107,6 @@
 2021-03-03;"Rožnava";45
 2021-03-03;"Ružomberok";30
 2021-03-03;"Sabinov";16
-2021-03-03;"Šala";13
 2021-03-03;"Senec";44
 2021-03-03;"Senica";53
 2021-03-03;"Skalica";61
@@ -13117,6 +13116,7 @@
 2021-03-03;"Stará Lubovna";33
 2021-03-03;"Stropkov";11
 2021-03-03;"Svidník";16
+2021-03-03;"Šala";13
 2021-03-03;"Topolcany";19
 2021-03-03;"Trebišov";83
 2021-03-03;"Trencín";140
@@ -13125,11 +13125,11 @@
 2021-03-03;"Tvrdošín";6
 2021-03-03;"Velký Krtíš";39
 2021-03-03;"Vranov nad Toplou";38
+2021-03-03;"Zlaté Moravce";2
+2021-03-03;"Zvolen";12
 2021-03-03;"Žarnovica";24
 2021-03-03;"Žiar nad Hronom";26
 2021-03-03;"Žilina";106
-2021-03-03;"Zlaté Moravce";2
-2021-03-03;"Zvolen";12
 2021-03-04;"Bánovce nad Bebravou";29
 2021-03-04;"Banská Bystrica";40
 2021-03-04;"Banská Štiavnica";1
@@ -13179,7 +13179,6 @@
 2021-03-04;"Rožnava";27
 2021-03-04;"Ružomberok";49
 2021-03-04;"Sabinov";15
-2021-03-04;"Šala";13
 2021-03-04;"Senec";30
 2021-03-04;"Senica";14
 2021-03-04;"Skalica";35
@@ -13189,6 +13188,7 @@
 2021-03-04;"Stará Lubovna";4
 2021-03-04;"Stropkov";13
 2021-03-04;"Svidník";3
+2021-03-04;"Šala";13
 2021-03-04;"Topolcany";17
 2021-03-04;"Trebišov";102
 2021-03-04;"Trencín";69
@@ -13197,11 +13197,11 @@
 2021-03-04;"Tvrdošín";3
 2021-03-04;"Velký Krtíš";30
 2021-03-04;"Vranov nad Toplou";71
+2021-03-04;"Zlaté Moravce";4
+2021-03-04;"Zvolen";31
 2021-03-04;"Žarnovica";10
 2021-03-04;"Žiar nad Hronom";40
 2021-03-04;"Žilina";102
-2021-03-04;"Zlaté Moravce";4
-2021-03-04;"Zvolen";31
 2021-03-05;"Bánovce nad Bebravou";6
 2021-03-05;"Banská Bystrica";46
 2021-03-05;"Banská Štiavnica";2
@@ -13251,7 +13251,6 @@
 2021-03-05;"Rožnava";17
 2021-03-05;"Ružomberok";46
 2021-03-05;"Sabinov";21
-2021-03-05;"Šala";4
 2021-03-05;"Senec";34
 2021-03-05;"Senica";49
 2021-03-05;"Skalica";23
@@ -13260,6 +13259,7 @@
 2021-03-05;"Spišská Nová Ves";6
 2021-03-05;"Stará Lubovna";12
 2021-03-05;"Svidník";28
+2021-03-05;"Šala";4
 2021-03-05;"Topolcany";15
 2021-03-05;"Trebišov";118
 2021-03-05;"Trencín";70
@@ -13268,11 +13268,11 @@
 2021-03-05;"Tvrdošín";4
 2021-03-05;"Velký Krtíš";18
 2021-03-05;"Vranov nad Toplou";119
+2021-03-05;"Zlaté Moravce";6
+2021-03-05;"Zvolen";24
 2021-03-05;"Žarnovica";9
 2021-03-05;"Žiar nad Hronom";11
 2021-03-05;"Žilina";92
-2021-03-05;"Zlaté Moravce";6
-2021-03-05;"Zvolen";24
 2021-03-06;"Bánovce nad Bebravou";23
 2021-03-06;"Banská Bystrica";43
 2021-03-06;"Bardejov";39
@@ -13318,7 +13318,6 @@
 2021-03-06;"Rožnava";21
 2021-03-06;"Ružomberok";3
 2021-03-06;"Sabinov";8
-2021-03-06;"Šala";11
 2021-03-06;"Senec";11
 2021-03-06;"Senica";14
 2021-03-06;"Skalica";35
@@ -13328,17 +13327,18 @@
 2021-03-06;"Stará Lubovna";6
 2021-03-06;"Stropkov";15
 2021-03-06;"Svidník";5
+2021-03-06;"Šala";11
 2021-03-06;"Topolcany";7
 2021-03-06;"Trebišov";24
 2021-03-06;"Trencín";48
 2021-03-06;"Trnava";42
 2021-03-06;"Turcianske Teplice";2
 2021-03-06;"Vranov nad Toplou";30
+2021-03-06;"Zlaté Moravce";3
+2021-03-06;"Zvolen";16
 2021-03-06;"Žarnovica";1
 2021-03-06;"Žiar nad Hronom";6
 2021-03-06;"Žilina";71
-2021-03-06;"Zlaté Moravce";3
-2021-03-06;"Zvolen";16
 2021-03-07;"Bánovce nad Bebravou";1
 2021-03-07;"Banská Bystrica";30
 2021-03-07;"Bratislava";82
@@ -13382,9 +13382,9 @@
 2021-03-07;"Trencín";2
 2021-03-07;"Trnava";15
 2021-03-07;"Tvrdošín";1
+2021-03-07;"Zvolen";2
 2021-03-07;"Žarnovica";2
 2021-03-07;"Žilina";2
-2021-03-07;"Zvolen";2
 2021-03-08;"Bánovce nad Bebravou";5
 2021-03-08;"Banská Bystrica";11
 2021-03-08;"Banská Štiavnica";6
@@ -13434,7 +13434,6 @@
 2021-03-08;"Rožnava";3
 2021-03-08;"Ružomberok";23
 2021-03-08;"Sabinov";26
-2021-03-08;"Šala";16
 2021-03-08;"Senec";36
 2021-03-08;"Senica";10
 2021-03-08;"Skalica";1
@@ -13444,6 +13443,7 @@
 2021-03-08;"Stará Lubovna";2
 2021-03-08;"Stropkov";3
 2021-03-08;"Svidník";8
+2021-03-08;"Šala";16
 2021-03-08;"Topolcany";34
 2021-03-08;"Trebišov";57
 2021-03-08;"Trencín";64
@@ -13452,11 +13452,11 @@
 2021-03-08;"Tvrdošín";6
 2021-03-08;"Velký Krtíš";7
 2021-03-08;"Vranov nad Toplou";22
+2021-03-08;"Zlaté Moravce";1
+2021-03-08;"Zvolen";32
 2021-03-08;"Žarnovica";1
 2021-03-08;"Žiar nad Hronom";21
 2021-03-08;"Žilina";136
-2021-03-08;"Zlaté Moravce";1
-2021-03-08;"Zvolen";32
 2021-03-09;"Bánovce nad Bebravou";32
 2021-03-09;"Banská Bystrica";76
 2021-03-09;"Banská Štiavnica";3
@@ -13506,7 +13506,6 @@
 2021-03-09;"Rožnava";32
 2021-03-09;"Ružomberok";19
 2021-03-09;"Sabinov";23
-2021-03-09;"Šala";30
 2021-03-09;"Senec";39
 2021-03-09;"Senica";55
 2021-03-09;"Skalica";54
@@ -13516,6 +13515,7 @@
 2021-03-09;"Stará Lubovna";26
 2021-03-09;"Stropkov";14
 2021-03-09;"Svidník";41
+2021-03-09;"Šala";30
 2021-03-09;"Topolcany";30
 2021-03-09;"Trebišov";134
 2021-03-09;"Trencín";134
@@ -13524,11 +13524,11 @@
 2021-03-09;"Tvrdošín";9
 2021-03-09;"Velký Krtíš";8
 2021-03-09;"Vranov nad Toplou";94
+2021-03-09;"Zlaté Moravce";2
+2021-03-09;"Zvolen";56
 2021-03-09;"Žarnovica";8
 2021-03-09;"Žiar nad Hronom";27
 2021-03-09;"Žilina";195
-2021-03-09;"Zlaté Moravce";2
-2021-03-09;"Zvolen";56
 2021-03-10;"Bánovce nad Bebravou";18
 2021-03-10;"Banská Bystrica";29
 2021-03-10;"Banská Štiavnica";1
@@ -13578,7 +13578,6 @@
 2021-03-10;"Rožnava";15
 2021-03-10;"Ružomberok";56
 2021-03-10;"Sabinov";17
-2021-03-10;"Šala";11
 2021-03-10;"Senec";23
 2021-03-10;"Senica";46
 2021-03-10;"Skalica";33
@@ -13588,6 +13587,7 @@
 2021-03-10;"Stará Lubovna";42
 2021-03-10;"Stropkov";15
 2021-03-10;"Svidník";17
+2021-03-10;"Šala";11
 2021-03-10;"Topolcany";13
 2021-03-10;"Trebišov";15
 2021-03-10;"Trencín";79
@@ -13596,11 +13596,11 @@
 2021-03-10;"Tvrdošín";9
 2021-03-10;"Velký Krtíš";40
 2021-03-10;"Vranov nad Toplou";5
+2021-03-10;"Zlaté Moravce";1
+2021-03-10;"Zvolen";12
 2021-03-10;"Žarnovica";9
 2021-03-10;"Žiar nad Hronom";29
 2021-03-10;"Žilina";102
-2021-03-10;"Zlaté Moravce";1
-2021-03-10;"Zvolen";12
 2021-03-11;"Bánovce nad Bebravou";12
 2021-03-11;"Banská Bystrica";50
 2021-03-11;"Bardejov";42
@@ -13648,7 +13648,6 @@
 2021-03-11;"Rožnava";10
 2021-03-11;"Ružomberok";38
 2021-03-11;"Sabinov";21
-2021-03-11;"Šala";8
 2021-03-11;"Senec";28
 2021-03-11;"Senica";32
 2021-03-11;"Skalica";40
@@ -13658,6 +13657,7 @@
 2021-03-11;"Stará Lubovna";15
 2021-03-11;"Stropkov";15
 2021-03-11;"Svidník";27
+2021-03-11;"Šala";8
 2021-03-11;"Topolcany";22
 2021-03-11;"Trebišov";43
 2021-03-11;"Trencín";68
@@ -13666,11 +13666,11 @@
 2021-03-11;"Tvrdošín";4
 2021-03-11;"Velký Krtíš";28
 2021-03-11;"Vranov nad Toplou";88
+2021-03-11;"Zlaté Moravce";3
+2021-03-11;"Zvolen";15
 2021-03-11;"Žarnovica";7
 2021-03-11;"Žiar nad Hronom";19
 2021-03-11;"Žilina";124
-2021-03-11;"Zlaté Moravce";3
-2021-03-11;"Zvolen";15
 2021-03-12;"Bánovce nad Bebravou";5
 2021-03-12;"Banská Bystrica";45
 2021-03-12;"Banská Štiavnica";2
@@ -13719,7 +13719,6 @@
 2021-03-12;"Rožnava";31
 2021-03-12;"Ružomberok";55
 2021-03-12;"Sabinov";11
-2021-03-12;"Šala";6
 2021-03-12;"Senec";13
 2021-03-12;"Senica";39
 2021-03-12;"Skalica";22
@@ -13729,6 +13728,7 @@
 2021-03-12;"Stará Lubovna";12
 2021-03-12;"Stropkov";6
 2021-03-12;"Svidník";17
+2021-03-12;"Šala";6
 2021-03-12;"Topolcany";12
 2021-03-12;"Trebišov";38
 2021-03-12;"Trencín";101
@@ -13737,11 +13737,11 @@
 2021-03-12;"Tvrdošín";7
 2021-03-12;"Velký Krtíš";29
 2021-03-12;"Vranov nad Toplou";89
+2021-03-12;"Zlaté Moravce";6
+2021-03-12;"Zvolen";11
 2021-03-12;"Žarnovica";1
 2021-03-12;"Žiar nad Hronom";10
 2021-03-12;"Žilina";129
-2021-03-12;"Zlaté Moravce";6
-2021-03-12;"Zvolen";11
 2021-03-13;"Bánovce nad Bebravou";13
 2021-03-13;"Banská Bystrica";57
 2021-03-13;"Banská Štiavnica";1
@@ -13790,7 +13790,6 @@
 2021-03-13;"Rožnava";11
 2021-03-13;"Ružomberok";9
 2021-03-13;"Sabinov";11
-2021-03-13;"Šala";17
 2021-03-13;"Senec";23
 2021-03-13;"Senica";21
 2021-03-13;"Skalica";32
@@ -13799,6 +13798,7 @@
 2021-03-13;"Stará Lubovna";14
 2021-03-13;"Stropkov";6
 2021-03-13;"Svidník";7
+2021-03-13;"Šala";17
 2021-03-13;"Topolcany";5
 2021-03-13;"Trebišov";1
 2021-03-13;"Trencín";56
@@ -13806,11 +13806,11 @@
 2021-03-13;"Tvrdošín";1
 2021-03-13;"Velký Krtíš";1
 2021-03-13;"Vranov nad Toplou";19
+2021-03-13;"Zlaté Moravce";4
+2021-03-13;"Zvolen";15
 2021-03-13;"Žarnovica";10
 2021-03-13;"Žiar nad Hronom";25
 2021-03-13;"Žilina";29
-2021-03-13;"Zlaté Moravce";4
-2021-03-13;"Zvolen";15
 2021-03-14;"Banská Bystrica";36
 2021-03-14;"Banská Štiavnica";1
 2021-03-14;"Bratislava";45
@@ -13904,7 +13904,6 @@
 2021-03-15;"Rimavská Sobota";2
 2021-03-15;"Ružomberok";11
 2021-03-15;"Sabinov";28
-2021-03-15;"Šala";12
 2021-03-15;"Senec";38
 2021-03-15;"Senica";22
 2021-03-15;"Skalica";1
@@ -13914,6 +13913,7 @@
 2021-03-15;"Stará Lubovna";24
 2021-03-15;"Stropkov";2
 2021-03-15;"Svidník";24
+2021-03-15;"Šala";12
 2021-03-15;"Topolcany";5
 2021-03-15;"Trebišov";31
 2021-03-15;"Trencín";23
@@ -13922,11 +13922,11 @@
 2021-03-15;"Tvrdošín";9
 2021-03-15;"Velký Krtíš";3
 2021-03-15;"Vranov nad Toplou";3
+2021-03-15;"Zlaté Moravce";6
+2021-03-15;"Zvolen";13
 2021-03-15;"Žarnovica";4
 2021-03-15;"Žiar nad Hronom";12
 2021-03-15;"Žilina";53
-2021-03-15;"Zlaté Moravce";6
-2021-03-15;"Zvolen";13
 2021-03-16;"Bánovce nad Bebravou";14
 2021-03-16;"Banská Bystrica";86
 2021-03-16;"Banská Štiavnica";5
@@ -13976,7 +13976,6 @@
 2021-03-16;"Rožnava";30
 2021-03-16;"Ružomberok";27
 2021-03-16;"Sabinov";13
-2021-03-16;"Šala";5
 2021-03-16;"Senec";37
 2021-03-16;"Senica";49
 2021-03-16;"Skalica";35
@@ -13986,6 +13985,7 @@
 2021-03-16;"Stará Lubovna";26
 2021-03-16;"Stropkov";10
 2021-03-16;"Svidník";17
+2021-03-16;"Šala";5
 2021-03-16;"Topolcany";23
 2021-03-16;"Trebišov";88
 2021-03-16;"Trencín";88
@@ -13994,11 +13994,11 @@
 2021-03-16;"Tvrdošín";10
 2021-03-16;"Velký Krtíš";8
 2021-03-16;"Vranov nad Toplou";92
+2021-03-16;"Zlaté Moravce";13
+2021-03-16;"Zvolen";22
 2021-03-16;"Žarnovica";1
 2021-03-16;"Žiar nad Hronom";17
 2021-03-16;"Žilina";179
-2021-03-16;"Zlaté Moravce";13
-2021-03-16;"Zvolen";22
 2021-03-17;"Bánovce nad Bebravou";4
 2021-03-17;"Banská Bystrica";29
 2021-03-17;"Banská Štiavnica";3
@@ -14048,7 +14048,6 @@
 2021-03-17;"Rožnava";12
 2021-03-17;"Ružomberok";21
 2021-03-17;"Sabinov";12
-2021-03-17;"Šala";9
 2021-03-17;"Senec";30
 2021-03-17;"Senica";50
 2021-03-17;"Skalica";42
@@ -14058,6 +14057,7 @@
 2021-03-17;"Stará Lubovna";5
 2021-03-17;"Stropkov";4
 2021-03-17;"Svidník";13
+2021-03-17;"Šala";9
 2021-03-17;"Topolcany";11
 2021-03-17;"Trebišov";35
 2021-03-17;"Trencín";52
@@ -14066,11 +14066,11 @@
 2021-03-17;"Tvrdošín";4
 2021-03-17;"Velký Krtíš";29
 2021-03-17;"Vranov nad Toplou";6
+2021-03-17;"Zlaté Moravce";1
+2021-03-17;"Zvolen";21
 2021-03-17;"Žarnovica";5
 2021-03-17;"Žiar nad Hronom";16
 2021-03-17;"Žilina";121
-2021-03-17;"Zlaté Moravce";1
-2021-03-17;"Zvolen";21
 2021-03-18;"Bánovce nad Bebravou";16
 2021-03-18;"Banská Bystrica";36
 2021-03-18;"Bardejov";28
@@ -14117,7 +14117,6 @@
 2021-03-18;"Rožnava";13
 2021-03-18;"Ružomberok";13
 2021-03-18;"Sabinov";9
-2021-03-18;"Šala";17
 2021-03-18;"Senec";20
 2021-03-18;"Senica";21
 2021-03-18;"Skalica";35
@@ -14127,6 +14126,7 @@
 2021-03-18;"Stará Lubovna";15
 2021-03-18;"Stropkov";3
 2021-03-18;"Svidník";18
+2021-03-18;"Šala";17
 2021-03-18;"Topolcany";10
 2021-03-18;"Trebišov";55
 2021-03-18;"Trencín";57
@@ -14135,11 +14135,11 @@
 2021-03-18;"Tvrdošín";5
 2021-03-18;"Velký Krtíš";19
 2021-03-18;"Vranov nad Toplou";18
+2021-03-18;"Zlaté Moravce";6
+2021-03-18;"Zvolen";14
 2021-03-18;"Žarnovica";3
 2021-03-18;"Žiar nad Hronom";9
 2021-03-18;"Žilina";80
-2021-03-18;"Zlaté Moravce";6
-2021-03-18;"Zvolen";14
 2021-03-19;"Bánovce nad Bebravou";5
 2021-03-19;"Banská Bystrica";64
 2021-03-19;"Banská Štiavnica";2
@@ -14189,7 +14189,6 @@
 2021-03-19;"Rožnava";7
 2021-03-19;"Ružomberok";42
 2021-03-19;"Sabinov";15
-2021-03-19;"Šala";5
 2021-03-19;"Senec";21
 2021-03-19;"Senica";28
 2021-03-19;"Snina";6
@@ -14198,6 +14197,7 @@
 2021-03-19;"Stará Lubovna";39
 2021-03-19;"Stropkov";2
 2021-03-19;"Svidník";17
+2021-03-19;"Šala";5
 2021-03-19;"Topolcany";15
 2021-03-19;"Trebišov";27
 2021-03-19;"Trencín";40
@@ -14206,11 +14206,11 @@
 2021-03-19;"Tvrdošín";17
 2021-03-19;"Velký Krtíš";31
 2021-03-19;"Vranov nad Toplou";78
+2021-03-19;"Zlaté Moravce";2
+2021-03-19;"Zvolen";10
 2021-03-19;"Žarnovica";8
 2021-03-19;"Žiar nad Hronom";8
 2021-03-19;"Žilina";82
-2021-03-19;"Zlaté Moravce";2
-2021-03-19;"Zvolen";10
 2021-03-20;"Bánovce nad Bebravou";10
 2021-03-20;"Banská Bystrica";40
 2021-03-20;"Bardejov";51
@@ -14256,24 +14256,24 @@
 2021-03-20;"Rožnava";4
 2021-03-20;"Ružomberok";23
 2021-03-20;"Sabinov";6
-2021-03-20;"Šala";1
 2021-03-20;"Senec";4
 2021-03-20;"Senica";16
 2021-03-20;"Skalica";26
 2021-03-20;"Spišská Nová Ves";73
 2021-03-20;"Stará Lubovna";1
 2021-03-20;"Svidník";1
+2021-03-20;"Šala";1
 2021-03-20;"Topolcany";5
 2021-03-20;"Trebišov";1
 2021-03-20;"Trencín";48
 2021-03-20;"Trnava";25
 2021-03-20;"Velký Krtíš";1
 2021-03-20;"Vranov nad Toplou";6
+2021-03-20;"Zlaté Moravce";2
+2021-03-20;"Zvolen";14
 2021-03-20;"Žarnovica";5
 2021-03-20;"Žiar nad Hronom";14
 2021-03-20;"Žilina";55
-2021-03-20;"Zlaté Moravce";2
-2021-03-20;"Zvolen";14
 2021-03-21;"Banská Bystrica";17
 2021-03-21;"Bratislava";36
 2021-03-21;"Bytca";4
@@ -14319,8 +14319,8 @@
 2021-03-21;"Trnava";23
 2021-03-21;"Tvrdošín";1
 2021-03-21;"Vranov nad Toplou";3
-2021-03-21;"Žilina";16
 2021-03-21;"Zvolen";1
+2021-03-21;"Žilina";16
 2021-03-22;"Bánovce nad Bebravou";5
 2021-03-22;"Banská Bystrica";8
 2021-03-22;"Bardejov";6
@@ -14368,7 +14368,6 @@
 2021-03-22;"Rimavská Sobota";1
 2021-03-22;"Ružomberok";7
 2021-03-22;"Sabinov";11
-2021-03-22;"Šala";18
 2021-03-22;"Senec";24
 2021-03-22;"Senica";12
 2021-03-22;"Snina";4
@@ -14377,6 +14376,7 @@
 2021-03-22;"Stará Lubovna";16
 2021-03-22;"Stropkov";3
 2021-03-22;"Svidník";23
+2021-03-22;"Šala";18
 2021-03-22;"Topolcany";6
 2021-03-22;"Trebišov";27
 2021-03-22;"Trencín";21
@@ -14385,11 +14385,11 @@
 2021-03-22;"Tvrdošín";6
 2021-03-22;"Velký Krtíš";1
 2021-03-22;"Vranov nad Toplou";36
+2021-03-22;"Zlaté Moravce";3
+2021-03-22;"Zvolen";12
 2021-03-22;"Žarnovica";1
 2021-03-22;"Žiar nad Hronom";4
 2021-03-22;"Žilina";100
-2021-03-22;"Zlaté Moravce";3
-2021-03-22;"Zvolen";12
 2021-03-23;"Bánovce nad Bebravou";20
 2021-03-23;"Banská Bystrica";53
 2021-03-23;"Banská Štiavnica";1
@@ -14438,7 +14438,6 @@
 2021-03-23;"Rožnava";22
 2021-03-23;"Ružomberok";33
 2021-03-23;"Sabinov";11
-2021-03-23;"Šala";7
 2021-03-23;"Senec";30
 2021-03-23;"Senica";33
 2021-03-23;"Skalica";42
@@ -14448,6 +14447,7 @@
 2021-03-23;"Stará Lubovna";24
 2021-03-23;"Stropkov";2
 2021-03-23;"Svidník";4
+2021-03-23;"Šala";7
 2021-03-23;"Topolcany";16
 2021-03-23;"Trebišov";28
 2021-03-23;"Trencín";75
@@ -14456,11 +14456,11 @@
 2021-03-23;"Tvrdošín";10
 2021-03-23;"Velký Krtíš";7
 2021-03-23;"Vranov nad Toplou";21
+2021-03-23;"Zlaté Moravce";6
+2021-03-23;"Zvolen";20
 2021-03-23;"Žarnovica";2
 2021-03-23;"Žiar nad Hronom";21
 2021-03-23;"Žilina";86
-2021-03-23;"Zlaté Moravce";6
-2021-03-23;"Zvolen";20
 2021-03-24;"Bánovce nad Bebravou";5
 2021-03-24;"Banská Bystrica";41
 2021-03-24;"Banská Štiavnica";2
@@ -14510,7 +14510,6 @@
 2021-03-24;"Rožnava";16
 2021-03-24;"Ružomberok";25
 2021-03-24;"Sabinov";10
-2021-03-24;"Šala";8
 2021-03-24;"Senec";12
 2021-03-24;"Senica";21
 2021-03-24;"Skalica";37
@@ -14520,6 +14519,7 @@
 2021-03-24;"Stará Lubovna";17
 2021-03-24;"Stropkov";1
 2021-03-24;"Svidník";11
+2021-03-24;"Šala";8
 2021-03-24;"Topolcany";3
 2021-03-24;"Trebišov";20
 2021-03-24;"Trencín";50
@@ -14528,11 +14528,11 @@
 2021-03-24;"Tvrdošín";14
 2021-03-24;"Velký Krtíš";28
 2021-03-24;"Vranov nad Toplou";74
+2021-03-24;"Zlaté Moravce";2
+2021-03-24;"Zvolen";10
 2021-03-24;"Žarnovica";5
 2021-03-24;"Žiar nad Hronom";15
 2021-03-24;"Žilina";77
-2021-03-24;"Zlaté Moravce";2
-2021-03-24;"Zvolen";10
 2021-03-25;"Bánovce nad Bebravou";16
 2021-03-25;"Banská Bystrica";21
 2021-03-25;"Bardejov";35
@@ -14580,7 +14580,6 @@
 2021-03-25;"Rožnava";13
 2021-03-25;"Ružomberok";17
 2021-03-25;"Sabinov";9
-2021-03-25;"Šala";8
 2021-03-25;"Senec";10
 2021-03-25;"Senica";17
 2021-03-25;"Skalica";19
@@ -14589,6 +14588,7 @@
 2021-03-25;"Spišská Nová Ves";13
 2021-03-25;"Stará Lubovna";35
 2021-03-25;"Svidník";2
+2021-03-25;"Šala";8
 2021-03-25;"Topolcany";13
 2021-03-25;"Trebišov";21
 2021-03-25;"Trencín";13
@@ -14597,11 +14597,11 @@
 2021-03-25;"Tvrdošín";12
 2021-03-25;"Velký Krtíš";2
 2021-03-25;"Vranov nad Toplou";34
+2021-03-25;"Zlaté Moravce";2
+2021-03-25;"Zvolen";13
 2021-03-25;"Žarnovica";3
 2021-03-25;"Žiar nad Hronom";3
 2021-03-25;"Žilina";68
-2021-03-25;"Zlaté Moravce";2
-2021-03-25;"Zvolen";13
 2021-03-26;"Bánovce nad Bebravou";3
 2021-03-26;"Banská Bystrica";14
 2021-03-26;"Banská Štiavnica";3
@@ -14650,7 +14650,6 @@
 2021-03-26;"Rožnava";8
 2021-03-26;"Ružomberok";26
 2021-03-26;"Sabinov";14
-2021-03-26;"Šala";8
 2021-03-26;"Senec";22
 2021-03-26;"Senica";33
 2021-03-26;"Skalica";22
@@ -14660,6 +14659,7 @@
 2021-03-26;"Stará Lubovna";12
 2021-03-26;"Stropkov";2
 2021-03-26;"Svidník";7
+2021-03-26;"Šala";8
 2021-03-26;"Topolcany";12
 2021-03-26;"Trebišov";25
 2021-03-26;"Trencín";53
@@ -14668,11 +14668,11 @@
 2021-03-26;"Tvrdošín";6
 2021-03-26;"Velký Krtíš";16
 2021-03-26;"Vranov nad Toplou";64
+2021-03-26;"Zlaté Moravce";1
+2021-03-26;"Zvolen";10
 2021-03-26;"Žarnovica";1
 2021-03-26;"Žiar nad Hronom";7
 2021-03-26;"Žilina";78
-2021-03-26;"Zlaté Moravce";1
-2021-03-26;"Zvolen";10
 2021-03-27;"Bánovce nad Bebravou";7
 2021-03-27;"Banská Bystrica";17
 2021-03-27;"Banská Štiavnica";2
@@ -14718,7 +14718,6 @@
 2021-03-27;"Rožnava";15
 2021-03-27;"Ružomberok";12
 2021-03-27;"Sabinov";7
-2021-03-27;"Šala";1
 2021-03-27;"Senec";14
 2021-03-27;"Senica";15
 2021-03-27;"Skalica";23
@@ -14728,6 +14727,7 @@
 2021-03-27;"Stará Lubovna";8
 2021-03-27;"Stropkov";3
 2021-03-27;"Svidník";3
+2021-03-27;"Šala";1
 2021-03-27;"Topolcany";8
 2021-03-27;"Trebišov";23
 2021-03-27;"Trencín";35
@@ -14735,10 +14735,10 @@
 2021-03-27;"Turcianske Teplice";1
 2021-03-27;"Tvrdošín";2
 2021-03-27;"Vranov nad Toplou";23
+2021-03-27;"Zvolen";8
 2021-03-27;"Žarnovica";1
 2021-03-27;"Žiar nad Hronom";15
 2021-03-27;"Žilina";68
-2021-03-27;"Zvolen";8
 2021-03-28;"Banská Bystrica";20
 2021-03-28;"Banská Štiavnica";1
 2021-03-28;"Bardejov";1
@@ -14824,7 +14824,6 @@
 2021-03-29;"Rimavská Sobota";2
 2021-03-29;"Ružomberok";10
 2021-03-29;"Sabinov";14
-2021-03-29;"Šala";9
 2021-03-29;"Senec";34
 2021-03-29;"Senica";38
 2021-03-29;"Snina";6
@@ -14832,6 +14831,7 @@
 2021-03-29;"Spišská Nová Ves";1
 2021-03-29;"Stará Lubovna";21
 2021-03-29;"Stropkov";1
+2021-03-29;"Šala";9
 2021-03-29;"Topolcany";13
 2021-03-29;"Trebišov";8
 2021-03-29;"Trencín";9
@@ -14839,9 +14839,9 @@
 2021-03-29;"Turcianske Teplice";8
 2021-03-29;"Tvrdošín";12
 2021-03-29;"Velký Krtíš";3
+2021-03-29;"Zvolen";14
 2021-03-29;"Žiar nad Hronom";8
 2021-03-29;"Žilina";139
-2021-03-29;"Zvolen";14
 2021-03-30;"Bánovce nad Bebravou";15
 2021-03-30;"Banská Bystrica";48
 2021-03-30;"Bardejov";40
@@ -14890,7 +14890,6 @@
 2021-03-30;"Rožnava";13
 2021-03-30;"Ružomberok";44
 2021-03-30;"Sabinov";14
-2021-03-30;"Šala";12
 2021-03-30;"Senec";15
 2021-03-30;"Senica";25
 2021-03-30;"Skalica";48
@@ -14900,6 +14899,7 @@
 2021-03-30;"Stará Lubovna";20
 2021-03-30;"Stropkov";2
 2021-03-30;"Svidník";12
+2021-03-30;"Šala";12
 2021-03-30;"Topolcany";8
 2021-03-30;"Trebišov";57
 2021-03-30;"Trencín";46
@@ -14908,11 +14908,11 @@
 2021-03-30;"Tvrdošín";17
 2021-03-30;"Velký Krtíš";2
 2021-03-30;"Vranov nad Toplou";46
+2021-03-30;"Zlaté Moravce";8
+2021-03-30;"Zvolen";16
 2021-03-30;"Žarnovica";1
 2021-03-30;"Žiar nad Hronom";6
 2021-03-30;"Žilina";86
-2021-03-30;"Zlaté Moravce";8
-2021-03-30;"Zvolen";16
 2021-03-31;"Bánovce nad Bebravou";4
 2021-03-31;"Banská Bystrica";18
 2021-03-31;"Banská Štiavnica";3
@@ -14961,7 +14961,6 @@
 2021-03-31;"Rožnava";16
 2021-03-31;"Ružomberok";9
 2021-03-31;"Sabinov";7
-2021-03-31;"Šala";7
 2021-03-31;"Senec";19
 2021-03-31;"Senica";24
 2021-03-31;"Skalica";30
@@ -14970,6 +14969,7 @@
 2021-03-31;"Spišská Nová Ves";20
 2021-03-31;"Stará Lubovna";16
 2021-03-31;"Svidník";11
+2021-03-31;"Šala";7
 2021-03-31;"Topolcany";2
 2021-03-31;"Trebišov";22
 2021-03-31;"Trencín";34
@@ -14978,10 +14978,10 @@
 2021-03-31;"Tvrdošín";10
 2021-03-31;"Velký Krtíš";21
 2021-03-31;"Vranov nad Toplou";62
+2021-03-31;"Zvolen";10
 2021-03-31;"Žarnovica";2
 2021-03-31;"Žiar nad Hronom";7
 2021-03-31;"Žilina";56
-2021-03-31;"Zvolen";10
 2021-04-01;"Bánovce nad Bebravou";2
 2021-04-01;"Banská Bystrica";33
 2021-04-01;"Banská Štiavnica";2
@@ -15031,7 +15031,6 @@
 2021-04-01;"Rožnava";6
 2021-04-01;"Ružomberok";28
 2021-04-01;"Sabinov";8
-2021-04-01;"Šala";4
 2021-04-01;"Senec";18
 2021-04-01;"Senica";26
 2021-04-01;"Skalica";17
@@ -15041,6 +15040,7 @@
 2021-04-01;"Stará Lubovna";24
 2021-04-01;"Stropkov";2
 2021-04-01;"Svidník";8
+2021-04-01;"Šala";4
 2021-04-01;"Topolcany";9
 2021-04-01;"Trebišov";25
 2021-04-01;"Trencín";41
@@ -15049,10 +15049,10 @@
 2021-04-01;"Tvrdošín";9
 2021-04-01;"Velký Krtíš";24
 2021-04-01;"Vranov nad Toplou";67
+2021-04-01;"Zvolen";15
 2021-04-01;"Žarnovica";3
 2021-04-01;"Žiar nad Hronom";6
 2021-04-01;"Žilina";72
-2021-04-01;"Zvolen";15
 2021-04-02;"Bánovce nad Bebravou";3
 2021-04-02;"Banská Bystrica";18
 2021-04-02;"Banská Štiavnica";1
@@ -15114,11 +15114,11 @@
 2021-04-02;"Trnava";9
 2021-04-02;"Turcianske Teplice";1
 2021-04-02;"Vranov nad Toplou";23
+2021-04-02;"Zlaté Moravce";3
+2021-04-02;"Zvolen";6
 2021-04-02;"Žarnovica";3
 2021-04-02;"Žiar nad Hronom";4
 2021-04-02;"Žilina";8
-2021-04-02;"Zlaté Moravce";3
-2021-04-02;"Zvolen";6
 2021-04-03;"Bánovce nad Bebravou";2
 2021-04-03;"Banská Štiavnica";1
 2021-04-03;"Bardejov";1
@@ -15173,8 +15173,8 @@
 2021-04-03;"Trnava";12
 2021-04-03;"Turcianske Teplice";2
 2021-04-03;"Vranov nad Toplou";6
-2021-04-03;"Žilina";73
 2021-04-03;"Zvolen";2
+2021-04-03;"Žilina";73
 2021-04-04;"Banská Bystrica";17
 2021-04-04;"Bardejov";1
 2021-04-04;"Bratislava";24
@@ -15206,8 +15206,8 @@
 2021-04-04;"Trnava";5
 2021-04-04;"Tvrdošín";1
 2021-04-04;"Vranov nad Toplou";1
-2021-04-04;"Žilina";4
 2021-04-04;"Zvolen";5
+2021-04-04;"Žilina";4
 2021-04-05;"Bánovce nad Bebravou";1
 2021-04-05;"Banská Bystrica";2
 2021-04-05;"Banská Štiavnica";2
@@ -15241,7 +15241,6 @@
 2021-04-05;"Prievidza";7
 2021-04-05;"Ružomberok";9
 2021-04-05;"Sabinov";1
-2021-04-05;"Šala";5
 2021-04-05;"Senec";25
 2021-04-05;"Senica";22
 2021-04-05;"Skalica";30
@@ -15249,14 +15248,15 @@
 2021-04-05;"Spišská Nová Ves";3
 2021-04-05;"Stará Lubovna";2
 2021-04-05;"Svidník";1
+2021-04-05;"Šala";5
 2021-04-05;"Topolcany";1
 2021-04-05;"Trencín";2
 2021-04-05;"Trnava";18
 2021-04-05;"Tvrdošín";2
 2021-04-05;"Vranov nad Toplou";5
+2021-04-05;"Zvolen";3
 2021-04-05;"Žiar nad Hronom";3
 2021-04-05;"Žilina";1
-2021-04-05;"Zvolen";3
 2021-04-06;"Bánovce nad Bebravou";1
 2021-04-06;"Banská Bystrica";23
 2021-04-06;"Bardejov";4
@@ -15303,7 +15303,6 @@
 2021-04-06;"Rimavská Sobota";3
 2021-04-06;"Ružomberok";5
 2021-04-06;"Sabinov";17
-2021-04-06;"Šala";6
 2021-04-06;"Senec";10
 2021-04-06;"Senica";21
 2021-04-06;"Skalica";1
@@ -15312,6 +15311,7 @@
 2021-04-06;"Stará Lubovna";12
 2021-04-06;"Stropkov";6
 2021-04-06;"Svidník";20
+2021-04-06;"Šala";6
 2021-04-06;"Topolcany";9
 2021-04-06;"Trebišov";16
 2021-04-06;"Trencín";27
@@ -15320,10 +15320,10 @@
 2021-04-06;"Tvrdošín";12
 2021-04-06;"Velký Krtíš";2
 2021-04-06;"Vranov nad Toplou";36
-2021-04-06;"Žiar nad Hronom";1
-2021-04-06;"Žilina";108
 2021-04-06;"Zlaté Moravce";1
 2021-04-06;"Zvolen";9
+2021-04-06;"Žiar nad Hronom";1
+2021-04-06;"Žilina";108
 2021-04-07;"Bánovce nad Bebravou";11
 2021-04-07;"Banská Bystrica";22
 2021-04-07;"Banská Štiavnica";3
@@ -15372,7 +15372,6 @@
 2021-04-07;"Rožnava";25
 2021-04-07;"Ružomberok";33
 2021-04-07;"Sabinov";15
-2021-04-07;"Šala";2
 2021-04-07;"Senec";16
 2021-04-07;"Senica";22
 2021-04-07;"Skalica";20
@@ -15382,6 +15381,7 @@
 2021-04-07;"Stará Lubovna";31
 2021-04-07;"Stropkov";2
 2021-04-07;"Svidník";5
+2021-04-07;"Šala";2
 2021-04-07;"Topolcany";3
 2021-04-07;"Trebišov";24
 2021-04-07;"Trencín";24
@@ -15390,11 +15390,11 @@
 2021-04-07;"Tvrdošín";16
 2021-04-07;"Velký Krtíš";23
 2021-04-07;"Vranov nad Toplou";40
+2021-04-07;"Zlaté Moravce";2
+2021-04-07;"Zvolen";14
 2021-04-07;"Žarnovica";6
 2021-04-07;"Žiar nad Hronom";14
 2021-04-07;"Žilina";47
-2021-04-07;"Zlaté Moravce";2
-2021-04-07;"Zvolen";14
 2021-04-08;"Bánovce nad Bebravou";5
 2021-04-08;"Banská Bystrica";10
 2021-04-08;"Bardejov";2
@@ -15441,7 +15441,6 @@
 2021-04-08;"Rožnava";4
 2021-04-08;"Ružomberok";8
 2021-04-08;"Sabinov";14
-2021-04-08;"Šala";3
 2021-04-08;"Senec";8
 2021-04-08;"Senica";5
 2021-04-08;"Skalica";10
@@ -15451,6 +15450,7 @@
 2021-04-08;"Stará Lubovna";21
 2021-04-08;"Stropkov";1
 2021-04-08;"Svidník";1
+2021-04-08;"Šala";3
 2021-04-08;"Topolcany";6
 2021-04-08;"Trebišov";4
 2021-04-08;"Trencín";30
@@ -15459,11 +15459,11 @@
 2021-04-08;"Tvrdošín";9
 2021-04-08;"Velký Krtíš";8
 2021-04-08;"Vranov nad Toplou";4
+2021-04-08;"Zlaté Moravce";2
+2021-04-08;"Zvolen";11
 2021-04-08;"Žarnovica";8
 2021-04-08;"Žiar nad Hronom";6
 2021-04-08;"Žilina";39
-2021-04-08;"Zlaté Moravce";2
-2021-04-08;"Zvolen";11
 2021-04-09;"Bánovce nad Bebravou";2
 2021-04-09;"Banská Bystrica";15
 2021-04-09;"Banská Štiavnica";1
@@ -15512,7 +15512,6 @@
 2021-04-09;"Rožnava";3
 2021-04-09;"Ružomberok";7
 2021-04-09;"Sabinov";14
-2021-04-09;"Šala";4
 2021-04-09;"Senec";7
 2021-04-09;"Senica";18
 2021-04-09;"Skalica";23
@@ -15522,6 +15521,7 @@
 2021-04-09;"Stará Lubovna";13
 2021-04-09;"Stropkov";2
 2021-04-09;"Svidník";11
+2021-04-09;"Šala";4
 2021-04-09;"Topolcany";15
 2021-04-09;"Trebišov";15
 2021-04-09;"Trencín";27
@@ -15530,10 +15530,10 @@
 2021-04-09;"Tvrdošín";13
 2021-04-09;"Velký Krtíš";5
 2021-04-09;"Vranov nad Toplou";31
+2021-04-09;"Zvolen";11
 2021-04-09;"Žarnovica";1
 2021-04-09;"Žiar nad Hronom";7
 2021-04-09;"Žilina";34
-2021-04-09;"Zvolen";11
 2021-04-10;"Bánovce nad Bebravou";5
 2021-04-10;"Banská Bystrica";10
 2021-04-10;"Banská Štiavnica";1
@@ -15589,10 +15589,10 @@
 2021-04-10;"Trnava";24
 2021-04-10;"Turcianske Teplice";2
 2021-04-10;"Vranov nad Toplou";9
+2021-04-10;"Zvolen";9
 2021-04-10;"Žarnovica";1
 2021-04-10;"Žiar nad Hronom";5
 2021-04-10;"Žilina";35
-2021-04-10;"Zvolen";9
 2021-04-11;"Bratislava";32
 2021-04-11;"Cadca";1
 2021-04-11;"Dolný Kubín";5
@@ -15665,7 +15665,6 @@
 2021-04-12;"Rožnava";1
 2021-04-12;"Ružomberok";11
 2021-04-12;"Sabinov";9
-2021-04-12;"Šala";3
 2021-04-12;"Senec";7
 2021-04-12;"Senica";6
 2021-04-12;"Snina";10
@@ -15673,6 +15672,7 @@
 2021-04-12;"Spišská Nová Ves";6
 2021-04-12;"Stará Lubovna";18
 2021-04-12;"Svidník";12
+2021-04-12;"Šala";3
 2021-04-12;"Topolcany";4
 2021-04-12;"Trebišov";15
 2021-04-12;"Trencín";16
@@ -15681,9 +15681,9 @@
 2021-04-12;"Tvrdošín";28
 2021-04-12;"Velký Krtíš";1
 2021-04-12;"Vranov nad Toplou";47
+2021-04-12;"Zvolen";5
 2021-04-12;"Žiar nad Hronom";2
 2021-04-12;"Žilina";59
-2021-04-12;"Zvolen";5
 2021-04-13;"Bánovce nad Bebravou";8
 2021-04-13;"Banská Bystrica";16
 2021-04-13;"Banská Štiavnica";6
@@ -15731,7 +15731,6 @@
 2021-04-13;"Rožnava";7
 2021-04-13;"Ružomberok";22
 2021-04-13;"Sabinov";8
-2021-04-13;"Šala";7
 2021-04-13;"Senec";13
 2021-04-13;"Senica";9
 2021-04-13;"Skalica";23
@@ -15740,6 +15739,7 @@
 2021-04-13;"Stará Lubovna";14
 2021-04-13;"Stropkov";1
 2021-04-13;"Svidník";6
+2021-04-13;"Šala";7
 2021-04-13;"Topolcany";11
 2021-04-13;"Trebišov";10
 2021-04-13;"Trencín";39
@@ -15748,11 +15748,11 @@
 2021-04-13;"Tvrdošín";10
 2021-04-13;"Velký Krtíš";3
 2021-04-13;"Vranov nad Toplou";2
+2021-04-13;"Zlaté Moravce";6
+2021-04-13;"Zvolen";11
 2021-04-13;"Žarnovica";6
 2021-04-13;"Žiar nad Hronom";14
 2021-04-13;"Žilina";27
-2021-04-13;"Zlaté Moravce";6
-2021-04-13;"Zvolen";11
 2021-04-14;"Bánovce nad Bebravou";2
 2021-04-14;"Banská Bystrica";8
 2021-04-14;"Banská Štiavnica";2
@@ -15801,7 +15801,6 @@
 2021-04-14;"Rožnava";6
 2021-04-14;"Ružomberok";13
 2021-04-14;"Sabinov";5
-2021-04-14;"Šala";2
 2021-04-14;"Senec";11
 2021-04-14;"Senica";5
 2021-04-14;"Skalica";7
@@ -15809,6 +15808,7 @@
 2021-04-14;"Spišská Nová Ves";16
 2021-04-14;"Stará Lubovna";11
 2021-04-14;"Stropkov";4
+2021-04-14;"Šala";2
 2021-04-14;"Topolcany";3
 2021-04-14;"Trebišov";10
 2021-04-14;"Trencín";31
@@ -15817,11 +15817,11 @@
 2021-04-14;"Tvrdošín";7
 2021-04-14;"Velký Krtíš";18
 2021-04-14;"Vranov nad Toplou";26
+2021-04-14;"Zlaté Moravce";1
+2021-04-14;"Zvolen";5
 2021-04-14;"Žarnovica";2
 2021-04-14;"Žiar nad Hronom";7
 2021-04-14;"Žilina";24
-2021-04-14;"Zlaté Moravce";1
-2021-04-14;"Zvolen";5
 2021-04-15;"Bánovce nad Bebravou";1
 2021-04-15;"Banská Bystrica";6
 2021-04-15;"Banská Štiavnica";1
@@ -15867,7 +15867,6 @@
 2021-04-15;"Rožnava";4
 2021-04-15;"Ružomberok";8
 2021-04-15;"Sabinov";3
-2021-04-15;"Šala";1
 2021-04-15;"Senec";4
 2021-04-15;"Senica";7
 2021-04-15;"Skalica";11
@@ -15877,6 +15876,7 @@
 2021-04-15;"Stará Lubovna";16
 2021-04-15;"Stropkov";1
 2021-04-15;"Svidník";8
+2021-04-15;"Šala";1
 2021-04-15;"Topolcany";5
 2021-04-15;"Trebišov";9
 2021-04-15;"Trencín";20
@@ -15885,11 +15885,11 @@
 2021-04-15;"Tvrdošín";3
 2021-04-15;"Velký Krtíš";8
 2021-04-15;"Vranov nad Toplou";14
+2021-04-15;"Zlaté Moravce";1
+2021-04-15;"Zvolen";2
 2021-04-15;"Žarnovica";3
 2021-04-15;"Žiar nad Hronom";7
 2021-04-15;"Žilina";35
-2021-04-15;"Zlaté Moravce";1
-2021-04-15;"Zvolen";2
 2021-04-16;"Bánovce nad Bebravou";4
 2021-04-16;"Banská Bystrica";10
 2021-04-16;"Banská Štiavnica";2
@@ -15938,7 +15938,6 @@
 2021-04-16;"Rožnava";2
 2021-04-16;"Ružomberok";11
 2021-04-16;"Sabinov";9
-2021-04-16;"Šala";2
 2021-04-16;"Senec";8
 2021-04-16;"Senica";13
 2021-04-16;"Skalica";6
@@ -15948,6 +15947,7 @@
 2021-04-16;"Stará Lubovna";12
 2021-04-16;"Stropkov";5
 2021-04-16;"Svidník";1
+2021-04-16;"Šala";2
 2021-04-16;"Topolcany";7
 2021-04-16;"Trebišov";13
 2021-04-16;"Trencín";14
@@ -15956,10 +15956,10 @@
 2021-04-16;"Tvrdošín";8
 2021-04-16;"Velký Krtíš";3
 2021-04-16;"Vranov nad Toplou";25
-2021-04-16;"Žiar nad Hronom";4
-2021-04-16;"Žilina";54
 2021-04-16;"Zlaté Moravce";1
 2021-04-16;"Zvolen";4
+2021-04-16;"Žiar nad Hronom";4
+2021-04-16;"Žilina";54
 2021-04-17;"Bánovce nad Bebravou";3
 2021-04-17;"Banská Bystrica";6
 2021-04-17;"Banská Štiavnica";1
@@ -16005,7 +16005,6 @@
 2021-04-17;"Rožnava";4
 2021-04-17;"Ružomberok";2
 2021-04-17;"Sabinov";7
-2021-04-17;"Šala";3
 2021-04-17;"Senec";7
 2021-04-17;"Senica";16
 2021-04-17;"Skalica";17
@@ -16014,6 +16013,7 @@
 2021-04-17;"Stará Lubovna";3
 2021-04-17;"Stropkov";2
 2021-04-17;"Svidník";5
+2021-04-17;"Šala";3
 2021-04-17;"Topolcany";2
 2021-04-17;"Trebišov";23
 2021-04-17;"Trencín";23
@@ -16022,10 +16022,10 @@
 2021-04-17;"Tvrdošín";1
 2021-04-17;"Velký Krtíš";1
 2021-04-17;"Vranov nad Toplou";18
+2021-04-17;"Zvolen";2
 2021-04-17;"Žarnovica";1
 2021-04-17;"Žiar nad Hronom";5
 2021-04-17;"Žilina";36
-2021-04-17;"Zvolen";2
 2021-04-18;"Banská Bystrica";12
 2021-04-18;"Bratislava";30
 2021-04-18;"Brezno";1
@@ -16096,7 +16096,6 @@
 2021-04-19;"Púchov";7
 2021-04-19;"Ružomberok";6
 2021-04-19;"Sabinov";7
-2021-04-19;"Šala";3
 2021-04-19;"Senec";7
 2021-04-19;"Senica";17
 2021-04-19;"Skalica";3
@@ -16105,6 +16104,7 @@
 2021-04-19;"Stará Lubovna";9
 2021-04-19;"Stropkov";1
 2021-04-19;"Svidník";5
+2021-04-19;"Šala";3
 2021-04-19;"Topolcany";4
 2021-04-19;"Trebišov";2
 2021-04-19;"Trencín";17
@@ -16113,10 +16113,10 @@
 2021-04-19;"Tvrdošín";18
 2021-04-19;"Velký Krtíš";2
 2021-04-19;"Vranov nad Toplou";5
-2021-04-19;"Žiar nad Hronom";2
-2021-04-19;"Žilina";33
 2021-04-19;"Zlaté Moravce";2
 2021-04-19;"Zvolen";3
+2021-04-19;"Žiar nad Hronom";2
+2021-04-19;"Žilina";33
 2021-04-20;"Bánovce nad Bebravou";1
 2021-04-20;"Banská Bystrica";22
 2021-04-20;"Banská Štiavnica";4
@@ -16181,11 +16181,11 @@
 2021-04-20;"Tvrdošín";6
 2021-04-20;"Velký Krtíš";6
 2021-04-20;"Vranov nad Toplou";19
+2021-04-20;"Zlaté Moravce";1
+2021-04-20;"Zvolen";4
 2021-04-20;"Žarnovica";10
 2021-04-20;"Žiar nad Hronom";10
 2021-04-20;"Žilina";28
-2021-04-20;"Zlaté Moravce";1
-2021-04-20;"Zvolen";4
 2021-04-21;"Banská Bystrica";20
 2021-04-21;"Banská Štiavnica";2
 2021-04-21;"Bardejov";14
@@ -16232,7 +16232,6 @@
 2021-04-21;"Rožnava";5
 2021-04-21;"Ružomberok";11
 2021-04-21;"Sabinov";5
-2021-04-21;"Šala";5
 2021-04-21;"Senec";4
 2021-04-21;"Senica";5
 2021-04-21;"Skalica";9
@@ -16241,6 +16240,7 @@
 2021-04-21;"Stará Lubovna";20
 2021-04-21;"Stropkov";3
 2021-04-21;"Svidník";17
+2021-04-21;"Šala";5
 2021-04-21;"Topolcany";3
 2021-04-21;"Trebišov";4
 2021-04-21;"Trencín";23
@@ -16249,11 +16249,11 @@
 2021-04-21;"Tvrdošín";3
 2021-04-21;"Velký Krtíš";4
 2021-04-21;"Vranov nad Toplou";18
+2021-04-21;"Zlaté Moravce";2
+2021-04-21;"Zvolen";10
 2021-04-21;"Žarnovica";1
 2021-04-21;"Žiar nad Hronom";5
 2021-04-21;"Žilina";37
-2021-04-21;"Zlaté Moravce";2
-2021-04-21;"Zvolen";10
 2021-04-22;"Bánovce nad Bebravou";2
 2021-04-22;"Banská Bystrica";6
 2021-04-22;"Bardejov";6
@@ -16299,7 +16299,6 @@
 2021-04-22;"Rožnava";3
 2021-04-22;"Ružomberok";14
 2021-04-22;"Sabinov";11
-2021-04-22;"Šala";3
 2021-04-22;"Senec";6
 2021-04-22;"Senica";5
 2021-04-22;"Skalica";6
@@ -16308,6 +16307,7 @@
 2021-04-22;"Spišská Nová Ves";13
 2021-04-22;"Stará Lubovna";5
 2021-04-22;"Stropkov";5
+2021-04-22;"Šala";3
 2021-04-22;"Topolcany";2
 2021-04-22;"Trebišov";5
 2021-04-22;"Trencín";29
@@ -16316,10 +16316,10 @@
 2021-04-22;"Tvrdošín";2
 2021-04-22;"Velký Krtíš";4
 2021-04-22;"Vranov nad Toplou";10
+2021-04-22;"Zvolen";6
 2021-04-22;"Žarnovica";2
 2021-04-22;"Žiar nad Hronom";6
 2021-04-22;"Žilina";25
-2021-04-22;"Zvolen";6
 2021-04-23;"Bánovce nad Bebravou";9
 2021-04-23;"Banská Bystrica";9
 2021-04-23;"Banská Štiavnica";4
@@ -16368,7 +16368,6 @@
 2021-04-23;"Rožnava";7
 2021-04-23;"Ružomberok";27
 2021-04-23;"Sabinov";8
-2021-04-23;"Šala";3
 2021-04-23;"Senec";4
 2021-04-23;"Senica";9
 2021-04-23;"Skalica";11
@@ -16378,6 +16377,7 @@
 2021-04-23;"Stará Lubovna";15
 2021-04-23;"Stropkov";2
 2021-04-23;"Svidník";14
+2021-04-23;"Šala";3
 2021-04-23;"Topolcany";3
 2021-04-23;"Trebišov";17
 2021-04-23;"Trencín";28
@@ -16386,11 +16386,11 @@
 2021-04-23;"Tvrdošín";7
 2021-04-23;"Velký Krtíš";15
 2021-04-23;"Vranov nad Toplou";34
+2021-04-23;"Zlaté Moravce";1
+2021-04-23;"Zvolen";8
 2021-04-23;"Žarnovica";2
 2021-04-23;"Žiar nad Hronom";14
 2021-04-23;"Žilina";35
-2021-04-23;"Zlaté Moravce";1
-2021-04-23;"Zvolen";8
 2021-04-24;"Bánovce nad Bebravou";7
 2021-04-24;"Banská Bystrica";16
 2021-04-24;"Bardejov";12
@@ -16450,9 +16450,9 @@
 2021-04-24;"Turcianske Teplice";1
 2021-04-24;"Tvrdošín";2
 2021-04-24;"Vranov nad Toplou";4
-2021-04-24;"Žilina";33
 2021-04-24;"Zlaté Moravce";2
 2021-04-24;"Zvolen";2
+2021-04-24;"Žilina";33
 2021-04-25;"Banská Bystrica";14
 2021-04-25;"Bratislava";6
 2021-04-25;"Cadca";3
@@ -16518,7 +16518,6 @@
 2021-04-26;"Púchov";2
 2021-04-26;"Ružomberok";9
 2021-04-26;"Sabinov";3
-2021-04-26;"Šala";1
 2021-04-26;"Senec";2
 2021-04-26;"Senica";23
 2021-04-26;"Snina";3
@@ -16527,6 +16526,7 @@
 2021-04-26;"Stará Lubovna";16
 2021-04-26;"Stropkov";1
 2021-04-26;"Svidník";5
+2021-04-26;"Šala";1
 2021-04-26;"Topolcany";1
 2021-04-26;"Trebišov";7
 2021-04-26;"Trencín";8
@@ -16535,9 +16535,9 @@
 2021-04-26;"Tvrdošín";10
 2021-04-26;"Velký Krtíš";1
 2021-04-26;"Vranov nad Toplou";3
+2021-04-26;"Zvolen";5
 2021-04-26;"Žarnovica";1
 2021-04-26;"Žilina";29
-2021-04-26;"Zvolen";5
 2021-04-27;"Bánovce nad Bebravou";12
 2021-04-27;"Banská Bystrica";13
 2021-04-27;"Banská Štiavnica";2
@@ -16601,8 +16601,74 @@
 2021-04-27;"Tvrdošín";12
 2021-04-27;"Velký Krtíš";3
 2021-04-27;"Vranov nad Toplou";17
+2021-04-27;"Zlaté Moravce";1
+2021-04-27;"Zvolen";3
 2021-04-27;"Žarnovica";2
 2021-04-27;"Žiar nad Hronom";11
 2021-04-27;"Žilina";20
-2021-04-27;"Zlaté Moravce";1
-2021-04-27;"Zvolen";3
+2021-04-28;"Bánovce nad Bebravou";3
+2021-04-28;"Banská Bystrica";22
+2021-04-28;"Banská Štiavnica";2
+2021-04-28;"Bardejov";5
+2021-04-28;"Bratislava";29
+2021-04-28;"Bytča";4
+2021-04-28;"Čadca";5
+2021-04-28;"Detva";3
+2021-04-28;"Dolný Kubín";5
+2021-04-28;"Dunajská Streda";11
+2021-04-28;"Galanta";8
+2021-04-28;"Gelnica";8
+2021-04-28;"Hlohovec";3
+2021-04-28;"Humenné";4
+2021-04-28;"Ilava";10
+2021-04-28;"Kežmarok";4
+2021-04-28;"Košice";31
+2021-04-28;"Košice - okolie";15
+2021-04-28;"Kysucké Nové Mesto";3
+2021-04-28;"Levice";6
+2021-04-28;"Levoča";9
+2021-04-28;"Liptovský Mikuláš";4
+2021-04-28;"Lučenec";10
+2021-04-28;"Malacky";5
+2021-04-28;"Martin";13
+2021-04-28;"Michalovce";10
+2021-04-28;"Myjava";7
+2021-04-28;"Námestovo";1
+2021-04-28;"Nitra";15
+2021-04-28;"Nové Mesto nad Váhom";1
+2021-04-28;"Nové Zámky";1
+2021-04-28;"Partizánske";7
+2021-04-28;"Pezinok";5
+2021-04-28;"Piešťany";3
+2021-04-28;"Poltár";6
+2021-04-28;"Poprad";13
+2021-04-28;"Považská Bystrica";7
+2021-04-28;"Prešov";19
+2021-04-28;"Prievidza";24
+2021-04-28;"Púchov";9
+2021-04-28;"Revúca";2
+2021-04-28;"Rimavská Sobota";9
+2021-04-28;"Rožňava";5
+2021-04-28;"Ružomberok";10
+2021-04-28;"Sabinov";8
+2021-04-28;"Senec";1
+2021-04-28;"Senica";9
+2021-04-28;"Snina";2
+2021-04-28;"Sobrance";1
+2021-04-28;"Spišská Nová Ves";27
+2021-04-28;"Stará Ľubovňa";22
+2021-04-28;"Stropkov";2
+2021-04-28;"Svidník";5
+2021-04-28;"Šaľa";9
+2021-04-28;"Topoľčany";3
+2021-04-28;"Trebišov";2
+2021-04-28;"Trenčín";11
+2021-04-28;"Trnava";12
+2021-04-28;"Turčianske Teplice";3
+2021-04-28;"Tvrdošín";3
+2021-04-28;"Veľký Krtíš";7
+2021-04-28;"Vranov nad Topľou";29
+2021-04-28;"Zlaté Moravce";2
+2021-04-28;"Zvolen";4
+2021-04-28;"Žiar nad Hronom";1
+2021-04-28;"Žilina";25
