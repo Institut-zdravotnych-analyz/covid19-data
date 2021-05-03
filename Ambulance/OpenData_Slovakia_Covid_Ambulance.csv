@@ -1,946 +1,815 @@
 "";"datum";"district";"region";"covid";"pocet"
-"1";2021-04-19;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";5
-"2";2021-04-19;"Banská Bystrica";"Banskobystrický";"non_covid";24
-"3";2021-04-19;"Banská Štiavnica";"Banskobystrický";"covid";1
-"4";2021-04-19;"Banská Štiavnica";"Banskobystrický";"non_covid";7
-"5";2021-04-19;"Bardejov";"Prešovský";"covid";2
-"6";2021-04-19;"Bardejov";"Prešovský";"non_covid";24
-"7";2021-04-19;"Bratislava I";"Bratislavský";"non_covid";20
-"8";2021-04-19;"Bratislava II";"Bratislavský";"covid";1
-"9";2021-04-19;"Bratislava II";"Bratislavský";"non_covid";28
-"10";2021-04-19;"Bratislava III";"Bratislavský";"non_covid";22
-"11";2021-04-19;"Bratislava IV";"Bratislavský";"covid";1
-"12";2021-04-19;"Bratislava IV";"Bratislavský";"non_covid";22
-"13";2021-04-19;"Bratislava V";"Bratislavský";"covid";2
-"14";2021-04-19;"Bratislava V";"Bratislavský";"non_covid";26
-"15";2021-04-19;"Brezno";"Banskobystrický";"covid";1
-"16";2021-04-19;"Brezno";"Banskobystrický";"non_covid";13
-"17";2021-04-19;"Bytča";"Žilinský";"covid";1
-"18";2021-04-19;"Bytča";"Žilinský";"non_covid";8
-"19";2021-04-19;"Čadca";"Žilinský";"covid";3
-"20";2021-04-19;"Čadca";"Žilinský";"non_covid";27
-"21";2021-04-19;"Detva";"Banskobystrický";"covid";1
-"22";2021-04-19;"Detva";"Banskobystrický";"non_covid";3
-"23";2021-04-19;"Dolný Kubín";"Žilinský";"covid";1
-"24";2021-04-19;"Dolný Kubín";"Žilinský";"non_covid";5
-"25";2021-04-19;"Dunajská Streda";"Trnavský";"non_covid";24
-"26";2021-04-19;"Galanta";"Trnavský";"covid";1
-"27";2021-04-19;"Galanta";"Trnavský";"non_covid";26
-"28";2021-04-19;"Gelnica";"Košický";"covid";1
-"29";2021-04-19;"Gelnica";"Košický";"non_covid";6
-"30";2021-04-19;"Hlohovec";"Trnavský";"covid";1
-"31";2021-04-19;"Hlohovec";"Trnavský";"non_covid";17
-"32";2021-04-19;"Humenné";"Prešovský";"covid";2
-"33";2021-04-19;"Humenné";"Prešovský";"non_covid";17
-"34";2021-04-19;"Ilava";"Trenčiansky";"covid";2
-"35";2021-04-19;"Ilava";"Trenčiansky";"non_covid";15
-"36";2021-04-19;"Kežmarok";"Prešovský";"covid";4
-"37";2021-04-19;"Kežmarok";"Prešovský";"non_covid";16
-"38";2021-04-19;"Komárno";"Nitriansky";"covid";2
-"39";2021-04-19;"Komárno";"Nitriansky";"non_covid";29
-"40";2021-04-19;"Košice - okolie";"Košický";"covid";2
-"41";2021-04-19;"Košice - okolie";"Košický";"non_covid";26
-"42";2021-04-19;"Košice I";"Košický";"non_covid";21
-"43";2021-04-19;"Košice II";"Košický";"non_covid";25
-"44";2021-04-19;"Košice III";"Košický";"non_covid";6
-"45";2021-04-19;"Košice IV";"Košický";"covid";2
-"46";2021-04-19;"Košice IV";"Košický";"non_covid";18
-"47";2021-04-19;"Krupina";"Banskobystrický";"covid";2
-"48";2021-04-19;"Krupina";"Banskobystrický";"non_covid";4
-"49";2021-04-19;"Kysucké Nové Mesto";"Žilinský";"covid";1
-"50";2021-04-19;"Kysucké Nové Mesto";"Žilinský";"non_covid";11
-"51";2021-04-19;"Levice";"Nitriansky";"covid";1
-"52";2021-04-19;"Levice";"Nitriansky";"non_covid";18
-"53";2021-04-19;"Levoča";"Prešovský";"covid";2
-"54";2021-04-19;"Levoča";"Prešovský";"non_covid";5
-"55";2021-04-19;"Liptovský Mikuláš";"Žilinský";"covid";1
-"56";2021-04-19;"Liptovský Mikuláš";"Žilinský";"non_covid";24
-"57";2021-04-19;"Lučenec";"Banskobystrický";"covid";4
-"58";2021-04-19;"Lučenec";"Banskobystrický";"non_covid";13
-"59";2021-04-19;"Malacky";"Bratislavský";"non_covid";15
-"60";2021-04-19;"Martin";"Žilinský";"covid";6
-"61";2021-04-19;"Martin";"Žilinský";"non_covid";31
-"62";2021-04-19;"Medzilaborce";"Prešovský";"covid";1
-"63";2021-04-19;"Medzilaborce";"Prešovský";"non_covid";3
-"64";2021-04-19;"Michalovce";"Košický";"covid";5
-"65";2021-04-19;"Michalovce";"Košický";"non_covid";51
-"66";2021-04-19;"Myjava";"Trenčiansky";"non_covid";10
-"67";2021-04-19;"Námestovo";"Žilinský";"non_covid";6
-"68";2021-04-19;"Nitra";"Nitriansky";"covid";2
-"69";2021-04-19;"Nitra";"Nitriansky";"non_covid";38
-"70";2021-04-19;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
-"71";2021-04-19;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";16
-"72";2021-04-19;"Nové Zámky";"Nitriansky";"covid";2
-"73";2021-04-19;"Nové Zámky";"Nitriansky";"non_covid";16
-"74";2021-04-19;"Partizánske";"Trenčiansky";"covid";1
-"75";2021-04-19;"Partizánske";"Trenčiansky";"non_covid";8
-"76";2021-04-19;"Pezinok";"Bratislavský";"non_covid";13
-"77";2021-04-19;"Piešťany";"Trnavský";"covid";1
-"78";2021-04-19;"Piešťany";"Trnavský";"non_covid";13
-"79";2021-04-19;"Poltár";"Banskobystrický";"covid";1
-"80";2021-04-19;"Poltár";"Banskobystrický";"non_covid";7
-"81";2021-04-19;"Poprad";"Prešovský";"covid";4
-"82";2021-04-19;"Poprad";"Prešovský";"non_covid";38
-"83";2021-04-19;"Považská Bystrica";"Trenčiansky";"covid";5
-"84";2021-04-19;"Považská Bystrica";"Trenčiansky";"non_covid";11
-"85";2021-04-19;"Prešov";"Prešovský";"covid";2
-"86";2021-04-19;"Prešov";"Prešovský";"non_covid";50
-"87";2021-04-19;"Prievidza";"Trenčiansky";"covid";4
-"88";2021-04-19;"Prievidza";"Trenčiansky";"non_covid";37
-"89";2021-04-19;"Púchov";"Trenčiansky";"covid";2
-"90";2021-04-19;"Púchov";"Trenčiansky";"non_covid";14
-"91";2021-04-19;"Revúca";"Banskobystrický";"covid";1
-"92";2021-04-19;"Revúca";"Banskobystrický";"non_covid";10
-"93";2021-04-19;"Rimavská Sobota";"Banskobystrický";"covid";1
-"94";2021-04-19;"Rimavská Sobota";"Banskobystrický";"non_covid";19
-"95";2021-04-19;"Rožňava";"Košický";"covid";2
-"96";2021-04-19;"Rožňava";"Košický";"non_covid";21
-"97";2021-04-19;"Ružomberok";"Žilinský";"covid";1
-"98";2021-04-19;"Ružomberok";"Žilinský";"non_covid";13
-"99";2021-04-19;"Sabinov";"Prešovský";"covid";3
-"100";2021-04-19;"Sabinov";"Prešovský";"non_covid";14
-"101";2021-04-19;"Senec";"Bratislavský";"covid";3
-"102";2021-04-19;"Senec";"Bratislavský";"non_covid";22
-"103";2021-04-19;"Senica";"Trnavský";"non_covid";10
-"104";2021-04-19;"Skalica";"Trnavský";"non_covid";10
-"105";2021-04-19;"Snina";"Prešovský";"covid";5
-"106";2021-04-19;"Snina";"Prešovský";"non_covid";13
-"107";2021-04-19;"Sobrance";"Košický";"non_covid";5
-"108";2021-04-19;"Spišská Nová Ves";"Košický";"covid";2
-"109";2021-04-19;"Spišská Nová Ves";"Košický";"non_covid";24
-"110";2021-04-19;"Stará Ľubovňa";"Prešovský";"covid";3
-"111";2021-04-19;"Stará Ľubovňa";"Prešovský";"non_covid";9
-"112";2021-04-19;"Stropkov";"Prešovský";"non_covid";6
-"113";2021-04-19;"Svidník";"Prešovský";"non_covid";6
-"114";2021-04-19;"Šaľa";"Nitriansky";"non_covid";13
-"115";2021-04-19;"Topoľčany";"Nitriansky";"non_covid";14
-"116";2021-04-19;"Trebišov";"Košický";"covid";3
-"117";2021-04-19;"Trebišov";"Košický";"non_covid";42
-"118";2021-04-19;"Trenčín";"Trenčiansky";"covid";4
-"119";2021-04-19;"Trenčín";"Trenčiansky";"non_covid";26
-"120";2021-04-19;"Trnava";"Trnavský";"covid";2
-"121";2021-04-19;"Trnava";"Trnavský";"non_covid";22
-"122";2021-04-19;"Turčianske Teplice";"Žilinský";"non_covid";7
-"123";2021-04-19;"Tvrdošín";"Žilinský";"non_covid";3
-"124";2021-04-19;"Veľký Krtíš";"Banskobystrický";"covid";3
-"125";2021-04-19;"Veľký Krtíš";"Banskobystrický";"non_covid";11
-"126";2021-04-19;"Vranov nad Topľou";"Prešovský";"covid";4
-"127";2021-04-19;"Vranov nad Topľou";"Prešovský";"non_covid";18
-"128";2021-04-19;"Zlaté Moravce";"Nitriansky";"non_covid";9
-"129";2021-04-19;"Zvolen";"Banskobystrický";"covid";1
-"130";2021-04-19;"Zvolen";"Banskobystrický";"non_covid";12
-"131";2021-04-19;"Žarnovica";"Banskobystrický";"non_covid";7
-"132";2021-04-19;"Žiar nad Hronom";"Banskobystrický";"non_covid";6
-"133";2021-04-19;"Žilina";"Žilinský";"covid";1
-"134";2021-04-19;"Žilina";"Žilinský";"non_covid";36
-"135";2021-04-19;NA;NA;"covid";9
-"136";2021-04-19;NA;NA;"non_covid";100
-"137";2021-04-20;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";11
-"138";2021-04-20;"Banská Bystrica";"Banskobystrický";"non_covid";16
-"139";2021-04-20;"Banská Štiavnica";"Banskobystrický";"covid";1
-"140";2021-04-20;"Banská Štiavnica";"Banskobystrický";"non_covid";4
-"141";2021-04-20;"Bardejov";"Prešovský";"covid";1
-"142";2021-04-20;"Bardejov";"Prešovský";"non_covid";22
-"143";2021-04-20;"Bratislava I";"Bratislavský";"non_covid";10
-"144";2021-04-20;"Bratislava II";"Bratislavský";"covid";2
-"145";2021-04-20;"Bratislava II";"Bratislavský";"non_covid";26
-"146";2021-04-20;"Bratislava III";"Bratislavský";"covid";1
-"147";2021-04-20;"Bratislava III";"Bratislavský";"non_covid";20
-"148";2021-04-20;"Bratislava IV";"Bratislavský";"non_covid";19
-"149";2021-04-20;"Bratislava V";"Bratislavský";"covid";1
-"150";2021-04-20;"Bratislava V";"Bratislavský";"non_covid";17
-"151";2021-04-20;"Brezno";"Banskobystrický";"non_covid";24
-"152";2021-04-20;"Bytča";"Žilinský";"covid";1
-"153";2021-04-20;"Bytča";"Žilinský";"non_covid";3
-"154";2021-04-20;"Čadca";"Žilinský";"covid";2
-"155";2021-04-20;"Čadca";"Žilinský";"non_covid";24
-"156";2021-04-20;"Detva";"Banskobystrický";"non_covid";7
-"157";2021-04-20;"Dolný Kubín";"Žilinský";"covid";2
-"158";2021-04-20;"Dolný Kubín";"Žilinský";"non_covid";4
-"159";2021-04-20;"Dunajská Streda";"Trnavský";"covid";3
-"160";2021-04-20;"Dunajská Streda";"Trnavský";"non_covid";33
-"161";2021-04-20;"Galanta";"Trnavský";"non_covid";25
-"162";2021-04-20;"Gelnica";"Košický";"covid";1
-"163";2021-04-20;"Gelnica";"Košický";"non_covid";11
-"164";2021-04-20;"Hlohovec";"Trnavský";"non_covid";16
-"165";2021-04-20;"Humenné";"Prešovský";"covid";2
-"166";2021-04-20;"Humenné";"Prešovský";"non_covid";8
-"167";2021-04-20;"Ilava";"Trenčiansky";"covid";4
-"168";2021-04-20;"Ilava";"Trenčiansky";"non_covid";6
-"169";2021-04-20;"Kežmarok";"Prešovský";"covid";1
-"170";2021-04-20;"Kežmarok";"Prešovský";"non_covid";14
-"171";2021-04-20;"Komárno";"Nitriansky";"covid";1
-"172";2021-04-20;"Komárno";"Nitriansky";"non_covid";21
-"173";2021-04-20;"Košice - okolie";"Košický";"covid";2
-"174";2021-04-20;"Košice - okolie";"Košický";"non_covid";31
-"175";2021-04-20;"Košice I";"Košický";"non_covid";20
-"176";2021-04-20;"Košice II";"Košický";"non_covid";24
-"177";2021-04-20;"Košice III";"Košický";"covid";1
-"178";2021-04-20;"Košice III";"Košický";"non_covid";6
-"179";2021-04-20;"Košice IV";"Košický";"covid";2
-"180";2021-04-20;"Košice IV";"Košický";"non_covid";11
-"181";2021-04-20;"Krupina";"Banskobystrický";"covid";3
-"182";2021-04-20;"Krupina";"Banskobystrický";"non_covid";4
-"183";2021-04-20;"Kysucké Nové Mesto";"Žilinský";"covid";2
-"184";2021-04-20;"Kysucké Nové Mesto";"Žilinský";"non_covid";8
-"185";2021-04-20;"Levice";"Nitriansky";"non_covid";14
-"186";2021-04-20;"Levoča";"Prešovský";"non_covid";7
-"187";2021-04-20;"Liptovský Mikuláš";"Žilinský";"non_covid";21
-"188";2021-04-20;"Lučenec";"Banskobystrický";"covid";3
-"189";2021-04-20;"Lučenec";"Banskobystrický";"non_covid";24
-"190";2021-04-20;"Malacky";"Bratislavský";"covid";1
-"191";2021-04-20;"Malacky";"Bratislavský";"non_covid";18
-"192";2021-04-20;"Martin";"Žilinský";"covid";6
-"193";2021-04-20;"Martin";"Žilinský";"non_covid";31
-"194";2021-04-20;"Medzilaborce";"Prešovský";"covid";1
-"195";2021-04-20;"Medzilaborce";"Prešovský";"non_covid";2
-"196";2021-04-20;"Michalovce";"Košický";"covid";2
-"197";2021-04-20;"Michalovce";"Košický";"non_covid";37
-"198";2021-04-20;"Myjava";"Trenčiansky";"covid";1
-"199";2021-04-20;"Myjava";"Trenčiansky";"non_covid";3
-"200";2021-04-20;"Námestovo";"Žilinský";"non_covid";6
-"201";2021-04-20;"Nitra";"Nitriansky";"non_covid";26
-"202";2021-04-20;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";13
-"203";2021-04-20;"Nové Zámky";"Nitriansky";"non_covid";25
-"204";2021-04-20;"Partizánske";"Trenčiansky";"covid";1
-"205";2021-04-20;"Partizánske";"Trenčiansky";"non_covid";9
-"206";2021-04-20;"Pezinok";"Bratislavský";"non_covid";13
-"207";2021-04-20;"Piešťany";"Trnavský";"non_covid";10
-"208";2021-04-20;"Poltár";"Banskobystrický";"non_covid";7
-"209";2021-04-20;"Poprad";"Prešovský";"covid";3
-"210";2021-04-20;"Poprad";"Prešovský";"non_covid";22
-"211";2021-04-20;"Považská Bystrica";"Trenčiansky";"covid";2
-"212";2021-04-20;"Považská Bystrica";"Trenčiansky";"non_covid";15
-"213";2021-04-20;"Prešov";"Prešovský";"covid";4
-"214";2021-04-20;"Prešov";"Prešovský";"non_covid";37
-"215";2021-04-20;"Prievidza";"Trenčiansky";"covid";2
-"216";2021-04-20;"Prievidza";"Trenčiansky";"non_covid";37
-"217";2021-04-20;"Púchov";"Trenčiansky";"covid";1
-"218";2021-04-20;"Púchov";"Trenčiansky";"non_covid";9
-"219";2021-04-20;"Revúca";"Banskobystrický";"covid";1
-"220";2021-04-20;"Revúca";"Banskobystrický";"non_covid";16
-"221";2021-04-20;"Rimavská Sobota";"Banskobystrický";"covid";2
-"222";2021-04-20;"Rimavská Sobota";"Banskobystrický";"non_covid";18
-"223";2021-04-20;"Rožňava";"Košický";"covid";1
-"224";2021-04-20;"Rožňava";"Košický";"non_covid";7
-"225";2021-04-20;"Ružomberok";"Žilinský";"covid";1
-"226";2021-04-20;"Ružomberok";"Žilinský";"non_covid";15
-"227";2021-04-20;"Sabinov";"Prešovský";"covid";1
-"228";2021-04-20;"Sabinov";"Prešovský";"non_covid";18
-"229";2021-04-20;"Senec";"Bratislavský";"covid";1
-"230";2021-04-20;"Senec";"Bratislavský";"non_covid";22
-"231";2021-04-20;"Senica";"Trnavský";"non_covid";14
-"232";2021-04-20;"Skalica";"Trnavský";"non_covid";5
-"233";2021-04-20;"Snina";"Prešovský";"covid";4
-"234";2021-04-20;"Snina";"Prešovský";"non_covid";7
-"235";2021-04-20;"Sobrance";"Košický";"non_covid";6
-"236";2021-04-20;"Spišská Nová Ves";"Košický";"covid";3
-"237";2021-04-20;"Spišská Nová Ves";"Košický";"non_covid";30
-"238";2021-04-20;"Stará Ľubovňa";"Prešovský";"covid";2
-"239";2021-04-20;"Stará Ľubovňa";"Prešovský";"non_covid";12
-"240";2021-04-20;"Stropkov";"Prešovský";"non_covid";4
-"241";2021-04-20;"Svidník";"Prešovský";"non_covid";3
-"242";2021-04-20;"Šaľa";"Nitriansky";"non_covid";7
-"243";2021-04-20;"Topoľčany";"Nitriansky";"covid";1
-"244";2021-04-20;"Topoľčany";"Nitriansky";"non_covid";17
-"245";2021-04-20;"Trebišov";"Košický";"covid";1
-"246";2021-04-20;"Trebišov";"Košický";"non_covid";37
-"247";2021-04-20;"Trenčín";"Trenčiansky";"covid";2
-"248";2021-04-20;"Trenčín";"Trenčiansky";"non_covid";22
-"249";2021-04-20;"Trnava";"Trnavský";"covid";3
-"250";2021-04-20;"Trnava";"Trnavský";"non_covid";36
-"251";2021-04-20;"Turčianske Teplice";"Žilinský";"non_covid";2
-"252";2021-04-20;"Tvrdošín";"Žilinský";"covid";1
-"253";2021-04-20;"Tvrdošín";"Žilinský";"non_covid";11
-"254";2021-04-20;"Veľký Krtíš";"Banskobystrický";"covid";1
-"255";2021-04-20;"Veľký Krtíš";"Banskobystrický";"non_covid";6
-"256";2021-04-20;"Vranov nad Topľou";"Prešovský";"covid";4
-"257";2021-04-20;"Vranov nad Topľou";"Prešovský";"non_covid";30
-"258";2021-04-20;"Zlaté Moravce";"Nitriansky";"non_covid";4
-"259";2021-04-20;"Zvolen";"Banskobystrický";"covid";2
-"260";2021-04-20;"Zvolen";"Banskobystrický";"non_covid";19
-"261";2021-04-20;"Žarnovica";"Banskobystrický";"covid";1
-"262";2021-04-20;"Žarnovica";"Banskobystrický";"non_covid";8
-"263";2021-04-20;"Žiar nad Hronom";"Banskobystrický";"covid";2
-"264";2021-04-20;"Žiar nad Hronom";"Banskobystrický";"non_covid";13
-"265";2021-04-20;"Žilina";"Žilinský";"covid";5
-"266";2021-04-20;"Žilina";"Žilinský";"non_covid";36
-"267";2021-04-20;NA;NA;"covid";5
-"268";2021-04-20;NA;NA;"non_covid";158
-"269";2021-04-21;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";8
-"270";2021-04-21;"Banská Bystrica";"Banskobystrický";"covid";1
-"271";2021-04-21;"Banská Bystrica";"Banskobystrický";"non_covid";30
-"272";2021-04-21;"Banská Štiavnica";"Banskobystrický";"covid";3
-"273";2021-04-21;"Banská Štiavnica";"Banskobystrický";"non_covid";10
-"274";2021-04-21;"Bardejov";"Prešovský";"covid";3
-"275";2021-04-21;"Bardejov";"Prešovský";"non_covid";22
-"276";2021-04-21;"Bratislava I";"Bratislavský";"non_covid";13
-"277";2021-04-21;"Bratislava II";"Bratislavský";"covid";2
-"278";2021-04-21;"Bratislava II";"Bratislavský";"non_covid";35
-"279";2021-04-21;"Bratislava III";"Bratislavský";"covid";1
-"280";2021-04-21;"Bratislava III";"Bratislavský";"non_covid";17
-"281";2021-04-21;"Bratislava IV";"Bratislavský";"covid";2
-"282";2021-04-21;"Bratislava IV";"Bratislavský";"non_covid";28
-"283";2021-04-21;"Bratislava V";"Bratislavský";"non_covid";21
-"284";2021-04-21;"Brezno";"Banskobystrický";"non_covid";11
-"285";2021-04-21;"Bytča";"Žilinský";"covid";1
-"286";2021-04-21;"Bytča";"Žilinský";"non_covid";3
-"287";2021-04-21;"Čadca";"Žilinský";"covid";3
-"288";2021-04-21;"Čadca";"Žilinský";"non_covid";19
-"289";2021-04-21;"Detva";"Banskobystrický";"non_covid";7
-"290";2021-04-21;"Dolný Kubín";"Žilinský";"covid";1
-"291";2021-04-21;"Dolný Kubín";"Žilinský";"non_covid";9
-"292";2021-04-21;"Dunajská Streda";"Trnavský";"covid";2
-"293";2021-04-21;"Dunajská Streda";"Trnavský";"non_covid";37
-"294";2021-04-21;"Galanta";"Trnavský";"non_covid";24
-"295";2021-04-21;"Gelnica";"Košický";"covid";2
-"296";2021-04-21;"Gelnica";"Košický";"non_covid";10
-"297";2021-04-21;"Hlohovec";"Trnavský";"non_covid";6
-"298";2021-04-21;"Humenné";"Prešovský";"covid";1
-"299";2021-04-21;"Humenné";"Prešovský";"non_covid";12
-"300";2021-04-21;"Ilava";"Trenčiansky";"covid";2
-"301";2021-04-21;"Ilava";"Trenčiansky";"non_covid";11
-"302";2021-04-21;"Kežmarok";"Prešovský";"covid";2
-"303";2021-04-21;"Kežmarok";"Prešovský";"non_covid";10
-"304";2021-04-21;"Komárno";"Nitriansky";"covid";2
-"305";2021-04-21;"Komárno";"Nitriansky";"non_covid";23
-"306";2021-04-21;"Košice - okolie";"Košický";"covid";2
-"307";2021-04-21;"Košice - okolie";"Košický";"non_covid";22
-"308";2021-04-21;"Košice I";"Košický";"covid";1
-"309";2021-04-21;"Košice I";"Košický";"non_covid";15
-"310";2021-04-21;"Košice II";"Košický";"covid";1
-"311";2021-04-21;"Košice II";"Košický";"non_covid";15
-"312";2021-04-21;"Košice III";"Košický";"covid";1
-"313";2021-04-21;"Košice III";"Košický";"non_covid";3
-"314";2021-04-21;"Košice IV";"Košický";"non_covid";16
-"315";2021-04-21;"Krupina";"Banskobystrický";"covid";1
-"316";2021-04-21;"Krupina";"Banskobystrický";"non_covid";7
-"317";2021-04-21;"Kysucké Nové Mesto";"Žilinský";"covid";1
-"318";2021-04-21;"Kysucké Nové Mesto";"Žilinský";"non_covid";5
-"319";2021-04-21;"Levice";"Nitriansky";"covid";1
-"320";2021-04-21;"Levice";"Nitriansky";"non_covid";19
-"321";2021-04-21;"Levoča";"Prešovský";"covid";2
-"322";2021-04-21;"Levoča";"Prešovský";"non_covid";13
-"323";2021-04-21;"Liptovský Mikuláš";"Žilinský";"covid";1
-"324";2021-04-21;"Liptovský Mikuláš";"Žilinský";"non_covid";13
-"325";2021-04-21;"Lučenec";"Banskobystrický";"non_covid";26
-"326";2021-04-21;"Malacky";"Bratislavský";"covid";2
-"327";2021-04-21;"Malacky";"Bratislavský";"non_covid";19
-"328";2021-04-21;"Martin";"Žilinský";"covid";2
-"329";2021-04-21;"Martin";"Žilinský";"non_covid";24
-"330";2021-04-21;"Medzilaborce";"Prešovský";"non_covid";8
-"331";2021-04-21;"Michalovce";"Košický";"covid";6
-"332";2021-04-21;"Michalovce";"Košický";"non_covid";41
-"333";2021-04-21;"Myjava";"Trenčiansky";"non_covid";6
-"334";2021-04-21;"Námestovo";"Žilinský";"covid";3
-"335";2021-04-21;"Námestovo";"Žilinský";"non_covid";11
-"336";2021-04-21;"Nitra";"Nitriansky";"non_covid";41
-"337";2021-04-21;"Nové Mesto nad Váhom";"Trenčiansky";"covid";2
-"338";2021-04-21;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";11
-"339";2021-04-21;"Nové Zámky";"Nitriansky";"covid";3
-"340";2021-04-21;"Nové Zámky";"Nitriansky";"non_covid";19
-"341";2021-04-21;"Partizánske";"Trenčiansky";"non_covid";4
-"342";2021-04-21;"Pezinok";"Bratislavský";"non_covid";10
-"343";2021-04-21;"Piešťany";"Trnavský";"non_covid";11
-"344";2021-04-21;"Poltár";"Banskobystrický";"non_covid";9
-"345";2021-04-21;"Poprad";"Prešovský";"covid";4
-"346";2021-04-21;"Poprad";"Prešovský";"non_covid";33
-"347";2021-04-21;"Považská Bystrica";"Trenčiansky";"covid";3
-"348";2021-04-21;"Považská Bystrica";"Trenčiansky";"non_covid";13
-"349";2021-04-21;"Prešov";"Prešovský";"covid";3
-"350";2021-04-21;"Prešov";"Prešovský";"non_covid";53
-"351";2021-04-21;"Prievidza";"Trenčiansky";"covid";1
-"352";2021-04-21;"Prievidza";"Trenčiansky";"non_covid";33
-"353";2021-04-21;"Púchov";"Trenčiansky";"covid";2
-"354";2021-04-21;"Púchov";"Trenčiansky";"non_covid";12
-"355";2021-04-21;"Revúca";"Banskobystrický";"non_covid";10
-"356";2021-04-21;"Rimavská Sobota";"Banskobystrický";"covid";5
-"357";2021-04-21;"Rimavská Sobota";"Banskobystrický";"non_covid";23
-"358";2021-04-21;"Rožňava";"Košický";"non_covid";16
-"359";2021-04-21;"Ružomberok";"Žilinský";"covid";1
-"360";2021-04-21;"Ružomberok";"Žilinský";"non_covid";19
-"361";2021-04-21;"Sabinov";"Prešovský";"covid";1
-"362";2021-04-21;"Sabinov";"Prešovský";"non_covid";14
-"363";2021-04-21;"Senec";"Bratislavský";"non_covid";18
-"364";2021-04-21;"Senica";"Trnavský";"covid";4
-"365";2021-04-21;"Senica";"Trnavský";"non_covid";10
-"366";2021-04-21;"Skalica";"Trnavský";"non_covid";5
-"367";2021-04-21;"Snina";"Prešovský";"covid";1
-"368";2021-04-21;"Snina";"Prešovský";"non_covid";16
-"369";2021-04-21;"Sobrance";"Košický";"covid";1
-"370";2021-04-21;"Sobrance";"Košický";"non_covid";7
-"371";2021-04-21;"Spišská Nová Ves";"Košický";"covid";1
-"372";2021-04-21;"Spišská Nová Ves";"Košický";"non_covid";23
-"373";2021-04-21;"Stará Ľubovňa";"Prešovský";"non_covid";6
-"374";2021-04-21;"Stropkov";"Prešovský";"covid";1
-"375";2021-04-21;"Stropkov";"Prešovský";"non_covid";6
-"376";2021-04-21;"Svidník";"Prešovský";"non_covid";8
-"377";2021-04-21;"Šaľa";"Nitriansky";"non_covid";11
-"378";2021-04-21;"Topoľčany";"Nitriansky";"non_covid";15
-"379";2021-04-21;"Trebišov";"Košický";"covid";3
-"380";2021-04-21;"Trebišov";"Košický";"non_covid";37
-"381";2021-04-21;"Trenčín";"Trenčiansky";"covid";3
-"382";2021-04-21;"Trenčín";"Trenčiansky";"non_covid";27
-"383";2021-04-21;"Trnava";"Trnavský";"covid";2
-"384";2021-04-21;"Trnava";"Trnavský";"non_covid";21
-"385";2021-04-21;"Turčianske Teplice";"Žilinský";"covid";2
-"386";2021-04-21;"Turčianske Teplice";"Žilinský";"non_covid";2
-"387";2021-04-21;"Tvrdošín";"Žilinský";"covid";2
-"388";2021-04-21;"Tvrdošín";"Žilinský";"non_covid";4
-"389";2021-04-21;"Veľký Krtíš";"Banskobystrický";"non_covid";8
-"390";2021-04-21;"Vranov nad Topľou";"Prešovský";"covid";2
-"391";2021-04-21;"Vranov nad Topľou";"Prešovský";"non_covid";14
-"392";2021-04-21;"Zlaté Moravce";"Nitriansky";"non_covid";8
-"393";2021-04-21;"Zvolen";"Banskobystrický";"non_covid";14
-"394";2021-04-21;"Žarnovica";"Banskobystrický";"non_covid";7
-"395";2021-04-21;"Žiar nad Hronom";"Banskobystrický";"covid";1
-"396";2021-04-21;"Žiar nad Hronom";"Banskobystrický";"non_covid";7
-"397";2021-04-21;"Žilina";"Žilinský";"covid";5
-"398";2021-04-21;"Žilina";"Žilinský";"non_covid";35
-"399";2021-04-21;NA;NA;"covid";9
-"400";2021-04-21;NA;NA;"non_covid";155
-"401";2021-04-22;"Bánovce nad Bebravou";"Trenčiansky";"covid";1
-"402";2021-04-22;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";9
-"403";2021-04-22;"Banská Bystrica";"Banskobystrický";"non_covid";22
-"404";2021-04-22;"Banská Štiavnica";"Banskobystrický";"non_covid";3
-"405";2021-04-22;"Bardejov";"Prešovský";"non_covid";14
-"406";2021-04-22;"Bratislava I";"Bratislavský";"non_covid";13
-"407";2021-04-22;"Bratislava II";"Bratislavský";"covid";1
-"408";2021-04-22;"Bratislava II";"Bratislavský";"non_covid";26
-"409";2021-04-22;"Bratislava III";"Bratislavský";"covid";1
-"410";2021-04-22;"Bratislava III";"Bratislavský";"non_covid";28
-"411";2021-04-22;"Bratislava IV";"Bratislavský";"non_covid";14
-"412";2021-04-22;"Bratislava V";"Bratislavský";"covid";3
-"413";2021-04-22;"Bratislava V";"Bratislavský";"non_covid";21
-"414";2021-04-22;"Brezno";"Banskobystrický";"non_covid";16
-"415";2021-04-22;"Bytča";"Žilinský";"covid";1
-"416";2021-04-22;"Bytča";"Žilinský";"non_covid";3
-"417";2021-04-22;"Čadca";"Žilinský";"covid";2
-"418";2021-04-22;"Čadca";"Žilinský";"non_covid";13
-"419";2021-04-22;"Detva";"Banskobystrický";"covid";1
-"420";2021-04-22;"Detva";"Banskobystrický";"non_covid";10
-"421";2021-04-22;"Dolný Kubín";"Žilinský";"covid";1
-"422";2021-04-22;"Dolný Kubín";"Žilinský";"non_covid";9
-"423";2021-04-22;"Dunajská Streda";"Trnavský";"covid";1
-"424";2021-04-22;"Dunajská Streda";"Trnavský";"non_covid";28
-"425";2021-04-22;"Galanta";"Trnavský";"non_covid";29
-"426";2021-04-22;"Gelnica";"Košický";"covid";1
-"427";2021-04-22;"Gelnica";"Košický";"non_covid";9
-"428";2021-04-22;"Hlohovec";"Trnavský";"non_covid";9
-"429";2021-04-22;"Humenné";"Prešovský";"covid";1
-"430";2021-04-22;"Humenné";"Prešovský";"non_covid";19
-"431";2021-04-22;"Ilava";"Trenčiansky";"covid";3
-"432";2021-04-22;"Ilava";"Trenčiansky";"non_covid";16
-"433";2021-04-22;"Kežmarok";"Prešovský";"covid";4
-"434";2021-04-22;"Kežmarok";"Prešovský";"non_covid";10
-"435";2021-04-22;"Komárno";"Nitriansky";"covid";1
-"436";2021-04-22;"Komárno";"Nitriansky";"non_covid";22
-"437";2021-04-22;"Košice - okolie";"Košický";"covid";2
-"438";2021-04-22;"Košice - okolie";"Košický";"non_covid";29
-"439";2021-04-22;"Košice I";"Košický";"covid";3
-"440";2021-04-22;"Košice I";"Košický";"non_covid";16
-"441";2021-04-22;"Košice II";"Košický";"non_covid";14
-"442";2021-04-22;"Košice III";"Košický";"non_covid";5
-"443";2021-04-22;"Košice IV";"Košický";"non_covid";20
-"444";2021-04-22;"Krupina";"Banskobystrický";"covid";1
-"445";2021-04-22;"Krupina";"Banskobystrický";"non_covid";8
-"446";2021-04-22;"Kysucké Nové Mesto";"Žilinský";"non_covid";8
-"447";2021-04-22;"Levice";"Nitriansky";"covid";1
-"448";2021-04-22;"Levice";"Nitriansky";"non_covid";18
-"449";2021-04-22;"Levoča";"Prešovský";"non_covid";4
-"450";2021-04-22;"Liptovský Mikuláš";"Žilinský";"covid";1
-"451";2021-04-22;"Liptovský Mikuláš";"Žilinský";"non_covid";20
-"452";2021-04-22;"Lučenec";"Banskobystrický";"covid";2
-"453";2021-04-22;"Lučenec";"Banskobystrický";"non_covid";14
-"454";2021-04-22;"Malacky";"Bratislavský";"non_covid";17
-"455";2021-04-22;"Martin";"Žilinský";"covid";2
-"456";2021-04-22;"Martin";"Žilinský";"non_covid";17
-"457";2021-04-22;"Medzilaborce";"Prešovský";"non_covid";8
-"458";2021-04-22;"Michalovce";"Košický";"covid";5
-"459";2021-04-22;"Michalovce";"Košický";"non_covid";29
-"460";2021-04-22;"Myjava";"Trenčiansky";"covid";2
-"461";2021-04-22;"Myjava";"Trenčiansky";"non_covid";1
-"462";2021-04-22;"Námestovo";"Žilinský";"non_covid";11
-"463";2021-04-22;"Nitra";"Nitriansky";"covid";1
-"464";2021-04-22;"Nitra";"Nitriansky";"non_covid";29
-"465";2021-04-22;"Nové Mesto nad Váhom";"Trenčiansky";"covid";4
-"466";2021-04-22;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";14
-"467";2021-04-22;"Nové Zámky";"Nitriansky";"covid";3
-"468";2021-04-22;"Nové Zámky";"Nitriansky";"non_covid";23
-"469";2021-04-22;"Partizánske";"Trenčiansky";"covid";1
-"470";2021-04-22;"Partizánske";"Trenčiansky";"non_covid";6
-"471";2021-04-22;"Pezinok";"Bratislavský";"non_covid";12
-"472";2021-04-22;"Piešťany";"Trnavský";"non_covid";11
-"473";2021-04-22;"Poltár";"Banskobystrický";"non_covid";3
-"474";2021-04-22;"Poprad";"Prešovský";"covid";5
-"475";2021-04-22;"Poprad";"Prešovský";"non_covid";24
-"476";2021-04-22;"Považská Bystrica";"Trenčiansky";"covid";3
-"477";2021-04-22;"Považská Bystrica";"Trenčiansky";"non_covid";12
-"478";2021-04-22;"Prešov";"Prešovský";"covid";2
-"479";2021-04-22;"Prešov";"Prešovský";"non_covid";34
-"480";2021-04-22;"Prievidza";"Trenčiansky";"covid";2
-"481";2021-04-22;"Prievidza";"Trenčiansky";"non_covid";31
-"482";2021-04-22;"Púchov";"Trenčiansky";"covid";1
-"483";2021-04-22;"Púchov";"Trenčiansky";"non_covid";10
-"484";2021-04-22;"Revúca";"Banskobystrický";"non_covid";10
-"485";2021-04-22;"Rimavská Sobota";"Banskobystrický";"non_covid";27
-"486";2021-04-22;"Rožňava";"Košický";"non_covid";18
-"487";2021-04-22;"Ružomberok";"Žilinský";"covid";1
-"488";2021-04-22;"Ružomberok";"Žilinský";"non_covid";18
-"489";2021-04-22;"Sabinov";"Prešovský";"non_covid";20
-"490";2021-04-22;"Senec";"Bratislavský";"non_covid";19
-"491";2021-04-22;"Senica";"Trnavský";"covid";1
-"492";2021-04-22;"Senica";"Trnavský";"non_covid";9
-"493";2021-04-22;"Skalica";"Trnavský";"non_covid";9
-"494";2021-04-22;"Snina";"Prešovský";"non_covid";6
-"495";2021-04-22;"Sobrance";"Košický";"non_covid";5
-"496";2021-04-22;"Spišská Nová Ves";"Košický";"covid";1
-"497";2021-04-22;"Spišská Nová Ves";"Košický";"non_covid";20
-"498";2021-04-22;"Stará Ľubovňa";"Prešovský";"covid";1
-"499";2021-04-22;"Stará Ľubovňa";"Prešovský";"non_covid";13
-"500";2021-04-22;"Stropkov";"Prešovský";"covid";1
-"501";2021-04-22;"Stropkov";"Prešovský";"non_covid";7
-"502";2021-04-22;"Svidník";"Prešovský";"non_covid";3
-"503";2021-04-22;"Šaľa";"Nitriansky";"non_covid";13
-"504";2021-04-22;"Topoľčany";"Nitriansky";"covid";2
-"505";2021-04-22;"Topoľčany";"Nitriansky";"non_covid";10
-"506";2021-04-22;"Trebišov";"Košický";"covid";1
-"507";2021-04-22;"Trebišov";"Košický";"non_covid";30
-"508";2021-04-22;"Trenčín";"Trenčiansky";"non_covid";20
-"509";2021-04-22;"Trnava";"Trnavský";"covid";3
-"510";2021-04-22;"Trnava";"Trnavský";"non_covid";30
-"511";2021-04-22;"Turčianske Teplice";"Žilinský";"non_covid";5
-"512";2021-04-22;"Tvrdošín";"Žilinský";"covid";2
-"513";2021-04-22;"Tvrdošín";"Žilinský";"non_covid";8
-"514";2021-04-22;"Veľký Krtíš";"Banskobystrický";"non_covid";10
-"515";2021-04-22;"Vranov nad Topľou";"Prešovský";"covid";3
-"516";2021-04-22;"Vranov nad Topľou";"Prešovský";"non_covid";11
-"517";2021-04-22;"Zlaté Moravce";"Nitriansky";"non_covid";9
-"518";2021-04-22;"Zvolen";"Banskobystrický";"covid";3
-"519";2021-04-22;"Zvolen";"Banskobystrický";"non_covid";16
-"520";2021-04-22;"Žarnovica";"Banskobystrický";"non_covid";5
-"521";2021-04-22;"Žiar nad Hronom";"Banskobystrický";"covid";2
-"522";2021-04-22;"Žiar nad Hronom";"Banskobystrický";"non_covid";13
-"523";2021-04-22;"Žilina";"Žilinský";"covid";3
-"524";2021-04-22;"Žilina";"Žilinský";"non_covid";31
-"525";2021-04-22;NA;NA;"covid";12
-"526";2021-04-22;NA;NA;"non_covid";165
-"527";2021-04-23;"Bánovce nad Bebravou";"Trenčiansky";"covid";1
-"528";2021-04-23;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";6
-"529";2021-04-23;"Banská Bystrica";"Banskobystrický";"covid";2
-"530";2021-04-23;"Banská Bystrica";"Banskobystrický";"non_covid";26
-"531";2021-04-23;"Banská Štiavnica";"Banskobystrický";"non_covid";1
-"532";2021-04-23;"Bardejov";"Prešovský";"covid";6
-"533";2021-04-23;"Bardejov";"Prešovský";"non_covid";10
-"534";2021-04-23;"Bratislava I";"Bratislavský";"covid";1
-"535";2021-04-23;"Bratislava I";"Bratislavský";"non_covid";19
-"536";2021-04-23;"Bratislava II";"Bratislavský";"covid";3
-"537";2021-04-23;"Bratislava II";"Bratislavský";"non_covid";26
-"538";2021-04-23;"Bratislava III";"Bratislavský";"non_covid";19
-"539";2021-04-23;"Bratislava IV";"Bratislavský";"non_covid";18
-"540";2021-04-23;"Bratislava V";"Bratislavský";"covid";1
-"541";2021-04-23;"Bratislava V";"Bratislavský";"non_covid";13
-"542";2021-04-23;"Brezno";"Banskobystrický";"non_covid";20
-"543";2021-04-23;"Bytča";"Žilinský";"covid";1
-"544";2021-04-23;"Bytča";"Žilinský";"non_covid";3
-"545";2021-04-23;"Čadca";"Žilinský";"covid";3
-"546";2021-04-23;"Čadca";"Žilinský";"non_covid";18
-"547";2021-04-23;"Detva";"Banskobystrický";"non_covid";13
-"548";2021-04-23;"Dolný Kubín";"Žilinský";"non_covid";4
-"549";2021-04-23;"Dunajská Streda";"Trnavský";"non_covid";19
-"550";2021-04-23;"Galanta";"Trnavský";"non_covid";17
-"551";2021-04-23;"Gelnica";"Košický";"covid";2
-"552";2021-04-23;"Gelnica";"Košický";"non_covid";11
-"553";2021-04-23;"Hlohovec";"Trnavský";"covid";1
-"554";2021-04-23;"Hlohovec";"Trnavský";"non_covid";17
-"555";2021-04-23;"Humenné";"Prešovský";"covid";1
-"556";2021-04-23;"Humenné";"Prešovský";"non_covid";16
-"557";2021-04-23;"Ilava";"Trenčiansky";"covid";1
-"558";2021-04-23;"Ilava";"Trenčiansky";"non_covid";17
-"559";2021-04-23;"Kežmarok";"Prešovský";"covid";2
-"560";2021-04-23;"Kežmarok";"Prešovský";"non_covid";14
-"561";2021-04-23;"Komárno";"Nitriansky";"covid";1
-"562";2021-04-23;"Komárno";"Nitriansky";"non_covid";21
-"563";2021-04-23;"Košice - okolie";"Košický";"covid";1
-"564";2021-04-23;"Košice - okolie";"Košický";"non_covid";29
-"565";2021-04-23;"Košice I";"Košický";"non_covid";24
-"566";2021-04-23;"Košice II";"Košický";"covid";1
-"567";2021-04-23;"Košice II";"Košický";"non_covid";25
-"568";2021-04-23;"Košice III";"Košický";"non_covid";6
-"569";2021-04-23;"Košice IV";"Košický";"non_covid";17
-"570";2021-04-23;"Krupina";"Banskobystrický";"covid";2
-"571";2021-04-23;"Krupina";"Banskobystrický";"non_covid";5
-"572";2021-04-23;"Kysucké Nové Mesto";"Žilinský";"non_covid";12
-"573";2021-04-23;"Levice";"Nitriansky";"non_covid";23
-"574";2021-04-23;"Levoča";"Prešovský";"non_covid";7
-"575";2021-04-23;"Liptovský Mikuláš";"Žilinský";"covid";1
-"576";2021-04-23;"Liptovský Mikuláš";"Žilinský";"non_covid";14
-"577";2021-04-23;"Lučenec";"Banskobystrický";"non_covid";11
-"578";2021-04-23;"Malacky";"Bratislavský";"non_covid";12
-"579";2021-04-23;"Martin";"Žilinský";"covid";3
-"580";2021-04-23;"Martin";"Žilinský";"non_covid";17
-"581";2021-04-23;"Medzilaborce";"Prešovský";"non_covid";3
-"582";2021-04-23;"Michalovce";"Košický";"covid";1
-"583";2021-04-23;"Michalovce";"Košický";"non_covid";35
-"584";2021-04-23;"Myjava";"Trenčiansky";"non_covid";8
-"585";2021-04-23;"Námestovo";"Žilinský";"covid";2
-"586";2021-04-23;"Námestovo";"Žilinský";"non_covid";9
-"587";2021-04-23;"Nitra";"Nitriansky";"non_covid";36
-"588";2021-04-23;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";20
-"589";2021-04-23;"Nové Zámky";"Nitriansky";"covid";2
-"590";2021-04-23;"Nové Zámky";"Nitriansky";"non_covid";20
-"591";2021-04-23;"Partizánske";"Trenčiansky";"non_covid";9
-"592";2021-04-23;"Pezinok";"Bratislavský";"covid";1
-"593";2021-04-23;"Pezinok";"Bratislavský";"non_covid";12
-"594";2021-04-23;"Piešťany";"Trnavský";"non_covid";11
-"595";2021-04-23;"Poltár";"Banskobystrický";"non_covid";6
-"596";2021-04-23;"Poprad";"Prešovský";"covid";3
-"597";2021-04-23;"Poprad";"Prešovský";"non_covid";32
-"598";2021-04-23;"Považská Bystrica";"Trenčiansky";"covid";1
-"599";2021-04-23;"Považská Bystrica";"Trenčiansky";"non_covid";6
-"600";2021-04-23;"Prešov";"Prešovský";"covid";4
-"601";2021-04-23;"Prešov";"Prešovský";"non_covid";40
-"602";2021-04-23;"Prievidza";"Trenčiansky";"covid";4
-"603";2021-04-23;"Prievidza";"Trenčiansky";"non_covid";33
-"604";2021-04-23;"Púchov";"Trenčiansky";"non_covid";9
-"605";2021-04-23;"Revúca";"Banskobystrický";"non_covid";13
-"606";2021-04-23;"Rimavská Sobota";"Banskobystrický";"covid";1
-"607";2021-04-23;"Rimavská Sobota";"Banskobystrický";"non_covid";18
-"608";2021-04-23;"Rožňava";"Košický";"covid";2
-"609";2021-04-23;"Rožňava";"Košický";"non_covid";15
-"610";2021-04-23;"Ružomberok";"Žilinský";"covid";2
-"611";2021-04-23;"Ružomberok";"Žilinský";"non_covid";9
-"612";2021-04-23;"Sabinov";"Prešovský";"covid";1
-"613";2021-04-23;"Sabinov";"Prešovský";"non_covid";9
-"614";2021-04-23;"Senec";"Bratislavský";"covid";3
-"615";2021-04-23;"Senec";"Bratislavský";"non_covid";17
-"616";2021-04-23;"Senica";"Trnavský";"covid";3
-"617";2021-04-23;"Senica";"Trnavský";"non_covid";11
-"618";2021-04-23;"Skalica";"Trnavský";"non_covid";11
-"619";2021-04-23;"Snina";"Prešovský";"covid";1
-"620";2021-04-23;"Snina";"Prešovský";"non_covid";14
-"621";2021-04-23;"Sobrance";"Košický";"non_covid";7
-"622";2021-04-23;"Spišská Nová Ves";"Košický";"covid";1
-"623";2021-04-23;"Spišská Nová Ves";"Košický";"non_covid";22
-"624";2021-04-23;"Stará Ľubovňa";"Prešovský";"covid";3
-"625";2021-04-23;"Stará Ľubovňa";"Prešovský";"non_covid";11
-"626";2021-04-23;"Stropkov";"Prešovský";"non_covid";4
-"627";2021-04-23;"Svidník";"Prešovský";"covid";2
-"628";2021-04-23;"Svidník";"Prešovský";"non_covid";5
-"629";2021-04-23;"Šaľa";"Nitriansky";"non_covid";8
-"630";2021-04-23;"Topoľčany";"Nitriansky";"covid";1
-"631";2021-04-23;"Topoľčany";"Nitriansky";"non_covid";19
-"632";2021-04-23;"Trebišov";"Košický";"covid";1
-"633";2021-04-23;"Trebišov";"Košický";"non_covid";30
-"634";2021-04-23;"Trenčín";"Trenčiansky";"non_covid";22
-"635";2021-04-23;"Trnava";"Trnavský";"covid";2
-"636";2021-04-23;"Trnava";"Trnavský";"non_covid";21
-"637";2021-04-23;"Turčianske Teplice";"Žilinský";"covid";2
-"638";2021-04-23;"Turčianske Teplice";"Žilinský";"non_covid";4
-"639";2021-04-23;"Tvrdošín";"Žilinský";"covid";2
-"640";2021-04-23;"Tvrdošín";"Žilinský";"non_covid";6
-"641";2021-04-23;"Veľký Krtíš";"Banskobystrický";"non_covid";10
-"642";2021-04-23;"Vranov nad Topľou";"Prešovský";"covid";2
-"643";2021-04-23;"Vranov nad Topľou";"Prešovský";"non_covid";12
-"644";2021-04-23;"Zlaté Moravce";"Nitriansky";"non_covid";12
-"645";2021-04-23;"Zvolen";"Banskobystrický";"non_covid";12
-"646";2021-04-23;"Žarnovica";"Banskobystrický";"non_covid";5
-"647";2021-04-23;"Žiar nad Hronom";"Banskobystrický";"non_covid";15
-"648";2021-04-23;"Žilina";"Žilinský";"covid";3
-"649";2021-04-23;"Žilina";"Žilinský";"non_covid";37
-"650";2021-04-23;NA;NA;"covid";12
-"651";2021-04-23;NA;NA;"non_covid";143
-"652";2021-04-24;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";7
-"653";2021-04-24;"Banská Bystrica";"Banskobystrický";"covid";5
-"654";2021-04-24;"Banská Bystrica";"Banskobystrický";"non_covid";23
-"655";2021-04-24;"Banská Štiavnica";"Banskobystrický";"non_covid";8
-"656";2021-04-24;"Bardejov";"Prešovský";"non_covid";13
-"657";2021-04-24;"Bratislava I";"Bratislavský";"non_covid";9
-"658";2021-04-24;"Bratislava II";"Bratislavský";"covid";1
-"659";2021-04-24;"Bratislava II";"Bratislavský";"non_covid";32
-"660";2021-04-24;"Bratislava III";"Bratislavský";"covid";1
-"661";2021-04-24;"Bratislava III";"Bratislavský";"non_covid";24
-"662";2021-04-24;"Bratislava IV";"Bratislavský";"covid";1
-"663";2021-04-24;"Bratislava IV";"Bratislavský";"non_covid";14
-"664";2021-04-24;"Bratislava V";"Bratislavský";"covid";1
-"665";2021-04-24;"Bratislava V";"Bratislavský";"non_covid";23
-"666";2021-04-24;"Brezno";"Banskobystrický";"non_covid";13
-"667";2021-04-24;"Bytča";"Žilinský";"covid";1
-"668";2021-04-24;"Bytča";"Žilinský";"non_covid";9
-"669";2021-04-24;"Čadca";"Žilinský";"covid";3
-"670";2021-04-24;"Čadca";"Žilinský";"non_covid";19
-"671";2021-04-24;"Detva";"Banskobystrický";"non_covid";5
-"672";2021-04-24;"Dolný Kubín";"Žilinský";"non_covid";5
-"673";2021-04-24;"Dunajská Streda";"Trnavský";"covid";1
-"674";2021-04-24;"Dunajská Streda";"Trnavský";"non_covid";26
-"675";2021-04-24;"Galanta";"Trnavský";"covid";2
-"676";2021-04-24;"Galanta";"Trnavský";"non_covid";34
-"677";2021-04-24;"Gelnica";"Košický";"non_covid";9
-"678";2021-04-24;"Hlohovec";"Trnavský";"non_covid";17
-"679";2021-04-24;"Humenné";"Prešovský";"covid";2
-"680";2021-04-24;"Humenné";"Prešovský";"non_covid";8
-"681";2021-04-24;"Ilava";"Trenčiansky";"non_covid";8
-"682";2021-04-24;"Kežmarok";"Prešovský";"covid";5
-"683";2021-04-24;"Kežmarok";"Prešovský";"non_covid";24
-"684";2021-04-24;"Komárno";"Nitriansky";"non_covid";20
-"685";2021-04-24;"Košice - okolie";"Košický";"covid";1
-"686";2021-04-24;"Košice - okolie";"Košický";"non_covid";36
-"687";2021-04-24;"Košice I";"Košický";"non_covid";21
-"688";2021-04-24;"Košice II";"Košický";"non_covid";17
-"689";2021-04-24;"Košice III";"Košický";"non_covid";2
-"690";2021-04-24;"Košice IV";"Košický";"non_covid";17
-"691";2021-04-24;"Krupina";"Banskobystrický";"covid";1
-"692";2021-04-24;"Krupina";"Banskobystrický";"non_covid";4
-"693";2021-04-24;"Kysucké Nové Mesto";"Žilinský";"covid";2
-"694";2021-04-24;"Kysucké Nové Mesto";"Žilinský";"non_covid";5
-"695";2021-04-24;"Levice";"Nitriansky";"covid";2
-"696";2021-04-24;"Levice";"Nitriansky";"non_covid";27
-"697";2021-04-24;"Levoča";"Prešovský";"covid";1
-"698";2021-04-24;"Levoča";"Prešovský";"non_covid";3
-"699";2021-04-24;"Liptovský Mikuláš";"Žilinský";"non_covid";20
-"700";2021-04-24;"Lučenec";"Banskobystrický";"covid";1
-"701";2021-04-24;"Lučenec";"Banskobystrický";"non_covid";17
-"702";2021-04-24;"Malacky";"Bratislavský";"covid";1
-"703";2021-04-24;"Malacky";"Bratislavský";"non_covid";28
-"704";2021-04-24;"Martin";"Žilinský";"covid";7
-"705";2021-04-24;"Martin";"Žilinský";"non_covid";19
-"706";2021-04-24;"Medzilaborce";"Prešovský";"covid";1
-"707";2021-04-24;"Medzilaborce";"Prešovský";"non_covid";5
-"708";2021-04-24;"Michalovce";"Košický";"non_covid";32
-"709";2021-04-24;"Myjava";"Trenčiansky";"covid";1
-"710";2021-04-24;"Myjava";"Trenčiansky";"non_covid";4
-"711";2021-04-24;"Námestovo";"Žilinský";"covid";1
-"712";2021-04-24;"Námestovo";"Žilinský";"non_covid";11
-"713";2021-04-24;"Nitra";"Nitriansky";"non_covid";35
-"714";2021-04-24;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
-"715";2021-04-24;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";17
-"716";2021-04-24;"Nové Zámky";"Nitriansky";"covid";1
-"717";2021-04-24;"Nové Zámky";"Nitriansky";"non_covid";20
-"718";2021-04-24;"Partizánske";"Trenčiansky";"covid";1
-"719";2021-04-24;"Partizánske";"Trenčiansky";"non_covid";7
-"720";2021-04-24;"Pezinok";"Bratislavský";"covid";2
-"721";2021-04-24;"Pezinok";"Bratislavský";"non_covid";14
-"722";2021-04-24;"Piešťany";"Trnavský";"non_covid";19
-"723";2021-04-24;"Poltár";"Banskobystrický";"covid";1
-"724";2021-04-24;"Poltár";"Banskobystrický";"non_covid";9
-"725";2021-04-24;"Poprad";"Prešovský";"covid";2
-"726";2021-04-24;"Poprad";"Prešovský";"non_covid";31
-"727";2021-04-24;"Považská Bystrica";"Trenčiansky";"non_covid";16
-"728";2021-04-24;"Prešov";"Prešovský";"covid";2
-"729";2021-04-24;"Prešov";"Prešovský";"non_covid";39
-"730";2021-04-24;"Prievidza";"Trenčiansky";"covid";3
-"731";2021-04-24;"Prievidza";"Trenčiansky";"non_covid";35
-"732";2021-04-24;"Púchov";"Trenčiansky";"covid";1
-"733";2021-04-24;"Púchov";"Trenčiansky";"non_covid";13
-"734";2021-04-24;"Revúca";"Banskobystrický";"covid";1
-"735";2021-04-24;"Revúca";"Banskobystrický";"non_covid";16
-"736";2021-04-24;"Rimavská Sobota";"Banskobystrický";"covid";2
-"737";2021-04-24;"Rimavská Sobota";"Banskobystrický";"non_covid";22
-"738";2021-04-24;"Rožňava";"Košický";"covid";5
-"739";2021-04-24;"Rožňava";"Košický";"non_covid";18
-"740";2021-04-24;"Ružomberok";"Žilinský";"covid";3
-"741";2021-04-24;"Ružomberok";"Žilinský";"non_covid";11
-"742";2021-04-24;"Sabinov";"Prešovský";"covid";2
-"743";2021-04-24;"Sabinov";"Prešovský";"non_covid";16
-"744";2021-04-24;"Senec";"Bratislavský";"non_covid";12
-"745";2021-04-24;"Senica";"Trnavský";"non_covid";11
-"746";2021-04-24;"Skalica";"Trnavský";"covid";1
-"747";2021-04-24;"Skalica";"Trnavský";"non_covid";9
-"748";2021-04-24;"Snina";"Prešovský";"non_covid";11
-"749";2021-04-24;"Sobrance";"Košický";"covid";1
-"750";2021-04-24;"Sobrance";"Košický";"non_covid";10
-"751";2021-04-24;"Spišská Nová Ves";"Košický";"covid";4
-"752";2021-04-24;"Spišská Nová Ves";"Košický";"non_covid";19
-"753";2021-04-24;"Stará Ľubovňa";"Prešovský";"non_covid";12
-"754";2021-04-24;"Stropkov";"Prešovský";"non_covid";7
-"755";2021-04-24;"Svidník";"Prešovský";"non_covid";7
-"756";2021-04-24;"Šaľa";"Nitriansky";"non_covid";6
-"757";2021-04-24;"Topoľčany";"Nitriansky";"covid";1
-"758";2021-04-24;"Topoľčany";"Nitriansky";"non_covid";20
-"759";2021-04-24;"Trebišov";"Košický";"covid";1
-"760";2021-04-24;"Trebišov";"Košický";"non_covid";42
-"761";2021-04-24;"Trenčín";"Trenčiansky";"covid";1
-"762";2021-04-24;"Trenčín";"Trenčiansky";"non_covid";17
-"763";2021-04-24;"Trnava";"Trnavský";"covid";2
-"764";2021-04-24;"Trnava";"Trnavský";"non_covid";34
-"765";2021-04-24;"Turčianske Teplice";"Žilinský";"covid";1
-"766";2021-04-24;"Turčianske Teplice";"Žilinský";"non_covid";3
-"767";2021-04-24;"Tvrdošín";"Žilinský";"covid";1
-"768";2021-04-24;"Tvrdošín";"Žilinský";"non_covid";4
-"769";2021-04-24;"Veľký Krtíš";"Banskobystrický";"non_covid";16
-"770";2021-04-24;"Vranov nad Topľou";"Prešovský";"covid";3
-"771";2021-04-24;"Vranov nad Topľou";"Prešovský";"non_covid";21
-"772";2021-04-24;"Zlaté Moravce";"Nitriansky";"non_covid";4
-"773";2021-04-24;"Zvolen";"Banskobystrický";"non_covid";16
-"774";2021-04-24;"Žarnovica";"Banskobystrický";"non_covid";5
-"775";2021-04-24;"Žiar nad Hronom";"Banskobystrický";"non_covid";8
-"776";2021-04-24;"Žilina";"Žilinský";"covid";3
-"777";2021-04-24;"Žilina";"Žilinský";"non_covid";32
-"778";2021-04-24;NA;NA;"covid";13
-"779";2021-04-24;NA;NA;"non_covid";47
-"780";2021-04-25;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";7
-"781";2021-04-25;"Banská Bystrica";"Banskobystrický";"covid";1
-"782";2021-04-25;"Banská Bystrica";"Banskobystrický";"non_covid";16
-"783";2021-04-25;"Banská Štiavnica";"Banskobystrický";"non_covid";4
-"784";2021-04-25;"Bardejov";"Prešovský";"covid";4
-"785";2021-04-25;"Bardejov";"Prešovský";"non_covid";17
-"786";2021-04-25;"Bratislava I";"Bratislavský";"non_covid";14
-"787";2021-04-25;"Bratislava II";"Bratislavský";"covid";1
-"788";2021-04-25;"Bratislava II";"Bratislavský";"non_covid";29
-"789";2021-04-25;"Bratislava III";"Bratislavský";"covid";1
-"790";2021-04-25;"Bratislava III";"Bratislavský";"non_covid";17
-"791";2021-04-25;"Bratislava IV";"Bratislavský";"non_covid";16
-"792";2021-04-25;"Bratislava V";"Bratislavský";"covid";1
-"793";2021-04-25;"Bratislava V";"Bratislavský";"non_covid";27
-"794";2021-04-25;"Brezno";"Banskobystrický";"covid";1
-"795";2021-04-25;"Brezno";"Banskobystrický";"non_covid";17
-"796";2021-04-25;"Bytča";"Žilinský";"non_covid";4
-"797";2021-04-25;"Čadca";"Žilinský";"covid";2
-"798";2021-04-25;"Čadca";"Žilinský";"non_covid";17
-"799";2021-04-25;"Detva";"Banskobystrický";"non_covid";9
-"800";2021-04-25;"Dolný Kubín";"Žilinský";"non_covid";6
-"801";2021-04-25;"Dunajská Streda";"Trnavský";"covid";1
-"802";2021-04-25;"Dunajská Streda";"Trnavský";"non_covid";27
-"803";2021-04-25;"Galanta";"Trnavský";"non_covid";29
-"804";2021-04-25;"Gelnica";"Košický";"covid";3
-"805";2021-04-25;"Gelnica";"Košický";"non_covid";15
-"806";2021-04-25;"Hlohovec";"Trnavský";"non_covid";7
-"807";2021-04-25;"Humenné";"Prešovský";"covid";2
-"808";2021-04-25;"Humenné";"Prešovský";"non_covid";12
-"809";2021-04-25;"Ilava";"Trenčiansky";"covid";1
-"810";2021-04-25;"Ilava";"Trenčiansky";"non_covid";8
-"811";2021-04-25;"Kežmarok";"Prešovský";"non_covid";24
-"812";2021-04-25;"Komárno";"Nitriansky";"covid";1
-"813";2021-04-25;"Komárno";"Nitriansky";"non_covid";22
-"814";2021-04-25;"Košice - okolie";"Košický";"non_covid";25
-"815";2021-04-25;"Košice I";"Košický";"covid";1
-"816";2021-04-25;"Košice I";"Košický";"non_covid";16
-"817";2021-04-25;"Košice II";"Košický";"covid";1
-"818";2021-04-25;"Košice II";"Košický";"non_covid";18
-"819";2021-04-25;"Košice III";"Košický";"covid";1
-"820";2021-04-25;"Košice III";"Košický";"non_covid";3
-"821";2021-04-25;"Košice IV";"Košický";"covid";1
-"822";2021-04-25;"Košice IV";"Košický";"non_covid";13
-"823";2021-04-25;"Krupina";"Banskobystrický";"non_covid";6
-"824";2021-04-25;"Kysucké Nové Mesto";"Žilinský";"covid";3
-"825";2021-04-25;"Kysucké Nové Mesto";"Žilinský";"non_covid";15
-"826";2021-04-25;"Levice";"Nitriansky";"non_covid";18
-"827";2021-04-25;"Levoča";"Prešovský";"covid";1
-"828";2021-04-25;"Levoča";"Prešovský";"non_covid";5
-"829";2021-04-25;"Liptovský Mikuláš";"Žilinský";"covid";1
-"830";2021-04-25;"Liptovský Mikuláš";"Žilinský";"non_covid";15
-"831";2021-04-25;"Lučenec";"Banskobystrický";"non_covid";19
-"832";2021-04-25;"Malacky";"Bratislavský";"covid";3
-"833";2021-04-25;"Malacky";"Bratislavský";"non_covid";15
-"834";2021-04-25;"Martin";"Žilinský";"covid";2
-"835";2021-04-25;"Martin";"Žilinský";"non_covid";20
-"836";2021-04-25;"Medzilaborce";"Prešovský";"covid";3
-"837";2021-04-25;"Medzilaborce";"Prešovský";"non_covid";6
-"838";2021-04-25;"Michalovce";"Košický";"covid";3
-"839";2021-04-25;"Michalovce";"Košický";"non_covid";51
-"840";2021-04-25;"Myjava";"Trenčiansky";"covid";1
-"841";2021-04-25;"Myjava";"Trenčiansky";"non_covid";2
-"842";2021-04-25;"Námestovo";"Žilinský";"covid";2
-"843";2021-04-25;"Námestovo";"Žilinský";"non_covid";18
-"844";2021-04-25;"Nitra";"Nitriansky";"covid";1
-"845";2021-04-25;"Nitra";"Nitriansky";"non_covid";27
-"846";2021-04-25;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";15
-"847";2021-04-25;"Nové Zámky";"Nitriansky";"covid";1
-"848";2021-04-25;"Nové Zámky";"Nitriansky";"non_covid";30
-"849";2021-04-25;"Partizánske";"Trenčiansky";"non_covid";14
-"850";2021-04-25;"Pezinok";"Bratislavský";"non_covid";12
-"851";2021-04-25;"Piešťany";"Trnavský";"non_covid";13
-"852";2021-04-25;"Poltár";"Banskobystrický";"non_covid";1
-"853";2021-04-25;"Poprad";"Prešovský";"covid";2
-"854";2021-04-25;"Poprad";"Prešovský";"non_covid";26
-"855";2021-04-25;"Považská Bystrica";"Trenčiansky";"covid";1
-"856";2021-04-25;"Považská Bystrica";"Trenčiansky";"non_covid";13
-"857";2021-04-25;"Prešov";"Prešovský";"covid";1
-"858";2021-04-25;"Prešov";"Prešovský";"non_covid";34
-"859";2021-04-25;"Prievidza";"Trenčiansky";"covid";1
-"860";2021-04-25;"Prievidza";"Trenčiansky";"non_covid";24
-"861";2021-04-25;"Púchov";"Trenčiansky";"non_covid";7
-"862";2021-04-25;"Revúca";"Banskobystrický";"non_covid";6
-"863";2021-04-25;"Rimavská Sobota";"Banskobystrický";"non_covid";23
-"864";2021-04-25;"Rožňava";"Košický";"covid";1
-"865";2021-04-25;"Rožňava";"Košický";"non_covid";8
-"866";2021-04-25;"Ružomberok";"Žilinský";"covid";2
-"867";2021-04-25;"Ružomberok";"Žilinský";"non_covid";12
-"868";2021-04-25;"Sabinov";"Prešovský";"covid";1
-"869";2021-04-25;"Sabinov";"Prešovský";"non_covid";21
-"870";2021-04-25;"Senec";"Bratislavský";"covid";3
-"871";2021-04-25;"Senec";"Bratislavský";"non_covid";25
-"872";2021-04-25;"Senica";"Trnavský";"covid";1
-"873";2021-04-25;"Senica";"Trnavský";"non_covid";13
-"874";2021-04-25;"Skalica";"Trnavský";"non_covid";12
-"875";2021-04-25;"Snina";"Prešovský";"non_covid";9
-"876";2021-04-25;"Sobrance";"Košický";"non_covid";6
-"877";2021-04-25;"Spišská Nová Ves";"Košický";"covid";2
-"878";2021-04-25;"Spišská Nová Ves";"Košický";"non_covid";18
-"879";2021-04-25;"Stará Ľubovňa";"Prešovský";"covid";2
-"880";2021-04-25;"Stará Ľubovňa";"Prešovský";"non_covid";11
-"881";2021-04-25;"Stropkov";"Prešovský";"non_covid";8
-"882";2021-04-25;"Svidník";"Prešovský";"non_covid";8
-"883";2021-04-25;"Šaľa";"Nitriansky";"non_covid";13
-"884";2021-04-25;"Topoľčany";"Nitriansky";"covid";2
-"885";2021-04-25;"Topoľčany";"Nitriansky";"non_covid";14
-"886";2021-04-25;"Trebišov";"Košický";"covid";1
-"887";2021-04-25;"Trebišov";"Košický";"non_covid";44
-"888";2021-04-25;"Trenčín";"Trenčiansky";"covid";1
-"889";2021-04-25;"Trenčín";"Trenčiansky";"non_covid";25
-"890";2021-04-25;"Trnava";"Trnavský";"covid";2
-"891";2021-04-25;"Trnava";"Trnavský";"non_covid";24
-"892";2021-04-25;"Turčianske Teplice";"Žilinský";"non_covid";3
-"893";2021-04-25;"Tvrdošín";"Žilinský";"non_covid";8
-"894";2021-04-25;"Veľký Krtíš";"Banskobystrický";"non_covid";11
-"895";2021-04-25;"Vranov nad Topľou";"Prešovský";"covid";3
-"896";2021-04-25;"Vranov nad Topľou";"Prešovský";"non_covid";17
-"897";2021-04-25;"Zlaté Moravce";"Nitriansky";"non_covid";6
-"898";2021-04-25;"Zvolen";"Banskobystrický";"non_covid";18
-"899";2021-04-25;"Žarnovica";"Banskobystrický";"non_covid";8
-"900";2021-04-25;"Žiar nad Hronom";"Banskobystrický";"non_covid";5
-"901";2021-04-25;"Žilina";"Žilinský";"covid";2
-"902";2021-04-25;"Žilina";"Žilinský";"non_covid";34
-"903";2021-04-25;NA;NA;"covid";8
-"904";2021-04-25;NA;NA;"non_covid";70
-"905";2021-04-26;"Prievidza";"Trenčiansky";"non_covid";1
-"906";2021-04-26;"Topoľčany";"Nitriansky";"non_covid";1
-"907";2021-04-26;"Vranov nad Topľou";"Prešovský";"non_covid";1
-"908";2021-04-26;NA;NA;"non_covid";33
-"909";NA;"Banská Bystrica";"Banskobystrický";"non_covid";1
-"910";NA;"Bratislava I";"Bratislavský";"non_covid";5
-"911";NA;"Bratislava II";"Bratislavský";"non_covid";2
-"912";NA;"Bratislava III";"Bratislavský";"non_covid";4
-"913";NA;"Brezno";"Banskobystrický";"non_covid";1
-"914";NA;"Dunajská Streda";"Trnavský";"non_covid";2
-"915";NA;"Galanta";"Trnavský";"non_covid";1
-"916";NA;"Hlohovec";"Trnavský";"non_covid";2
-"917";NA;"Humenné";"Prešovský";"non_covid";2
-"918";NA;"Kežmarok";"Prešovský";"non_covid";2
-"919";NA;"Komárno";"Nitriansky";"non_covid";1
-"920";NA;"Košice - okolie";"Košický";"non_covid";2
-"921";NA;"Liptovský Mikuláš";"Žilinský";"non_covid";1
-"922";NA;"Lučenec";"Banskobystrický";"non_covid";2
-"923";NA;"Malacky";"Bratislavský";"non_covid";4
-"924";NA;"Medzilaborce";"Prešovský";"non_covid";1
-"925";NA;"Michalovce";"Košický";"non_covid";2
-"926";NA;"Námestovo";"Žilinský";"covid";1
-"927";NA;"Námestovo";"Žilinský";"non_covid";1
-"928";NA;"Nitra";"Nitriansky";"non_covid";2
-"929";NA;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";1
-"930";NA;"Nové Zámky";"Nitriansky";"non_covid";1
-"931";NA;"Pezinok";"Bratislavský";"non_covid";1
-"932";NA;"Prievidza";"Trenčiansky";"non_covid";1
-"933";NA;"Ružomberok";"Žilinský";"non_covid";1
-"934";NA;"Senec";"Bratislavský";"non_covid";3
-"935";NA;"Snina";"Prešovský";"non_covid";1
-"936";NA;"Sobrance";"Košický";"non_covid";2
-"937";NA;"Spišská Nová Ves";"Košický";"non_covid";1
-"938";NA;"Stará Ľubovňa";"Prešovský";"non_covid";1
-"939";NA;"Stropkov";"Prešovský";"non_covid";1
-"940";NA;"Trebišov";"Košický";"non_covid";2
-"941";NA;"Trenčín";"Trenčiansky";"non_covid";1
-"942";NA;"Trnava";"Trnavský";"covid";1
-"943";NA;"Zlaté Moravce";"Nitriansky";"non_covid";1
-"944";NA;NA;NA;"covid";1
-"945";NA;NA;NA;"non_covid";18
+"1";2021-04-26;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";8
+"2";2021-04-26;"Banská Bystrica";"Banskobystrický";"covid";1
+"3";2021-04-26;"Banská Bystrica";"Banskobystrický";"non_covid";20
+"4";2021-04-26;"Banská Štiavnica";"Banskobystrický";"non_covid";5
+"5";2021-04-26;"Bardejov";"Prešovský";"covid";5
+"6";2021-04-26;"Bardejov";"Prešovský";"non_covid";18
+"7";2021-04-26;"Bratislava I";"Bratislavský";"covid";1
+"8";2021-04-26;"Bratislava I";"Bratislavský";"non_covid";92
+"9";2021-04-26;"Brezno";"Banskobystrický";"non_covid";14
+"10";2021-04-26;"Bytča";"Žilinský";"non_covid";4
+"11";2021-04-26;"Čadca";"Žilinský";"covid";4
+"12";2021-04-26;"Čadca";"Žilinský";"non_covid";23
+"13";2021-04-26;"Detva";"Banskobystrický";"non_covid";11
+"14";2021-04-26;"Dolný Kubín";"Žilinský";"non_covid";12
+"15";2021-04-26;"Dunajská Streda";"Trnavský";"covid";2
+"16";2021-04-26;"Dunajská Streda";"Trnavský";"non_covid";20
+"17";2021-04-26;"Galanta";"Trnavský";"covid";2
+"18";2021-04-26;"Galanta";"Trnavský";"non_covid";24
+"19";2021-04-26;"Gelnica";"Košický";"covid";1
+"20";2021-04-26;"Gelnica";"Košický";"non_covid";7
+"21";2021-04-26;"Hlohovec";"Trnavský";"non_covid";14
+"22";2021-04-26;"Humenné";"Prešovský";"covid";1
+"23";2021-04-26;"Humenné";"Prešovský";"non_covid";10
+"24";2021-04-26;"Ilava";"Trenčiansky";"non_covid";18
+"25";2021-04-26;"Kežmarok";"Prešovský";"covid";2
+"26";2021-04-26;"Kežmarok";"Prešovský";"non_covid";13
+"27";2021-04-26;"Komárno";"Nitriansky";"covid";2
+"28";2021-04-26;"Komárno";"Nitriansky";"non_covid";19
+"29";2021-04-26;"Košice - okolie";"Košický";"non_covid";28
+"30";2021-04-26;"Košice I";"Košický";"covid";2
+"31";2021-04-26;"Košice I";"Košický";"non_covid";54
+"32";2021-04-26;"Krupina";"Banskobystrický";"non_covid";7
+"33";2021-04-26;"Kysucké Nové Mesto";"Žilinský";"covid";2
+"34";2021-04-26;"Kysucké Nové Mesto";"Žilinský";"non_covid";7
+"35";2021-04-26;"Levice";"Nitriansky";"covid";1
+"36";2021-04-26;"Levice";"Nitriansky";"non_covid";23
+"37";2021-04-26;"Levoča";"Prešovský";"covid";1
+"38";2021-04-26;"Levoča";"Prešovský";"non_covid";10
+"39";2021-04-26;"Liptovský Mikuláš";"Žilinský";"covid";1
+"40";2021-04-26;"Liptovský Mikuláš";"Žilinský";"non_covid";22
+"41";2021-04-26;"Lučenec";"Banskobystrický";"covid";3
+"42";2021-04-26;"Lučenec";"Banskobystrický";"non_covid";23
+"43";2021-04-26;"Malacky";"Bratislavský";"covid";1
+"44";2021-04-26;"Malacky";"Bratislavský";"non_covid";12
+"45";2021-04-26;"Martin";"Žilinský";"covid";2
+"46";2021-04-26;"Martin";"Žilinský";"non_covid";25
+"47";2021-04-26;"Medzilaborce";"Prešovský";"covid";1
+"48";2021-04-26;"Medzilaborce";"Prešovský";"non_covid";2
+"49";2021-04-26;"Michalovce";"Košický";"covid";3
+"50";2021-04-26;"Michalovce";"Košický";"non_covid";51
+"51";2021-04-26;"Myjava";"Trenčiansky";"covid";2
+"52";2021-04-26;"Myjava";"Trenčiansky";"non_covid";7
+"53";2021-04-26;"Námestovo";"Žilinský";"non_covid";9
+"54";2021-04-26;"Nitra";"Nitriansky";"non_covid";29
+"55";2021-04-26;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
+"56";2021-04-26;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";19
+"57";2021-04-26;"Nové Zámky";"Nitriansky";"covid";2
+"58";2021-04-26;"Nové Zámky";"Nitriansky";"non_covid";20
+"59";2021-04-26;"Partizánske";"Trenčiansky";"non_covid";6
+"60";2021-04-26;"Pezinok";"Bratislavský";"non_covid";10
+"61";2021-04-26;"Piešťany";"Trnavský";"non_covid";21
+"62";2021-04-26;"Poltár";"Banskobystrický";"covid";1
+"63";2021-04-26;"Poltár";"Banskobystrický";"non_covid";6
+"64";2021-04-26;"Poprad";"Prešovský";"covid";4
+"65";2021-04-26;"Poprad";"Prešovský";"non_covid";22
+"66";2021-04-26;"Považská Bystrica";"Trenčiansky";"covid";1
+"67";2021-04-26;"Považská Bystrica";"Trenčiansky";"non_covid";12
+"68";2021-04-26;"Prešov";"Prešovský";"covid";2
+"69";2021-04-26;"Prešov";"Prešovský";"non_covid";41
+"70";2021-04-26;"Prievidza";"Trenčiansky";"covid";3
+"71";2021-04-26;"Prievidza";"Trenčiansky";"non_covid";30
+"72";2021-04-26;"Púchov";"Trenčiansky";"covid";2
+"73";2021-04-26;"Púchov";"Trenčiansky";"non_covid";10
+"74";2021-04-26;"Revúca";"Banskobystrický";"non_covid";13
+"75";2021-04-26;"Rimavská Sobota";"Banskobystrický";"non_covid";18
+"76";2021-04-26;"Rožňava";"Košický";"covid";3
+"77";2021-04-26;"Rožňava";"Košický";"non_covid";16
+"78";2021-04-26;"Ružomberok";"Žilinský";"non_covid";13
+"79";2021-04-26;"Sabinov";"Prešovský";"covid";3
+"80";2021-04-26;"Sabinov";"Prešovský";"non_covid";17
+"81";2021-04-26;"Senec";"Bratislavský";"covid";2
+"82";2021-04-26;"Senec";"Bratislavský";"non_covid";17
+"83";2021-04-26;"Senica";"Trnavský";"covid";1
+"84";2021-04-26;"Senica";"Trnavský";"non_covid";13
+"85";2021-04-26;"Skalica";"Trnavský";"covid";2
+"86";2021-04-26;"Skalica";"Trnavský";"non_covid";10
+"87";2021-04-26;"Snina";"Prešovský";"non_covid";10
+"88";2021-04-26;"Sobrance";"Košický";"non_covid";3
+"89";2021-04-26;"Spišská Nová Ves";"Košický";"covid";4
+"90";2021-04-26;"Spišská Nová Ves";"Košický";"non_covid";13
+"91";2021-04-26;"Stará Ľubovňa";"Prešovský";"covid";2
+"92";2021-04-26;"Stará Ľubovňa";"Prešovský";"non_covid";20
+"93";2021-04-26;"Stropkov";"Prešovský";"non_covid";5
+"94";2021-04-26;"Svidník";"Prešovský";"non_covid";7
+"95";2021-04-26;"Šaľa";"Nitriansky";"covid";2
+"96";2021-04-26;"Šaľa";"Nitriansky";"non_covid";8
+"97";2021-04-26;"Topoľčany";"Nitriansky";"non_covid";11
+"98";2021-04-26;"Trebišov";"Košický";"covid";1
+"99";2021-04-26;"Trebišov";"Košický";"non_covid";24
+"100";2021-04-26;"Trenčín";"Trenčiansky";"covid";4
+"101";2021-04-26;"Trenčín";"Trenčiansky";"non_covid";35
+"102";2021-04-26;"Trnava";"Trnavský";"covid";3
+"103";2021-04-26;"Trnava";"Trnavský";"non_covid";28
+"104";2021-04-26;"Turčianske Teplice";"Žilinský";"non_covid";3
+"105";2021-04-26;"Tvrdošín";"Žilinský";"non_covid";4
+"106";2021-04-26;"Veľký Krtíš";"Banskobystrický";"non_covid";7
+"107";2021-04-26;"Vranov nad Topľou";"Prešovský";"covid";3
+"108";2021-04-26;"Vranov nad Topľou";"Prešovský";"non_covid";10
+"109";2021-04-26;"Zlaté Moravce";"Nitriansky";"non_covid";12
+"110";2021-04-26;"Zvolen";"Banskobystrický";"non_covid";16
+"111";2021-04-26;"Žarnovica";"Banskobystrický";"non_covid";5
+"112";2021-04-26;"Žiar nad Hronom";"Banskobystrický";"covid";2
+"113";2021-04-26;"Žiar nad Hronom";"Banskobystrický";"non_covid";14
+"114";2021-04-26;"Žilina";"Žilinský";"covid";6
+"115";2021-04-26;"Žilina";"Žilinský";"non_covid";27
+"116";2021-04-26;NA;NA;"covid";10
+"117";2021-04-26;NA;NA;"non_covid";142
+"118";2021-04-27;"Bánovce nad Bebravou";"Trenčiansky";"covid";2
+"119";2021-04-27;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";6
+"120";2021-04-27;"Banská Bystrica";"Banskobystrický";"covid";2
+"121";2021-04-27;"Banská Bystrica";"Banskobystrický";"non_covid";27
+"122";2021-04-27;"Banská Štiavnica";"Banskobystrický";"non_covid";6
+"123";2021-04-27;"Bardejov";"Prešovský";"covid";2
+"124";2021-04-27;"Bardejov";"Prešovský";"non_covid";17
+"125";2021-04-27;"Bratislava I";"Bratislavský";"covid";5
+"126";2021-04-27;"Bratislava I";"Bratislavský";"non_covid";93
+"127";2021-04-27;"Brezno";"Banskobystrický";"covid";1
+"128";2021-04-27;"Brezno";"Banskobystrický";"non_covid";21
+"129";2021-04-27;"Bytča";"Žilinský";"non_covid";8
+"130";2021-04-27;"Čadca";"Žilinský";"covid";2
+"131";2021-04-27;"Čadca";"Žilinský";"non_covid";17
+"132";2021-04-27;"Detva";"Banskobystrický";"non_covid";8
+"133";2021-04-27;"Dolný Kubín";"Žilinský";"non_covid";10
+"134";2021-04-27;"Dunajská Streda";"Trnavský";"non_covid";38
+"135";2021-04-27;"Galanta";"Trnavský";"covid";3
+"136";2021-04-27;"Galanta";"Trnavský";"non_covid";26
+"137";2021-04-27;"Gelnica";"Košický";"covid";1
+"138";2021-04-27;"Gelnica";"Košický";"non_covid";10
+"139";2021-04-27;"Hlohovec";"Trnavský";"non_covid";10
+"140";2021-04-27;"Humenné";"Prešovský";"non_covid";9
+"141";2021-04-27;"Ilava";"Trenčiansky";"covid";1
+"142";2021-04-27;"Ilava";"Trenčiansky";"non_covid";10
+"143";2021-04-27;"Kežmarok";"Prešovský";"non_covid";22
+"144";2021-04-27;"Komárno";"Nitriansky";"non_covid";19
+"145";2021-04-27;"Košice - okolie";"Košický";"non_covid";34
+"146";2021-04-27;"Košice I";"Košický";"covid";3
+"147";2021-04-27;"Košice I";"Košický";"non_covid";56
+"148";2021-04-27;"Krupina";"Banskobystrický";"non_covid";6
+"149";2021-04-27;"Kysucké Nové Mesto";"Žilinský";"covid";2
+"150";2021-04-27;"Kysucké Nové Mesto";"Žilinský";"non_covid";5
+"151";2021-04-27;"Levice";"Nitriansky";"covid";1
+"152";2021-04-27;"Levice";"Nitriansky";"non_covid";24
+"153";2021-04-27;"Levoča";"Prešovský";"covid";2
+"154";2021-04-27;"Levoča";"Prešovský";"non_covid";8
+"155";2021-04-27;"Liptovský Mikuláš";"Žilinský";"covid";3
+"156";2021-04-27;"Liptovský Mikuláš";"Žilinský";"non_covid";11
+"157";2021-04-27;"Lučenec";"Banskobystrický";"non_covid";22
+"158";2021-04-27;"Malacky";"Bratislavský";"covid";1
+"159";2021-04-27;"Malacky";"Bratislavský";"non_covid";8
+"160";2021-04-27;"Martin";"Žilinský";"non_covid";30
+"161";2021-04-27;"Medzilaborce";"Prešovský";"non_covid";4
+"162";2021-04-27;"Michalovce";"Košický";"covid";4
+"163";2021-04-27;"Michalovce";"Košický";"non_covid";44
+"164";2021-04-27;"Myjava";"Trenčiansky";"non_covid";2
+"165";2021-04-27;"Námestovo";"Žilinský";"covid";1
+"166";2021-04-27;"Námestovo";"Žilinský";"non_covid";12
+"167";2021-04-27;"Nitra";"Nitriansky";"covid";2
+"168";2021-04-27;"Nitra";"Nitriansky";"non_covid";41
+"169";2021-04-27;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
+"170";2021-04-27;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";24
+"171";2021-04-27;"Nové Zámky";"Nitriansky";"covid";2
+"172";2021-04-27;"Nové Zámky";"Nitriansky";"non_covid";20
+"173";2021-04-27;"Partizánske";"Trenčiansky";"non_covid";15
+"174";2021-04-27;"Pezinok";"Bratislavský";"covid";1
+"175";2021-04-27;"Pezinok";"Bratislavský";"non_covid";17
+"176";2021-04-27;"Piešťany";"Trnavský";"non_covid";15
+"177";2021-04-27;"Poltár";"Banskobystrický";"covid";1
+"178";2021-04-27;"Poltár";"Banskobystrický";"non_covid";3
+"179";2021-04-27;"Poprad";"Prešovský";"covid";3
+"180";2021-04-27;"Poprad";"Prešovský";"non_covid";32
+"181";2021-04-27;"Považská Bystrica";"Trenčiansky";"covid";3
+"182";2021-04-27;"Považská Bystrica";"Trenčiansky";"non_covid";13
+"183";2021-04-27;"Prešov";"Prešovský";"covid";3
+"184";2021-04-27;"Prešov";"Prešovský";"non_covid";31
+"185";2021-04-27;"Prievidza";"Trenčiansky";"covid";3
+"186";2021-04-27;"Prievidza";"Trenčiansky";"non_covid";28
+"187";2021-04-27;"Púchov";"Trenčiansky";"non_covid";7
+"188";2021-04-27;"Revúca";"Banskobystrický";"non_covid";16
+"189";2021-04-27;"Rimavská Sobota";"Banskobystrický";"covid";1
+"190";2021-04-27;"Rimavská Sobota";"Banskobystrický";"non_covid";21
+"191";2021-04-27;"Rožňava";"Košický";"non_covid";15
+"192";2021-04-27;"Ružomberok";"Žilinský";"covid";3
+"193";2021-04-27;"Ružomberok";"Žilinský";"non_covid";9
+"194";2021-04-27;"Sabinov";"Prešovský";"covid";3
+"195";2021-04-27;"Sabinov";"Prešovský";"non_covid";12
+"196";2021-04-27;"Senec";"Bratislavský";"non_covid";18
+"197";2021-04-27;"Senica";"Trnavský";"non_covid";12
+"198";2021-04-27;"Skalica";"Trnavský";"covid";2
+"199";2021-04-27;"Skalica";"Trnavský";"non_covid";9
+"200";2021-04-27;"Snina";"Prešovský";"covid";1
+"201";2021-04-27;"Snina";"Prešovský";"non_covid";10
+"202";2021-04-27;"Sobrance";"Košický";"covid";1
+"203";2021-04-27;"Sobrance";"Košický";"non_covid";7
+"204";2021-04-27;"Spišská Nová Ves";"Košický";"covid";2
+"205";2021-04-27;"Spišská Nová Ves";"Košický";"non_covid";20
+"206";2021-04-27;"Stará Ľubovňa";"Prešovský";"non_covid";13
+"207";2021-04-27;"Stropkov";"Prešovský";"covid";1
+"208";2021-04-27;"Stropkov";"Prešovský";"non_covid";3
+"209";2021-04-27;"Svidník";"Prešovský";"non_covid";6
+"210";2021-04-27;"Šaľa";"Nitriansky";"covid";1
+"211";2021-04-27;"Šaľa";"Nitriansky";"non_covid";15
+"212";2021-04-27;"Topoľčany";"Nitriansky";"non_covid";12
+"213";2021-04-27;"Trebišov";"Košický";"covid";1
+"214";2021-04-27;"Trebišov";"Košický";"non_covid";22
+"215";2021-04-27;"Trenčín";"Trenčiansky";"covid";2
+"216";2021-04-27;"Trenčín";"Trenčiansky";"non_covid";29
+"217";2021-04-27;"Trnava";"Trnavský";"covid";1
+"218";2021-04-27;"Trnava";"Trnavský";"non_covid";25
+"219";2021-04-27;"Turčianske Teplice";"Žilinský";"covid";1
+"220";2021-04-27;"Turčianske Teplice";"Žilinský";"non_covid";6
+"221";2021-04-27;"Tvrdošín";"Žilinský";"non_covid";4
+"222";2021-04-27;"Veľký Krtíš";"Banskobystrický";"covid";2
+"223";2021-04-27;"Veľký Krtíš";"Banskobystrický";"non_covid";6
+"224";2021-04-27;"Vranov nad Topľou";"Prešovský";"covid";1
+"225";2021-04-27;"Vranov nad Topľou";"Prešovský";"non_covid";16
+"226";2021-04-27;"Zlaté Moravce";"Nitriansky";"non_covid";9
+"227";2021-04-27;"Zvolen";"Banskobystrický";"non_covid";23
+"228";2021-04-27;"Žarnovica";"Banskobystrický";"non_covid";8
+"229";2021-04-27;"Žiar nad Hronom";"Banskobystrický";"covid";1
+"230";2021-04-27;"Žiar nad Hronom";"Banskobystrický";"non_covid";8
+"231";2021-04-27;"Žilina";"Žilinský";"covid";3
+"232";2021-04-27;"Žilina";"Žilinský";"non_covid";28
+"233";2021-04-27;NA;NA;"covid";8
+"234";2021-04-27;NA;NA;"non_covid";145
+"235";2021-04-28;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";6
+"236";2021-04-28;"Banská Bystrica";"Banskobystrický";"covid";1
+"237";2021-04-28;"Banská Bystrica";"Banskobystrický";"non_covid";25
+"238";2021-04-28;"Banská Štiavnica";"Banskobystrický";"non_covid";5
+"239";2021-04-28;"Bardejov";"Prešovský";"covid";4
+"240";2021-04-28;"Bardejov";"Prešovský";"non_covid";16
+"241";2021-04-28;"Bratislava I";"Bratislavský";"covid";4
+"242";2021-04-28;"Bratislava I";"Bratislavský";"non_covid";108
+"243";2021-04-28;"Brezno";"Banskobystrický";"non_covid";9
+"244";2021-04-28;"Bytča";"Žilinský";"non_covid";7
+"245";2021-04-28;"Čadca";"Žilinský";"covid";1
+"246";2021-04-28;"Čadca";"Žilinský";"non_covid";22
+"247";2021-04-28;"Detva";"Banskobystrický";"non_covid";11
+"248";2021-04-28;"Dolný Kubín";"Žilinský";"covid";2
+"249";2021-04-28;"Dolný Kubín";"Žilinský";"non_covid";6
+"250";2021-04-28;"Dunajská Streda";"Trnavský";"covid";2
+"251";2021-04-28;"Dunajská Streda";"Trnavský";"non_covid";20
+"252";2021-04-28;"Galanta";"Trnavský";"covid";2
+"253";2021-04-28;"Galanta";"Trnavský";"non_covid";20
+"254";2021-04-28;"Gelnica";"Košický";"covid";3
+"255";2021-04-28;"Gelnica";"Košický";"non_covid";9
+"256";2021-04-28;"Hlohovec";"Trnavský";"non_covid";13
+"257";2021-04-28;"Humenné";"Prešovský";"covid";4
+"258";2021-04-28;"Humenné";"Prešovský";"non_covid";13
+"259";2021-04-28;"Ilava";"Trenčiansky";"covid";2
+"260";2021-04-28;"Ilava";"Trenčiansky";"non_covid";21
+"261";2021-04-28;"Kežmarok";"Prešovský";"covid";3
+"262";2021-04-28;"Kežmarok";"Prešovský";"non_covid";24
+"263";2021-04-28;"Komárno";"Nitriansky";"non_covid";18
+"264";2021-04-28;"Košice - okolie";"Košický";"non_covid";31
+"265";2021-04-28;"Košice I";"Košický";"non_covid";68
+"266";2021-04-28;"Krupina";"Banskobystrický";"covid";1
+"267";2021-04-28;"Krupina";"Banskobystrický";"non_covid";8
+"268";2021-04-28;"Kysucké Nové Mesto";"Žilinský";"covid";2
+"269";2021-04-28;"Kysucké Nové Mesto";"Žilinský";"non_covid";7
+"270";2021-04-28;"Levice";"Nitriansky";"covid";2
+"271";2021-04-28;"Levice";"Nitriansky";"non_covid";28
+"272";2021-04-28;"Levoča";"Prešovský";"covid";1
+"273";2021-04-28;"Levoča";"Prešovský";"non_covid";11
+"274";2021-04-28;"Liptovský Mikuláš";"Žilinský";"covid";1
+"275";2021-04-28;"Liptovský Mikuláš";"Žilinský";"non_covid";21
+"276";2021-04-28;"Lučenec";"Banskobystrický";"non_covid";17
+"277";2021-04-28;"Malacky";"Bratislavský";"non_covid";11
+"278";2021-04-28;"Martin";"Žilinský";"covid";2
+"279";2021-04-28;"Martin";"Žilinský";"non_covid";23
+"280";2021-04-28;"Medzilaborce";"Prešovský";"non_covid";3
+"281";2021-04-28;"Michalovce";"Košický";"covid";2
+"282";2021-04-28;"Michalovce";"Košický";"non_covid";43
+"283";2021-04-28;"Myjava";"Trenčiansky";"non_covid";5
+"284";2021-04-28;"Námestovo";"Žilinský";"covid";1
+"285";2021-04-28;"Námestovo";"Žilinský";"non_covid";14
+"286";2021-04-28;"Nitra";"Nitriansky";"covid";1
+"287";2021-04-28;"Nitra";"Nitriansky";"non_covid";24
+"288";2021-04-28;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
+"289";2021-04-28;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";16
+"290";2021-04-28;"Nové Zámky";"Nitriansky";"covid";2
+"291";2021-04-28;"Nové Zámky";"Nitriansky";"non_covid";19
+"292";2021-04-28;"Partizánske";"Trenčiansky";"covid";2
+"293";2021-04-28;"Partizánske";"Trenčiansky";"non_covid";9
+"294";2021-04-28;"Pezinok";"Bratislavský";"covid";1
+"295";2021-04-28;"Pezinok";"Bratislavský";"non_covid";15
+"296";2021-04-28;"Piešťany";"Trnavský";"non_covid";13
+"297";2021-04-28;"Poltár";"Banskobystrický";"covid";1
+"298";2021-04-28;"Poltár";"Banskobystrický";"non_covid";2
+"299";2021-04-28;"Poprad";"Prešovský";"covid";1
+"300";2021-04-28;"Poprad";"Prešovský";"non_covid";23
+"301";2021-04-28;"Považská Bystrica";"Trenčiansky";"covid";2
+"302";2021-04-28;"Považská Bystrica";"Trenčiansky";"non_covid";15
+"303";2021-04-28;"Prešov";"Prešovský";"covid";1
+"304";2021-04-28;"Prešov";"Prešovský";"non_covid";38
+"305";2021-04-28;"Prievidza";"Trenčiansky";"covid";1
+"306";2021-04-28;"Prievidza";"Trenčiansky";"non_covid";32
+"307";2021-04-28;"Púchov";"Trenčiansky";"non_covid";9
+"308";2021-04-28;"Revúca";"Banskobystrický";"covid";3
+"309";2021-04-28;"Revúca";"Banskobystrický";"non_covid";10
+"310";2021-04-28;"Rimavská Sobota";"Banskobystrický";"covid";1
+"311";2021-04-28;"Rimavská Sobota";"Banskobystrický";"non_covid";26
+"312";2021-04-28;"Rožňava";"Košický";"non_covid";18
+"313";2021-04-28;"Ružomberok";"Žilinský";"covid";3
+"314";2021-04-28;"Ružomberok";"Žilinský";"non_covid";14
+"315";2021-04-28;"Sabinov";"Prešovský";"non_covid";17
+"316";2021-04-28;"Senec";"Bratislavský";"non_covid";20
+"317";2021-04-28;"Senica";"Trnavský";"non_covid";18
+"318";2021-04-28;"Skalica";"Trnavský";"non_covid";9
+"319";2021-04-28;"Snina";"Prešovský";"non_covid";5
+"320";2021-04-28;"Sobrance";"Košický";"covid";2
+"321";2021-04-28;"Sobrance";"Košický";"non_covid";10
+"322";2021-04-28;"Spišská Nová Ves";"Košický";"non_covid";35
+"323";2021-04-28;"Stará Ľubovňa";"Prešovský";"covid";1
+"324";2021-04-28;"Stará Ľubovňa";"Prešovský";"non_covid";14
+"325";2021-04-28;"Stropkov";"Prešovský";"non_covid";4
+"326";2021-04-28;"Svidník";"Prešovský";"covid";1
+"327";2021-04-28;"Svidník";"Prešovský";"non_covid";3
+"328";2021-04-28;"Šaľa";"Nitriansky";"non_covid";15
+"329";2021-04-28;"Topoľčany";"Nitriansky";"non_covid";13
+"330";2021-04-28;"Trebišov";"Košický";"covid";1
+"331";2021-04-28;"Trebišov";"Košický";"non_covid";34
+"332";2021-04-28;"Trenčín";"Trenčiansky";"non_covid";30
+"333";2021-04-28;"Trnava";"Trnavský";"covid";3
+"334";2021-04-28;"Trnava";"Trnavský";"non_covid";24
+"335";2021-04-28;"Turčianske Teplice";"Žilinský";"covid";1
+"336";2021-04-28;"Turčianske Teplice";"Žilinský";"non_covid";4
+"337";2021-04-28;"Tvrdošín";"Žilinský";"non_covid";2
+"338";2021-04-28;"Veľký Krtíš";"Banskobystrický";"non_covid";9
+"339";2021-04-28;"Vranov nad Topľou";"Prešovský";"covid";1
+"340";2021-04-28;"Vranov nad Topľou";"Prešovský";"non_covid";14
+"341";2021-04-28;"Zlaté Moravce";"Nitriansky";"non_covid";8
+"342";2021-04-28;"Zvolen";"Banskobystrický";"covid";1
+"343";2021-04-28;"Zvolen";"Banskobystrický";"non_covid";15
+"344";2021-04-28;"Žarnovica";"Banskobystrický";"non_covid";6
+"345";2021-04-28;"Žiar nad Hronom";"Banskobystrický";"covid";1
+"346";2021-04-28;"Žiar nad Hronom";"Banskobystrický";"non_covid";7
+"347";2021-04-28;"Žilina";"Žilinský";"covid";5
+"348";2021-04-28;"Žilina";"Žilinský";"non_covid";42
+"349";2021-04-28;NA;NA;"covid";5
+"350";2021-04-28;NA;NA;"non_covid";145
+"351";2021-04-29;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";2
+"352";2021-04-29;"Banská Bystrica";"Banskobystrický";"covid";2
+"353";2021-04-29;"Banská Bystrica";"Banskobystrický";"non_covid";19
+"354";2021-04-29;"Banská Štiavnica";"Banskobystrický";"covid";1
+"355";2021-04-29;"Banská Štiavnica";"Banskobystrický";"non_covid";3
+"356";2021-04-29;"Bardejov";"Prešovský";"covid";4
+"357";2021-04-29;"Bardejov";"Prešovský";"non_covid";23
+"358";2021-04-29;"Bratislava I";"Bratislavský";"covid";2
+"359";2021-04-29;"Bratislava I";"Bratislavský";"non_covid";86
+"360";2021-04-29;"Brezno";"Banskobystrický";"covid";1
+"361";2021-04-29;"Brezno";"Banskobystrický";"non_covid";18
+"362";2021-04-29;"Bytča";"Žilinský";"non_covid";4
+"363";2021-04-29;"Čadca";"Žilinský";"covid";1
+"364";2021-04-29;"Čadca";"Žilinský";"non_covid";22
+"365";2021-04-29;"Detva";"Banskobystrický";"covid";1
+"366";2021-04-29;"Detva";"Banskobystrický";"non_covid";8
+"367";2021-04-29;"Dolný Kubín";"Žilinský";"non_covid";3
+"368";2021-04-29;"Dunajská Streda";"Trnavský";"covid";2
+"369";2021-04-29;"Dunajská Streda";"Trnavský";"non_covid";22
+"370";2021-04-29;"Galanta";"Trnavský";"covid";1
+"371";2021-04-29;"Galanta";"Trnavský";"non_covid";26
+"372";2021-04-29;"Gelnica";"Košický";"non_covid";9
+"373";2021-04-29;"Hlohovec";"Trnavský";"non_covid";17
+"374";2021-04-29;"Humenné";"Prešovský";"covid";2
+"375";2021-04-29;"Humenné";"Prešovský";"non_covid";7
+"376";2021-04-29;"Ilava";"Trenčiansky";"covid";1
+"377";2021-04-29;"Ilava";"Trenčiansky";"non_covid";15
+"378";2021-04-29;"Kežmarok";"Prešovský";"covid";3
+"379";2021-04-29;"Kežmarok";"Prešovský";"non_covid";12
+"380";2021-04-29;"Komárno";"Nitriansky";"covid";2
+"381";2021-04-29;"Komárno";"Nitriansky";"non_covid";19
+"382";2021-04-29;"Košice - okolie";"Košický";"covid";1
+"383";2021-04-29;"Košice - okolie";"Košický";"non_covid";38
+"384";2021-04-29;"Košice I";"Košický";"non_covid";50
+"385";2021-04-29;"Krupina";"Banskobystrický";"non_covid";2
+"386";2021-04-29;"Kysucké Nové Mesto";"Žilinský";"covid";2
+"387";2021-04-29;"Kysucké Nové Mesto";"Žilinský";"non_covid";8
+"388";2021-04-29;"Levice";"Nitriansky";"covid";1
+"389";2021-04-29;"Levice";"Nitriansky";"non_covid";21
+"390";2021-04-29;"Levoča";"Prešovský";"covid";3
+"391";2021-04-29;"Levoča";"Prešovský";"non_covid";9
+"392";2021-04-29;"Liptovský Mikuláš";"Žilinský";"non_covid";16
+"393";2021-04-29;"Lučenec";"Banskobystrický";"covid";1
+"394";2021-04-29;"Lučenec";"Banskobystrický";"non_covid";15
+"395";2021-04-29;"Malacky";"Bratislavský";"non_covid";11
+"396";2021-04-29;"Martin";"Žilinský";"covid";4
+"397";2021-04-29;"Martin";"Žilinský";"non_covid";24
+"398";2021-04-29;"Medzilaborce";"Prešovský";"non_covid";4
+"399";2021-04-29;"Michalovce";"Košický";"covid";5
+"400";2021-04-29;"Michalovce";"Košický";"non_covid";37
+"401";2021-04-29;"Myjava";"Trenčiansky";"non_covid";8
+"402";2021-04-29;"Námestovo";"Žilinský";"covid";2
+"403";2021-04-29;"Námestovo";"Žilinský";"non_covid";11
+"404";2021-04-29;"Nitra";"Nitriansky";"non_covid";33
+"405";2021-04-29;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";13
+"406";2021-04-29;"Nové Zámky";"Nitriansky";"covid";2
+"407";2021-04-29;"Nové Zámky";"Nitriansky";"non_covid";21
+"408";2021-04-29;"Partizánske";"Trenčiansky";"covid";1
+"409";2021-04-29;"Partizánske";"Trenčiansky";"non_covid";10
+"410";2021-04-29;"Pezinok";"Bratislavský";"covid";1
+"411";2021-04-29;"Pezinok";"Bratislavský";"non_covid";9
+"412";2021-04-29;"Piešťany";"Trnavský";"covid";1
+"413";2021-04-29;"Piešťany";"Trnavský";"non_covid";12
+"414";2021-04-29;"Poltár";"Banskobystrický";"covid";1
+"415";2021-04-29;"Poltár";"Banskobystrický";"non_covid";4
+"416";2021-04-29;"Poprad";"Prešovský";"covid";1
+"417";2021-04-29;"Poprad";"Prešovský";"non_covid";31
+"418";2021-04-29;"Považská Bystrica";"Trenčiansky";"non_covid";15
+"419";2021-04-29;"Prešov";"Prešovský";"covid";2
+"420";2021-04-29;"Prešov";"Prešovský";"non_covid";47
+"421";2021-04-29;"Prievidza";"Trenčiansky";"covid";1
+"422";2021-04-29;"Prievidza";"Trenčiansky";"non_covid";30
+"423";2021-04-29;"Púchov";"Trenčiansky";"covid";1
+"424";2021-04-29;"Púchov";"Trenčiansky";"non_covid";10
+"425";2021-04-29;"Revúca";"Banskobystrický";"covid";1
+"426";2021-04-29;"Revúca";"Banskobystrický";"non_covid";9
+"427";2021-04-29;"Rimavská Sobota";"Banskobystrický";"non_covid";21
+"428";2021-04-29;"Rožňava";"Košický";"covid";2
+"429";2021-04-29;"Rožňava";"Košický";"non_covid";19
+"430";2021-04-29;"Ružomberok";"Žilinský";"non_covid";8
+"431";2021-04-29;"Sabinov";"Prešovský";"covid";1
+"432";2021-04-29;"Sabinov";"Prešovský";"non_covid";13
+"433";2021-04-29;"Senec";"Bratislavský";"non_covid";22
+"434";2021-04-29;"Senica";"Trnavský";"non_covid";7
+"435";2021-04-29;"Skalica";"Trnavský";"non_covid";6
+"436";2021-04-29;"Snina";"Prešovský";"non_covid";9
+"437";2021-04-29;"Sobrance";"Košický";"covid";3
+"438";2021-04-29;"Spišská Nová Ves";"Košický";"covid";2
+"439";2021-04-29;"Spišská Nová Ves";"Košický";"non_covid";24
+"440";2021-04-29;"Stará Ľubovňa";"Prešovský";"non_covid";8
+"441";2021-04-29;"Stropkov";"Prešovský";"non_covid";3
+"442";2021-04-29;"Svidník";"Prešovský";"covid";1
+"443";2021-04-29;"Svidník";"Prešovský";"non_covid";4
+"444";2021-04-29;"Šaľa";"Nitriansky";"non_covid";8
+"445";2021-04-29;"Topoľčany";"Nitriansky";"covid";1
+"446";2021-04-29;"Topoľčany";"Nitriansky";"non_covid";17
+"447";2021-04-29;"Trebišov";"Košický";"covid";2
+"448";2021-04-29;"Trebišov";"Košický";"non_covid";32
+"449";2021-04-29;"Trenčín";"Trenčiansky";"covid";1
+"450";2021-04-29;"Trenčín";"Trenčiansky";"non_covid";26
+"451";2021-04-29;"Trnava";"Trnavský";"non_covid";26
+"452";2021-04-29;"Turčianske Teplice";"Žilinský";"non_covid";3
+"453";2021-04-29;"Tvrdošín";"Žilinský";"non_covid";2
+"454";2021-04-29;"Veľký Krtíš";"Banskobystrický";"non_covid";11
+"455";2021-04-29;"Vranov nad Topľou";"Prešovský";"covid";3
+"456";2021-04-29;"Vranov nad Topľou";"Prešovský";"non_covid";20
+"457";2021-04-29;"Zlaté Moravce";"Nitriansky";"non_covid";6
+"458";2021-04-29;"Zvolen";"Banskobystrický";"non_covid";11
+"459";2021-04-29;"Žarnovica";"Banskobystrický";"non_covid";4
+"460";2021-04-29;"Žiar nad Hronom";"Banskobystrický";"non_covid";10
+"461";2021-04-29;"Žilina";"Žilinský";"non_covid";30
+"462";2021-04-29;NA;NA;"covid";7
+"463";2021-04-29;NA;NA;"non_covid";156
+"464";2021-04-30;"Bánovce nad Bebravou";"Trenčiansky";"covid";1
+"465";2021-04-30;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";3
+"466";2021-04-30;"Banská Bystrica";"Banskobystrický";"covid";1
+"467";2021-04-30;"Banská Bystrica";"Banskobystrický";"non_covid";21
+"468";2021-04-30;"Banská Štiavnica";"Banskobystrický";"non_covid";6
+"469";2021-04-30;"Bardejov";"Prešovský";"covid";3
+"470";2021-04-30;"Bardejov";"Prešovský";"non_covid";23
+"471";2021-04-30;"Bratislava I";"Bratislavský";"non_covid";109
+"472";2021-04-30;"Brezno";"Banskobystrický";"non_covid";14
+"473";2021-04-30;"Bytča";"Žilinský";"covid";1
+"474";2021-04-30;"Bytča";"Žilinský";"non_covid";3
+"475";2021-04-30;"Čadca";"Žilinský";"covid";4
+"476";2021-04-30;"Čadca";"Žilinský";"non_covid";25
+"477";2021-04-30;"Detva";"Banskobystrický";"non_covid";5
+"478";2021-04-30;"Dolný Kubín";"Žilinský";"non_covid";5
+"479";2021-04-30;"Dunajská Streda";"Trnavský";"covid";2
+"480";2021-04-30;"Dunajská Streda";"Trnavský";"non_covid";32
+"481";2021-04-30;"Galanta";"Trnavský";"covid";4
+"482";2021-04-30;"Galanta";"Trnavský";"non_covid";22
+"483";2021-04-30;"Gelnica";"Košický";"covid";1
+"484";2021-04-30;"Gelnica";"Košický";"non_covid";4
+"485";2021-04-30;"Hlohovec";"Trnavský";"non_covid";13
+"486";2021-04-30;"Humenné";"Prešovský";"covid";3
+"487";2021-04-30;"Humenné";"Prešovský";"non_covid";12
+"488";2021-04-30;"Ilava";"Trenčiansky";"covid";1
+"489";2021-04-30;"Ilava";"Trenčiansky";"non_covid";19
+"490";2021-04-30;"Kežmarok";"Prešovský";"covid";2
+"491";2021-04-30;"Kežmarok";"Prešovský";"non_covid";22
+"492";2021-04-30;"Komárno";"Nitriansky";"non_covid";25
+"493";2021-04-30;"Košice - okolie";"Košický";"covid";1
+"494";2021-04-30;"Košice - okolie";"Košický";"non_covid";29
+"495";2021-04-30;"Košice I";"Košický";"non_covid";67
+"496";2021-04-30;"Krupina";"Banskobystrický";"non_covid";4
+"497";2021-04-30;"Kysucké Nové Mesto";"Žilinský";"covid";1
+"498";2021-04-30;"Kysucké Nové Mesto";"Žilinský";"non_covid";9
+"499";2021-04-30;"Levice";"Nitriansky";"non_covid";22
+"500";2021-04-30;"Levoča";"Prešovský";"covid";1
+"501";2021-04-30;"Levoča";"Prešovský";"non_covid";6
+"502";2021-04-30;"Liptovský Mikuláš";"Žilinský";"covid";1
+"503";2021-04-30;"Liptovský Mikuláš";"Žilinský";"non_covid";24
+"504";2021-04-30;"Lučenec";"Banskobystrický";"covid";1
+"505";2021-04-30;"Lučenec";"Banskobystrický";"non_covid";23
+"506";2021-04-30;"Malacky";"Bratislavský";"non_covid";19
+"507";2021-04-30;"Martin";"Žilinský";"covid";1
+"508";2021-04-30;"Martin";"Žilinský";"non_covid";29
+"509";2021-04-30;"Medzilaborce";"Prešovský";"non_covid";6
+"510";2021-04-30;"Michalovce";"Košický";"covid";1
+"511";2021-04-30;"Michalovce";"Košický";"non_covid";46
+"512";2021-04-30;"Myjava";"Trenčiansky";"non_covid";7
+"513";2021-04-30;"Námestovo";"Žilinský";"covid";1
+"514";2021-04-30;"Námestovo";"Žilinský";"non_covid";11
+"515";2021-04-30;"Nitra";"Nitriansky";"covid";1
+"516";2021-04-30;"Nitra";"Nitriansky";"non_covid";42
+"517";2021-04-30;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
+"518";2021-04-30;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";19
+"519";2021-04-30;"Nové Zámky";"Nitriansky";"covid";2
+"520";2021-04-30;"Nové Zámky";"Nitriansky";"non_covid";16
+"521";2021-04-30;"Partizánske";"Trenčiansky";"non_covid";9
+"522";2021-04-30;"Pezinok";"Bratislavský";"non_covid";8
+"523";2021-04-30;"Piešťany";"Trnavský";"covid";2
+"524";2021-04-30;"Piešťany";"Trnavský";"non_covid";18
+"525";2021-04-30;"Poltár";"Banskobystrický";"non_covid";7
+"526";2021-04-30;"Poprad";"Prešovský";"covid";1
+"527";2021-04-30;"Poprad";"Prešovský";"non_covid";31
+"528";2021-04-30;"Považská Bystrica";"Trenčiansky";"non_covid";20
+"529";2021-04-30;"Prešov";"Prešovský";"covid";2
+"530";2021-04-30;"Prešov";"Prešovský";"non_covid";35
+"531";2021-04-30;"Prievidza";"Trenčiansky";"covid";1
+"532";2021-04-30;"Prievidza";"Trenčiansky";"non_covid";37
+"533";2021-04-30;"Púchov";"Trenčiansky";"non_covid";8
+"534";2021-04-30;"Revúca";"Banskobystrický";"covid";1
+"535";2021-04-30;"Revúca";"Banskobystrický";"non_covid";16
+"536";2021-04-30;"Rimavská Sobota";"Banskobystrický";"covid";1
+"537";2021-04-30;"Rimavská Sobota";"Banskobystrický";"non_covid";26
+"538";2021-04-30;"Rožňava";"Košický";"non_covid";16
+"539";2021-04-30;"Ružomberok";"Žilinský";"covid";1
+"540";2021-04-30;"Ružomberok";"Žilinský";"non_covid";24
+"541";2021-04-30;"Sabinov";"Prešovský";"covid";1
+"542";2021-04-30;"Sabinov";"Prešovský";"non_covid";12
+"543";2021-04-30;"Senec";"Bratislavský";"non_covid";24
+"544";2021-04-30;"Senica";"Trnavský";"non_covid";11
+"545";2021-04-30;"Skalica";"Trnavský";"non_covid";7
+"546";2021-04-30;"Snina";"Prešovský";"covid";1
+"547";2021-04-30;"Snina";"Prešovský";"non_covid";8
+"548";2021-04-30;"Sobrance";"Košický";"covid";1
+"549";2021-04-30;"Sobrance";"Košický";"non_covid";9
+"550";2021-04-30;"Spišská Nová Ves";"Košický";"covid";5
+"551";2021-04-30;"Spišská Nová Ves";"Košický";"non_covid";17
+"552";2021-04-30;"Stará Ľubovňa";"Prešovský";"covid";1
+"553";2021-04-30;"Stará Ľubovňa";"Prešovský";"non_covid";15
+"554";2021-04-30;"Stropkov";"Prešovský";"non_covid";10
+"555";2021-04-30;"Svidník";"Prešovský";"non_covid";7
+"556";2021-04-30;"Šaľa";"Nitriansky";"non_covid";15
+"557";2021-04-30;"Topoľčany";"Nitriansky";"non_covid";14
+"558";2021-04-30;"Trebišov";"Košický";"covid";1
+"559";2021-04-30;"Trebišov";"Košický";"non_covid";40
+"560";2021-04-30;"Trenčín";"Trenčiansky";"covid";2
+"561";2021-04-30;"Trenčín";"Trenčiansky";"non_covid";21
+"562";2021-04-30;"Trnava";"Trnavský";"non_covid";30
+"563";2021-04-30;"Turčianske Teplice";"Žilinský";"non_covid";4
+"564";2021-04-30;"Tvrdošín";"Žilinský";"non_covid";4
+"565";2021-04-30;"Veľký Krtíš";"Banskobystrický";"covid";4
+"566";2021-04-30;"Veľký Krtíš";"Banskobystrický";"non_covid";8
+"567";2021-04-30;"Vranov nad Topľou";"Prešovský";"covid";6
+"568";2021-04-30;"Vranov nad Topľou";"Prešovský";"non_covid";21
+"569";2021-04-30;"Zlaté Moravce";"Nitriansky";"non_covid";7
+"570";2021-04-30;"Zvolen";"Banskobystrický";"covid";1
+"571";2021-04-30;"Zvolen";"Banskobystrický";"non_covid";18
+"572";2021-04-30;"Žarnovica";"Banskobystrický";"non_covid";7
+"573";2021-04-30;"Žiar nad Hronom";"Banskobystrický";"non_covid";15
+"574";2021-04-30;"Žilina";"Žilinský";"covid";1
+"575";2021-04-30;"Žilina";"Žilinský";"non_covid";45
+"576";2021-04-30;NA;NA;"covid";9
+"577";2021-04-30;NA;NA;"non_covid";190
+"578";2021-05-01;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";4
+"579";2021-05-01;"Banská Bystrica";"Banskobystrický";"covid";1
+"580";2021-05-01;"Banská Bystrica";"Banskobystrický";"non_covid";14
+"581";2021-05-01;"Banská Štiavnica";"Banskobystrický";"covid";2
+"582";2021-05-01;"Banská Štiavnica";"Banskobystrický";"non_covid";4
+"583";2021-05-01;"Bardejov";"Prešovský";"covid";1
+"584";2021-05-01;"Bardejov";"Prešovský";"non_covid";14
+"585";2021-05-01;"Bratislava I";"Bratislavský";"covid";3
+"586";2021-05-01;"Bratislava I";"Bratislavský";"non_covid";90
+"587";2021-05-01;"Brezno";"Banskobystrický";"covid";1
+"588";2021-05-01;"Brezno";"Banskobystrický";"non_covid";13
+"589";2021-05-01;"Bytča";"Žilinský";"non_covid";5
+"590";2021-05-01;"Čadca";"Žilinský";"covid";1
+"591";2021-05-01;"Čadca";"Žilinský";"non_covid";26
+"592";2021-05-01;"Detva";"Banskobystrický";"covid";1
+"593";2021-05-01;"Detva";"Banskobystrický";"non_covid";11
+"594";2021-05-01;"Dolný Kubín";"Žilinský";"non_covid";10
+"595";2021-05-01;"Dunajská Streda";"Trnavský";"covid";1
+"596";2021-05-01;"Dunajská Streda";"Trnavský";"non_covid";29
+"597";2021-05-01;"Galanta";"Trnavský";"covid";1
+"598";2021-05-01;"Galanta";"Trnavský";"non_covid";29
+"599";2021-05-01;"Gelnica";"Košický";"covid";2
+"600";2021-05-01;"Gelnica";"Košický";"non_covid";10
+"601";2021-05-01;"Hlohovec";"Trnavský";"non_covid";11
+"602";2021-05-01;"Humenné";"Prešovský";"non_covid";13
+"603";2021-05-01;"Ilava";"Trenčiansky";"covid";1
+"604";2021-05-01;"Ilava";"Trenčiansky";"non_covid";12
+"605";2021-05-01;"Kežmarok";"Prešovský";"covid";2
+"606";2021-05-01;"Kežmarok";"Prešovský";"non_covid";22
+"607";2021-05-01;"Komárno";"Nitriansky";"non_covid";21
+"608";2021-05-01;"Košice - okolie";"Košický";"non_covid";40
+"609";2021-05-01;"Košice I";"Košický";"covid";2
+"610";2021-05-01;"Košice I";"Košický";"non_covid";78
+"611";2021-05-01;"Krupina";"Banskobystrický";"non_covid";7
+"612";2021-05-01;"Kysucké Nové Mesto";"Žilinský";"covid";1
+"613";2021-05-01;"Kysucké Nové Mesto";"Žilinský";"non_covid";7
+"614";2021-05-01;"Levice";"Nitriansky";"non_covid";22
+"615";2021-05-01;"Levoča";"Prešovský";"covid";3
+"616";2021-05-01;"Levoča";"Prešovský";"non_covid";11
+"617";2021-05-01;"Liptovský Mikuláš";"Žilinský";"non_covid";28
+"618";2021-05-01;"Lučenec";"Banskobystrický";"covid";2
+"619";2021-05-01;"Lučenec";"Banskobystrický";"non_covid";9
+"620";2021-05-01;"Malacky";"Bratislavský";"non_covid";20
+"621";2021-05-01;"Martin";"Žilinský";"non_covid";24
+"622";2021-05-01;"Medzilaborce";"Prešovský";"covid";1
+"623";2021-05-01;"Medzilaborce";"Prešovský";"non_covid";5
+"624";2021-05-01;"Michalovce";"Košický";"covid";3
+"625";2021-05-01;"Michalovce";"Košický";"non_covid";48
+"626";2021-05-01;"Myjava";"Trenčiansky";"non_covid";8
+"627";2021-05-01;"Námestovo";"Žilinský";"non_covid";12
+"628";2021-05-01;"Nitra";"Nitriansky";"covid";1
+"629";2021-05-01;"Nitra";"Nitriansky";"non_covid";38
+"630";2021-05-01;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
+"631";2021-05-01;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";28
+"632";2021-05-01;"Nové Zámky";"Nitriansky";"non_covid";23
+"633";2021-05-01;"Partizánske";"Trenčiansky";"covid";1
+"634";2021-05-01;"Partizánske";"Trenčiansky";"non_covid";17
+"635";2021-05-01;"Pezinok";"Bratislavský";"covid";1
+"636";2021-05-01;"Pezinok";"Bratislavský";"non_covid";6
+"637";2021-05-01;"Piešťany";"Trnavský";"covid";1
+"638";2021-05-01;"Piešťany";"Trnavský";"non_covid";24
+"639";2021-05-01;"Poltár";"Banskobystrický";"covid";1
+"640";2021-05-01;"Poltár";"Banskobystrický";"non_covid";5
+"641";2021-05-01;"Poprad";"Prešovský";"non_covid";25
+"642";2021-05-01;"Považská Bystrica";"Trenčiansky";"non_covid";17
+"643";2021-05-01;"Prešov";"Prešovský";"covid";3
+"644";2021-05-01;"Prešov";"Prešovský";"non_covid";49
+"645";2021-05-01;"Prievidza";"Trenčiansky";"non_covid";38
+"646";2021-05-01;"Púchov";"Trenčiansky";"non_covid";12
+"647";2021-05-01;"Revúca";"Banskobystrický";"covid";1
+"648";2021-05-01;"Revúca";"Banskobystrický";"non_covid";13
+"649";2021-05-01;"Rimavská Sobota";"Banskobystrický";"covid";1
+"650";2021-05-01;"Rimavská Sobota";"Banskobystrický";"non_covid";31
+"651";2021-05-01;"Rožňava";"Košický";"covid";2
+"652";2021-05-01;"Rožňava";"Košický";"non_covid";18
+"653";2021-05-01;"Ružomberok";"Žilinský";"non_covid";13
+"654";2021-05-01;"Sabinov";"Prešovský";"covid";3
+"655";2021-05-01;"Sabinov";"Prešovský";"non_covid";21
+"656";2021-05-01;"Senec";"Bratislavský";"non_covid";25
+"657";2021-05-01;"Senica";"Trnavský";"covid";2
+"658";2021-05-01;"Senica";"Trnavský";"non_covid";19
+"659";2021-05-01;"Skalica";"Trnavský";"covid";1
+"660";2021-05-01;"Skalica";"Trnavský";"non_covid";19
+"661";2021-05-01;"Snina";"Prešovský";"covid";1
+"662";2021-05-01;"Snina";"Prešovský";"non_covid";10
+"663";2021-05-01;"Sobrance";"Košický";"covid";2
+"664";2021-05-01;"Sobrance";"Košický";"non_covid";2
+"665";2021-05-01;"Spišská Nová Ves";"Košický";"covid";2
+"666";2021-05-01;"Spišská Nová Ves";"Košický";"non_covid";13
+"667";2021-05-01;"Stará Ľubovňa";"Prešovský";"covid";2
+"668";2021-05-01;"Stará Ľubovňa";"Prešovský";"non_covid";15
+"669";2021-05-01;"Stropkov";"Prešovský";"non_covid";8
+"670";2021-05-01;"Svidník";"Prešovský";"non_covid";7
+"671";2021-05-01;"Šaľa";"Nitriansky";"non_covid";6
+"672";2021-05-01;"Topoľčany";"Nitriansky";"covid";1
+"673";2021-05-01;"Topoľčany";"Nitriansky";"non_covid";10
+"674";2021-05-01;"Trebišov";"Košický";"non_covid";50
+"675";2021-05-01;"Trenčín";"Trenčiansky";"covid";3
+"676";2021-05-01;"Trenčín";"Trenčiansky";"non_covid";29
+"677";2021-05-01;"Trnava";"Trnavský";"covid";1
+"678";2021-05-01;"Trnava";"Trnavský";"non_covid";29
+"679";2021-05-01;"Turčianske Teplice";"Žilinský";"covid";1
+"680";2021-05-01;"Turčianske Teplice";"Žilinský";"non_covid";9
+"681";2021-05-01;"Tvrdošín";"Žilinský";"non_covid";1
+"682";2021-05-01;"Veľký Krtíš";"Banskobystrický";"covid";1
+"683";2021-05-01;"Veľký Krtíš";"Banskobystrický";"non_covid";14
+"684";2021-05-01;"Vranov nad Topľou";"Prešovský";"covid";3
+"685";2021-05-01;"Vranov nad Topľou";"Prešovský";"non_covid";10
+"686";2021-05-01;"Zlaté Moravce";"Nitriansky";"non_covid";13
+"687";2021-05-01;"Zvolen";"Banskobystrický";"non_covid";13
+"688";2021-05-01;"Žarnovica";"Banskobystrický";"non_covid";12
+"689";2021-05-01;"Žiar nad Hronom";"Banskobystrický";"covid";1
+"690";2021-05-01;"Žiar nad Hronom";"Banskobystrický";"non_covid";20
+"691";2021-05-01;"Žilina";"Žilinský";"covid";2
+"692";2021-05-01;"Žilina";"Žilinský";"non_covid";38
+"693";2021-05-01;NA;NA;"covid";1
+"694";2021-05-01;NA;NA;"non_covid";66
+"695";2021-05-02;"Bánovce nad Bebravou";"Trenčiansky";"covid";1
+"696";2021-05-02;"Bánovce nad Bebravou";"Trenčiansky";"non_covid";11
+"697";2021-05-02;"Banská Bystrica";"Banskobystrický";"covid";2
+"698";2021-05-02;"Banská Bystrica";"Banskobystrický";"non_covid";22
+"699";2021-05-02;"Banská Štiavnica";"Banskobystrický";"covid";1
+"700";2021-05-02;"Banská Štiavnica";"Banskobystrický";"non_covid";3
+"701";2021-05-02;"Bardejov";"Prešovský";"covid";2
+"702";2021-05-02;"Bardejov";"Prešovský";"non_covid";18
+"703";2021-05-02;"Bratislava I";"Bratislavský";"covid";4
+"704";2021-05-02;"Bratislava I";"Bratislavský";"non_covid";84
+"705";2021-05-02;"Brezno";"Banskobystrický";"non_covid";16
+"706";2021-05-02;"Bytča";"Žilinský";"non_covid";4
+"707";2021-05-02;"Čadca";"Žilinský";"covid";3
+"708";2021-05-02;"Čadca";"Žilinský";"non_covid";26
+"709";2021-05-02;"Detva";"Banskobystrický";"non_covid";5
+"710";2021-05-02;"Dolný Kubín";"Žilinský";"non_covid";4
+"711";2021-05-02;"Dunajská Streda";"Trnavský";"non_covid";21
+"712";2021-05-02;"Galanta";"Trnavský";"covid";1
+"713";2021-05-02;"Galanta";"Trnavský";"non_covid";26
+"714";2021-05-02;"Gelnica";"Košický";"non_covid";15
+"715";2021-05-02;"Hlohovec";"Trnavský";"covid";1
+"716";2021-05-02;"Hlohovec";"Trnavský";"non_covid";5
+"717";2021-05-02;"Humenné";"Prešovský";"covid";3
+"718";2021-05-02;"Humenné";"Prešovský";"non_covid";11
+"719";2021-05-02;"Ilava";"Trenčiansky";"covid";1
+"720";2021-05-02;"Ilava";"Trenčiansky";"non_covid";15
+"721";2021-05-02;"Kežmarok";"Prešovský";"covid";2
+"722";2021-05-02;"Kežmarok";"Prešovský";"non_covid";16
+"723";2021-05-02;"Komárno";"Nitriansky";"covid";3
+"724";2021-05-02;"Komárno";"Nitriansky";"non_covid";18
+"725";2021-05-02;"Košice - okolie";"Košický";"covid";2
+"726";2021-05-02;"Košice - okolie";"Košický";"non_covid";28
+"727";2021-05-02;"Košice I";"Košický";"covid";2
+"728";2021-05-02;"Košice I";"Košický";"non_covid";57
+"729";2021-05-02;"Krupina";"Banskobystrický";"non_covid";2
+"730";2021-05-02;"Kysucké Nové Mesto";"Žilinský";"covid";2
+"731";2021-05-02;"Kysucké Nové Mesto";"Žilinský";"non_covid";6
+"732";2021-05-02;"Levice";"Nitriansky";"covid";2
+"733";2021-05-02;"Levice";"Nitriansky";"non_covid";24
+"734";2021-05-02;"Levoča";"Prešovský";"covid";1
+"735";2021-05-02;"Levoča";"Prešovský";"non_covid";6
+"736";2021-05-02;"Liptovský Mikuláš";"Žilinský";"covid";1
+"737";2021-05-02;"Liptovský Mikuláš";"Žilinský";"non_covid";15
+"738";2021-05-02;"Lučenec";"Banskobystrický";"covid";1
+"739";2021-05-02;"Lučenec";"Banskobystrický";"non_covid";16
+"740";2021-05-02;"Malacky";"Bratislavský";"non_covid";21
+"741";2021-05-02;"Martin";"Žilinský";"covid";1
+"742";2021-05-02;"Martin";"Žilinský";"non_covid";40
+"743";2021-05-02;"Medzilaborce";"Prešovský";"non_covid";8
+"744";2021-05-02;"Michalovce";"Košický";"covid";1
+"745";2021-05-02;"Michalovce";"Košický";"non_covid";55
+"746";2021-05-02;"Myjava";"Trenčiansky";"non_covid";4
+"747";2021-05-02;"Námestovo";"Žilinský";"covid";1
+"748";2021-05-02;"Námestovo";"Žilinský";"non_covid";5
+"749";2021-05-02;"Nitra";"Nitriansky";"non_covid";32
+"750";2021-05-02;"Nové Mesto nad Váhom";"Trenčiansky";"covid";1
+"751";2021-05-02;"Nové Mesto nad Váhom";"Trenčiansky";"non_covid";15
+"752";2021-05-02;"Nové Zámky";"Nitriansky";"covid";1
+"753";2021-05-02;"Nové Zámky";"Nitriansky";"non_covid";25
+"754";2021-05-02;"Partizánske";"Trenčiansky";"covid";1
+"755";2021-05-02;"Partizánske";"Trenčiansky";"non_covid";10
+"756";2021-05-02;"Pezinok";"Bratislavský";"covid";2
+"757";2021-05-02;"Pezinok";"Bratislavský";"non_covid";7
+"758";2021-05-02;"Piešťany";"Trnavský";"non_covid";8
+"759";2021-05-02;"Poltár";"Banskobystrický";"non_covid";6
+"760";2021-05-02;"Poprad";"Prešovský";"covid";2
+"761";2021-05-02;"Poprad";"Prešovský";"non_covid";26
+"762";2021-05-02;"Považská Bystrica";"Trenčiansky";"covid";1
+"763";2021-05-02;"Považská Bystrica";"Trenčiansky";"non_covid";15
+"764";2021-05-02;"Prešov";"Prešovský";"covid";2
+"765";2021-05-02;"Prešov";"Prešovský";"non_covid";54
+"766";2021-05-02;"Prievidza";"Trenčiansky";"non_covid";34
+"767";2021-05-02;"Púchov";"Trenčiansky";"non_covid";6
+"768";2021-05-02;"Revúca";"Banskobystrický";"non_covid";19
+"769";2021-05-02;"Rimavská Sobota";"Banskobystrický";"covid";2
+"770";2021-05-02;"Rimavská Sobota";"Banskobystrický";"non_covid";24
+"771";2021-05-02;"Rožňava";"Košický";"covid";1
+"772";2021-05-02;"Rožňava";"Košický";"non_covid";14
+"773";2021-05-02;"Ružomberok";"Žilinský";"covid";1
+"774";2021-05-02;"Ružomberok";"Žilinský";"non_covid";19
+"775";2021-05-02;"Sabinov";"Prešovský";"covid";2
+"776";2021-05-02;"Sabinov";"Prešovský";"non_covid";13
+"777";2021-05-02;"Senec";"Bratislavský";"covid";2
+"778";2021-05-02;"Senec";"Bratislavský";"non_covid";19
+"779";2021-05-02;"Senica";"Trnavský";"covid";1
+"780";2021-05-02;"Senica";"Trnavský";"non_covid";17
+"781";2021-05-02;"Skalica";"Trnavský";"covid";2
+"782";2021-05-02;"Skalica";"Trnavský";"non_covid";5
+"783";2021-05-02;"Snina";"Prešovský";"non_covid";9
+"784";2021-05-02;"Sobrance";"Košický";"non_covid";10
+"785";2021-05-02;"Spišská Nová Ves";"Košický";"covid";3
+"786";2021-05-02;"Spišská Nová Ves";"Košický";"non_covid";15
+"787";2021-05-02;"Stará Ľubovňa";"Prešovský";"covid";1
+"788";2021-05-02;"Stará Ľubovňa";"Prešovský";"non_covid";12
+"789";2021-05-02;"Stropkov";"Prešovský";"covid";2
+"790";2021-05-02;"Stropkov";"Prešovský";"non_covid";8
+"791";2021-05-02;"Svidník";"Prešovský";"non_covid";3
+"792";2021-05-02;"Šaľa";"Nitriansky";"non_covid";6
+"793";2021-05-02;"Topoľčany";"Nitriansky";"non_covid";19
+"794";2021-05-02;"Trebišov";"Košický";"covid";1
+"795";2021-05-02;"Trebišov";"Košický";"non_covid";36
+"796";2021-05-02;"Trenčín";"Trenčiansky";"non_covid";25
+"797";2021-05-02;"Trnava";"Trnavský";"covid";1
+"798";2021-05-02;"Trnava";"Trnavský";"non_covid";39
+"799";2021-05-02;"Turčianske Teplice";"Žilinský";"non_covid";6
+"800";2021-05-02;"Tvrdošín";"Žilinský";"covid";1
+"801";2021-05-02;"Tvrdošín";"Žilinský";"non_covid";3
+"802";2021-05-02;"Veľký Krtíš";"Banskobystrický";"covid";1
+"803";2021-05-02;"Veľký Krtíš";"Banskobystrický";"non_covid";11
+"804";2021-05-02;"Vranov nad Topľou";"Prešovský";"covid";1
+"805";2021-05-02;"Vranov nad Topľou";"Prešovský";"non_covid";17
+"806";2021-05-02;"Zlaté Moravce";"Nitriansky";"non_covid";8
+"807";2021-05-02;"Zvolen";"Banskobystrický";"non_covid";11
+"808";2021-05-02;"Žarnovica";"Banskobystrický";"non_covid";5
+"809";2021-05-02;"Žiar nad Hronom";"Banskobystrický";"covid";1
+"810";2021-05-02;"Žiar nad Hronom";"Banskobystrický";"non_covid";9
+"811";2021-05-02;"Žilina";"Žilinský";"covid";3
+"812";2021-05-02;"Žilina";"Žilinský";"non_covid";30
+"813";2021-05-02;NA;NA;"covid";3
+"814";2021-05-02;NA;NA;"non_covid";48
