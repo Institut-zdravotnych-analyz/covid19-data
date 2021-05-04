@@ -20,8 +20,8 @@ Date;Units;Doses;Status;Status update;Vaccine
 19.4.2021;63;73710;Delivered;;Pfizer
 26.4.2021;113;132210;Delivered;;Pfizer
 3.5.2021;174;203580;Confirmed;23.4.2021;Pfizer
-10.5.2021;174;203580;Planned;15.4.2021;Pfizer
-17.5.2021;176;205920;Planned;15.4.2021;Pfizer
+10.5.2021;174;203580;Confirmed;15.4.2021;Pfizer
+17.5.2021;176;205920;Confirmed;15.4.2021;Pfizer
 24.5.2021;176;205920;Planned;15.4.2021;Pfizer
 31.5.2021;195;228150;Planned;15.4.2021;Pfizer
 7.6.2021;196;229320;Planned;15.4.2021;Pfizer
@@ -36,8 +36,8 @@ Date;Units;Doses;Status;Status update;Vaccine
 8.4.2021;384;38400;Delivered;;Moderna
 25.4.2021;216;21600;Delivered;16.4.2021;Moderna
 23.4.2021;0;-10000;Gift to CZ;;Moderna
-29.4.2021;0;25200;Confirmed;23.4.2021;Moderna
-6.5.2021;0;36000;Planned;16.4.2021;Moderna
+29.4.2021;0;25200;Delivered;30.4.2021;Moderna
+6.5.2021;0;36000;Confirmed;30.4.2021;Moderna
 13.5.2021;0;36000;Planned;16.4.2021;Moderna
 20.5.2021;0;36000;Planned;16.4.2021;Moderna
 27.5.2021;0;36000;Planned;16.4.2021;Moderna
@@ -55,12 +55,12 @@ Date;Units;Doses;Status;Status update;Vaccine
 18.3.2021;1200;12000;Delivered;;AstraZeneca
 25.3.2021;1200;12000;Delivered;;AstraZeneca
 1.4.2021;12000;120000;Delivered;;AstraZeneca
-8.4.2021;0;16800;Delivered;;AstraZeneca
+8.4.2021;1680;16800;Delivered;;AstraZeneca
 15.4.2021;0;0;Delivered;;AstraZeneca
-19.4.2021;0;40800;Delivered;;AstraZeneca
-26.4.2021;0;12000;Delivered;;AstraZeneca
-4.5.2021;0;50000;Assumption;;AstraZeneca
-11.5.2021;0;50000;Assumption;;AstraZeneca
+19.4.2021;4080;40800;Delivered;;AstraZeneca
+26.4.2021;1200;12000;Delivered;;AstraZeneca
+30.4.2021;0;180000;Delivered;3.5.2021;AstraZeneca
+11.5.2021;0;33000;Assumption;26.4.2021;AstraZeneca
 18.5.2021;0;50000;Assumption;;AstraZeneca
 25.5.2021;0;50000;Assumption;;AstraZeneca
 1.6.2021;0;50000;Assumption;;AstraZeneca
@@ -69,7 +69,7 @@ Date;Units;Doses;Status;Status update;Vaccine
 22.6.2021;0;50000;Assumption;;AstraZeneca
 29.6.2021;0;50000;Assumption;;AstraZeneca
 14.4.2021;0;9600;Delivered;;J&J
-29.4.2021;0;6500;Confirmed;23.4.2021;J&J
+29.4.2021;0;6500;Delivered;30.4.2021;J&J
 6.5.2021;0;10000;Assumption;;J&J
 13.5.2021;0;10000;Assumption;;J&J
 20.5.2021;0;10000;Assumption;;J&J
