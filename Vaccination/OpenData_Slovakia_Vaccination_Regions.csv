@@ -1,35 +1,84 @@
 "Date";"Region";"Region_code";"Vaccine_name";"first_dose";"second_dose"
-2021-06-18;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";90;0
-2021-06-17;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";288;2699
-2021-06-17;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";222;211
+2021-06-20;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";119;2655
+2021-06-20;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";572;761
+2021-06-20;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";328;32
+2021-06-20;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1810
+2021-06-20;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";690;2318
+2021-06-20;"Prešovský kraj";"SK041";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2819
+2021-06-20;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";248;462
+2021-06-20;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2420
+2021-06-20;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";416;765
+2021-06-20;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1131
+2021-06-19;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";111;3
+2021-06-19;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2656
+2021-06-19;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";1007;5277
+2021-06-19;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Moderna injekčná disperzia";94;577
+2021-06-19;"Bratislavský kraj";"SK010";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
+2021-06-19;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";1391;1710
+2021-06-19;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";434;486
+2021-06-19;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1890
+2021-06-19;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";657;1742
+2021-06-19;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";0;0
+2021-06-19;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";175;778
+2021-06-19;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;254
+2021-06-19;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1356;2362
+2021-06-19;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1813
+2021-06-18;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";482;1890
+2021-06-18;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";119;0
+2021-06-18;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";237;178
+2021-06-18;"Banskobystrický kraj";"SK032";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";0;0
+2021-06-18;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1268
+2021-06-18;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";203;2214
+2021-06-18;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Moderna injekčná disperzia";434;808
+2021-06-18;"Bratislavský kraj";"SK010";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";139;0
+2021-06-18;"Bratislavský kraj";"SK010";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;4250
+2021-06-18;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";347;2525
+2021-06-18;"Košický kraj";"SK042";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;102
+2021-06-18;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";1041;2870
+2021-06-18;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";109;12
+2021-06-18;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
+2021-06-18;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";731;2477
+2021-06-18;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";84;615
+2021-06-18;"Prešovský kraj";"SK041";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
+2021-06-18;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";437;1366
+2021-06-18;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";123;222
+2021-06-18;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
+2021-06-18;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";282;1015
+2021-06-18;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";167;75
+2021-06-18;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";762;1912
+2021-06-18;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";73;416
+2021-06-18;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;823
+2021-06-17;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";380;2869
+2021-06-17;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";312;211
 2021-06-17;"Banskobystrický kraj";"SK032";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";347;0
 2021-06-17;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;432
-2021-06-17;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";123;1059
+2021-06-17;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";402;2077
 2021-06-17;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Moderna injekčná disperzia";608;538
+2021-06-17;"Bratislavský kraj";"SK010";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";139;0
 2021-06-17;"Bratislavský kraj";"SK010";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;4076
-2021-06-17;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";483;1182
+2021-06-17;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";603;1742
 2021-06-17;"Košický kraj";"SK042";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;27
 2021-06-17;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";788;3186
 2021-06-17;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";107;14
 2021-06-17;"Nitriansky kraj";"SK023";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";0;0
 2021-06-17;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
-2021-06-17;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";944;2346
+2021-06-17;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";1063;2346
 2021-06-17;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";126;500
 2021-06-17;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";399;1244
-2021-06-17;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";53;319
+2021-06-17;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";112;446
 2021-06-17;"Trenčiansky kraj";"SK022";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";330;0
 2021-06-17;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;91
-2021-06-17;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";244;806
+2021-06-17;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";452;1300
 2021-06-17;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";224;242
-2021-06-17;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";378;1949
+2021-06-17;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";455;2328
 2021-06-17;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";59;418
-2021-06-17;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;490
+2021-06-17;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;922
 2021-06-16;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";378;2047
 2021-06-16;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";214;203
 2021-06-16;"Banskobystrický kraj";"SK032";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";0;0
 2021-06-16;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;90
-2021-06-16;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";560;1961
-2021-06-16;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Moderna injekčná disperzia";717;400
+2021-06-16;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";787;2454
+2021-06-16;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Moderna injekčná disperzia";794;598
 2021-06-16;"Bratislavský kraj";"SK010";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";137;0
 2021-06-16;"Bratislavský kraj";"SK010";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;77
 2021-06-16;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";432;1527
@@ -37,7 +86,7 @@
 2021-06-16;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";564;3129
 2021-06-16;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";115;6
 2021-06-16;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
-2021-06-16;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";727;2953
+2021-06-16;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";913;2953
 2021-06-16;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";84;315
 2021-06-16;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";710;1636
 2021-06-16;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";113;479
@@ -62,7 +111,7 @@
 2021-06-15;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";111;10
 2021-06-15;"Nitriansky kraj";"SK023";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";500;0
 2021-06-15;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
-2021-06-15;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";494;2758
+2021-06-15;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";494;2861
 2021-06-15;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";257;113
 2021-06-15;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";860;1366
 2021-06-15;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";128;490
@@ -87,7 +136,7 @@
 2021-06-14;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";33;99
 2021-06-14;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
 2021-06-14;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";748;2422
-2021-06-14;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";82;325
+2021-06-14;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";145;442
 2021-06-14;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";613;1318
 2021-06-14;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";32;396
 2021-06-14;"Trenčiansky kraj";"SK022";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";0;0
@@ -103,7 +152,7 @@
 2021-06-13;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";1568;2264
 2021-06-13;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";221;839
 2021-06-13;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2888
-2021-06-13;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";1229;390
+2021-06-13;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";2458;780
 2021-06-13;"Prešovský kraj";"SK041";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";654;0
 2021-06-13;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";1095;3187
 2021-06-13;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Moderna injekčná disperzia";7;483
@@ -120,7 +169,7 @@
 2021-06-12;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";1344;1836
 2021-06-12;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Moderna injekčná disperzia";27;873
 2021-06-12;"Nitriansky kraj";"SK023";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2050
-2021-06-12;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";421;4567
+2021-06-12;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";509;6077
 2021-06-12;"Prešovský kraj";"SK041";"COVID-19 Vaccine Moderna injekčná disperzia";0;0
 2021-06-12;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";1052;3952
 2021-06-12;"Trenčiansky kraj";"SK022";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";0;0
@@ -221,7 +270,7 @@
 2021-06-08;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;80
 2021-06-08;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";975;1180
 2021-06-08;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";438;14
-2021-06-08;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";679;2003
+2021-06-08;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";822;2296
 2021-06-08;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";327;258
 2021-06-08;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;198
 2021-06-07;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";353;1706
@@ -246,7 +295,7 @@
 2021-06-07;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;178
 2021-06-07;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";897;1104
 2021-06-07;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";433;38
-2021-06-07;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";862;3149
+2021-06-07;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";711;2857
 2021-06-07;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";208;270
 2021-06-07;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;208
 2021-06-06;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";211;1479
@@ -266,7 +315,7 @@
 2021-06-06;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";1370;3460
 2021-06-06;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";490;1930
 2021-06-06;"Trnavský kraj";"SK021";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";1;1051
-2021-06-06;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";225;603
+2021-06-06;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";376;895
 2021-06-06;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1009
 2021-06-05;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";131;1427
 2021-06-05;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1897
@@ -285,8 +334,8 @@
 2021-06-05;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2530
 2021-06-05;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";2151;1947
 2021-06-05;"Trnavský kraj";"SK021";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";7;5062
-2021-06-05;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1276;2413
-2021-06-05;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1405
+2021-06-05;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1148;2119
+2021-06-05;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;1401
 2021-06-04;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";867;820
 2021-06-04;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";350;70
 2021-06-04;"Banskobystrický kraj";"SK032";"Sputnik V(Gam-COVID-Vac) lag orig. 5x3 ml, komponenta I-rekombinantný ľudský adenovírus sérotypu 26,komponenta I-rekombinantný ľ";0;0
@@ -310,7 +359,7 @@
 2021-06-04;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";349;3
 2021-06-04;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1637;1094
 2021-06-04;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";88;233
-2021-06-04;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;733
+2021-06-04;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;436
 2021-06-03;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";2482;1008
 2021-06-03;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";327;100
 2021-06-03;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;440
@@ -393,7 +442,7 @@
 2021-05-31;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;92
 2021-05-31;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";1045;993
 2021-05-31;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";290;194
-2021-05-31;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1112;1558
+2021-05-31;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1139;1827
 2021-05-31;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";99;339
 2021-05-31;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;158
 2021-05-30;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;2321
@@ -450,9 +499,9 @@
 2021-05-28;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;93
 2021-05-28;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";3192;621
 2021-05-28;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";283;200
-2021-05-28;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";2227;1221
+2021-05-28;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1970;1213
 2021-05-28;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";76;324
-2021-05-28;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;607
+2021-05-28;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;587
 2021-05-27;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";2734;205
 2021-05-27;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";259;151
 2021-05-27;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;472
@@ -773,7 +822,7 @@
 2021-05-13;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;35
 2021-05-13;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";1326;565
 2021-05-13;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";145;217
-2021-05-13;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";5898;291
+2021-05-13;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";2473;290
 2021-05-13;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";294;145
 2021-05-13;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";58;404
 2021-05-12;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";2179;449
@@ -796,7 +845,7 @@
 2021-05-12;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;28
 2021-05-12;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";1088;761
 2021-05-12;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";140;222
-2021-05-12;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";3214;331
+2021-05-12;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";2590;331
 2021-05-12;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";272;138
 2021-05-12;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;6
 2021-05-11;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";2092;380
@@ -819,7 +868,7 @@
 2021-05-11;"Trenčiansky kraj";"SK022";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";9;119
 2021-05-11;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";1587;690
 2021-05-11;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";146;216
-2021-05-11;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";3165;368
+2021-05-11;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";2559;368
 2021-05-11;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";276;145
 2021-05-11;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;5
 2021-05-10;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";3038;326
@@ -1401,7 +1450,7 @@
 2021-04-13;"Trnavský kraj";"SK021";"COVID-19 Vaccine Moderna injekčná disperzia";339;0
 2021-04-13;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";385;1190
 2021-04-13;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";148;10
-2021-04-13;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";1573;0
+2021-04-13;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";878;0
 2021-04-12;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";316;1374
 2021-04-12;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";395;2
 2021-04-12;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";575;0
@@ -1742,7 +1791,7 @@
 2021-03-25;"Trnavský kraj";"SK021";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";0;0
 2021-03-25;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1615;475
 2021-03-25;"Žilinský kraj";"SK031";"COVID-19 Vaccine Moderna injekčná disperzia";317;15
-2021-03-25;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";1117;0
+2021-03-25;"Žilinský kraj";"SK031";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";917;0
 2021-03-24;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";1705;216
 2021-03-24;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Moderna injekčná disperzia";130;305
 2021-03-24;"Banskobystrický kraj";"SK032";"Vaxzevria injekčná suspenzia sus inj 10x5 ml (liek.inj.skl.) (pôvodne COVID-19 Vaccine AstraZeneca)";417;0
