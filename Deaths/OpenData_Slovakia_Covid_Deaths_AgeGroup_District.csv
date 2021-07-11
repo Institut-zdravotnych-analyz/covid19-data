@@ -11692,7 +11692,6 @@ Date;Gender;District;AgeGroup;Type;Region
 25.4.2021;M;Košice;70;Nemocnica;Košický
 24.4.2021;M;Vranov nad Top?ou;70;Nemocnica;Prešovský
 24.4.2021;F;Partizánske;60;Nemocnica;Tren?iansky
-22.4.2021;F;Zvolen;70;Nemocnica;Banskobystrický
 22.4.2021;F;Banská Bystrica;75;Nemocnica;Banskobystrický
 22.4.2021;F;Lu?enec;45;Nemocnica;Banskobystrický
 21.4.2021;F;Vranov nad Top?ou;80;Nemocnica;Prešovský
@@ -11781,11 +11780,11 @@ Date;Gender;District;AgeGroup;Type;Region
 9.3.2021;F;Galanta;75;Nemocnica;Trnavský
 9.3.2021;M;Galanta;75;Nemocnica;Trnavský
 9.3.2021;F;Galanta;75;Nemocnica;Trnavský
-9.3.2021;M;Snina;80;Nemocnica;Prešovský
+9.3.2021;M;Snina;75;Nemocnica;Prešovský
 8.3.2021;F;Galanta;85;Nemocnica;Trnavský
 4.3.2021;M;Humenné;70;Nemocnica;Prešovský
 27.2.2021;M;?adca;50;Nemocnica;Žilinský
-2.5.2021;M;Prievidza;75;Nemocnica;Tren?iansky
+#VALUE!;M;Prievidza;60;Nemocnica;Tren?iansky
 2.5.2021;M;Ružomberok;50;Nemocnica;Žilinský
 2.5.2021;F;Ružomberok;65;Nemocnica;Žilinský
 2.5.2021;M;Martin;65;Nemocnica;Žilinský
@@ -11902,7 +11901,7 @@ Date;Gender;District;AgeGroup;Type;Region
 5.5.2021;M;Vranov nad Top?ou;65;Nemocnica;Prešovský
 5.5.2021;F;?adca;85;Nemocnica;Žilinský
 5.5.2021;M;Žilina;80;Nemocnica;Žilinský
-5.5.2021;F;Prešov;70;Nemocnica;Prešovský
+13.3.2021;M;Nové Mesto n.Váhom;65;Nemocnica;Tren?iansky
 5.5.2021;M;Svidník;65;Nemocnica;Prešovský
 5.5.2021;M;Bratislava;70;Nemocnica;Bratislavský
 25.4.2021;F;Partizánske;65;Nemocnica;Tren?iansky
@@ -12182,7 +12181,6 @@ Date;Gender;District;AgeGroup;Type;Region
 2.4.2021;F;Rož?ava;80;Nemocnica;Košický
 1.4.2021;M;Topo??any;60;Nemocnica;Nitriansky
 1.4.2021;M;Rož?ava;80;Nemocnica;Košický
-15.5.2021;M;;80;#N/A;
 16.5.2021;F;Prešov;90;Nemocnica;Prešovský
 16.5.2021;F;?adca;60;Nemocnica;Žilinský
 16.5.2021;M;Prešov;75;Nemocnica;Prešovský
@@ -12224,7 +12222,7 @@ Date;Gender;District;AgeGroup;Type;Region
 19.5.2021;F;Svidník;65;Nemocnica;Prešovský
 18.5.2021;M;Bratislava;40;Nemocnica;Bratislavský
 18.5.2021;F;Trebišov;55;Nemocnica;Košický
-17.5.2021;M;Bardejov;75;Nemocnica;Prešovský
+5.5.2021;M;Nové Zámky;70;Nemocnica;Nitriansky
 28.4.2021;F;Komárno;75;Nemocnica;Nitriansky
 26.4.2021;F;Komárno;70;Nemocnica;Nitriansky
 20.4.2021;F;Komárno;70;Nemocnica;Nitriansky
@@ -12245,8 +12243,6 @@ Date;Gender;District;AgeGroup;Type;Region
 18.5.2021;M;Ružomberok;50;Nemocnica;Žilinský
 16.5.2021;F;Nové Mesto n.Váhom;65;Nemocnica;Tren?iansky
 12.5.2021;M;Nové Mesto n.Váhom;70;Nemocnica;Tren?iansky
-22.5.2021;M;;75;#N/A;
-23.5.2021;M;;80;#N/A;
 25.5.2021;F;Lu?enec;85;Nemocnica;Banskobystrický
 25.5.2021;M;Humenné;45;Nemocnica;Prešovský
 24.5.2021;F;Rimavská Sobota;75;Nemocnica;Banskobystrický
@@ -12277,8 +12273,8 @@ Date;Gender;District;AgeGroup;Type;Region
 26.5.2021;F;Banská Bystrica;55;Nemocnica;Banskobystrický
 25.5.2021;M;Žilina;60;Nemocnica;Žilinský
 25.5.2021;F;Košice;60;Nemocnica;Košický
-23.5.2021;M;Nitra;70;Nemocnica;Nitriansky
-23.5.2021;M;Nové Zámky;70;Nemocnica;Nitriansky
+5.5.2021;M;Nové Zámky;65;Nemocnica;Nitriansky
+14.3.2021;F;Nové Mesto n.Váhom;75;Nemocnica;Tren?iansky
 19.5.2021;M;Banská Bystrica;55;Doma;Banskobystrický
 18.5.2021;M;Ve?ký Krtíš;90;Nemocnica;Banskobystrický
 8.5.2021;M;Košice;45;Nemocnica;Košický
@@ -12304,7 +12300,7 @@ Date;Gender;District;AgeGroup;Type;Region
 27.5.2021;M;Martin;75;Nemocnica;Žilinský
 31.5.2021;F;Žilina;60;Nemocnica;Žilinský
 31.5.2021;M;Bratislava;50;Nemocnica;Bratislavský
-28.5.2021;F;Galanta;75;Nemocnica;Trnavský
+5.5.2021;M;Spišská Nová Ves;85;Nemocnica;Košický
 24.5.2021;F;Malacky;90;Nemocnica;Bratislavský
 23.5.2021;F;Nové Mesto n.Váhom;90;Nemocnica;Tren?iansky
 18.5.2021;M;Levo?a;60;Nemocnica;Prešovský
@@ -12315,3 +12311,146 @@ Date;Gender;District;AgeGroup;Type;Region
 12.5.2021;M;Stará ?ubov?a;45;Nemocnica;Prešovský
 11.5.2021;F;Stará ?ubov?a;55;Nemocnica;Prešovský
 5.5.2021;M;Malacky;70;Nemocnica;Bratislavský
+2.6.2021;M;Martin;80;Nemocnica;Žilinský
+2.6.2021;M;Žilina;60;Nemocnica;Žilinský
+2.6.2021;M;Trebišov;70;Nemocnica;Košický
+1.6.2021;F;Martin;70;Nemocnica;Žilinský
+26.5.2021;F;Poprad;55;Nemocnica;Prešovský
+25.5.2021;M;Stará ?ubov?a;65;Nemocnica;Prešovský
+20.5.2021;F;Poprad;70;Nemocnica;Prešovský
+13.5.2021;M;Poprad;50;Nemocnica;Prešovský
+9.5.2021;M;Poprad;50;Nemocnica;Prešovský
+3.6.2021;M;Humenné;80;Nemocnica;Prešovský
+2.6.2021;F;Prešov;90;Nemocnica;Prešovský
+2.6.2021;M;Žilina;75;Nemocnica;Žilinský
+31.5.2021;M;Levo?a;60;Nemocnica;Prešovský
+30.5.2021;M;Levo?a;60;Nemocnica;Prešovský
+29.5.2021;M;Lu?enec;70;Nemocnica;Banskobystrický
+23.5.2021;M;Žiar nad Hronom;50;Nemocnica;Banskobystrický
+4.6.2021;M;Žilina;70;Nemocnica;Žilinský
+3.6.2021;F;Košice;85;Nemocnica;Košický
+21.5.2021;M;Michalovce;85;Nemocnica;Košický
+19.5.2021;M;Michalovce;65;Nemocnica;Košický
+18.5.2021;F;Michalovce;65;Nemocnica;Košický
+17.5.2021;M;Michalovce;40;Nemocnica;Košický
+15.5.2021;M;Trebišov;60;Nemocnica;Košický
+14.5.2021;F;Lu?enec;65;Nemocnica;Banskobystrický
+14.5.2021;M;Michalovce;45;Nemocnica;Košický
+12.5.2021;M;Lu?enec;65;Nemocnica;Banskobystrický
+12.5.2021;F;Lu?enec;70;Nemocnica;Banskobystrický
+12.5.2021;M;Michalovce;50;Nemocnica;Košický
+11.5.2021;M;Michalovce;85;Nemocnica;Košický
+10.5.2021;F;Michalovce;65;Nemocnica;Košický
+10.5.2021;F;Michalovce;75;Nemocnica;Košický
+9.5.2021;F;Lu?enec;75;Nemocnica;Banskobystrický
+9.5.2021;M;Michalovce;65;Nemocnica;Košický
+8.5.2021;M;Lu?enec;75;Nemocnica;Banskobystrický
+8.5.2021;M;Lu?enec;75;Nemocnica;Banskobystrický
+8.5.2021;F;Michalovce;65;Nemocnica;Košický
+5.5.2021;M;Michalovce;60;Nemocnica;Košický
+2.5.2021;F;Michalovce;70;Nemocnica;Košický
+2.4.2021;M;Košice;80;Nemocnica;Košický
+13.4.2021;F;Košice;75;Nemocnica;Košický
+1.5.2021;M;Michalovce;65;Nemocnica;Košický
+1.5.2021;M;Lu?enec;70;Nemocnica;Banskobystrický
+29.5.2021;F;Tren?ín;80;Nemocnica;Tren?iansky
+4.6.2021;F;Tren?ín;55;Nemocnica;Tren?iansky
+4.6.2021;M;Prešov;65;Nemocnica;Prešovský
+5.6.2021;M;Prešov;50;Nemocnica;Prešovský
+3.5.2021;F;Galanta;80;Nemocnica;Trnavský
+2.5.2021;M;Nové Zámky;70;Nemocnica;Nitriansky
+7.6.2021;F;Humenné;65;Nemocnica;Prešovský
+6.6.2021;F;Bardejov;75;Nemocnica;Prešovský
+27.5.2021;M;Nové Mesto n.Váhom;45;Doma;Tren?iansky
+25.5.2021;M;Galanta;75;Nemocnica;Trnavský
+14.5.2021;M;Galanta;85;Nemocnica;Trnavský
+13.5.2021;F;Galanta;50;Nemocnica;Trnavský
+13.5.2021;F;Galanta;85;Nemocnica;Trnavský
+10.5.2021;M;Komárno;65;Nemocnica;Nitriansky
+8.5.2021;M;Galanta;65;Nemocnica;Trnavský
+8.6.2021;M;Ružomberok;75;Nemocnica;Žilinský
+6.6.2021;M;Svidník;50;Doma;Prešovský
+3.6.2021;M;Považská Bystrica;65;Nemocnica;Tren?iansky
+1.6.2021;M;Považská Bystrica;75;Nemocnica;Tren?iansky
+17.5.2021;M;Zvolen;45;Nemocnica;Banskobystrický
+10.5.2021;F;Zvolen;65;Nemocnica;Banskobystrický
+4.5.2021;F;Zvolen;95;Nemocnica;Banskobystrický
+4.6.2021;F;Bratislava;45;Nemocnica;Bratislavský
+3.5.2021;F;Brezno;70;Nemocnica;Banskobystrický
+9.5.2021;M;Bratislava;70;Nemocnica;Bratislavský
+10.6.2021;M;Humenné;50;Nemocnica;Prešovský
+10.6.2021;M;Žilina;70;Nemocnica;Žilinský
+2.6.2021;M;Považská Bystrica;75;Nemocnica;Tren?iansky
+26.5.2021;M;Považská Bystrica;65;Nemocnica;Tren?iansky
+25.5.2021;M;Považská Bystrica;60;Nemocnica;Tren?iansky
+2.5.2021;F;Považská Bystrica;70;Nemocnica;Tren?iansky
+4.6.2021;M;Humenné;60;Nemocnica;Prešovský
+10.6.2021;F;Humenné;60;Nemocnica;Prešovský
+12.6.2021;F;Humenné;65;Nemocnica;Prešovský
+12.6.2021;F;Humenné;85;Nemocnica;Prešovský
+12.6.2021;M;Humenné;70;Nemocnica;Prešovský
+11.6.2021;M;Humenné;75;Nemocnica;Prešovský
+11.6.2021;M;Košice;75;Nemocnica;Košický
+14.6.2021;F;?adca;70;Nemocnica;Žilinský
+14.6.2021;M;Žilina;75;Nemocnica;Žilinský
+11.6.2021;F;Nové Zámky;75;Nemocnica;Nitriansky
+4.6.2021;F;Humenné;80;Nemocnica;Prešovský
+29.5.2021;M;Nové Zámky;65;Nemocnica;Nitriansky
+29.5.2021;F;Nové Zámky;70;Nemocnica;Nitriansky
+28.5.2021;M;Nové Zámky;60;Nemocnica;Nitriansky
+27.5.2021;M;Nové Zámky;60;Nemocnica;Nitriansky
+23.5.2021;M;Nové Zámky;65;Nemocnica;Nitriansky
+23.5.2021;F;Nové Zámky;60;Nemocnica;Nitriansky
+21.5.2021;F;Nové Zámky;85;Nemocnica;Nitriansky
+18.5.2021;M;Nové Zámky;65;Nemocnica;Nitriansky
+17.5.2021;M;Nové Zámky;70;Nemocnica;Nitriansky
+1.5.2021;M;Nové Zámky;85;Nemocnica;Nitriansky
+2.5.2021;M;Levice;80;Nemocnica;Nitriansky
+2.5.2021;M;Spišská Nová Ves;65;Nemocnica;Košický
+3.5.2021;M;Nové Zámky;85;Nemocnica;Nitriansky
+3.5.2021;M;Nové Zámky;60;Nemocnica;Nitriansky
+17.6.2021;F;Bratislava;65;Nemocnica;Bratislavský
+17.6.2021;M;Bratislava;70;Nemocnica;Bratislavský
+16.6.2021;M;Prešov;65;Nemocnica;Prešovský
+15.6.2021;M;Bratislava;25;Nemocnica;Bratislavský
+30.5.2021;M;Spišská Nová Ves;55;Nemocnica;Košický
+30.5.2021;F;Spišská Nová Ves;75;Nemocnica;Košický
+25.5.2021;M;Levice;80;Nemocnica;Nitriansky
+21.5.2021;M;Stará ?ubov?a;65;Nemocnica;Prešovský
+16.5.2021;M;Spišská Nová Ves;45;Nemocnica;Košický
+16.5.2021;F;Stará ?ubov?a;70;Nemocnica;Prešovský
+16.5.2021;M;Nové Zámky;75;Nemocnica;Nitriansky
+15.5.2021;F;Nové Zámky;75;Nemocnica;Nitriansky
+15.5.2021;F;Spišská Nová Ves;70;Nemocnica;Košický
+14.5.2021;M;Nové Zámky;60;Nemocnica;Nitriansky
+18.6.2021;F;Trebišov;65;Nemocnica;Košický
+13.6.2021;M;Levo?a;65;Nemocnica;Prešovský
+14.5.2021;F;Nové Zámky;80;Nemocnica;Nitriansky
+13.5.2021;F;Nové Zámky;80;Nemocnica;Nitriansky
+12.5.2021;F;Spišská Nová Ves;60;Nemocnica;Košický
+11.5.2021;F;Nové Zámky;75;Nemocnica;Nitriansky
+11.5.2021;F;Revúca;55;Nemocnica;Banskobystrický
+11.5.2021;M;Levice;65;Nemocnica;Nitriansky
+28.5.2021;M;Humenné;75;Nemocnica;Prešovský
+11.5.2021;M;Spišská Nová Ves;80;Nemocnica;Košický
+10.5.2021;F;Levice;80;Nemocnica;Nitriansky
+10.5.2021;M;Spišská Nová Ves;80;Nemocnica;Košický
+10.5.2021;M;Nové Zámky;65;Nemocnica;Nitriansky
+10.5.2021;M;Nové Zámky;45;Nemocnica;Nitriansky
+10.5.2021;F;Spišská Nová Ves;65;Nemocnica;Košický
+8.5.2021;M;Levice;70;Nemocnica;Nitriansky
+7.5.2021;M;Nové Zámky;70;Nemocnica;Nitriansky
+6.5.2021;F;Spišská Nová Ves;75;Nemocnica;Košický
+20.6.2021;F;Košice;90;Nemocnica;Košický
+19.5.2021;M;Rož?ava;65;Nemocnica;Košický
+17.5.2021;M;Rož?ava;70;Nemocnica;Košický
+4.5.2021;F;Nové Zámky;75;Nemocnica;Nitriansky
+3.5.2021;M;Levice;70;Nemocnica;Nitriansky
+2.5.2021;F;Rož?ava;75;Nemocnica;Košický
+22.6.2021;M;Ružomberok;65;Nemocnica;Žilinský
+21.6.2021;F;Ružomberok;80;Nemocnica;Žilinský
+29.5.2021;M;Komárno;65;Nemocnica;Nitriansky
+20.5.2021;M;Komárno;60;Nemocnica;Nitriansky
+9.5.2021;M;Nitra;75;Nemocnica;Nitriansky
+9.5.2021;F;Komárno;70;Nemocnica;Nitriansky
+2.5.2021;M;Komárno;70;Nemocnica;Nitriansky
