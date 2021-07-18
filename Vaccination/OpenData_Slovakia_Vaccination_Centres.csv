@@ -1,4 +1,5 @@
 "NAZZAR";"IDENTIFZAR";"obec_kod";"obec";"okres_kod";"okres";"kraj_kod";"kraj";"first_dose"
+"Al Vitalis s.r.o.";"P5053702";"SK042B528099";"Trebišov";"SK042B";"Okres Trebišov";"SK042";"Košický kraj";2021-07-14
 "ALIAN, s.r.o., poliklinika, Bardejov";"N8427108";"SK0411519006";"Bardejov";"SK0411";"Okres Bardejov";"SK041";"Prešovský kraj";2021-03-22
 "BIONT, a.s., špecializovaná ambulancia, Bratislava";"P3833301";"SK0104529397";"Bratislava - Karlova Ves";"SK0104";"Okres Bratislava IV";"SK010";"Bratislavský kraj";2021-05-11
 "Bratislavský samosprávny kraj";"P9999999";"SK0102529320";"Bratislava - Ružinov";"SK0102";"Okres Bratislava II";"SK010";"Bratislavský kraj";2021-03-13
@@ -25,6 +26,11 @@
 "Košický samosprávny kraj";"P9999999";"SK042A526355";"Spišská Nová Ves";"SK042A";"Okres Spišská Nová Ves";"SK042";"Košický kraj";2021-05-06
 "Kysucká nemocnica s poliklinikou Čadca, všeobecná nemocnica";"N2114901";"SK0312509132";"Čadca";"SK0312";"Okres Čadca";"SK031";"Žilinský kraj";2021-01-08
 "Lekáreň BENU";"P5963901";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-07-01
+"Lekáreň BENU, BENU SK 58, s.r.o., verejná lekáreň";"P5963901";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-07-15
+"Lekáreň CENTRUM, Matova, s. r. o., verejná lekáreň";"P7822701";"SK041D544213";"Hanušovce nad Topľou";"SK041D";"Okres Vranov nad Topľou";"SK041";"Prešovský kraj";2021-07-15
+"Lekáreň Dr. Max, Dr.Max 65 s.r.o., verejná lekáreň";"P3589101";"SK0229505820";"Trenčín";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-07-15
+"Lekáreň Dr. Max, Lekáreň NA MIKLOVKÁCH s.r.o., verejná lekáreň";"N6717701";"SK0222513440";"Nová Dubnica";"SK0222";"Okres Ilava";"SK022";"Trenčiansky kraj";2021-07-14
+"Lekáreň sv. ANNY, RC & T  Detva s.r.o., verejná lekáreň";"N8799305";"SK0324518263";"Detva";"SK0324";"Okres Detva";"SK032";"Banskobystrický kraj";2021-07-13
 "Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu  Liptovský Mikuláš, všeobecná nemocnica";"P6605101";"SK0315510262";"Liptovský Mikuláš";"SK0315";"Okres Liptovský Mikuláš";"SK031";"Žilinský kraj";2021-01-05
 "Ľubovnianska nemocnica, n. o., všeobecná nemocnica, Stará Ľubovňa";"N5622901";"SK041A526665";"Stará Ľubovňa";"SK041A";"Okres Stará Ľubovňa";"SK041";"Prešovský kraj";2021-01-07
 "MDclinic a.s., poliklinika, Trenčín";"P1346913";"SK0229505820";"Trenčín";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-04-23
@@ -68,6 +74,7 @@
 "Nemocnica s poliklinikou Brezno, n.o., všeobecná nemocnica";"N2239901";"SK0323508497";"Brezno";"SK0323";"Okres Brezno";"SK032";"Banskobystrický kraj";2021-01-18
 "Nemocnica s poliklinikou Dunajská Streda, a.s., všeobecná nemocnica";"P5110201";"SK0211501433";"Dunajská Streda";"SK0211";"Okres Dunajská Streda";"SK021";"Trnavský kraj";2021-01-07
 "Nemocnica s poliklinikou Ilava, n.o., všeobecná nemocnica";"P8711901";"SK0222513156";"Ilava";"SK0222";"Okres Ilava";"SK022";"Trenčiansky kraj";2021-01-07
+"Nemocnica s poliklinikou Myjava so sídlom v Myjave, verejná lekáreň";"P8298703";"SK0223504581";"Myjava";"SK0223";"Okres Myjava";"SK022";"Trenčiansky kraj";2021-07-14
 "Nemocnica s poliklinikou Myjava so sídlom v Myjave, všeobecná nemocnica";"P8298701";"SK0223504581";"Myjava";"SK0223";"Okres Myjava";"SK022";"Trenčiansky kraj";2021-01-06
 "Nemocnica s poliklinikou n.o. Kráľovský Chlmec, všeobecná nemocnica";"P1980001";"SK042B528447";"Kráľovský Chlmec";"SK042B";"Okres Trebišov";"SK042";"Košický kraj";2021-01-07
 "Nemocnica s poliklinikou Považská Bystrica so sídlom v Považskej Bystrici, všeobecná nemocnica";"P5094501";"SK0226512842";"Považská Bystrica";"SK0226";"Okres Považská Bystrica";"SK022";"Trenčiansky kraj";2021-01-07
@@ -97,6 +104,7 @@
 "Prešovský samosprávny kraj";"P9999999";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-02-27
 "Prírodné jódové kúpele Číž, a.s., prírodné liečebné kúpele";"P7825201";"SK0329514624";"Číž";"SK0329";"Okres Rimavská Sobota";"SK032";"Banskobystrický kraj";2021-04-08
 "PRO VITAE n.o., liečebňa, Gelnica";"P5143501";"SK0421526509";"Gelnica";"SK0421";"Okres Gelnica";"SK042";"Košický kraj";2021-01-11
+"ProMedic Centrum s. r. o., všeobecná ambulancia, Myjava";"P3824601";"SK0223504581";"Myjava";"SK0223";"Okres Myjava";"SK022";"Trenčiansky kraj";2021-07-14
 "Psychiatrická nemocnica Philippa Pinela Pezinok, špecializovaná nemocnica";"P5664201";"SK0107508179";"Pezinok";"SK0107";"Okres Pezinok";"SK010";"Bratislavský kraj";2021-01-07
 "RC & T Detva s.r.o., APS - pevná";"N8799301";"SK0324518263";"Detva";"SK0324";"Okres Detva";"SK032";"Banskobystrický kraj";2021-06-15
 "RUMEDIKA, s.r.o., všeobecná ambulancia, Kysucké Nové Mesto";"P6979602";"SK0314509256";"Kysucké Nové Mesto";"SK0314";"Okres Kysucké Nové Mesto";"SK031";"Žilinský kraj";2021-07-01
