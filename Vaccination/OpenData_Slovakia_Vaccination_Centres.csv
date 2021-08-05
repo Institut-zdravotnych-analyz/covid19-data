@@ -1,5 +1,6 @@
 "NAZZAR";"IDENTIFZAR";"obec_kod";"obec";"okres_kod";"okres";"kraj_kod";"kraj";"first_dose"
 "2.	Ambulancia integrovanej medicíny, lymskej boreliózy a koinfekcií, praktického lekára pre dospelých";"P3448402";"SK0101528595";"Bratislava - Staré Mesto";"SK0101";"Okres Bratislava I";"SK010";"Bratislavský kraj";2021-08-03
+"ABC-STORE";"P2686601";"SK041B527840";"Stropkov";"SK041B";"Okres Stropkov";"SK041";"Prešovský kraj";2021-08-04
 "ABC-STORE s.r.o.";"P2686601";"SK041B527840";"Stropkov";"SK041B";"Okres Stropkov";"SK041";"Prešovský kraj";2021-07-30
 "AdLa plus lekáreň, MOSCATI s. r. o., verejná lekáreň";"P3861701";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-07-28
 "Al Vitalis s.r.o.";"P5053702";"SK042B528099";"Trebišov";"SK042B";"Okres Trebišov";"SK042";"Košický kraj";2021-07-14
@@ -25,11 +26,11 @@
 "Dr. Max, Dr.Max 165 s.r.o., verejná lekáreň";"P1148201";"SK0417525405";"Veľký Šariš";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-07-30
 "EURIGIA, s.r.o., všeobecná ambulancia, Poprad";"P8663302";"SK0416523381";"Poprad";"SK0416";"Okres Poprad";"SK041";"Prešovský kraj";2021-07-26
 "Euromedix, a.s., poliklinika, Bratislava";"P5979001";"SK0104529371";"Bratislava - Devínska Nová Ves";"SK0104";"Okres Bratislava IV";"SK010";"Bratislavský kraj";2021-06-14
+"Fakultná nemocnica AGEL Skalica a.s., všeobecná nemocnica";"P8126401";"SK0216504815";"Skalica";"SK0216";"Okres Skalica";"SK021";"Trnavský kraj";2021-01-06
 "Fakultná nemocnica Nitra, všeobecná nemocnica";"P8568701";"SK0233500011";"Nitra";"SK0233";"Okres Nitra";"SK023";"Nitriansky kraj";2021-01-10
 "Fakultná nemocnica s poliklinikou F.D.Roosevelta Banská Bystrica, všeobecná nemocnica";"N4223101";"SK0321508438";"Banská Bystrica";"SK0321";"Okres Banská Bystrica";"SK032";"Banskobystrický kraj";2021-01-06
 "Fakultná nemocnica s poliklinikou J. A. Reimana Prešov, všeobecná nemocnica";"N3306701";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-01-06
 "Fakultná nemocnica s poliklinikou Nové Zámky, všeobecná nemocnica";"P8109501";"SK0234503011";"Nové Zámky";"SK0234";"Okres Nové Zámky";"SK023";"Nitriansky kraj";2021-01-21
-"Fakultná nemocnica s poliklinikou Skalica, a.s., všeobecná nemocnica";"P8126401";"SK0216504815";"Skalica";"SK0216";"Okres Skalica";"SK021";"Trnavský kraj";2021-01-06
 "Fakultná nemocnica s poliklinikou Žilina, všeobecná nemocnica";"N9272501";"SK031B517402";"Žilina";"SK031B";"Okres Žilina";"SK031";"Žilinský kraj";2021-01-04
 "Fakultná nemocnica Trenčín, všeobecná nemocnica";"P4238301";"SK0229505820";"Trenčín";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-01-07
 "Fakultná nemocnica Trnava, všeobecná nemocnica";"P2097901";"SK0217506745";"Trnava";"SK0217";"Okres Trnava";"SK021";"Trnavský kraj";2021-01-05
@@ -61,6 +62,8 @@
 "Lekáreň AMBRA, VITALIS spol. s r.o., verejná lekáreň";"P8247201";"SK0315510262";"Liptovský Mikuláš";"SK0315";"Okres Liptovský Mikuláš";"SK031";"Žilinský kraj";2021-07-28
 "Lekáreň APOTHEKE, PharmExpo s r.o. , verejná lekáreň";"P4653901";"SK0236504998";"Topoľčany";"SK0236";"Okres Topoľčany";"SK023";"Nitriansky kraj";2021-07-28
 "Lekáreň AVE MARIA, Natur Stupava, spol. s r.o., verejná lekáreň";"N5665201";"SK0229505820";"Trenčín";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-07-27
+"Lekáreň AZITEA, Azitea s.r.o., verejná lekáreň";"P9902101";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-08-04
+"Lekáreň Beata, s.r.o.";"P2793801";"SK031A509876";"Nižná";"SK031A";"Okres Tvrdošín";"SK031";"Žilinský kraj";2021-08-04
 "Lekáreň BENU";"P5963901";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-07-01
 "Lekáreň BENU, BENU SK 101, s. r. o., verejná lekáreň";"P0502101";"SK0214507440";"Piešťany";"SK0214";"Okres Piešťany";"SK021";"Trnavský kraj";2021-07-28
 "Lekáreň BENU, BENU SK 58, s.r.o., verejná lekáreň";"P5963901";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-07-15
@@ -74,6 +77,7 @@
 "Lekáreň Dr. Max, Dr.Max 166 s.r.o., verejná lekáreň";"P0524101";"SK0314509256";"Kysucké Nové Mesto";"SK0314";"Okres Kysucké Nové Mesto";"SK031";"Žilinský kraj";2021-08-03
 "Lekáreň Dr. Max, Dr.Max 601 s.r.o., verejná lekáreň";"P9283801";"SK0425599824";"Košice - Juh";"SK0425";"Okres Košice IV";"SK042";"Košický kraj";2021-07-21
 "Lekáreň Dr. Max, Dr.Max 602 s.r.o., verejná lekáreň";"P6447201";"SK031B517402";"Žilina";"SK031B";"Okres Žilina";"SK031";"Žilinský kraj";2021-07-27
+"Lekáreň Dr. Max, Dr.Max 64 s.r.o., verejná lekáreň";"P2705801";"SK0311517461";"Bytča";"SK0311";"Okres Bytča";"SK031";"Žilinský kraj";2021-08-04
 "Lekáreň Dr. Max, Dr.Max 65 s.r.o., verejná lekáreň";"P3589101";"SK0229505820";"Trenčín";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-07-15
 "Lekáreň Dr. Max, Dr.Max 9 s.r.o., verejná lekáreň";"P5683801";"SK042B528447";"Kráľovský Chlmec";"SK042B";"Okres Trebišov";"SK042";"Košický kraj";2021-08-03
 "Lekáreň Dr. Max, Dr.Max 90 s.r.o., verejná lekáreň";"P4541601";"SK0212503665";"Galanta";"SK0212";"Okres Galanta";"SK021";"Trnavský kraj";2021-08-03
@@ -81,6 +85,7 @@
 "Lekáreň Dr. Max, Lekáreň Vitae plus, s. r. o., verejná lekáreň";"P6247401";"SK0311517461";"Bytča";"SK0311";"Okres Bytča";"SK031";"Žilinský kraj";2021-07-26
 "Lekáreň Dr. Max, SD1 s. r. o., verejná lekáreň";"P7399601";"SK0224506338";"Nové Mesto nad Váhom";"SK0224";"Okres Nové Mesto nad Váhom";"SK022";"Trenčiansky kraj";2021-07-27
 "Lekáreň Dr. Max, SD6 s. r. o., verejná lekáreň";"P0049701";"SK0224506524";"Stará Turá";"SK0224";"Okres Nové Mesto nad Váhom";"SK022";"Trenčiansky kraj";2021-07-28
+"Lekáreň Dr. Max, wesper pharm, s.r.o., verejná lekáreň";"P1164701";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-04
 "Lekáreň DUNAJSKÁ, Medimed s. r. o., verejná lekáreň";"P2887401";"SK0101528595";"Bratislava - Staré Mesto";"SK0101";"Okres Bratislava I";"SK010";"Bratislavský kraj";2021-08-01
 "Lekáreň FAUSTÍNA, APOTHEKA Stakčín s.r.o., verejná lekáreň";"P2659501";"SK0419520829";"Stakčín";"SK0419";"Okres Snina";"SK041";"Prešovský kraj";2021-07-19
 "Lekáreň GEMINI, GEMINI PHARM, s.r.o., verejná lekáreň";"P5441301";"SK042B528617";"Novosad";"SK042B";"Okres Trebišov";"SK042";"Košický kraj";2021-07-27
@@ -89,6 +94,7 @@
 "Lekáreň JOZEF, TERVEYS, s.r.o., verejná lekáreň";"P0272101";"SK041D544051";"Vranov nad Topľou";"SK041D";"Okres Vranov nad Topľou";"SK041";"Prešovský kraj";2021-07-27
 "Lekáreň KU GYMNÁZIU, MMV, s.r.o., verejná lekáreň";"P5734401";"SK0221542652";"Bánovce nad Bebravou";"SK0221";"Okres Bánovce nad Bebravou";"SK022";"Trenčiansky kraj";2021-07-21
 "Lekáreň LIANELA, s.r.o., verejná lekáreň";"P6087901";"SK0328526142";"Revúca";"SK0328";"Okres Revúca";"SK032";"Banskobystrický kraj";2021-08-02
+"Lekáreň Lieky24, Lekáreň Lieky24 s.r.o. , verejná lekáreň";"P8364001";"SK0323508497";"Brezno";"SK0323";"Okres Brezno";"SK032";"Banskobystrický kraj";2021-08-03
 "LEKAREN LUPCIANSKA";"P4004101";"SK0321509001";"Slovenská Ľupča";"SK0321";"Okres Banská Bystrica";"SK032";"Banskobystrický kraj";2021-07-30
 "Lekáreň MAKOVICA, PharmDr. Viliam Fedorko - MAKOVICA, verejná lekáreň";"N6654401";"SK0411519961";"Zborov";"SK0411";"Okres Bardejov";"SK041";"Prešovský kraj";2021-07-21
 "Lekáreň MATRIX, MATRIX PHARM, s.r.o., verejná lekáreň";"P4212201";"SK0211501433";"Dunajská Streda";"SK0211";"Okres Dunajská Streda";"SK021";"Trnavský kraj";2021-07-21
@@ -101,6 +107,7 @@
 "Lekaren Olmed";"P4247201";"SK0108508217";"Senec";"SK0108";"Okres Senec";"SK010";"Bratislavský kraj";2021-07-22
 "Lekáreň Olmed, Espharm, s.r.o., verejná lekáreň";"P4247201";"SK0108508217";"Senec";"SK0108";"Okres Senec";"SK010";"Bratislavský kraj";2021-07-26
 "Lekáreň PATIKA, TRIO T.A., s.r.o., verejná lekáreň";"P5189001";"SK0211501522";"Veľký Meder";"SK0211";"Okres Dunajská Streda";"SK021";"Trnavský kraj";2021-07-29
+"Lekáreň PHARMAPULS, s.r.o., verejná lekáreň";"P2452301";"SK0232502031";"Levice";"SK0232";"Okres Levice";"SK023";"Nitriansky kraj";2021-08-04
 "Lekáreň Pod hradom s.r.o., verejná lekáreň";"P7043201";"SK0326511391";"Fiľakovo";"SK0326";"Okres Lučenec";"SK032";"Banskobystrický kraj";2021-07-27
 "Lekáreň PRIMULA, GMPP, s.r.o., verejná lekáreň";"N5744501";"SK0416523381";"Poprad";"SK0416";"Okres Poprad";"SK041";"Prešovský kraj";2021-07-20
 "Lekáreň RIMAVA s.r.o., verejná lekáreň";"P7672101";"SK0329514462";"Rimavská Sobota";"SK0329";"Okres Rimavská Sobota";"SK032";"Banskobystrický kraj";2021-07-22
@@ -126,6 +133,7 @@
 "Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu  Liptovský Mikuláš, všeobecná nemocnica";"P6605101";"SK0315510262";"Liptovský Mikuláš";"SK0315";"Okres Liptovský Mikuláš";"SK031";"Žilinský kraj";2021-01-05
 "Ľubovnianska nemocnica, n. o., všeobecná nemocnica, Stará Ľubovňa";"N5622901";"SK041A526665";"Stará Ľubovňa";"SK041A";"Okres Stará Ľubovňa";"SK041";"Prešovský kraj";2021-01-07
 "Lucare s.r.o., všeobecná ambulancia, Púchov";"P9352203";"SK0228513610";"Púchov";"SK0228";"Okres Púchov";"SK022";"Trenčiansky kraj";2021-07-27
+"Mária PED, s.r.o., všeobecná ambulancia, Margecany";"P5225001";"SK0421543322";"Margecany";"SK0421";"Okres Gelnica";"SK042";"Košický kraj";2021-08-04
 "Matova,s.r.o.";"P7822701";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-03
 "Matricaria";"P5883301";"SK0231501239";"Marcelová";"SK0231";"Okres Komárno";"SK023";"Nitriansky kraj";2021-08-02
 "MDclinic a.s., poliklinika, Trenčín";"P1346913";"SK0229505820";"Trenčín";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-04-23
@@ -134,6 +142,7 @@
 "MEDCENTER, s.r.o.";"P8192302";"SK0319512729";"Turčianske Teplice";"SK0319";"Okres Turčianske Teplice";"SK031";"Žilinský kraj";2021-07-28
 "MEDCENTER, s.r.o., všeobecná ambulancia, Turčianske Teplice";"P8192302";"SK0319512729";"Turčianske Teplice";"SK0319";"Okres Turčianske Teplice";"SK031";"Žilinský kraj";2021-08-03
 "MEDCENTRUM, s.r.o., poliklinika, Žilina";"P8471501";"SK031B517402";"Žilina";"SK031B";"Okres Žilina";"SK031";"Žilinský kraj";2021-03-15
+"MEDEL, s.r.o., všeobecná ambulancia, Slovenská Ľupča";"N5439901";"SK0321509001";"Slovenská Ľupča";"SK0321";"Okres Banská Bystrica";"SK032";"Banskobystrický kraj";2021-08-04
 "MEDCHIR, s.r.o., zariadenie jednodňovej ZS, Kolárovo";"P2449301";"SK0231501026";"Komárno";"SK0231";"Okres Komárno";"SK023";"Nitriansky kraj";2021-06-06
 "MEDCHIR, s.r.o., zariadenie jednodňovej ZS, Kolárovo";"P2449301";"SK0231501204";"Kolárovo";"SK0231";"Okres Komárno";"SK023";"Nitriansky kraj";2021-06-12
 "Medic I+H s.r.o., všeobecná ambulancia, Radvaň nad Laborcom";"N5739501";"SK0415520691";"Radvaň nad Laborcom";"SK0415";"Okres Medzilaborce";"SK041";"Prešovský kraj";2021-07-23
@@ -229,6 +238,7 @@
 "PHARMACY-JL, s.r.o., čapajevova 23,08001 Prešov, lekáreň Jelšava, Tomášikova 481, 04916 Jelšava";"N8716801";"SK0328525791";"Jelšava";"SK0328";"Okres Revúca";"SK032";"Banskobystrický kraj";2021-07-21
 "PharmDr. Helena Harmatová ZELENÁ LEKÁREŇ, pobočka verejnej lekárne";"N8602502";"SK0317509906";"Oravská Lesná";"SK0317";"Okres Námestovo";"SK031";"Žilinský kraj";2021-07-29
 "PharmDr. Helena Harmatová ZELENÁ LEKÁREŇ, verejná lekáreň";"N8602501";"SK0317509868";"Námestovo";"SK0317";"Okres Námestovo";"SK031";"Žilinský kraj";2021-07-24
+"PharmDr.Stanislav Liday";"O8000701";"SK0225543004";"Chynorany";"SK0225";"Okres Partizánske";"SK022";"Trenčiansky kraj";2021-08-04
 "Pobočka verejnej lekárne SAMARITÁN";"P4575702";"SK031B517500";"Dlhé Pole";"SK031B";"Okres Žilina";"SK031";"Žilinský kraj";2021-07-23
 "POLIKLINIKA-dg. centrum, s. r. o., Martin";"N7263701";"SK0316512036";"Martin";"SK0316";"Okres Martin";"SK031";"Žilinský kraj";2021-03-15
 "Poliklinika Giraltovce ILB. s.r.o.";"N4130701";"SK041C519197";"Giraltovce";"SK041C";"Okres Svidník";"SK041";"Prešovský kraj";2021-05-31
