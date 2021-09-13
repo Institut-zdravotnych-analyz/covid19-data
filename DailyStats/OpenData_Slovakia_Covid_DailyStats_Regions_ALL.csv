@@ -1,5 +1,9 @@
 "date";"Region";"newcases";"positive"
-2021-09-08;"Banskobystrický kraj";56;84546
+2021-09-12;"Banskobystrický kraj";20;84770
+2021-09-11;"Banskobystrický kraj";42;84750
+2021-09-10;"Banskobystrický kraj";87;84708
+2021-09-09;"Banskobystrický kraj";58;84621
+2021-09-08;"Banskobystrický kraj";73;84563
 2021-09-07;"Banskobystrický kraj";48;84490
 2021-09-06;"Banskobystrický kraj";39;84442
 2021-09-05;"Banskobystrický kraj";11;84403
@@ -541,549 +545,557 @@
 2020-03-08;"Banskobystrický kraj";0;0
 2020-03-07;"Banskobystrický kraj";0;0
 2020-03-06;"Banskobystrický kraj";0;0
-2021-09-08;"Bratislavský kraj";67;91974
-2021-09-07;"Bratislavský kraj";68;91907
-2021-09-06;"Bratislavský kraj";92;91839
-2021-09-05;"Bratislavský kraj";24;91747
-2021-09-04;"Bratislavský kraj";52;91723
-2021-09-03;"Bratislavský kraj";69;91671
-2021-09-02;"Bratislavský kraj";58;91602
-2021-09-01;"Bratislavský kraj";25;91544
-2021-08-31;"Bratislavský kraj";50;91519
-2021-08-30;"Bratislavský kraj";37;91469
-2021-08-29;"Bratislavský kraj";17;91432
-2021-08-28;"Bratislavský kraj";35;91415
-2021-08-27;"Bratislavský kraj";28;91380
-2021-08-26;"Bratislavský kraj";34;91352
-2021-08-25;"Bratislavský kraj";39;91318
-2021-08-24;"Bratislavský kraj";26;91279
-2021-08-23;"Bratislavský kraj";28;91253
-2021-08-22;"Bratislavský kraj";13;91225
-2021-08-21;"Bratislavský kraj";22;91212
-2021-08-20;"Bratislavský kraj";46;91190
-2021-08-19;"Bratislavský kraj";24;91144
-2021-08-18;"Bratislavský kraj";27;91120
-2021-08-17;"Bratislavský kraj";23;91093
-2021-08-16;"Bratislavský kraj";30;91070
-2021-08-15;"Bratislavský kraj";9;91040
-2021-08-14;"Bratislavský kraj";15;91031
-2021-08-13;"Bratislavský kraj";39;91016
-2021-08-12;"Bratislavský kraj";25;90977
-2021-08-11;"Bratislavský kraj";27;90952
-2021-08-10;"Bratislavský kraj";22;90925
-2021-08-09;"Bratislavský kraj";44;90903
-2021-08-08;"Bratislavský kraj";7;90859
-2021-08-07;"Bratislavský kraj";15;90852
-2021-08-06;"Bratislavský kraj";19;90837
-2021-08-05;"Bratislavský kraj";17;90818
-2021-08-04;"Bratislavský kraj";9;90801
-2021-08-03;"Bratislavský kraj";16;90792
-2021-08-02;"Bratislavský kraj";26;90776
-2021-08-01;"Bratislavský kraj";12;90750
-2021-07-31;"Bratislavský kraj";9;90738
-2021-07-30;"Bratislavský kraj";22;90729
-2021-07-29;"Bratislavský kraj";26;90707
-2021-07-28;"Bratislavský kraj";19;90681
-2021-07-27;"Bratislavský kraj";14;90662
-2021-07-26;"Bratislavský kraj";24;90648
-2021-07-25;"Bratislavský kraj";6;90624
-2021-07-24;"Bratislavský kraj";12;90618
-2021-07-23;"Bratislavský kraj";9;90606
-2021-07-22;"Bratislavský kraj";18;90597
-2021-07-21;"Bratislavský kraj";11;90579
-2021-07-20;"Bratislavský kraj";20;90568
-2021-07-19;"Bratislavský kraj";18;90548
-2021-07-18;"Bratislavský kraj";5;90530
-2021-07-17;"Bratislavský kraj";5;90525
-2021-07-16;"Bratislavský kraj";12;90520
-2021-07-15;"Bratislavský kraj";5;90508
-2021-07-14;"Bratislavský kraj";8;90503
-2021-07-13;"Bratislavský kraj";8;90495
-2021-07-12;"Bratislavský kraj";11;90487
-2021-07-11;"Bratislavský kraj";6;90476
-2021-07-10;"Bratislavský kraj";8;90470
-2021-07-09;"Bratislavský kraj";20;90462
-2021-07-08;"Bratislavský kraj";13;90442
-2021-07-07;"Bratislavský kraj";9;90429
-2021-07-06;"Bratislavský kraj";23;90420
-2021-07-05;"Bratislavský kraj";10;90397
-2021-07-04;"Bratislavský kraj";5;90387
-2021-07-03;"Bratislavský kraj";13;90382
-2021-07-02;"Bratislavský kraj";8;90369
-2021-07-01;"Bratislavský kraj";11;90361
-2021-06-30;"Bratislavský kraj";13;90350
-2021-06-29;"Bratislavský kraj";12;90337
-2021-06-28;"Bratislavský kraj";40;90325
-2021-06-27;"Bratislavský kraj";15;90285
-2021-06-26;"Bratislavský kraj";9;90270
-2021-06-25;"Bratislavský kraj";22;90261
-2021-06-24;"Bratislavský kraj";19;90239
-2021-06-23;"Bratislavský kraj";16;90220
-2021-06-22;"Bratislavský kraj";16;90204
-2021-06-21;"Bratislavský kraj";14;90188
-2021-06-20;"Bratislavský kraj";5;90174
-2021-06-19;"Bratislavský kraj";7;90169
-2021-06-18;"Bratislavský kraj";14;90162
-2021-06-17;"Bratislavský kraj";16;90148
-2021-06-16;"Bratislavský kraj";7;90132
-2021-06-15;"Bratislavský kraj";24;90125
-2021-06-14;"Bratislavský kraj";13;90101
-2021-06-13;"Bratislavský kraj";13;90088
-2021-06-12;"Bratislavský kraj";15;90075
-2021-06-11;"Bratislavský kraj";30;90060
-2021-06-10;"Bratislavský kraj";27;90030
-2021-06-09;"Bratislavský kraj";24;90003
-2021-06-08;"Bratislavský kraj";42;89979
-2021-06-07;"Bratislavský kraj";56;89937
-2021-06-06;"Bratislavský kraj";23;89881
-2021-06-05;"Bratislavský kraj";17;89858
-2021-06-04;"Bratislavský kraj";41;89841
-2021-06-03;"Bratislavský kraj";31;89800
-2021-06-02;"Bratislavský kraj";27;89769
-2021-06-01;"Bratislavský kraj";28;89742
-2021-05-31;"Bratislavský kraj";50;89714
-2021-05-30;"Bratislavský kraj";18;89664
-2021-05-29;"Bratislavský kraj";12;89646
-2021-05-28;"Bratislavský kraj";37;89634
-2021-05-27;"Bratislavský kraj";23;89597
-2021-05-26;"Bratislavský kraj";37;89574
-2021-05-25;"Bratislavský kraj";50;89537
-2021-05-24;"Bratislavský kraj";35;89487
-2021-05-23;"Bratislavský kraj";31;89452
-2021-05-22;"Bratislavský kraj";28;89421
-2021-05-21;"Bratislavský kraj";37;89393
-2021-05-20;"Bratislavský kraj";32;89356
-2021-05-19;"Bratislavský kraj";45;89324
-2021-05-18;"Bratislavský kraj";47;89279
-2021-05-17;"Bratislavský kraj";44;89232
-2021-05-16;"Bratislavský kraj";44;89188
-2021-05-15;"Bratislavský kraj";31;89144
-2021-05-14;"Bratislavský kraj";45;89113
-2021-05-13;"Bratislavský kraj";26;89068
-2021-05-12;"Bratislavský kraj";39;89042
-2021-05-11;"Bratislavský kraj";61;89003
-2021-05-10;"Bratislavský kraj";91;88942
-2021-05-09;"Bratislavský kraj";41;88851
-2021-05-08;"Bratislavský kraj";29;88810
-2021-05-07;"Bratislavský kraj";97;88781
-2021-05-06;"Bratislavský kraj";71;88684
-2021-05-05;"Bratislavský kraj";60;88613
-2021-05-04;"Bratislavský kraj";99;88553
-2021-05-03;"Bratislavský kraj";101;88454
-2021-05-02;"Bratislavský kraj";113;88353
-2021-05-01;"Bratislavský kraj";51;88240
-2021-04-30;"Bratislavský kraj";125;88189
-2021-04-29;"Bratislavský kraj";144;88064
-2021-04-28;"Bratislavský kraj";118;87920
-2021-04-27;"Bratislavský kraj";93;87802
-2021-04-26;"Bratislavský kraj";156;87709
-2021-04-25;"Bratislavský kraj";82;87553
-2021-04-24;"Bratislavský kraj";94;87471
-2021-04-23;"Bratislavský kraj";132;87377
-2021-04-22;"Bratislavský kraj";111;87245
-2021-04-21;"Bratislavský kraj";110;87134
-2021-04-20;"Bratislavský kraj";121;87024
-2021-04-19;"Bratislavský kraj";128;86903
-2021-04-18;"Bratislavský kraj";111;86775
-2021-04-17;"Bratislavský kraj";124;86664
-2021-04-16;"Bratislavský kraj";142;86540
-2021-04-15;"Bratislavský kraj";108;86398
-2021-04-14;"Bratislavský kraj";153;86290
-2021-04-13;"Bratislavský kraj";164;86137
-2021-04-12;"Bratislavský kraj";192;85973
-2021-04-11;"Bratislavský kraj";165;85781
-2021-04-10;"Bratislavský kraj";181;85616
-2021-04-09;"Bratislavský kraj";169;85435
-2021-04-08;"Bratislavský kraj";166;85266
-2021-04-07;"Bratislavský kraj";197;85100
-2021-04-06;"Bratislavský kraj";273;84903
-2021-04-05;"Bratislavský kraj";170;84630
-2021-04-04;"Bratislavský kraj";112;84460
-2021-04-03;"Bratislavský kraj";272;84348
-2021-04-02;"Bratislavský kraj";137;84076
-2021-04-01;"Bratislavský kraj";278;83939
-2021-03-31;"Bratislavský kraj";282;83661
-2021-03-30;"Bratislavský kraj";244;83379
-2021-03-29;"Bratislavský kraj";331;83135
-2021-03-28;"Bratislavský kraj";196;82804
-2021-03-27;"Bratislavský kraj";293;82608
-2021-03-26;"Bratislavský kraj";305;82315
-2021-03-25;"Bratislavský kraj";248;82010
-2021-03-24;"Bratislavský kraj";321;81762
-2021-03-23;"Bratislavský kraj";328;81441
-2021-03-22;"Bratislavský kraj";330;81113
-2021-03-21;"Bratislavský kraj";266;80783
-2021-03-20;"Bratislavský kraj";287;80517
-2021-03-19;"Bratislavský kraj";396;80230
-2021-03-18;"Bratislavský kraj";334;79834
-2021-03-17;"Bratislavský kraj";394;79500
-2021-03-16;"Bratislavský kraj";545;79106
-2021-03-15;"Bratislavský kraj";435;78561
-2021-03-14;"Bratislavský kraj";350;78126
-2021-03-13;"Bratislavský kraj";451;77776
-2021-03-12;"Bratislavský kraj";464;77325
-2021-03-11;"Bratislavský kraj";464;76861
-2021-03-10;"Bratislavský kraj";444;76397
-2021-03-09;"Bratislavský kraj";509;75953
-2021-03-08;"Bratislavský kraj";603;75444
-2021-03-07;"Bratislavský kraj";443;74841
-2021-03-06;"Bratislavský kraj";494;74398
-2021-03-05;"Bratislavský kraj";532;73904
-2021-03-04;"Bratislavský kraj";548;73372
-2021-03-03;"Bratislavský kraj";614;72824
-2021-03-02;"Bratislavský kraj";655;72210
-2021-03-01;"Bratislavský kraj";752;71555
-2021-02-28;"Bratislavský kraj";507;70803
-2021-02-27;"Bratislavský kraj";615;70296
-2021-02-26;"Bratislavský kraj";678;69681
-2021-02-25;"Bratislavský kraj";682;69003
-2021-02-24;"Bratislavský kraj";629;68321
-2021-02-23;"Bratislavský kraj";652;67692
-2021-02-22;"Bratislavský kraj";836;67040
-2021-02-21;"Bratislavský kraj";581;66204
-2021-02-20;"Bratislavský kraj";717;65623
-2021-02-19;"Bratislavský kraj";696;64906
-2021-02-18;"Bratislavský kraj";634;64210
-2021-02-17;"Bratislavský kraj";580;63576
-2021-02-16;"Bratislavský kraj";641;62996
-2021-02-15;"Bratislavský kraj";644;62355
-2021-02-14;"Bratislavský kraj";476;61711
-2021-02-13;"Bratislavský kraj";688;61235
-2021-02-12;"Bratislavský kraj";609;60547
-2021-02-11;"Bratislavský kraj";622;59938
-2021-02-10;"Bratislavský kraj";670;59316
-2021-02-09;"Bratislavský kraj";742;58646
-2021-02-08;"Bratislavský kraj";881;57904
-2021-02-07;"Bratislavský kraj";668;57023
-2021-02-06;"Bratislavský kraj";617;56355
-2021-02-05;"Bratislavský kraj";702;55738
-2021-02-04;"Bratislavský kraj";903;55036
-2021-02-03;"Bratislavský kraj";513;54133
-2021-02-02;"Bratislavský kraj";877;53620
-2021-02-01;"Bratislavský kraj";734;52743
-2021-01-31;"Bratislavský kraj";605;52009
-2021-01-30;"Bratislavský kraj";831;51404
-2021-01-29;"Bratislavský kraj";688;50573
-2021-01-28;"Bratislavský kraj";604;49885
-2021-01-27;"Bratislavský kraj";681;49281
-2021-01-26;"Bratislavský kraj";597;48600
-2021-01-25;"Bratislavský kraj";605;48003
-2021-01-24;"Bratislavský kraj";579;47398
-2021-01-23;"Bratislavský kraj";1086;46819
-2021-01-22;"Bratislavský kraj";564;45733
-2021-01-21;"Bratislavský kraj";1572;45169
-2021-01-20;"Bratislavský kraj";812;43597
-2021-01-19;"Bratislavský kraj";721;42785
-2021-01-18;"Bratislavský kraj";1064;42064
-2021-01-17;"Bratislavský kraj";270;41000
-2021-01-16;"Bratislavský kraj";226;40730
-2021-01-15;"Bratislavský kraj";507;40504
-2021-01-14;"Bratislavský kraj";636;39997
-2021-01-13;"Bratislavský kraj";663;39361
-2021-01-12;"Bratislavský kraj";905;38698
-2021-01-11;"Bratislavský kraj";761;37793
-2021-01-10;"Bratislavský kraj";331;37032
-2021-01-09;"Bratislavský kraj";628;36701
-2021-01-08;"Bratislavský kraj";992;36073
-2021-01-07;"Bratislavský kraj";889;35081
-2021-01-06;"Bratislavský kraj";487;34192
-2021-01-05;"Bratislavský kraj";1433;33705
-2021-01-04;"Bratislavský kraj";1139;32272
-2021-01-03;"Bratislavský kraj";118;31133
-2021-01-02;"Bratislavský kraj";242;31015
-2021-01-01;"Bratislavský kraj";366;30773
-2020-12-31;"Bratislavský kraj";1444;30407
-2020-12-30;"Bratislavský kraj";1183;28963
-2020-12-29;"Bratislavský kraj";1002;27780
-2020-12-28;"Bratislavský kraj";728;26778
-2020-12-27;"Bratislavský kraj";236;26050
-2020-12-26;"Bratislavský kraj";102;25814
-2020-12-25;"Bratislavský kraj";152;25712
-2020-12-24;"Bratislavský kraj";640;25560
-2020-12-23;"Bratislavský kraj";863;24920
-2020-12-22;"Bratislavský kraj";1026;24057
-2020-12-21;"Bratislavský kraj";2338;23031
-2020-12-20;"Bratislavský kraj";237;20693
-2020-12-19;"Bratislavský kraj";526;20456
-2020-12-18;"Bratislavský kraj";651;19930
-2020-12-17;"Bratislavský kraj";888;19279
-2020-12-16;"Bratislavský kraj";700;18391
-2020-12-15;"Bratislavský kraj";877;17691
-2020-12-14;"Bratislavský kraj";540;16814
-2020-12-13;"Bratislavský kraj";135;16274
-2020-12-12;"Bratislavský kraj";518;16139
-2020-12-11;"Bratislavský kraj";561;15621
-2020-12-10;"Bratislavský kraj";452;15060
-2020-12-09;"Bratislavský kraj";559;14608
-2020-12-08;"Bratislavský kraj";441;14049
-2020-12-07;"Bratislavský kraj";424;13608
-2020-12-06;"Bratislavský kraj";113;13184
-2020-12-05;"Bratislavský kraj";307;13071
-2020-12-04;"Bratislavský kraj";299;12764
-2020-12-03;"Bratislavský kraj";308;12465
-2020-12-02;"Bratislavský kraj";308;12157
-2020-12-01;"Bratislavský kraj";427;11849
-2020-11-30;"Bratislavský kraj";273;11422
-2020-11-29;"Bratislavský kraj";76;11149
-2020-11-28;"Bratislavský kraj";265;11073
-2020-11-27;"Bratislavský kraj";118;10808
-2020-11-26;"Bratislavský kraj";189;10690
-2020-11-25;"Bratislavský kraj";187;10501
-2020-11-24;"Bratislavský kraj";148;10314
-2020-11-23;"Bratislavský kraj";125;10166
-2020-11-22;"Bratislavský kraj";43;10041
-2020-11-21;"Bratislavský kraj";156;9998
-2020-11-20;"Bratislavský kraj";166;9842
-2020-11-19;"Bratislavský kraj";202;9676
-2020-11-18;"Bratislavský kraj";193;9474
-2020-11-17;"Bratislavský kraj";131;9281
-2020-11-16;"Bratislavský kraj";91;9150
-2020-11-15;"Bratislavský kraj";47;9059
-2020-11-14;"Bratislavský kraj";68;9012
-2020-11-13;"Bratislavský kraj";115;8944
-2020-11-12;"Bratislavský kraj";147;8829
-2020-11-11;"Bratislavský kraj";171;8682
-2020-11-10;"Bratislavský kraj";150;8511
-2020-11-09;"Bratislavský kraj";78;8361
-2020-11-08;"Bratislavský kraj";88;8283
-2020-11-07;"Bratislavský kraj";105;8195
-2020-11-06;"Bratislavský kraj";306;8090
-2020-11-05;"Bratislavský kraj";186;7784
-2020-11-04;"Bratislavský kraj";75;7598
-2020-11-03;"Bratislavský kraj";263;7523
-2020-11-02;"Bratislavský kraj";224;7260
-2020-11-01;"Bratislavský kraj";266;7036
-2020-10-31;"Bratislavský kraj";296;6770
-2020-10-30;"Bratislavský kraj";296;6474
-2020-10-29;"Bratislavský kraj";266;6178
-2020-10-28;"Bratislavský kraj";235;5912
-2020-10-27;"Bratislavský kraj";260;5677
-2020-10-26;"Bratislavský kraj";134;5417
-2020-10-25;"Bratislavský kraj";154;5283
-2020-10-24;"Bratislavský kraj";176;5129
-2020-10-23;"Bratislavský kraj";159;4953
-2020-10-22;"Bratislavský kraj";207;4794
-2020-10-21;"Bratislavský kraj";72;4587
-2020-10-20;"Bratislavský kraj";187;4515
-2020-10-19;"Bratislavský kraj";151;4328
-2020-10-18;"Bratislavský kraj";75;4177
-2020-10-17;"Bratislavský kraj";136;4102
-2020-10-16;"Bratislavský kraj";104;3966
-2020-10-15;"Bratislavský kraj";136;3862
-2020-10-14;"Bratislavský kraj";127;3726
-2020-10-13;"Bratislavský kraj";94;3599
-2020-10-12;"Bratislavský kraj";46;3505
-2020-10-11;"Bratislavský kraj";80;3459
-2020-10-10;"Bratislavský kraj";55;3379
-2020-10-09;"Bratislavský kraj";148;3324
-2020-10-08;"Bratislavský kraj";100;3176
-2020-10-07;"Bratislavský kraj";107;3076
-2020-10-06;"Bratislavský kraj";108;2969
-2020-10-05;"Bratislavský kraj";30;2861
-2020-10-04;"Bratislavský kraj";49;2831
-2020-10-03;"Bratislavský kraj";82;2782
-2020-10-02;"Bratislavský kraj";101;2700
-2020-10-01;"Bratislavský kraj";72;2599
-2020-09-30;"Bratislavský kraj";91;2527
-2020-09-29;"Bratislavský kraj";74;2436
-2020-09-28;"Bratislavský kraj";29;2362
-2020-09-27;"Bratislavský kraj";48;2333
-2020-09-26;"Bratislavský kraj";86;2285
-2020-09-25;"Bratislavský kraj";97;2199
-2020-09-24;"Bratislavský kraj";73;2102
-2020-09-23;"Bratislavský kraj";55;2029
-2020-09-22;"Bratislavský kraj";81;1974
-2020-09-21;"Bratislavský kraj";32;1893
-2020-09-20;"Bratislavský kraj";25;1861
-2020-09-19;"Bratislavský kraj";59;1836
-2020-09-18;"Bratislavský kraj";42;1777
-2020-09-17;"Bratislavský kraj";52;1735
-2020-09-16;"Bratislavský kraj";32;1683
-2020-09-15;"Bratislavský kraj";26;1651
-2020-09-14;"Bratislavský kraj";24;1625
-2020-09-13;"Bratislavský kraj";11;1601
-2020-09-12;"Bratislavský kraj";24;1590
-2020-09-11;"Bratislavský kraj";50;1566
-2020-09-10;"Bratislavský kraj";47;1516
-2020-09-09;"Bratislavský kraj";40;1469
-2020-09-08;"Bratislavský kraj";58;1429
-2020-09-07;"Bratislavský kraj";39;1371
-2020-09-06;"Bratislavský kraj";11;1332
-2020-09-05;"Bratislavský kraj";37;1321
-2020-09-04;"Bratislavský kraj";87;1284
-2020-09-03;"Bratislavský kraj";51;1197
-2020-09-02;"Bratislavský kraj";50;1146
-2020-09-01;"Bratislavský kraj";16;1096
-2020-08-31;"Bratislavský kraj";19;1080
-2020-08-30;"Bratislavský kraj";9;1061
-2020-08-29;"Bratislavský kraj";12;1052
-2020-08-28;"Bratislavský kraj";35;1040
-2020-08-27;"Bratislavský kraj";33;1005
-2020-08-26;"Bratislavský kraj";27;972
-2020-08-25;"Bratislavský kraj";29;945
-2020-08-24;"Bratislavský kraj";6;916
-2020-08-23;"Bratislavský kraj";45;910
-2020-08-22;"Bratislavský kraj";13;865
-2020-08-21;"Bratislavský kraj";46;852
-2020-08-20;"Bratislavský kraj";41;806
-2020-08-19;"Bratislavský kraj";27;765
-2020-08-18;"Bratislavský kraj";47;738
-2020-08-17;"Bratislavský kraj";2;691
-2020-08-16;"Bratislavský kraj";3;689
-2020-08-15;"Bratislavský kraj";18;686
-2020-08-14;"Bratislavský kraj";16;668
-2020-08-13;"Bratislavský kraj";12;652
-2020-08-12;"Bratislavský kraj";10;640
-2020-08-11;"Bratislavský kraj";23;630
-2020-08-10;"Bratislavský kraj";2;607
-2020-08-09;"Bratislavský kraj";2;605
-2020-08-08;"Bratislavský kraj";1;603
-2020-08-07;"Bratislavský kraj";9;602
-2020-08-06;"Bratislavský kraj";15;593
-2020-08-05;"Bratislavský kraj";11;578
-2020-08-04;"Bratislavský kraj";21;567
-2020-08-03;"Bratislavský kraj";7;546
-2020-08-02;"Bratislavský kraj";0;539
-2020-08-01;"Bratislavský kraj";0;539
-2020-07-31;"Bratislavský kraj";14;539
-2020-07-30;"Bratislavský kraj";6;525
-2020-07-29;"Bratislavský kraj";7;519
-2020-07-28;"Bratislavský kraj";14;512
-2020-07-27;"Bratislavský kraj";3;498
-2020-07-26;"Bratislavský kraj";0;495
-2020-07-25;"Bratislavský kraj";8;495
-2020-07-24;"Bratislavský kraj";2;487
-2020-07-23;"Bratislavský kraj";8;485
-2020-07-22;"Bratislavský kraj";11;477
-2020-07-21;"Bratislavský kraj";8;466
-2020-07-20;"Bratislavský kraj";12;458
-2020-07-19;"Bratislavský kraj";0;446
-2020-07-18;"Bratislavský kraj";2;446
-2020-07-17;"Bratislavský kraj";2;444
-2020-07-16;"Bratislavský kraj";6;442
-2020-07-15;"Bratislavský kraj";3;436
-2020-07-14;"Bratislavský kraj";2;433
-2020-07-13;"Bratislavský kraj";2;431
-2020-07-12;"Bratislavský kraj";0;429
-2020-07-11;"Bratislavský kraj";0;429
-2020-07-10;"Bratislavský kraj";8;429
-2020-07-09;"Bratislavský kraj";2;421
-2020-07-08;"Bratislavský kraj";11;419
-2020-07-07;"Bratislavský kraj";5;408
-2020-07-06;"Bratislavský kraj";1;403
-2020-07-05;"Bratislavský kraj";0;402
-2020-07-04;"Bratislavský kraj";3;402
-2020-07-03;"Bratislavský kraj";1;399
-2020-07-02;"Bratislavský kraj";0;398
-2020-07-01;"Bratislavský kraj";7;398
-2020-06-30;"Bratislavský kraj";3;391
-2020-06-29;"Bratislavský kraj";1;388
-2020-06-28;"Bratislavský kraj";0;387
-2020-06-27;"Bratislavský kraj";1;387
-2020-06-26;"Bratislavský kraj";6;386
-2020-06-25;"Bratislavský kraj";0;380
-2020-06-24;"Bratislavský kraj";3;380
-2020-06-23;"Bratislavský kraj";0;377
-2020-06-22;"Bratislavský kraj";1;377
-2020-06-21;"Bratislavský kraj";0;376
-2020-06-20;"Bratislavský kraj";0;376
-2020-06-19;"Bratislavský kraj";3;376
-2020-06-18;"Bratislavský kraj";0;373
-2020-06-17;"Bratislavský kraj";0;373
-2020-06-16;"Bratislavský kraj";0;373
-2020-06-14;"Bratislavský kraj";2;373
-2020-06-13;"Bratislavský kraj";1;371
-2020-06-12;"Bratislavský kraj";2;370
-2020-06-11;"Bratislavský kraj";0;368
-2020-06-10;"Bratislavský kraj";0;368
-2020-06-09;"Bratislavský kraj";0;368
-2020-06-08;"Bratislavský kraj";1;368
-2020-06-07;"Bratislavský kraj";0;367
-2020-06-05;"Bratislavský kraj";0;367
-2020-06-03;"Bratislavský kraj";1;367
-2020-06-02;"Bratislavský kraj";0;366
-2020-05-31;"Bratislavský kraj";0;366
-2020-05-29;"Bratislavský kraj";0;366
-2020-05-27;"Bratislavský kraj";1;366
-2020-05-26;"Bratislavský kraj";0;365
-2020-05-25;"Bratislavský kraj";0;365
-2020-05-24;"Bratislavský kraj";0;365
-2020-05-23;"Bratislavský kraj";2;365
-2020-05-22;"Bratislavský kraj";0;363
-2020-05-21;"Bratislavský kraj";0;363
-2020-05-20;"Bratislavský kraj";0;363
-2020-05-19;"Bratislavský kraj";0;363
-2020-05-17;"Bratislavský kraj";0;363
-2020-05-16;"Bratislavský kraj";0;363
-2020-05-15;"Bratislavský kraj";0;363
-2020-05-14;"Bratislavský kraj";0;363
-2020-05-13;"Bratislavský kraj";0;363
-2020-05-12;"Bratislavský kraj";2;363
-2020-05-11;"Bratislavský kraj";0;361
-2020-05-09;"Bratislavský kraj";0;361
-2020-05-07;"Bratislavský kraj";1;361
-2020-05-06;"Bratislavský kraj";3;360
-2020-05-05;"Bratislavský kraj";0;357
-2020-05-04;"Bratislavský kraj";0;357
-2020-05-03;"Bratislavský kraj";2;357
-2020-05-02;"Bratislavský kraj";0;355
-2020-05-01;"Bratislavský kraj";0;355
-2020-04-30;"Bratislavský kraj";5;355
-2020-04-29;"Bratislavský kraj";0;350
-2020-04-28;"Bratislavský kraj";2;350
-2020-04-27;"Bratislavský kraj";0;348
-2020-04-26;"Bratislavský kraj";1;348
-2020-04-25;"Bratislavský kraj";0;347
-2020-04-24;"Bratislavský kraj";2;347
-2020-04-23;"Bratislavský kraj";6;345
-2020-04-22;"Bratislavský kraj";11;339
-2020-04-21;"Bratislavský kraj";4;328
-2020-04-20;"Bratislavský kraj";0;324
-2020-04-19;"Bratislavský kraj";4;324
-2020-04-18;"Bratislavský kraj";5;320
-2020-04-17;"Bratislavský kraj";6;315
-2020-04-16;"Bratislavský kraj";15;309
-2020-04-15;"Bratislavský kraj";11;294
-2020-04-14;"Bratislavský kraj";19;283
-2020-04-13;"Bratislavský kraj";53;264
-2020-04-12;"Bratislavský kraj";3;211
-2020-04-11;"Bratislavský kraj";1;208
-2020-04-10;"Bratislavský kraj";8;207
-2020-04-09;"Bratislavský kraj";3;199
-2020-04-08;"Bratislavský kraj";3;196
-2020-04-07;"Bratislavský kraj";24;193
-2020-04-06;"Bratislavský kraj";5;169
-2020-04-05;"Bratislavský kraj";6;164
-2020-04-04;"Bratislavský kraj";2;158
-2020-04-03;"Bratislavský kraj";1;156
-2020-04-02;"Bratislavský kraj";2;155
-2020-04-01;"Bratislavský kraj";5;153
-2020-03-31;"Bratislavský kraj";19;148
-2020-03-30;"Bratislavský kraj";6;129
-2020-03-29;"Bratislavský kraj";8;123
-2020-03-28;"Bratislavský kraj";4;115
-2020-03-27;"Bratislavský kraj";3;111
-2020-03-26;"Bratislavský kraj";15;108
-2020-03-25;"Bratislavský kraj";1;93
-2020-03-24;"Bratislavský kraj";4;92
-2020-03-23;"Bratislavský kraj";9;88
-2020-03-22;"Bratislavský kraj";2;79
-2020-03-21;"Bratislavský kraj";22;77
-2020-03-20;"Bratislavský kraj";3;55
-2020-03-19;"Bratislavský kraj";4;52
-2020-03-18;"Bratislavský kraj";3;48
-2020-03-17;"Bratislavský kraj";13;45
-2020-03-16;"Bratislavský kraj";1;32
-2020-03-15;"Bratislavský kraj";4;31
-2020-03-14;"Bratislavský kraj";9;27
-2020-03-13;"Bratislavský kraj";2;18
-2020-03-12;"Bratislavský kraj";8;16
-2020-03-11;"Bratislavský kraj";3;8
-2020-03-09;"Bratislavský kraj";0;5
-2020-03-08;"Bratislavský kraj";2;5
-2020-03-07;"Bratislavský kraj";2;3
-2020-03-06;"Bratislavský kraj";1;1
-2021-09-08;"Košický kraj";118;98886
+2021-09-12;"Bratislavský kraj";26;85281
+2021-09-11;"Bratislavský kraj";44;85255
+2021-09-10;"Bratislavský kraj";63;85211
+2021-09-09;"Bratislavský kraj";80;85148
+2021-09-08;"Bratislavský kraj";76;85068
+2021-09-07;"Bratislavský kraj";68;84992
+2021-09-06;"Bratislavský kraj";92;84924
+2021-09-05;"Bratislavský kraj";24;84832
+2021-09-04;"Bratislavský kraj";52;84808
+2021-09-03;"Bratislavský kraj";69;84756
+2021-09-02;"Bratislavský kraj";58;84687
+2021-09-01;"Bratislavský kraj";25;84629
+2021-08-31;"Bratislavský kraj";50;84604
+2021-08-30;"Bratislavský kraj";37;84554
+2021-08-29;"Bratislavský kraj";17;84517
+2021-08-28;"Bratislavský kraj";35;84500
+2021-08-27;"Bratislavský kraj";28;84465
+2021-08-26;"Bratislavský kraj";34;84437
+2021-08-25;"Bratislavský kraj";39;84403
+2021-08-24;"Bratislavský kraj";26;84364
+2021-08-23;"Bratislavský kraj";28;84338
+2021-08-22;"Bratislavský kraj";13;84310
+2021-08-21;"Bratislavský kraj";22;84297
+2021-08-20;"Bratislavský kraj";46;84275
+2021-08-19;"Bratislavský kraj";24;84229
+2021-08-18;"Bratislavský kraj";27;84205
+2021-08-17;"Bratislavský kraj";23;84178
+2021-08-16;"Bratislavský kraj";30;84155
+2021-08-15;"Bratislavský kraj";9;84125
+2021-08-14;"Bratislavský kraj";15;84116
+2021-08-13;"Bratislavský kraj";39;84101
+2021-08-12;"Bratislavský kraj";25;84062
+2021-08-11;"Bratislavský kraj";27;84037
+2021-08-10;"Bratislavský kraj";22;84010
+2021-08-09;"Bratislavský kraj";44;83988
+2021-08-08;"Bratislavský kraj";7;83944
+2021-08-07;"Bratislavský kraj";15;83937
+2021-08-06;"Bratislavský kraj";19;83922
+2021-08-05;"Bratislavský kraj";17;83903
+2021-08-04;"Bratislavský kraj";9;83886
+2021-08-03;"Bratislavský kraj";16;83877
+2021-08-02;"Bratislavský kraj";26;83861
+2021-08-01;"Bratislavský kraj";12;83835
+2021-07-31;"Bratislavský kraj";9;83823
+2021-07-30;"Bratislavský kraj";22;83814
+2021-07-29;"Bratislavský kraj";26;83792
+2021-07-28;"Bratislavský kraj";19;83766
+2021-07-27;"Bratislavský kraj";14;83747
+2021-07-26;"Bratislavský kraj";24;83733
+2021-07-25;"Bratislavský kraj";6;83709
+2021-07-24;"Bratislavský kraj";12;83703
+2021-07-23;"Bratislavský kraj";9;83691
+2021-07-22;"Bratislavský kraj";18;83682
+2021-07-21;"Bratislavský kraj";11;83664
+2021-07-20;"Bratislavský kraj";20;83653
+2021-07-19;"Bratislavský kraj";18;83633
+2021-07-18;"Bratislavský kraj";5;83615
+2021-07-17;"Bratislavský kraj";5;83610
+2021-07-16;"Bratislavský kraj";12;83605
+2021-07-15;"Bratislavský kraj";5;83593
+2021-07-14;"Bratislavský kraj";8;83588
+2021-07-13;"Bratislavský kraj";8;83580
+2021-07-12;"Bratislavský kraj";11;83572
+2021-07-11;"Bratislavský kraj";6;83561
+2021-07-10;"Bratislavský kraj";8;83555
+2021-07-09;"Bratislavský kraj";20;83547
+2021-07-08;"Bratislavský kraj";13;83527
+2021-07-07;"Bratislavský kraj";9;83514
+2021-07-06;"Bratislavský kraj";23;83505
+2021-07-05;"Bratislavský kraj";10;83482
+2021-07-04;"Bratislavský kraj";5;83472
+2021-07-03;"Bratislavský kraj";13;83467
+2021-07-02;"Bratislavský kraj";8;83454
+2021-07-01;"Bratislavský kraj";11;83446
+2021-06-30;"Bratislavský kraj";13;83435
+2021-06-29;"Bratislavský kraj";12;83422
+2021-06-28;"Bratislavský kraj";40;83410
+2021-06-27;"Bratislavský kraj";15;83370
+2021-06-26;"Bratislavský kraj";9;83355
+2021-06-25;"Bratislavský kraj";22;83346
+2021-06-24;"Bratislavský kraj";19;83324
+2021-06-23;"Bratislavský kraj";16;83305
+2021-06-22;"Bratislavský kraj";16;83289
+2021-06-21;"Bratislavský kraj";14;83273
+2021-06-20;"Bratislavský kraj";5;83259
+2021-06-19;"Bratislavský kraj";7;83254
+2021-06-18;"Bratislavský kraj";14;83247
+2021-06-17;"Bratislavský kraj";16;83233
+2021-06-16;"Bratislavský kraj";7;83217
+2021-06-15;"Bratislavský kraj";24;83210
+2021-06-14;"Bratislavský kraj";13;83186
+2021-06-13;"Bratislavský kraj";13;83173
+2021-06-12;"Bratislavský kraj";15;83160
+2021-06-11;"Bratislavský kraj";30;83145
+2021-06-10;"Bratislavský kraj";27;83115
+2021-06-09;"Bratislavský kraj";24;83088
+2021-06-08;"Bratislavský kraj";42;83064
+2021-06-07;"Bratislavský kraj";56;83022
+2021-06-06;"Bratislavský kraj";23;82966
+2021-06-05;"Bratislavský kraj";17;82943
+2021-06-04;"Bratislavský kraj";41;82926
+2021-06-03;"Bratislavský kraj";31;82885
+2021-06-02;"Bratislavský kraj";27;82854
+2021-06-01;"Bratislavský kraj";28;82827
+2021-05-31;"Bratislavský kraj";50;82799
+2021-05-30;"Bratislavský kraj";18;82749
+2021-05-29;"Bratislavský kraj";12;82731
+2021-05-28;"Bratislavský kraj";37;82719
+2021-05-27;"Bratislavský kraj";23;82682
+2021-05-26;"Bratislavský kraj";37;82659
+2021-05-25;"Bratislavský kraj";50;82622
+2021-05-24;"Bratislavský kraj";35;82572
+2021-05-23;"Bratislavský kraj";31;82537
+2021-05-22;"Bratislavský kraj";28;82506
+2021-05-21;"Bratislavský kraj";37;82478
+2021-05-20;"Bratislavský kraj";32;82441
+2021-05-19;"Bratislavský kraj";45;82409
+2021-05-18;"Bratislavský kraj";47;82364
+2021-05-17;"Bratislavský kraj";44;82317
+2021-05-16;"Bratislavský kraj";44;82273
+2021-05-15;"Bratislavský kraj";31;82229
+2021-05-14;"Bratislavský kraj";45;82198
+2021-05-13;"Bratislavský kraj";26;82153
+2021-05-12;"Bratislavský kraj";39;82127
+2021-05-11;"Bratislavský kraj";61;82088
+2021-05-10;"Bratislavský kraj";91;82027
+2021-05-09;"Bratislavský kraj";41;81936
+2021-05-08;"Bratislavský kraj";29;81895
+2021-05-07;"Bratislavský kraj";97;81866
+2021-05-06;"Bratislavský kraj";71;81769
+2021-05-05;"Bratislavský kraj";60;81698
+2021-05-04;"Bratislavský kraj";99;81638
+2021-05-03;"Bratislavský kraj";101;81539
+2021-05-02;"Bratislavský kraj";113;81438
+2021-05-01;"Bratislavský kraj";51;81325
+2021-04-30;"Bratislavský kraj";125;81274
+2021-04-29;"Bratislavský kraj";144;81149
+2021-04-28;"Bratislavský kraj";118;81005
+2021-04-27;"Bratislavský kraj";93;80887
+2021-04-26;"Bratislavský kraj";156;80794
+2021-04-25;"Bratislavský kraj";82;80638
+2021-04-24;"Bratislavský kraj";94;80556
+2021-04-23;"Bratislavský kraj";132;80462
+2021-04-22;"Bratislavský kraj";111;80330
+2021-04-21;"Bratislavský kraj";110;80219
+2021-04-20;"Bratislavský kraj";121;80109
+2021-04-19;"Bratislavský kraj";128;79988
+2021-04-18;"Bratislavský kraj";111;79860
+2021-04-17;"Bratislavský kraj";124;79749
+2021-04-16;"Bratislavský kraj";142;79625
+2021-04-15;"Bratislavský kraj";108;79483
+2021-04-14;"Bratislavský kraj";153;79375
+2021-04-13;"Bratislavský kraj";164;79222
+2021-04-12;"Bratislavský kraj";192;79058
+2021-04-11;"Bratislavský kraj";165;78866
+2021-04-10;"Bratislavský kraj";181;78701
+2021-04-09;"Bratislavský kraj";169;78520
+2021-04-08;"Bratislavský kraj";166;78351
+2021-04-07;"Bratislavský kraj";197;78185
+2021-04-06;"Bratislavský kraj";273;77988
+2021-04-05;"Bratislavský kraj";170;77715
+2021-04-04;"Bratislavský kraj";112;77545
+2021-04-03;"Bratislavský kraj";272;77433
+2021-04-02;"Bratislavský kraj";137;77161
+2021-04-01;"Bratislavský kraj";278;77024
+2021-03-31;"Bratislavský kraj";282;76746
+2021-03-30;"Bratislavský kraj";244;76464
+2021-03-29;"Bratislavský kraj";331;76220
+2021-03-28;"Bratislavský kraj";196;75889
+2021-03-27;"Bratislavský kraj";293;75693
+2021-03-26;"Bratislavský kraj";305;75400
+2021-03-25;"Bratislavský kraj";248;75095
+2021-03-24;"Bratislavský kraj";321;74847
+2021-03-23;"Bratislavský kraj";328;74526
+2021-03-22;"Bratislavský kraj";330;74198
+2021-03-21;"Bratislavský kraj";266;73868
+2021-03-20;"Bratislavský kraj";287;73602
+2021-03-19;"Bratislavský kraj";396;73315
+2021-03-18;"Bratislavský kraj";334;72919
+2021-03-17;"Bratislavský kraj";394;72585
+2021-03-16;"Bratislavský kraj";545;72191
+2021-03-15;"Bratislavský kraj";435;71646
+2021-03-14;"Bratislavský kraj";350;71211
+2021-03-13;"Bratislavský kraj";451;70861
+2021-03-12;"Bratislavský kraj";464;70410
+2021-03-11;"Bratislavský kraj";464;69946
+2021-03-10;"Bratislavský kraj";444;69482
+2021-03-09;"Bratislavský kraj";509;69038
+2021-03-08;"Bratislavský kraj";603;68529
+2021-03-07;"Bratislavský kraj";443;67926
+2021-03-06;"Bratislavský kraj";494;67483
+2021-03-05;"Bratislavský kraj";532;66989
+2021-03-04;"Bratislavský kraj";548;66457
+2021-03-03;"Bratislavský kraj";614;65909
+2021-03-02;"Bratislavský kraj";655;65295
+2021-03-01;"Bratislavský kraj";752;64640
+2021-02-28;"Bratislavský kraj";507;63888
+2021-02-27;"Bratislavský kraj";615;63381
+2021-02-26;"Bratislavský kraj";678;62766
+2021-02-25;"Bratislavský kraj";682;62088
+2021-02-24;"Bratislavský kraj";629;61406
+2021-02-23;"Bratislavský kraj";652;60777
+2021-02-22;"Bratislavský kraj";836;60125
+2021-02-21;"Bratislavský kraj";581;59289
+2021-02-20;"Bratislavský kraj";717;58708
+2021-02-19;"Bratislavský kraj";696;57991
+2021-02-18;"Bratislavský kraj";634;57295
+2021-02-17;"Bratislavský kraj";580;56661
+2021-02-16;"Bratislavský kraj";641;56081
+2021-02-15;"Bratislavský kraj";644;55440
+2021-02-14;"Bratislavský kraj";476;54796
+2021-02-13;"Bratislavský kraj";688;54320
+2021-02-12;"Bratislavský kraj";609;53632
+2021-02-11;"Bratislavský kraj";622;53023
+2021-02-10;"Bratislavský kraj";670;52401
+2021-02-09;"Bratislavský kraj";742;51731
+2021-02-08;"Bratislavský kraj";881;50989
+2021-02-07;"Bratislavský kraj";668;50108
+2021-02-06;"Bratislavský kraj";617;49440
+2021-02-05;"Bratislavský kraj";702;48823
+2021-02-04;"Bratislavský kraj";903;48121
+2021-02-03;"Bratislavský kraj";513;47218
+2021-02-02;"Bratislavský kraj";877;46705
+2021-02-01;"Bratislavský kraj";734;45828
+2021-01-31;"Bratislavský kraj";605;45094
+2021-01-30;"Bratislavský kraj";831;44489
+2021-01-29;"Bratislavský kraj";688;43658
+2021-01-28;"Bratislavský kraj";604;42970
+2021-01-27;"Bratislavský kraj";681;42366
+2021-01-26;"Bratislavský kraj";597;41685
+2021-01-25;"Bratislavský kraj";605;41088
+2021-01-24;"Bratislavský kraj";579;40483
+2021-01-23;"Bratislavský kraj";1086;39904
+2021-01-22;"Bratislavský kraj";564;38818
+2021-01-21;"Bratislavský kraj";1572;38254
+2021-01-20;"Bratislavský kraj";812;36682
+2021-01-19;"Bratislavský kraj";721;35870
+2021-01-18;"Bratislavský kraj";1064;35149
+2021-01-17;"Bratislavský kraj";270;34085
+2021-01-16;"Bratislavský kraj";226;33815
+2021-01-15;"Bratislavský kraj";507;33589
+2021-01-14;"Bratislavský kraj";636;33082
+2021-01-13;"Bratislavský kraj";663;32446
+2021-01-12;"Bratislavský kraj";905;31783
+2021-01-11;"Bratislavský kraj";761;30878
+2021-01-10;"Bratislavský kraj";331;30117
+2021-01-09;"Bratislavský kraj";628;29786
+2021-01-08;"Bratislavský kraj";992;29158
+2021-01-07;"Bratislavský kraj";889;28166
+2021-01-06;"Bratislavský kraj";487;27277
+2021-01-05;"Bratislavský kraj";1433;26790
+2021-01-04;"Bratislavský kraj";1139;25357
+2021-01-03;"Bratislavský kraj";118;24218
+2021-01-02;"Bratislavský kraj";242;24100
+2021-01-01;"Bratislavský kraj";366;23858
+2020-12-31;"Bratislavský kraj";1444;23492
+2020-12-30;"Bratislavský kraj";1183;22048
+2020-12-29;"Bratislavský kraj";1002;20865
+2020-12-28;"Bratislavský kraj";728;19863
+2020-12-27;"Bratislavský kraj";236;19135
+2020-12-26;"Bratislavský kraj";102;18899
+2020-12-25;"Bratislavský kraj";152;18797
+2020-12-24;"Bratislavský kraj";640;18645
+2020-12-23;"Bratislavský kraj";863;18005
+2020-12-22;"Bratislavský kraj";1026;17142
+2020-12-21;"Bratislavský kraj";2338;16116
+2020-12-20;"Bratislavský kraj";237;13778
+2020-12-19;"Bratislavský kraj";526;13541
+2020-12-18;"Bratislavský kraj";651;13015
+2020-12-17;"Bratislavský kraj";888;12364
+2020-12-16;"Bratislavský kraj";700;11476
+2020-12-15;"Bratislavský kraj";877;10776
+2020-12-14;"Bratislavský kraj";540;9899
+2020-12-13;"Bratislavský kraj";135;9359
+2020-12-12;"Bratislavský kraj";518;9224
+2020-12-11;"Bratislavský kraj";561;8706
+2020-12-10;"Bratislavský kraj";452;8145
+2020-12-09;"Bratislavský kraj";559;7693
+2020-12-08;"Bratislavský kraj";441;7134
+2020-12-07;"Bratislavský kraj";424;6693
+2020-12-06;"Bratislavský kraj";113;6269
+2020-12-05;"Bratislavský kraj";307;6156
+2020-12-04;"Bratislavský kraj";299;5849
+2020-12-03;"Bratislavský kraj";308;5550
+2020-12-02;"Bratislavský kraj";308;5242
+2020-12-01;"Bratislavský kraj";427;4934
+2020-11-30;"Bratislavský kraj";273;4507
+2020-11-29;"Bratislavský kraj";76;4234
+2020-11-28;"Bratislavský kraj";265;4158
+2020-11-27;"Bratislavský kraj";118;3893
+2020-11-26;"Bratislavský kraj";189;3775
+2020-11-25;"Bratislavský kraj";187;3586
+2020-11-24;"Bratislavský kraj";148;3399
+2020-11-23;"Bratislavský kraj";125;3251
+2020-11-22;"Bratislavský kraj";43;3126
+2020-11-21;"Bratislavský kraj";156;3083
+2020-11-20;"Bratislavský kraj";166;2927
+2020-11-19;"Bratislavský kraj";202;2761
+2020-11-18;"Bratislavský kraj";193;2559
+2020-11-17;"Bratislavský kraj";131;2366
+2020-11-16;"Bratislavský kraj";91;2235
+2020-11-15;"Bratislavský kraj";47;2144
+2020-11-14;"Bratislavský kraj";68;2097
+2020-11-13;"Bratislavský kraj";115;2029
+2020-11-12;"Bratislavský kraj";147;1914
+2020-11-11;"Bratislavský kraj";171;1767
+2020-11-10;"Bratislavský kraj";150;1596
+2020-11-09;"Bratislavský kraj";78;1446
+2020-11-08;"Bratislavský kraj";88;1368
+2020-11-07;"Bratislavský kraj";105;1280
+2020-11-06;"Bratislavský kraj";306;1175
+2020-11-05;"Bratislavský kraj";186;869
+2020-11-04;"Bratislavský kraj";75;683
+2020-11-03;"Bratislavský kraj";263;608
+2020-11-02;"Bratislavský kraj";224;345
+2020-11-01;"Bratislavský kraj";266;121
+2020-10-31;"Bratislavský kraj";296;-145
+2020-10-30;"Bratislavský kraj";296;-441
+2020-10-29;"Bratislavský kraj";266;-737
+2020-10-28;"Bratislavský kraj";235;-1003
+2020-10-27;"Bratislavský kraj";260;-1238
+2020-10-26;"Bratislavský kraj";134;-1498
+2020-10-25;"Bratislavský kraj";154;-1632
+2020-10-24;"Bratislavský kraj";176;-1786
+2020-10-23;"Bratislavský kraj";159;-1962
+2020-10-22;"Bratislavský kraj";207;-2121
+2020-10-21;"Bratislavský kraj";72;-2328
+2020-10-20;"Bratislavský kraj";187;-2400
+2020-10-19;"Bratislavský kraj";151;-2587
+2020-10-18;"Bratislavský kraj";75;-2738
+2020-10-17;"Bratislavský kraj";136;-2813
+2020-10-16;"Bratislavský kraj";104;-2949
+2020-10-15;"Bratislavský kraj";136;-3053
+2020-10-14;"Bratislavský kraj";127;-3189
+2020-10-13;"Bratislavský kraj";94;-3316
+2020-10-12;"Bratislavský kraj";46;-3410
+2020-10-11;"Bratislavský kraj";80;-3456
+2020-10-10;"Bratislavský kraj";55;-3536
+2020-10-09;"Bratislavský kraj";148;-3591
+2020-10-08;"Bratislavský kraj";100;-3739
+2020-10-07;"Bratislavský kraj";107;-3839
+2020-10-06;"Bratislavský kraj";108;-3946
+2020-10-05;"Bratislavský kraj";30;-4054
+2020-10-04;"Bratislavský kraj";49;-4084
+2020-10-03;"Bratislavský kraj";82;-4133
+2020-10-02;"Bratislavský kraj";101;-4215
+2020-10-01;"Bratislavský kraj";72;-4316
+2020-09-30;"Bratislavský kraj";91;-4388
+2020-09-29;"Bratislavský kraj";74;-4479
+2020-09-28;"Bratislavský kraj";29;-4553
+2020-09-27;"Bratislavský kraj";48;-4582
+2020-09-26;"Bratislavský kraj";86;-4630
+2020-09-25;"Bratislavský kraj";97;-4716
+2020-09-24;"Bratislavský kraj";73;-4813
+2020-09-23;"Bratislavský kraj";55;-4886
+2020-09-22;"Bratislavský kraj";81;-4941
+2020-09-21;"Bratislavský kraj";32;-5022
+2020-09-20;"Bratislavský kraj";25;-5054
+2020-09-19;"Bratislavský kraj";59;-5079
+2020-09-18;"Bratislavský kraj";42;-5138
+2020-09-17;"Bratislavský kraj";52;-5180
+2020-09-16;"Bratislavský kraj";32;-5232
+2020-09-15;"Bratislavský kraj";26;-5264
+2020-09-14;"Bratislavský kraj";24;-5290
+2020-09-13;"Bratislavský kraj";11;-5314
+2020-09-12;"Bratislavský kraj";24;-5325
+2020-09-11;"Bratislavský kraj";50;-5349
+2020-09-10;"Bratislavský kraj";47;-5399
+2020-09-09;"Bratislavský kraj";40;-5446
+2020-09-08;"Bratislavský kraj";58;-5486
+2020-09-07;"Bratislavský kraj";39;-5544
+2020-09-06;"Bratislavský kraj";11;-5583
+2020-09-05;"Bratislavský kraj";37;-5594
+2020-09-04;"Bratislavský kraj";87;-5631
+2020-09-03;"Bratislavský kraj";51;-5718
+2020-09-02;"Bratislavský kraj";50;-5769
+2020-09-01;"Bratislavský kraj";16;-5819
+2020-08-31;"Bratislavský kraj";19;-5835
+2020-08-30;"Bratislavský kraj";9;-5854
+2020-08-29;"Bratislavský kraj";12;-5863
+2020-08-28;"Bratislavský kraj";35;-5875
+2020-08-27;"Bratislavský kraj";33;-5910
+2020-08-26;"Bratislavský kraj";27;-5943
+2020-08-25;"Bratislavský kraj";29;-5970
+2020-08-24;"Bratislavský kraj";6;-5999
+2020-08-23;"Bratislavský kraj";45;-6005
+2020-08-22;"Bratislavský kraj";13;-6050
+2020-08-21;"Bratislavský kraj";46;-6063
+2020-08-20;"Bratislavský kraj";41;-6109
+2020-08-19;"Bratislavský kraj";27;-6150
+2020-08-18;"Bratislavský kraj";47;-6177
+2020-08-17;"Bratislavský kraj";2;-6224
+2020-08-16;"Bratislavský kraj";3;-6226
+2020-08-15;"Bratislavský kraj";18;-6229
+2020-08-14;"Bratislavský kraj";16;-6247
+2020-08-13;"Bratislavský kraj";12;-6263
+2020-08-12;"Bratislavský kraj";10;-6275
+2020-08-11;"Bratislavský kraj";23;-6285
+2020-08-10;"Bratislavský kraj";2;-6308
+2020-08-09;"Bratislavský kraj";2;-6310
+2020-08-08;"Bratislavský kraj";1;-6312
+2020-08-07;"Bratislavský kraj";9;-6313
+2020-08-06;"Bratislavský kraj";15;-6322
+2020-08-05;"Bratislavský kraj";11;-6337
+2020-08-04;"Bratislavský kraj";21;-6348
+2020-08-03;"Bratislavský kraj";7;-6369
+2020-08-02;"Bratislavský kraj";0;-6376
+2020-08-01;"Bratislavský kraj";0;-6376
+2020-07-31;"Bratislavský kraj";14;-6376
+2020-07-30;"Bratislavský kraj";6;-6390
+2020-07-29;"Bratislavský kraj";7;-6396
+2020-07-28;"Bratislavský kraj";14;-6403
+2020-07-27;"Bratislavský kraj";3;-6417
+2020-07-26;"Bratislavský kraj";0;-6420
+2020-07-25;"Bratislavský kraj";8;-6420
+2020-07-24;"Bratislavský kraj";2;-6428
+2020-07-23;"Bratislavský kraj";8;-6430
+2020-07-22;"Bratislavský kraj";11;-6438
+2020-07-21;"Bratislavský kraj";8;-6449
+2020-07-20;"Bratislavský kraj";12;-6457
+2020-07-19;"Bratislavský kraj";0;-6469
+2020-07-18;"Bratislavský kraj";2;-6469
+2020-07-17;"Bratislavský kraj";2;-6471
+2020-07-16;"Bratislavský kraj";6;-6473
+2020-07-15;"Bratislavský kraj";3;-6479
+2020-07-14;"Bratislavský kraj";2;-6482
+2020-07-13;"Bratislavský kraj";2;-6484
+2020-07-12;"Bratislavský kraj";0;-6486
+2020-07-11;"Bratislavský kraj";0;-6486
+2020-07-10;"Bratislavský kraj";8;-6486
+2020-07-09;"Bratislavský kraj";2;-6494
+2020-07-08;"Bratislavský kraj";11;-6496
+2020-07-07;"Bratislavský kraj";5;-6507
+2020-07-06;"Bratislavský kraj";1;-6512
+2020-07-05;"Bratislavský kraj";0;-6513
+2020-07-04;"Bratislavský kraj";3;-6513
+2020-07-03;"Bratislavský kraj";1;-6516
+2020-07-02;"Bratislavský kraj";0;-6517
+2020-07-01;"Bratislavský kraj";7;-6517
+2020-06-30;"Bratislavský kraj";3;-6524
+2020-06-29;"Bratislavský kraj";1;-6527
+2020-06-28;"Bratislavský kraj";0;-6528
+2020-06-27;"Bratislavský kraj";1;-6528
+2020-06-26;"Bratislavský kraj";6;-6529
+2020-06-25;"Bratislavský kraj";0;-6535
+2020-06-24;"Bratislavský kraj";3;-6535
+2020-06-23;"Bratislavský kraj";0;-6538
+2020-06-22;"Bratislavský kraj";1;-6538
+2020-06-21;"Bratislavský kraj";0;-6539
+2020-06-20;"Bratislavský kraj";0;-6539
+2020-06-19;"Bratislavský kraj";3;-6539
+2020-06-18;"Bratislavský kraj";0;-6542
+2020-06-17;"Bratislavský kraj";0;-6542
+2020-06-16;"Bratislavský kraj";0;-6542
+2020-06-14;"Bratislavský kraj";2;-6542
+2020-06-13;"Bratislavský kraj";1;-6544
+2020-06-12;"Bratislavský kraj";2;-6545
+2020-06-11;"Bratislavský kraj";0;-6547
+2020-06-10;"Bratislavský kraj";0;-6547
+2020-06-09;"Bratislavský kraj";0;-6547
+2020-06-08;"Bratislavský kraj";1;-6547
+2020-06-07;"Bratislavský kraj";0;-6548
+2020-06-05;"Bratislavský kraj";0;-6548
+2020-06-03;"Bratislavský kraj";1;-6548
+2020-06-02;"Bratislavský kraj";0;-6549
+2020-05-31;"Bratislavský kraj";0;-6549
+2020-05-29;"Bratislavský kraj";0;-6549
+2020-05-27;"Bratislavský kraj";1;-6549
+2020-05-26;"Bratislavský kraj";0;-6550
+2020-05-25;"Bratislavský kraj";0;-6550
+2020-05-24;"Bratislavský kraj";0;-6550
+2020-05-23;"Bratislavský kraj";2;-6550
+2020-05-22;"Bratislavský kraj";0;-6552
+2020-05-21;"Bratislavský kraj";0;-6552
+2020-05-20;"Bratislavský kraj";0;-6552
+2020-05-19;"Bratislavský kraj";0;-6552
+2020-05-17;"Bratislavský kraj";0;-6552
+2020-05-16;"Bratislavský kraj";0;-6552
+2020-05-15;"Bratislavský kraj";0;-6552
+2020-05-14;"Bratislavský kraj";0;-6552
+2020-05-13;"Bratislavský kraj";0;-6552
+2020-05-12;"Bratislavský kraj";2;-6552
+2020-05-11;"Bratislavský kraj";0;-6554
+2020-05-09;"Bratislavský kraj";0;-6554
+2020-05-07;"Bratislavský kraj";1;-6554
+2020-05-06;"Bratislavský kraj";3;-6555
+2020-05-05;"Bratislavský kraj";0;-6558
+2020-05-04;"Bratislavský kraj";0;-6558
+2020-05-03;"Bratislavský kraj";2;-6558
+2020-05-02;"Bratislavský kraj";0;-6560
+2020-05-01;"Bratislavský kraj";0;-6560
+2020-04-30;"Bratislavský kraj";5;-6560
+2020-04-29;"Bratislavský kraj";0;-6565
+2020-04-28;"Bratislavský kraj";2;-6565
+2020-04-27;"Bratislavský kraj";0;-6567
+2020-04-26;"Bratislavský kraj";1;-6567
+2020-04-25;"Bratislavský kraj";0;-6568
+2020-04-24;"Bratislavský kraj";2;-6568
+2020-04-23;"Bratislavský kraj";6;-6570
+2020-04-22;"Bratislavský kraj";11;-6576
+2020-04-21;"Bratislavský kraj";4;-6587
+2020-04-20;"Bratislavský kraj";0;-6591
+2020-04-19;"Bratislavský kraj";4;-6591
+2020-04-18;"Bratislavský kraj";5;-6595
+2020-04-17;"Bratislavský kraj";6;-6600
+2020-04-16;"Bratislavský kraj";15;-6606
+2020-04-15;"Bratislavský kraj";11;-6621
+2020-04-14;"Bratislavský kraj";19;-6632
+2020-04-13;"Bratislavský kraj";53;-6651
+2020-04-12;"Bratislavský kraj";3;-6704
+2020-04-11;"Bratislavský kraj";1;-6707
+2020-04-10;"Bratislavský kraj";8;-6708
+2020-04-09;"Bratislavský kraj";3;-6716
+2020-04-08;"Bratislavský kraj";3;-6719
+2020-04-07;"Bratislavský kraj";24;-6722
+2020-04-06;"Bratislavský kraj";5;-6746
+2020-04-05;"Bratislavský kraj";6;-6751
+2020-04-04;"Bratislavský kraj";2;-6757
+2020-04-03;"Bratislavský kraj";1;-6759
+2020-04-02;"Bratislavský kraj";2;-6760
+2020-04-01;"Bratislavský kraj";5;-6762
+2020-03-31;"Bratislavský kraj";19;-6767
+2020-03-30;"Bratislavský kraj";6;-6786
+2020-03-29;"Bratislavský kraj";8;-6792
+2020-03-28;"Bratislavský kraj";4;-6800
+2020-03-27;"Bratislavský kraj";3;-6804
+2020-03-26;"Bratislavský kraj";15;-6807
+2020-03-25;"Bratislavský kraj";1;-6822
+2020-03-24;"Bratislavský kraj";4;-6823
+2020-03-23;"Bratislavský kraj";9;-6827
+2020-03-22;"Bratislavský kraj";2;-6836
+2020-03-21;"Bratislavský kraj";22;-6838
+2020-03-20;"Bratislavský kraj";3;-6860
+2020-03-19;"Bratislavský kraj";4;-6863
+2020-03-18;"Bratislavský kraj";3;-6867
+2020-03-17;"Bratislavský kraj";13;-6870
+2020-03-16;"Bratislavský kraj";1;-6883
+2020-03-15;"Bratislavský kraj";4;-6884
+2020-03-14;"Bratislavský kraj";9;-6888
+2020-03-13;"Bratislavský kraj";2;-6897
+2020-03-12;"Bratislavský kraj";8;-6899
+2020-03-11;"Bratislavský kraj";3;-6907
+2020-03-09;"Bratislavský kraj";0;-6910
+2020-03-08;"Bratislavský kraj";2;-6910
+2020-03-07;"Bratislavský kraj";2;-6912
+2020-03-06;"Bratislavský kraj";1;-6914
+2021-09-12;"Košický kraj";34;99354
+2021-09-11;"Košický kraj";122;99320
+2021-09-10;"Košický kraj";164;99198
+2021-09-09;"Košický kraj";144;99034
+2021-09-08;"Košický kraj";122;98890
 2021-09-07;"Košický kraj";132;98768
 2021-09-06;"Košický kraj";76;98636
 2021-09-05;"Košický kraj";70;98560
@@ -1625,42 +1637,46 @@
 2020-03-08;"Košický kraj";0;0
 2020-03-07;"Košický kraj";0;0
 2020-03-06;"Košický kraj";0;0
-2021-09-08;"Nitriansky kraj";40;92722
-2021-09-07;"Nitriansky kraj";44;92682
-2021-09-06;"Nitriansky kraj";42;92638
-2021-09-05;"Nitriansky kraj";16;92596
-2021-09-04;"Nitriansky kraj";28;92580
-2021-09-03;"Nitriansky kraj";37;92552
-2021-09-02;"Nitriansky kraj";29;92515
-2021-09-01;"Nitriansky kraj";11;92486
-2021-08-31;"Nitriansky kraj";16;92475
-2021-08-30;"Nitriansky kraj";18;92459
-2021-08-29;"Nitriansky kraj";3;92441
-2021-08-28;"Nitriansky kraj";8;92438
-2021-08-27;"Nitriansky kraj";11;92430
-2021-08-26;"Nitriansky kraj";7;92419
-2021-08-25;"Nitriansky kraj";18;92412
-2021-08-24;"Nitriansky kraj";8;92394
-2021-08-23;"Nitriansky kraj";17;92386
-2021-08-22;"Nitriansky kraj";3;92369
-2021-08-21;"Nitriansky kraj";2;92366
-2021-08-20;"Nitriansky kraj";13;92364
-2021-08-19;"Nitriansky kraj";15;92351
-2021-08-18;"Nitriansky kraj";15;92336
-2021-08-17;"Nitriansky kraj";7;92321
-2021-08-16;"Nitriansky kraj";11;92314
-2021-08-15;"Nitriansky kraj";3;92303
-2021-08-14;"Nitriansky kraj";6;92300
-2021-08-13;"Nitriansky kraj";1;92294
-2021-08-12;"Nitriansky kraj";5;92293
-2021-08-11;"Nitriansky kraj";4;92288
-2021-08-10;"Nitriansky kraj";4;92284
-2021-08-09;"Nitriansky kraj";4;92280
-2021-08-08;"Nitriansky kraj";1;92276
-2021-08-07;"Nitriansky kraj";1;92275
-2021-08-06;"Nitriansky kraj";5;92274
-2021-08-05;"Nitriansky kraj";6;92269
-2021-08-04;"Nitriansky kraj";1;92263
+2021-09-12;"Nitriansky kraj";14;92866
+2021-09-11;"Nitriansky kraj";43;92852
+2021-09-10;"Nitriansky kraj";36;92809
+2021-09-09;"Nitriansky kraj";30;92773
+2021-09-08;"Nitriansky kraj";52;92743
+2021-09-07;"Nitriansky kraj";44;92691
+2021-09-06;"Nitriansky kraj";46;92647
+2021-09-05;"Nitriansky kraj";16;92601
+2021-09-04;"Nitriansky kraj";28;92585
+2021-09-03;"Nitriansky kraj";37;92557
+2021-09-02;"Nitriansky kraj";30;92520
+2021-09-01;"Nitriansky kraj";11;92490
+2021-08-31;"Nitriansky kraj";16;92479
+2021-08-30;"Nitriansky kraj";18;92463
+2021-08-29;"Nitriansky kraj";3;92445
+2021-08-28;"Nitriansky kraj";8;92442
+2021-08-27;"Nitriansky kraj";11;92434
+2021-08-26;"Nitriansky kraj";8;92423
+2021-08-25;"Nitriansky kraj";18;92415
+2021-08-24;"Nitriansky kraj";8;92397
+2021-08-23;"Nitriansky kraj";17;92389
+2021-08-22;"Nitriansky kraj";3;92372
+2021-08-21;"Nitriansky kraj";3;92369
+2021-08-20;"Nitriansky kraj";13;92366
+2021-08-19;"Nitriansky kraj";15;92353
+2021-08-18;"Nitriansky kraj";15;92338
+2021-08-17;"Nitriansky kraj";7;92323
+2021-08-16;"Nitriansky kraj";11;92316
+2021-08-15;"Nitriansky kraj";3;92305
+2021-08-14;"Nitriansky kraj";6;92302
+2021-08-13;"Nitriansky kraj";1;92296
+2021-08-12;"Nitriansky kraj";5;92295
+2021-08-11;"Nitriansky kraj";4;92290
+2021-08-10;"Nitriansky kraj";4;92286
+2021-08-09;"Nitriansky kraj";4;92282
+2021-08-08;"Nitriansky kraj";1;92278
+2021-08-07;"Nitriansky kraj";1;92277
+2021-08-06;"Nitriansky kraj";5;92276
+2021-08-05;"Nitriansky kraj";6;92271
+2021-08-04;"Nitriansky kraj";3;92265
 2021-08-03;"Nitriansky kraj";5;92262
 2021-08-02;"Nitriansky kraj";5;92257
 2021-08-01;"Nitriansky kraj";1;92252
@@ -2167,8 +2183,12 @@
 2020-03-08;"Nitriansky kraj";0;0
 2020-03-07;"Nitriansky kraj";0;0
 2020-03-06;"Nitriansky kraj";0;0
-2021-09-08;"Prešovský kraj";83;114696
-2021-09-07;"Prešovský kraj";105;114613
+2021-09-12;"Prešovský kraj";26;114993
+2021-09-11;"Prešovský kraj";81;114967
+2021-09-10;"Prešovský kraj";127;114886
+2021-09-09;"Prešovský kraj";53;114759
+2021-09-08;"Prešovský kraj";92;114706
+2021-09-07;"Prešovský kraj";106;114614
 2021-09-06;"Prešovský kraj";81;114508
 2021-09-05;"Prešovský kraj";15;114427
 2021-09-04;"Prešovský kraj";41;114412
@@ -2709,7 +2729,11 @@
 2020-03-08;"Prešovský kraj";0;0
 2020-03-07;"Prešovský kraj";0;0
 2020-03-06;"Prešovský kraj";0;0
-2021-09-08;"Trenčiansky kraj";67;101468
+2021-09-12;"Trenčiansky kraj";8;101651
+2021-09-11;"Trenčiansky kraj";60;101643
+2021-09-10;"Trenčiansky kraj";62;101583
+2021-09-09;"Trenčiansky kraj";51;101521
+2021-09-08;"Trenčiansky kraj";69;101470
 2021-09-07;"Trenčiansky kraj";60;101401
 2021-09-06;"Trenčiansky kraj";62;101341
 2021-09-05;"Trenčiansky kraj";25;101279
@@ -3251,8 +3275,12 @@
 2020-03-08;"Trenčiansky kraj";0;0
 2020-03-07;"Trenčiansky kraj";0;0
 2020-03-06;"Trenčiansky kraj";0;0
-2021-09-08;"Trnavský kraj";74;90238
-2021-09-07;"Trnavský kraj";31;90164
+2021-09-12;"Trnavský kraj";1;90392
+2021-09-11;"Trnavský kraj";42;90391
+2021-09-10;"Trnavský kraj";49;90349
+2021-09-09;"Trnavský kraj";55;90300
+2021-09-08;"Trnavský kraj";80;90245
+2021-09-07;"Trnavský kraj";32;90165
 2021-09-06;"Trnavský kraj";30;90133
 2021-09-05;"Trnavský kraj";6;90103
 2021-09-04;"Trnavský kraj";22;90097
@@ -3793,8 +3821,12 @@
 2020-03-08;"Trnavský kraj";0;0
 2020-03-07;"Trnavský kraj";0;0
 2020-03-06;"Trnavský kraj";0;0
-2021-09-08;"Žilinský kraj";85;108723
-2021-09-07;"Žilinský kraj";98;108638
+2021-09-12;"Žilinský kraj";26;108999
+2021-09-11;"Žilinský kraj";68;108973
+2021-09-10;"Žilinský kraj";101;108905
+2021-09-09;"Žilinský kraj";74;108804
+2021-09-08;"Žilinský kraj";91;108730
+2021-09-07;"Žilinský kraj";99;108639
 2021-09-06;"Žilinský kraj";76;108540
 2021-09-05;"Žilinský kraj";19;108464
 2021-09-04;"Žilinský kraj";29;108445
@@ -4335,545 +4367,549 @@
 2020-03-08;"Žilinský kraj";0;0
 2020-03-07;"Žilinský kraj";0;0
 2020-03-06;"Žilinský kraj";0;0
-2020-03-06;"Slovensko";1;1
-2020-03-07;"Slovensko";2;3
-2020-03-08;"Slovensko";2;5
-2020-03-09;"Slovensko";2;7
-2020-03-11;"Slovensko";3;10
-2020-03-12;"Slovensko";11;21
-2020-03-13;"Slovensko";11;32
-2020-03-14;"Slovensko";12;44
-2020-03-15;"Slovensko";17;61
-2020-03-16;"Slovensko";11;72
-2020-03-17;"Slovensko";24;96
-2020-03-18;"Slovensko";8;104
-2020-03-19;"Slovensko";19;123
-2020-03-20;"Slovensko";14;137
-2020-03-21;"Slovensko";41;178
-2020-03-22;"Slovensko";7;185
-2020-03-23;"Slovensko";19;204
-2020-03-24;"Slovensko";12;216
-2020-03-25;"Slovensko";10;226
-2020-03-26;"Slovensko";43;269
-2020-03-27;"Slovensko";23;292
-2020-03-28;"Slovensko";22;314
-2020-03-29;"Slovensko";22;336
-2020-03-30;"Slovensko";27;363
-2020-03-31;"Slovensko";37;400
-2020-04-01;"Slovensko";26;426
-2020-04-02;"Slovensko";24;450
-2020-04-03;"Slovensko";21;471
-2020-04-04;"Slovensko";14;485
-2020-04-05;"Slovensko";49;534
-2020-04-06;"Slovensko";47;581
-2020-04-07;"Slovensko";101;682
-2020-04-08;"Slovensko";19;701
-2020-04-09;"Slovensko";14;715
-2020-04-10;"Slovensko";13;728
-2020-04-11;"Slovensko";14;742
-2020-04-12;"Slovensko";27;769
-2020-04-13;"Slovensko";66;835
-2020-04-14;"Slovensko";28;863
-2020-04-15;"Slovensko";114;977
-2020-04-16;"Slovensko";72;1049
-2020-04-17;"Slovensko";40;1089
-2020-04-18;"Slovensko";72;1161
-2020-04-19;"Slovensko";12;1173
-2020-04-20;"Slovensko";26;1199
-2020-04-21;"Slovensko";45;1244
-2020-04-22;"Slovensko";81;1325
-2020-04-23;"Slovensko";35;1360
-2020-04-24;"Slovensko";13;1373
-2020-04-25;"Slovensko";6;1379
-2020-04-26;"Slovensko";2;1381
-2020-04-27;"Slovensko";3;1384
-2020-04-28;"Slovensko";7;1391
-2020-04-29;"Slovensko";5;1396
-2020-04-30;"Slovensko";7;1403
-2020-05-01;"Slovensko";4;1407
-2020-05-02;"Slovensko";1;1408
-2020-05-03;"Slovensko";5;1413
-2020-05-04;"Slovensko";8;1421
-2020-05-05;"Slovensko";8;1429
-2020-05-06;"Slovensko";16;1445
-2020-05-07;"Slovensko";10;1455
-2020-05-09;"Slovensko";2;1457
-2020-05-11;"Slovensko";8;1465
-2020-05-12;"Slovensko";4;1469
-2020-05-13;"Slovensko";8;1477
-2020-05-14;"Slovensko";3;1480
-2020-05-15;"Slovensko";13;1493
-2020-05-16;"Slovensko";1;1494
-2020-05-17;"Slovensko";1;1495
-2020-05-19;"Slovensko";1;1496
-2020-05-20;"Slovensko";6;1502
-2020-05-21;"Slovensko";1;1503
-2020-05-22;"Slovensko";1;1504
-2020-05-23;"Slovensko";5;1509
-2020-05-24;"Slovensko";2;1511
-2020-05-25;"Slovensko";2;1513
-2020-05-26;"Slovensko";2;1515
-2020-05-27;"Slovensko";5;1520
-2020-05-29;"Slovensko";1;1521
-2020-05-31;"Slovensko";1;1522
-2020-06-02;"Slovensko";3;1525
-2020-06-03;"Slovensko";1;1526
-2020-06-05;"Slovensko";2;1528
-2020-06-07;"Slovensko";2;1530
-2020-06-08;"Slovensko";1;1531
-2020-06-09;"Slovensko";2;1533
-2020-06-10;"Slovensko";8;1541
-2020-06-11;"Slovensko";1;1542
-2020-06-12;"Slovensko";3;1545
-2020-06-13;"Slovensko";3;1548
-2020-06-14;"Slovensko";4;1552
-2020-06-16;"Slovensko";9;1561
-2020-06-17;"Slovensko";1;1562
-2020-06-18;"Slovensko";14;1576
-2020-06-19;"Slovensko";10;1586
-2020-06-20;"Slovensko";1;1587
-2020-06-21;"Slovensko";1;1588
-2020-06-22;"Slovensko";1;1589
-2020-06-23;"Slovensko";18;1607
-2020-06-24;"Slovensko";23;1630
-2020-06-25;"Slovensko";13;1643
-2020-06-26;"Slovensko";14;1657
-2020-06-27;"Slovensko";7;1664
-2020-06-28;"Slovensko";1;1665
-2020-06-29;"Slovensko";2;1667
-2020-06-30;"Slovensko";20;1687
-2020-07-01;"Slovensko";13;1700
-2020-07-02;"Slovensko";20;1720
-2020-07-03;"Slovensko";29;1749
-2020-07-04;"Slovensko";15;1764
-2020-07-05;"Slovensko";1;1765
-2020-07-06;"Slovensko";2;1767
-2020-07-07;"Slovensko";31;1798
-2020-07-08;"Slovensko";53;1851
-2020-07-09;"Slovensko";19;1870
-2020-07-10;"Slovensko";23;1893
-2020-07-11;"Slovensko";8;1901
-2020-07-12;"Slovensko";1;1902
-2020-07-13;"Slovensko";6;1908
-2020-07-14;"Slovensko";19;1927
-2020-07-15;"Slovensko";24;1951
-2020-07-16;"Slovensko";14;1965
-2020-07-17;"Slovensko";11;1976
-2020-07-18;"Slovensko";3;1979
-2020-07-19;"Slovensko";1;1980
-2020-07-20;"Slovensko";41;2021
-2020-07-21;"Slovensko";37;2058
-2020-07-22;"Slovensko";31;2089
-2020-07-23;"Slovensko";29;2118
-2020-07-24;"Slovensko";23;2141
-2020-07-25;"Slovensko";38;2179
-2020-07-26;"Slovensko";2;2181
-2020-07-27;"Slovensko";23;2204
-2020-07-28;"Slovensko";41;2245
-2020-07-29;"Slovensko";20;2265
-2020-07-30;"Slovensko";27;2292
-2020-07-31;"Slovensko";45;2337
-2020-08-01;"Slovensko";7;2344
-2020-08-02;"Slovensko";10;2354
-2020-08-03;"Slovensko";14;2368
-2020-08-04;"Slovensko";49;2417
-2020-08-05;"Slovensko";63;2480
-2020-08-06;"Slovensko";43;2523
-2020-08-07;"Slovensko";43;2566
-2020-08-08;"Slovensko";30;2596
-2020-08-09;"Slovensko";3;2599
-2020-08-10;"Slovensko";16;2615
-2020-08-11;"Slovensko";75;2690
-2020-08-12;"Slovensko";49;2739
-2020-08-13;"Slovensko";62;2801
-2020-08-14;"Slovensko";54;2855
-2020-08-15;"Slovensko";47;2902
-2020-08-16;"Slovensko";5;2907
-2020-08-17;"Slovensko";15;2922
-2020-08-18;"Slovensko";100;3022
-2020-08-19;"Slovensko";80;3102
-2020-08-20;"Slovensko";123;3225
-2020-08-21;"Slovensko";91;3316
-2020-08-22;"Slovensko";40;3356
-2020-08-23;"Slovensko";68;3424
-2020-08-24;"Slovensko";28;3452
-2020-08-25;"Slovensko";84;3536
-2020-08-26;"Slovensko";90;3626
-2020-08-27;"Slovensko";102;3728
-2020-08-28;"Slovensko";114;3842
-2020-08-29;"Slovensko";34;3876
-2020-08-30;"Slovensko";41;3917
-2020-08-31;"Slovensko";72;3989
-2020-09-01;"Slovensko";53;4042
-2020-09-02;"Slovensko";121;4163
-2020-09-03;"Slovensko";137;4300
-2020-09-04;"Slovensko";226;4526
-2020-09-05;"Slovensko";88;4614
-2020-09-06;"Slovensko";22;4636
-2020-09-07;"Slovensko";91;4727
-2020-09-08;"Slovensko";161;4888
-2020-09-09;"Slovensko";178;5066
-2020-09-10;"Slovensko";186;5252
-2020-09-11;"Slovensko";201;5453
-2020-09-12;"Slovensko";79;5532
-2020-09-13;"Slovensko";48;5580
-2020-09-14;"Slovensko";188;5768
-2020-09-15;"Slovensko";92;5860
-2020-09-16;"Slovensko";161;6021
-2020-09-17;"Slovensko";235;6256
-2020-09-18;"Slovensko";290;6546
-2020-09-19;"Slovensko";131;6677
-2020-09-20;"Slovensko";79;6756
-2020-09-21;"Slovensko";175;6931
-2020-09-22;"Slovensko";338;7269
-2020-09-23;"Slovensko";360;7629
-2020-09-24;"Slovensko";419;8048
-2020-09-25;"Slovensko";552;8600
-2020-09-26;"Slovensko";478;9078
-2020-09-27;"Slovensko";265;9343
-2020-09-28;"Slovensko";231;9574
-2020-09-29;"Slovensko";567;10141
-2020-09-30;"Slovensko";797;10938
-2020-10-01;"Slovensko";679;11617
-2020-10-02;"Slovensko";704;12321
-2020-10-03;"Slovensko";818;13139
-2020-10-04;"Slovensko";353;13492
-2020-10-05;"Slovensko";320;13812
-2020-10-06;"Slovensko";877;14689
-2020-10-07;"Slovensko";1037;15726
-2020-10-08;"Slovensko";1184;16910
-2020-10-09;"Slovensko";1887;18797
-2020-10-10;"Slovensko";1054;19851
-2020-10-11;"Slovensko";504;20355
-2020-10-12;"Slovensko";571;20926
-2020-10-13;"Slovensko";1494;22420
-2020-10-14;"Slovensko";1960;24380
-2020-10-15;"Slovensko";2111;26491
-2020-10-16;"Slovensko";1995;28486
-2020-10-17;"Slovensko";1567;30053
-2020-10-18;"Slovensko";860;30913
-2020-10-19;"Slovensko";774;31687
-2020-10-20;"Slovensko";2240;33927
-2020-10-21;"Slovensko";1776;35703
-2020-10-22;"Slovensko";2722;38425
-2020-10-23;"Slovensko";3009;41434
-2020-10-24;"Slovensko";3107;44541
-2020-10-25;"Slovensko";1352;45893
-2020-10-26;"Slovensko";1132;47025
-2020-10-27;"Slovensko";3120;50145
-2020-10-28;"Slovensko";3008;53153
-2020-10-29;"Slovensko";3600;56753
-2020-10-30;"Slovensko";3055;59808
-2020-10-31;"Slovensko";3257;63065
-2020-11-01;"Slovensko";2259;65324
-2020-11-02;"Slovensko";3058;68382
-2020-11-03;"Slovensko";3314;71696
-2020-11-04;"Slovensko";2044;73740
-2020-11-05;"Slovensko";2494;76234
-2020-11-06;"Slovensko";2903;79137
-2020-11-07;"Slovensko";2267;81404
-2020-11-08;"Slovensko";720;82124
-2020-11-09;"Slovensko";2196;84320
-2020-11-10;"Slovensko";2194;86514
-2020-11-11;"Slovensko";2691;89205
-2020-11-12;"Slovensko";2197;91402
-2020-11-13;"Slovensko";1929;93331
-2020-11-14;"Slovensko";1299;94630
-2020-11-15;"Slovensko";539;95169
-2020-11-16;"Slovensko";1612;96781
-2020-11-17;"Slovensko";1534;98315
-2020-11-18;"Slovensko";2107;100422
-2020-11-19;"Slovensko";2587;103009
-2020-11-20;"Slovensko";2472;105481
-2020-11-21;"Slovensko";1306;106787
-2020-11-22;"Slovensko";288;107075
-2020-11-23;"Slovensko";1902;108977
-2020-11-24;"Slovensko";2705;111682
-2020-11-25;"Slovensko";2686;114368
-2020-11-26;"Slovensko";2715;117083
-2020-11-27;"Slovensko";2312;119395
-2020-11-28;"Slovensko";1533;120928
-2020-11-29;"Slovensko";376;121304
-2020-11-30;"Slovensko";2971;124275
-2020-12-01;"Slovensko";3640;127915
-2020-12-02;"Slovensko";3645;131560
-2020-12-03;"Slovensko";3458;135018
-2020-12-04;"Slovensko";3330;138348
-2020-12-05;"Slovensko";1636;139984
-2020-12-06;"Slovensko";681;140665
-2020-12-07;"Slovensko";4113;144778
-2020-12-08;"Slovensko";5524;150302
-2020-12-09;"Slovensko";5431;155733
-2020-12-10;"Slovensko";5274;161007
-2020-12-11;"Slovensko";6267;167274
-2020-12-12;"Slovensko";3190;170464
-2020-12-13;"Slovensko";604;171068
-2020-12-14;"Slovensko";5206;176274
-2020-12-15;"Slovensko";7703;183977
-2020-12-16;"Slovensko";6596;190573
-2020-12-17;"Slovensko";7835;198408
-2020-12-18;"Slovensko";6522;204930
-2020-12-19;"Slovensko";3082;208012
-2020-12-20;"Slovensko";1715;209727
-2020-12-21;"Slovensko";9753;219480
-2020-12-22;"Slovensko";9215;228695
-2020-12-23;"Slovensko";7354;236049
-2020-12-24;"Slovensko";5064;241113
-2020-12-25;"Slovensko";1182;242295
-2020-12-26;"Slovensko";1086;243381
-2020-12-27;"Slovensko";873;244254
-2020-12-28;"Slovensko";8648;252902
-2020-12-29;"Slovensko";9743;262645
-2020-12-30;"Slovensko";11915;274560
-2020-12-31;"Slovensko";10476;285036
-2021-01-01;"Slovensko";2326;287362
-2021-01-02;"Slovensko";1745;289107
-2021-01-03;"Slovensko";908;290015
-2021-01-04;"Slovensko";10347;300362
-2021-01-05;"Slovensko";11080;311442
-2021-01-06;"Slovensko";3165;314607
-2021-01-07;"Slovensko";8291;322898
-2021-01-08;"Slovensko";8003;330901
-2021-01-09;"Slovensko";4860;335761
-2021-01-10;"Slovensko";1785;337546
-2021-01-11;"Slovensko";5704;343250
-2021-01-12;"Slovensko";6605;349855
-2021-01-13;"Slovensko";5553;355408
-2021-01-14;"Slovensko";5022;360430
-2021-01-15;"Slovensko";4221;364651
-2021-01-16;"Slovensko";1701;366352
-2021-01-17;"Slovensko";2694;369046
-2021-01-18;"Slovensko";5294;374340
-2021-01-19;"Slovensko";5154;379494
-2021-01-20;"Slovensko";4792;384286
-2021-01-21;"Slovensko";4888;389174
-2021-01-22;"Slovensko";4392;393566
-2021-01-23;"Slovensko";8420;401986
-2021-01-24;"Slovensko";4344;406330
-2021-01-25;"Slovensko";4328;410658
-2021-01-26;"Slovensko";5442;416100
-2021-01-27;"Slovensko";3762;419862
-2021-01-28;"Slovensko";4671;424533
-2021-01-29;"Slovensko";4898;429431
-2021-01-30;"Slovensko";6542;435973
-2021-01-31;"Slovensko";3309;439282
-2021-02-01;"Slovensko";5237;444519
-2021-02-02;"Slovensko";6481;451000
-2021-02-03;"Slovensko";4650;455650
-2021-02-04;"Slovensko";5553;461203
-2021-02-05;"Slovensko";5289;466492
-2021-02-06;"Slovensko";7040;473532
-2021-02-07;"Slovensko";4072;477604
-2021-02-08;"Slovensko";5355;482959
-2021-02-09;"Slovensko";6216;489175
-2021-02-10;"Slovensko";5470;494645
-2021-02-11;"Slovensko";4905;499550
-2021-02-12;"Slovensko";5673;505223
-2021-02-13;"Slovensko";6281;511504
-2021-02-14;"Slovensko";3491;514995
-2021-02-15;"Slovensko";4725;519720
-2021-02-16;"Slovensko";5929;525649
-2021-02-17;"Slovensko";5351;531000
-2021-02-18;"Slovensko";5130;536130
-2021-02-19;"Slovensko";6279;542409
-2021-02-20;"Slovensko";6982;549391
-2021-02-21;"Slovensko";3539;552930
-2021-02-22;"Slovensko";5435;558365
-2021-02-23;"Slovensko";6432;564797
-2021-02-24;"Slovensko";5448;570245
-2021-02-25;"Slovensko";5255;575500
-2021-02-26;"Slovensko";6182;581682
-2021-02-27;"Slovensko";6947;588629
-2021-02-28;"Slovensko";3464;592093
-2021-03-01;"Slovensko";5262;597355
-2021-03-02;"Slovensko";6103;603458
-2021-03-03;"Slovensko";5290;608748
-2021-03-04;"Slovensko";4823;613571
-2021-03-05;"Slovensko";5365;618936
-2021-03-06;"Slovensko";5210;624146
-2021-03-07;"Slovensko";2694;626840
-2021-03-08;"Slovensko";4818;631658
-2021-03-09;"Slovensko";5644;637302
-2021-03-10;"Slovensko";3951;641253
-2021-03-11;"Slovensko";4162;645415
-2021-03-12;"Slovensko";4752;650167
-2021-03-13;"Slovensko";4703;654870
-2021-03-14;"Slovensko";2302;657172
-2021-03-15;"Slovensko";3811;660983
-2021-03-16;"Slovensko";4721;665704
-2021-03-17;"Slovensko";3591;669295
-2021-03-18;"Slovensko";3294;672589
-2021-03-19;"Slovensko";3829;676418
-2021-03-20;"Slovensko";3616;680034
-2021-03-21;"Slovensko";1966;682000
-2021-03-22;"Slovensko";3052;685052
-2021-03-23;"Slovensko";3493;688545
-2021-03-24;"Slovensko";3061;691606
-2021-03-25;"Slovensko";2636;694242
-2021-03-26;"Slovensko";3195;697437
-2021-03-27;"Slovensko";3128;700565
-2021-03-28;"Slovensko";1510;702075
-2021-03-29;"Slovensko";2694;704769
-2021-03-30;"Slovensko";3065;707834
-2021-03-31;"Slovensko";2546;710380
-2021-04-01;"Slovensko";2628;713008
-2021-04-02;"Slovensko";1371;714379
-2021-04-03;"Slovensko";2576;716955
-2021-04-04;"Slovensko";707;717662
-2021-04-05;"Slovensko";972;718634
-2021-04-06;"Slovensko";2640;721274
-2021-04-07;"Slovensko";2544;723818
-2021-04-08;"Slovensko";1729;725547
-2021-04-09;"Slovensko";2017;727564
-2021-04-10;"Slovensko";1981;729545
-2021-04-11;"Slovensko";841;730386
-2021-04-12;"Slovensko";1784;732170
-2021-04-13;"Slovensko";1762;733932
-2021-04-14;"Slovensko";1523;735455
-2021-04-15;"Slovensko";1310;736765
-2021-04-16;"Slovensko";1586;738351
-2021-04-17;"Slovensko";1645;739996
-2021-04-18;"Slovensko";728;740724
-2021-04-19;"Slovensko";1470;742194
-2021-04-20;"Slovensko";1411;743605
-2021-04-21;"Slovensko";1335;744940
-2021-04-22;"Slovensko";1048;745988
-2021-04-23;"Slovensko";1536;747524
-2021-04-24;"Slovensko";1369;748893
-2021-04-25;"Slovensko";692;749585
-2021-04-26;"Slovensko";1190;750775
-2021-04-27;"Slovensko";1192;751967
-2021-04-28;"Slovensko";1066;753033
-2021-04-29;"Slovensko";1003;754036
-2021-04-30;"Slovensko";1155;755191
-2021-05-01;"Slovensko";1016;756207
-2021-05-02;"Slovensko";627;756834
-2021-05-03;"Slovensko";930;757764
-2021-05-04;"Slovensko";1090;758854
-2021-05-05;"Slovensko";715;759569
-2021-05-06;"Slovensko";751;760320
-2021-05-07;"Slovensko";832;761152
-2021-05-08;"Slovensko";352;761504
-2021-05-09;"Slovensko";711;762215
-2021-05-10;"Slovensko";784;762999
-2021-05-11;"Slovensko";673;763672
-2021-05-12;"Slovensko";607;764279
-2021-05-13;"Slovensko";560;764839
-2021-05-14;"Slovensko";611;765450
-2021-05-15;"Slovensko";375;765825
-2021-05-16;"Slovensko";386;766211
-2021-05-17;"Slovensko";551;766762
-2021-05-18;"Slovensko";472;767234
-2021-05-19;"Slovensko";455;767689
-2021-05-20;"Slovensko";310;767999
-2021-05-21;"Slovensko";398;768397
-2021-05-22;"Slovensko";308;768705
-2021-05-23;"Slovensko";208;768913
-2021-05-24;"Slovensko";396;769309
-2021-05-25;"Slovensko";397;769706
-2021-05-26;"Slovensko";310;770016
-2021-05-27;"Slovensko";253;770269
-2021-05-28;"Slovensko";318;770587
-2021-05-29;"Slovensko";222;770809
-2021-05-30;"Slovensko";157;770966
-2021-05-31;"Slovensko";355;771321
-2021-06-01;"Slovensko";258;771579
-2021-06-02;"Slovensko";258;771837
-2021-06-03;"Slovensko";227;772064
-2021-06-04;"Slovensko";252;772316
-2021-06-05;"Slovensko";170;772486
-2021-06-06;"Slovensko";102;772588
-2021-06-07;"Slovensko";243;772831
-2021-06-08;"Slovensko";241;773072
-2021-06-09;"Slovensko";166;773238
-2021-06-10;"Slovensko";156;773394
-2021-06-11;"Slovensko";175;773569
-2021-06-12;"Slovensko";98;773667
-2021-06-13;"Slovensko";69;773736
-2021-06-14;"Slovensko";127;773863
-2021-06-15;"Slovensko";109;773972
-2021-06-16;"Slovensko";100;774072
-2021-06-17;"Slovensko";81;774153
-2021-06-18;"Slovensko";103;774256
-2021-06-19;"Slovensko";51;774307
-2021-06-20;"Slovensko";42;774349
-2021-06-21;"Slovensko";118;774467
-2021-06-22;"Slovensko";64;774531
-2021-06-23;"Slovensko";67;774598
-2021-06-24;"Slovensko";70;774668
-2021-06-25;"Slovensko";74;774742
-2021-06-26;"Slovensko";52;774794
-2021-06-27;"Slovensko";37;774831
-2021-06-28;"Slovensko";79;774910
-2021-06-29;"Slovensko";57;774967
-2021-06-30;"Slovensko";55;775022
-2021-07-01;"Slovensko";28;775050
-2021-07-02;"Slovensko";34;775084
-2021-07-03;"Slovensko";29;775113
-2021-07-04;"Slovensko";12;775125
-2021-07-05;"Slovensko";24;775149
-2021-07-06;"Slovensko";56;775205
-2021-07-07;"Slovensko";48;775253
-2021-07-08;"Slovensko";50;775303
-2021-07-09;"Slovensko";58;775361
-2021-07-10;"Slovensko";34;775395
-2021-07-11;"Slovensko";15;775410
-2021-07-12;"Slovensko";41;775451
-2021-07-13;"Slovensko";32;775483
-2021-07-14;"Slovensko";39;775522
-2021-07-15;"Slovensko";43;775565
-2021-07-16;"Slovensko";48;775613
-2021-07-17;"Slovensko";37;775650
-2021-07-18;"Slovensko";11;775661
-2021-07-19;"Slovensko";52;775713
-2021-07-20;"Slovensko";52;775765
-2021-07-21;"Slovensko";50;775815
-2021-07-22;"Slovensko";67;775882
-2021-07-23;"Slovensko";53;775935
-2021-07-24;"Slovensko";58;775993
-2021-07-25;"Slovensko";19;776012
-2021-07-26;"Slovensko";73;776085
-2021-07-27;"Slovensko";100;776185
-2021-07-28;"Slovensko";69;776254
-2021-07-29;"Slovensko";60;776314
-2021-07-30;"Slovensko";86;776400
-2021-07-31;"Slovensko";68;776468
-2021-08-01;"Slovensko";22;776490
-2021-08-02;"Slovensko";74;776564
-2021-08-03;"Slovensko";108;776672
-2021-08-04;"Slovensko";63;776735
-2021-08-05;"Slovensko";86;776821
-2021-08-06;"Slovensko";67;776888
-2021-08-07;"Slovensko";54;776942
-2021-08-08;"Slovensko";33;776975
-2021-08-09;"Slovensko";119;777094
-2021-08-10;"Slovensko";97;777191
-2021-08-11;"Slovensko";96;777287
-2021-08-12;"Slovensko";85;777372
-2021-08-13;"Slovensko";127;777499
-2021-08-14;"Slovensko";95;777594
-2021-08-15;"Slovensko";28;777622
-2021-08-16;"Slovensko";116;777738
-2021-08-17;"Slovensko";137;777875
-2021-08-18;"Slovensko";129;778004
-2021-08-19;"Slovensko";122;778126
-2021-08-20;"Slovensko";145;778271
-2021-08-21;"Slovensko";127;778398
-2021-08-22;"Slovensko";50;778448
-2021-08-23;"Slovensko";162;778610
-2021-08-24;"Slovensko";109;778719
-2021-08-25;"Slovensko";208;778927
-2021-08-26;"Slovensko";152;779079
-2021-08-27;"Slovensko";188;779267
-2021-08-28;"Slovensko";135;779402
-2021-08-29;"Slovensko";80;779482
-2021-08-30;"Slovensko";227;779709
-2021-08-31;"Slovensko";308;780017
-2021-09-01;"Slovensko";229;780246
-2021-09-02;"Slovensko";382;780628
-2021-09-03;"Slovensko";475;781103
-2021-09-04;"Slovensko";290;781393
-2021-09-05;"Slovensko";186;781579
-2021-09-06;"Slovensko";498;782077
-2021-09-07;"Slovensko";586;782663
-2021-09-08;"Slovensko";590;783253
+2020-03-06;"Slovensko";1;-6914
+2020-03-07;"Slovensko";2;-6912
+2020-03-08;"Slovensko";2;-6910
+2020-03-09;"Slovensko";2;-6908
+2020-03-11;"Slovensko";3;-6905
+2020-03-12;"Slovensko";11;-6894
+2020-03-13;"Slovensko";11;-6883
+2020-03-14;"Slovensko";12;-6871
+2020-03-15;"Slovensko";17;-6854
+2020-03-16;"Slovensko";11;-6843
+2020-03-17;"Slovensko";24;-6819
+2020-03-18;"Slovensko";8;-6811
+2020-03-19;"Slovensko";19;-6792
+2020-03-20;"Slovensko";14;-6778
+2020-03-21;"Slovensko";41;-6737
+2020-03-22;"Slovensko";7;-6730
+2020-03-23;"Slovensko";19;-6711
+2020-03-24;"Slovensko";12;-6699
+2020-03-25;"Slovensko";10;-6689
+2020-03-26;"Slovensko";43;-6646
+2020-03-27;"Slovensko";23;-6623
+2020-03-28;"Slovensko";22;-6601
+2020-03-29;"Slovensko";22;-6579
+2020-03-30;"Slovensko";27;-6552
+2020-03-31;"Slovensko";37;-6515
+2020-04-01;"Slovensko";26;-6489
+2020-04-02;"Slovensko";24;-6465
+2020-04-03;"Slovensko";21;-6444
+2020-04-04;"Slovensko";14;-6430
+2020-04-05;"Slovensko";49;-6381
+2020-04-06;"Slovensko";47;-6334
+2020-04-07;"Slovensko";101;-6233
+2020-04-08;"Slovensko";19;-6214
+2020-04-09;"Slovensko";14;-6200
+2020-04-10;"Slovensko";13;-6187
+2020-04-11;"Slovensko";14;-6173
+2020-04-12;"Slovensko";27;-6146
+2020-04-13;"Slovensko";66;-6080
+2020-04-14;"Slovensko";28;-6052
+2020-04-15;"Slovensko";114;-5938
+2020-04-16;"Slovensko";72;-5866
+2020-04-17;"Slovensko";40;-5826
+2020-04-18;"Slovensko";72;-5754
+2020-04-19;"Slovensko";12;-5742
+2020-04-20;"Slovensko";26;-5716
+2020-04-21;"Slovensko";45;-5671
+2020-04-22;"Slovensko";81;-5590
+2020-04-23;"Slovensko";35;-5555
+2020-04-24;"Slovensko";13;-5542
+2020-04-25;"Slovensko";6;-5536
+2020-04-26;"Slovensko";2;-5534
+2020-04-27;"Slovensko";3;-5531
+2020-04-28;"Slovensko";7;-5524
+2020-04-29;"Slovensko";5;-5519
+2020-04-30;"Slovensko";7;-5512
+2020-05-01;"Slovensko";4;-5508
+2020-05-02;"Slovensko";1;-5507
+2020-05-03;"Slovensko";5;-5502
+2020-05-04;"Slovensko";8;-5494
+2020-05-05;"Slovensko";8;-5486
+2020-05-06;"Slovensko";16;-5470
+2020-05-07;"Slovensko";10;-5460
+2020-05-09;"Slovensko";2;-5458
+2020-05-11;"Slovensko";8;-5450
+2020-05-12;"Slovensko";4;-5446
+2020-05-13;"Slovensko";8;-5438
+2020-05-14;"Slovensko";3;-5435
+2020-05-15;"Slovensko";13;-5422
+2020-05-16;"Slovensko";1;-5421
+2020-05-17;"Slovensko";1;-5420
+2020-05-19;"Slovensko";1;-5419
+2020-05-20;"Slovensko";6;-5413
+2020-05-21;"Slovensko";1;-5412
+2020-05-22;"Slovensko";1;-5411
+2020-05-23;"Slovensko";5;-5406
+2020-05-24;"Slovensko";2;-5404
+2020-05-25;"Slovensko";2;-5402
+2020-05-26;"Slovensko";2;-5400
+2020-05-27;"Slovensko";5;-5395
+2020-05-29;"Slovensko";1;-5394
+2020-05-31;"Slovensko";1;-5393
+2020-06-02;"Slovensko";3;-5390
+2020-06-03;"Slovensko";1;-5389
+2020-06-05;"Slovensko";2;-5387
+2020-06-07;"Slovensko";2;-5385
+2020-06-08;"Slovensko";1;-5384
+2020-06-09;"Slovensko";2;-5382
+2020-06-10;"Slovensko";8;-5374
+2020-06-11;"Slovensko";1;-5373
+2020-06-12;"Slovensko";3;-5370
+2020-06-13;"Slovensko";3;-5367
+2020-06-14;"Slovensko";4;-5363
+2020-06-16;"Slovensko";9;-5354
+2020-06-17;"Slovensko";1;-5353
+2020-06-18;"Slovensko";14;-5339
+2020-06-19;"Slovensko";10;-5329
+2020-06-20;"Slovensko";1;-5328
+2020-06-21;"Slovensko";1;-5327
+2020-06-22;"Slovensko";1;-5326
+2020-06-23;"Slovensko";18;-5308
+2020-06-24;"Slovensko";23;-5285
+2020-06-25;"Slovensko";13;-5272
+2020-06-26;"Slovensko";14;-5258
+2020-06-27;"Slovensko";7;-5251
+2020-06-28;"Slovensko";1;-5250
+2020-06-29;"Slovensko";2;-5248
+2020-06-30;"Slovensko";20;-5228
+2020-07-01;"Slovensko";13;-5215
+2020-07-02;"Slovensko";20;-5195
+2020-07-03;"Slovensko";29;-5166
+2020-07-04;"Slovensko";15;-5151
+2020-07-05;"Slovensko";1;-5150
+2020-07-06;"Slovensko";2;-5148
+2020-07-07;"Slovensko";31;-5117
+2020-07-08;"Slovensko";53;-5064
+2020-07-09;"Slovensko";19;-5045
+2020-07-10;"Slovensko";23;-5022
+2020-07-11;"Slovensko";8;-5014
+2020-07-12;"Slovensko";1;-5013
+2020-07-13;"Slovensko";6;-5007
+2020-07-14;"Slovensko";19;-4988
+2020-07-15;"Slovensko";24;-4964
+2020-07-16;"Slovensko";14;-4950
+2020-07-17;"Slovensko";11;-4939
+2020-07-18;"Slovensko";3;-4936
+2020-07-19;"Slovensko";1;-4935
+2020-07-20;"Slovensko";41;-4894
+2020-07-21;"Slovensko";37;-4857
+2020-07-22;"Slovensko";31;-4826
+2020-07-23;"Slovensko";29;-4797
+2020-07-24;"Slovensko";23;-4774
+2020-07-25;"Slovensko";38;-4736
+2020-07-26;"Slovensko";2;-4734
+2020-07-27;"Slovensko";23;-4711
+2020-07-28;"Slovensko";41;-4670
+2020-07-29;"Slovensko";20;-4650
+2020-07-30;"Slovensko";27;-4623
+2020-07-31;"Slovensko";45;-4578
+2020-08-01;"Slovensko";7;-4571
+2020-08-02;"Slovensko";10;-4561
+2020-08-03;"Slovensko";14;-4547
+2020-08-04;"Slovensko";49;-4498
+2020-08-05;"Slovensko";63;-4435
+2020-08-06;"Slovensko";43;-4392
+2020-08-07;"Slovensko";43;-4349
+2020-08-08;"Slovensko";30;-4319
+2020-08-09;"Slovensko";3;-4316
+2020-08-10;"Slovensko";16;-4300
+2020-08-11;"Slovensko";75;-4225
+2020-08-12;"Slovensko";49;-4176
+2020-08-13;"Slovensko";62;-4114
+2020-08-14;"Slovensko";54;-4060
+2020-08-15;"Slovensko";47;-4013
+2020-08-16;"Slovensko";5;-4008
+2020-08-17;"Slovensko";15;-3993
+2020-08-18;"Slovensko";100;-3893
+2020-08-19;"Slovensko";80;-3813
+2020-08-20;"Slovensko";123;-3690
+2020-08-21;"Slovensko";91;-3599
+2020-08-22;"Slovensko";40;-3559
+2020-08-23;"Slovensko";68;-3491
+2020-08-24;"Slovensko";28;-3463
+2020-08-25;"Slovensko";84;-3379
+2020-08-26;"Slovensko";90;-3289
+2020-08-27;"Slovensko";102;-3187
+2020-08-28;"Slovensko";114;-3073
+2020-08-29;"Slovensko";34;-3039
+2020-08-30;"Slovensko";41;-2998
+2020-08-31;"Slovensko";72;-2926
+2020-09-01;"Slovensko";53;-2873
+2020-09-02;"Slovensko";121;-2752
+2020-09-03;"Slovensko";137;-2615
+2020-09-04;"Slovensko";226;-2389
+2020-09-05;"Slovensko";88;-2301
+2020-09-06;"Slovensko";22;-2279
+2020-09-07;"Slovensko";91;-2188
+2020-09-08;"Slovensko";161;-2027
+2020-09-09;"Slovensko";178;-1849
+2020-09-10;"Slovensko";186;-1663
+2020-09-11;"Slovensko";201;-1462
+2020-09-12;"Slovensko";79;-1383
+2020-09-13;"Slovensko";48;-1335
+2020-09-14;"Slovensko";188;-1147
+2020-09-15;"Slovensko";92;-1055
+2020-09-16;"Slovensko";161;-894
+2020-09-17;"Slovensko";235;-659
+2020-09-18;"Slovensko";290;-369
+2020-09-19;"Slovensko";131;-238
+2020-09-20;"Slovensko";79;-159
+2020-09-21;"Slovensko";175;16
+2020-09-22;"Slovensko";338;354
+2020-09-23;"Slovensko";360;714
+2020-09-24;"Slovensko";419;1133
+2020-09-25;"Slovensko";552;1685
+2020-09-26;"Slovensko";478;2163
+2020-09-27;"Slovensko";265;2428
+2020-09-28;"Slovensko";231;2659
+2020-09-29;"Slovensko";567;3226
+2020-09-30;"Slovensko";797;4023
+2020-10-01;"Slovensko";679;4702
+2020-10-02;"Slovensko";704;5406
+2020-10-03;"Slovensko";818;6224
+2020-10-04;"Slovensko";353;6577
+2020-10-05;"Slovensko";320;6897
+2020-10-06;"Slovensko";877;7774
+2020-10-07;"Slovensko";1037;8811
+2020-10-08;"Slovensko";1184;9995
+2020-10-09;"Slovensko";1887;11882
+2020-10-10;"Slovensko";1054;12936
+2020-10-11;"Slovensko";504;13440
+2020-10-12;"Slovensko";571;14011
+2020-10-13;"Slovensko";1494;15505
+2020-10-14;"Slovensko";1960;17465
+2020-10-15;"Slovensko";2111;19576
+2020-10-16;"Slovensko";1995;21571
+2020-10-17;"Slovensko";1567;23138
+2020-10-18;"Slovensko";860;23998
+2020-10-19;"Slovensko";774;24772
+2020-10-20;"Slovensko";2240;27012
+2020-10-21;"Slovensko";1776;28788
+2020-10-22;"Slovensko";2722;31510
+2020-10-23;"Slovensko";3009;34519
+2020-10-24;"Slovensko";3107;37626
+2020-10-25;"Slovensko";1352;38978
+2020-10-26;"Slovensko";1132;40110
+2020-10-27;"Slovensko";3120;43230
+2020-10-28;"Slovensko";3008;46238
+2020-10-29;"Slovensko";3600;49838
+2020-10-30;"Slovensko";3055;52893
+2020-10-31;"Slovensko";3257;56150
+2020-11-01;"Slovensko";2259;58409
+2020-11-02;"Slovensko";3058;61467
+2020-11-03;"Slovensko";3314;64781
+2020-11-04;"Slovensko";2044;66825
+2020-11-05;"Slovensko";2494;69319
+2020-11-06;"Slovensko";2903;72222
+2020-11-07;"Slovensko";2267;74489
+2020-11-08;"Slovensko";720;75209
+2020-11-09;"Slovensko";2196;77405
+2020-11-10;"Slovensko";2194;79599
+2020-11-11;"Slovensko";2691;82290
+2020-11-12;"Slovensko";2197;84487
+2020-11-13;"Slovensko";1929;86416
+2020-11-14;"Slovensko";1299;87715
+2020-11-15;"Slovensko";539;88254
+2020-11-16;"Slovensko";1612;89866
+2020-11-17;"Slovensko";1534;91400
+2020-11-18;"Slovensko";2107;93507
+2020-11-19;"Slovensko";2587;96094
+2020-11-20;"Slovensko";2472;98566
+2020-11-21;"Slovensko";1306;99872
+2020-11-22;"Slovensko";288;100160
+2020-11-23;"Slovensko";1902;102062
+2020-11-24;"Slovensko";2705;104767
+2020-11-25;"Slovensko";2686;107453
+2020-11-26;"Slovensko";2715;110168
+2020-11-27;"Slovensko";2312;112480
+2020-11-28;"Slovensko";1533;114013
+2020-11-29;"Slovensko";376;114389
+2020-11-30;"Slovensko";2971;117360
+2020-12-01;"Slovensko";3640;121000
+2020-12-02;"Slovensko";3645;124645
+2020-12-03;"Slovensko";3458;128103
+2020-12-04;"Slovensko";3330;131433
+2020-12-05;"Slovensko";1636;133069
+2020-12-06;"Slovensko";681;133750
+2020-12-07;"Slovensko";4113;137863
+2020-12-08;"Slovensko";5524;143387
+2020-12-09;"Slovensko";5431;148818
+2020-12-10;"Slovensko";5274;154092
+2020-12-11;"Slovensko";6267;160359
+2020-12-12;"Slovensko";3190;163549
+2020-12-13;"Slovensko";604;164153
+2020-12-14;"Slovensko";5206;169359
+2020-12-15;"Slovensko";7703;177062
+2020-12-16;"Slovensko";6596;183658
+2020-12-17;"Slovensko";7835;191493
+2020-12-18;"Slovensko";6522;198015
+2020-12-19;"Slovensko";3082;201097
+2020-12-20;"Slovensko";1715;202812
+2020-12-21;"Slovensko";9753;212565
+2020-12-22;"Slovensko";9215;221780
+2020-12-23;"Slovensko";7354;229134
+2020-12-24;"Slovensko";5064;234198
+2020-12-25;"Slovensko";1182;235380
+2020-12-26;"Slovensko";1086;236466
+2020-12-27;"Slovensko";873;237339
+2020-12-28;"Slovensko";8648;245987
+2020-12-29;"Slovensko";9743;255730
+2020-12-30;"Slovensko";11915;267645
+2020-12-31;"Slovensko";10476;278121
+2021-01-01;"Slovensko";2326;280447
+2021-01-02;"Slovensko";1745;282192
+2021-01-03;"Slovensko";908;283100
+2021-01-04;"Slovensko";10347;293447
+2021-01-05;"Slovensko";11080;304527
+2021-01-06;"Slovensko";3165;307692
+2021-01-07;"Slovensko";8291;315983
+2021-01-08;"Slovensko";8003;323986
+2021-01-09;"Slovensko";4860;328846
+2021-01-10;"Slovensko";1785;330631
+2021-01-11;"Slovensko";5704;336335
+2021-01-12;"Slovensko";6605;342940
+2021-01-13;"Slovensko";5553;348493
+2021-01-14;"Slovensko";5022;353515
+2021-01-15;"Slovensko";4221;357736
+2021-01-16;"Slovensko";1701;359437
+2021-01-17;"Slovensko";2694;362131
+2021-01-18;"Slovensko";5294;367425
+2021-01-19;"Slovensko";5154;372579
+2021-01-20;"Slovensko";4792;377371
+2021-01-21;"Slovensko";4888;382259
+2021-01-22;"Slovensko";4392;386651
+2021-01-23;"Slovensko";8420;395071
+2021-01-24;"Slovensko";4344;399415
+2021-01-25;"Slovensko";4328;403743
+2021-01-26;"Slovensko";5442;409185
+2021-01-27;"Slovensko";3762;412947
+2021-01-28;"Slovensko";4671;417618
+2021-01-29;"Slovensko";4898;422516
+2021-01-30;"Slovensko";6542;429058
+2021-01-31;"Slovensko";3309;432367
+2021-02-01;"Slovensko";5237;437604
+2021-02-02;"Slovensko";6481;444085
+2021-02-03;"Slovensko";4650;448735
+2021-02-04;"Slovensko";5553;454288
+2021-02-05;"Slovensko";5289;459577
+2021-02-06;"Slovensko";7040;466617
+2021-02-07;"Slovensko";4072;470689
+2021-02-08;"Slovensko";5355;476044
+2021-02-09;"Slovensko";6216;482260
+2021-02-10;"Slovensko";5470;487730
+2021-02-11;"Slovensko";4905;492635
+2021-02-12;"Slovensko";5673;498308
+2021-02-13;"Slovensko";6281;504589
+2021-02-14;"Slovensko";3491;508080
+2021-02-15;"Slovensko";4725;512805
+2021-02-16;"Slovensko";5929;518734
+2021-02-17;"Slovensko";5351;524085
+2021-02-18;"Slovensko";5130;529215
+2021-02-19;"Slovensko";6279;535494
+2021-02-20;"Slovensko";6982;542476
+2021-02-21;"Slovensko";3539;546015
+2021-02-22;"Slovensko";5435;551450
+2021-02-23;"Slovensko";6432;557882
+2021-02-24;"Slovensko";5448;563330
+2021-02-25;"Slovensko";5255;568585
+2021-02-26;"Slovensko";6182;574767
+2021-02-27;"Slovensko";6947;581714
+2021-02-28;"Slovensko";3464;585178
+2021-03-01;"Slovensko";5262;590440
+2021-03-02;"Slovensko";6103;596543
+2021-03-03;"Slovensko";5290;601833
+2021-03-04;"Slovensko";4823;606656
+2021-03-05;"Slovensko";5365;612021
+2021-03-06;"Slovensko";5210;617231
+2021-03-07;"Slovensko";2694;619925
+2021-03-08;"Slovensko";4818;624743
+2021-03-09;"Slovensko";5644;630387
+2021-03-10;"Slovensko";3951;634338
+2021-03-11;"Slovensko";4162;638500
+2021-03-12;"Slovensko";4752;643252
+2021-03-13;"Slovensko";4703;647955
+2021-03-14;"Slovensko";2302;650257
+2021-03-15;"Slovensko";3811;654068
+2021-03-16;"Slovensko";4721;658789
+2021-03-17;"Slovensko";3591;662380
+2021-03-18;"Slovensko";3294;665674
+2021-03-19;"Slovensko";3829;669503
+2021-03-20;"Slovensko";3616;673119
+2021-03-21;"Slovensko";1966;675085
+2021-03-22;"Slovensko";3052;678137
+2021-03-23;"Slovensko";3493;681630
+2021-03-24;"Slovensko";3061;684691
+2021-03-25;"Slovensko";2636;687327
+2021-03-26;"Slovensko";3195;690522
+2021-03-27;"Slovensko";3128;693650
+2021-03-28;"Slovensko";1510;695160
+2021-03-29;"Slovensko";2694;697854
+2021-03-30;"Slovensko";3065;700919
+2021-03-31;"Slovensko";2546;703465
+2021-04-01;"Slovensko";2628;706093
+2021-04-02;"Slovensko";1371;707464
+2021-04-03;"Slovensko";2576;710040
+2021-04-04;"Slovensko";707;710747
+2021-04-05;"Slovensko";972;711719
+2021-04-06;"Slovensko";2640;714359
+2021-04-07;"Slovensko";2544;716903
+2021-04-08;"Slovensko";1729;718632
+2021-04-09;"Slovensko";2017;720649
+2021-04-10;"Slovensko";1981;722630
+2021-04-11;"Slovensko";841;723471
+2021-04-12;"Slovensko";1784;725255
+2021-04-13;"Slovensko";1762;727017
+2021-04-14;"Slovensko";1523;728540
+2021-04-15;"Slovensko";1310;729850
+2021-04-16;"Slovensko";1586;731436
+2021-04-17;"Slovensko";1645;733081
+2021-04-18;"Slovensko";728;733809
+2021-04-19;"Slovensko";1470;735279
+2021-04-20;"Slovensko";1411;736690
+2021-04-21;"Slovensko";1335;738025
+2021-04-22;"Slovensko";1048;739073
+2021-04-23;"Slovensko";1536;740609
+2021-04-24;"Slovensko";1369;741978
+2021-04-25;"Slovensko";692;742670
+2021-04-26;"Slovensko";1190;743860
+2021-04-27;"Slovensko";1192;745052
+2021-04-28;"Slovensko";1066;746118
+2021-04-29;"Slovensko";1003;747121
+2021-04-30;"Slovensko";1155;748276
+2021-05-01;"Slovensko";1016;749292
+2021-05-02;"Slovensko";627;749919
+2021-05-03;"Slovensko";930;750849
+2021-05-04;"Slovensko";1090;751939
+2021-05-05;"Slovensko";715;752654
+2021-05-06;"Slovensko";751;753405
+2021-05-07;"Slovensko";832;754237
+2021-05-08;"Slovensko";352;754589
+2021-05-09;"Slovensko";711;755300
+2021-05-10;"Slovensko";784;756084
+2021-05-11;"Slovensko";673;756757
+2021-05-12;"Slovensko";607;757364
+2021-05-13;"Slovensko";560;757924
+2021-05-14;"Slovensko";611;758535
+2021-05-15;"Slovensko";375;758910
+2021-05-16;"Slovensko";386;759296
+2021-05-17;"Slovensko";551;759847
+2021-05-18;"Slovensko";472;760319
+2021-05-19;"Slovensko";455;760774
+2021-05-20;"Slovensko";310;761084
+2021-05-21;"Slovensko";398;761482
+2021-05-22;"Slovensko";308;761790
+2021-05-23;"Slovensko";208;761998
+2021-05-24;"Slovensko";396;762394
+2021-05-25;"Slovensko";397;762791
+2021-05-26;"Slovensko";310;763101
+2021-05-27;"Slovensko";253;763354
+2021-05-28;"Slovensko";318;763672
+2021-05-29;"Slovensko";222;763894
+2021-05-30;"Slovensko";157;764051
+2021-05-31;"Slovensko";355;764406
+2021-06-01;"Slovensko";258;764664
+2021-06-02;"Slovensko";258;764922
+2021-06-03;"Slovensko";227;765149
+2021-06-04;"Slovensko";252;765401
+2021-06-05;"Slovensko";170;765571
+2021-06-06;"Slovensko";102;765673
+2021-06-07;"Slovensko";243;765916
+2021-06-08;"Slovensko";241;766157
+2021-06-09;"Slovensko";166;766323
+2021-06-10;"Slovensko";156;766479
+2021-06-11;"Slovensko";175;766654
+2021-06-12;"Slovensko";98;766752
+2021-06-13;"Slovensko";69;766821
+2021-06-14;"Slovensko";127;766948
+2021-06-15;"Slovensko";109;767057
+2021-06-16;"Slovensko";100;767157
+2021-06-17;"Slovensko";81;767238
+2021-06-18;"Slovensko";103;767341
+2021-06-19;"Slovensko";51;767392
+2021-06-20;"Slovensko";42;767434
+2021-06-21;"Slovensko";118;767552
+2021-06-22;"Slovensko";64;767616
+2021-06-23;"Slovensko";67;767683
+2021-06-24;"Slovensko";70;767753
+2021-06-25;"Slovensko";74;767827
+2021-06-26;"Slovensko";52;767879
+2021-06-27;"Slovensko";37;767916
+2021-06-28;"Slovensko";79;767995
+2021-06-29;"Slovensko";57;768052
+2021-06-30;"Slovensko";55;768107
+2021-07-01;"Slovensko";28;768135
+2021-07-02;"Slovensko";34;768169
+2021-07-03;"Slovensko";29;768198
+2021-07-04;"Slovensko";12;768210
+2021-07-05;"Slovensko";24;768234
+2021-07-06;"Slovensko";56;768290
+2021-07-07;"Slovensko";48;768338
+2021-07-08;"Slovensko";50;768388
+2021-07-09;"Slovensko";58;768446
+2021-07-10;"Slovensko";34;768480
+2021-07-11;"Slovensko";15;768495
+2021-07-12;"Slovensko";41;768536
+2021-07-13;"Slovensko";32;768568
+2021-07-14;"Slovensko";39;768607
+2021-07-15;"Slovensko";43;768650
+2021-07-16;"Slovensko";48;768698
+2021-07-17;"Slovensko";37;768735
+2021-07-18;"Slovensko";11;768746
+2021-07-19;"Slovensko";52;768798
+2021-07-20;"Slovensko";52;768850
+2021-07-21;"Slovensko";50;768900
+2021-07-22;"Slovensko";67;768967
+2021-07-23;"Slovensko";53;769020
+2021-07-24;"Slovensko";58;769078
+2021-07-25;"Slovensko";19;769097
+2021-07-26;"Slovensko";73;769170
+2021-07-27;"Slovensko";100;769270
+2021-07-28;"Slovensko";69;769339
+2021-07-29;"Slovensko";60;769399
+2021-07-30;"Slovensko";86;769485
+2021-07-31;"Slovensko";68;769553
+2021-08-01;"Slovensko";22;769575
+2021-08-02;"Slovensko";74;769649
+2021-08-03;"Slovensko";108;769757
+2021-08-04;"Slovensko";65;769822
+2021-08-05;"Slovensko";86;769908
+2021-08-06;"Slovensko";67;769975
+2021-08-07;"Slovensko";54;770029
+2021-08-08;"Slovensko";33;770062
+2021-08-09;"Slovensko";119;770181
+2021-08-10;"Slovensko";97;770278
+2021-08-11;"Slovensko";96;770374
+2021-08-12;"Slovensko";85;770459
+2021-08-13;"Slovensko";127;770586
+2021-08-14;"Slovensko";95;770681
+2021-08-15;"Slovensko";28;770709
+2021-08-16;"Slovensko";116;770825
+2021-08-17;"Slovensko";137;770962
+2021-08-18;"Slovensko";129;771091
+2021-08-19;"Slovensko";122;771213
+2021-08-20;"Slovensko";145;771358
+2021-08-21;"Slovensko";128;771486
+2021-08-22;"Slovensko";50;771536
+2021-08-23;"Slovensko";162;771698
+2021-08-24;"Slovensko";109;771807
+2021-08-25;"Slovensko";208;772015
+2021-08-26;"Slovensko";153;772168
+2021-08-27;"Slovensko";188;772356
+2021-08-28;"Slovensko";135;772491
+2021-08-29;"Slovensko";80;772571
+2021-08-30;"Slovensko";227;772798
+2021-08-31;"Slovensko";308;773106
+2021-09-01;"Slovensko";229;773335
+2021-09-02;"Slovensko";383;773718
+2021-09-03;"Slovensko";475;774193
+2021-09-04;"Slovensko";290;774483
+2021-09-05;"Slovensko";186;774669
+2021-09-06;"Slovensko";502;775171
+2021-09-07;"Slovensko";589;775760
+2021-09-08;"Slovensko";655;776415
+2021-09-09;"Slovensko";545;776960
+2021-09-10;"Slovensko";689;777649
+2021-09-11;"Slovensko";502;778151
+2021-09-12;"Slovensko";155;778306
