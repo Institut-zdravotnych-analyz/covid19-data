@@ -30,6 +30,7 @@
 "ambulancia VLD Melčice-Lieskové";"P6039801";"SK0229545686";"Melčice - Lieskové";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-09-03
 "Ambulancia VLD Melčice-Lieskové";"P6039801";"SK0229545686";"Melčice - Lieskové";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-08-22
 "Ambulancia všeobecného lekára";"P1159601";"SK0316512354";"Kláštor pod Znievom";"SK0316";"Okres Martin";"SK031";"Žilinský kraj";2021-09-10
+"Ambulancia všeobecného lekára Hlohovec";"O7830103";"SK0213507032";"Hlohovec";"SK0213";"Okres Hlohovec";"SK021";"Trnavský kraj";2021-09-17
 "ambulancia všeobecného lekára pre dospelých";"P6039801";"SK0229545686";"Melčice - Lieskové";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-08-03
 "APB s. r. o., všeobecná ambulancia, Liptovský Mikuláš";"P8071201";"SK0315510262";"Liptovský Mikuláš";"SK0315";"Okres Liptovský Mikuláš";"SK031";"Žilinský kraj";2021-07-21
 "APIS TREBIŚOV spol.s r.o.";"N6804501";"SK042B528099";"Trebišov";"SK042B";"Okres Trebišov";"SK042";"Košický kraj";2021-07-27
@@ -110,7 +111,10 @@
 "GPN s.r.o., špecializovaná nemocnica, Bratislava";"P5634601";"SK0101528595";"Bratislava - Staré Mesto";"SK0101";"Okres Bratislava I";"SK010";"Bratislavský kraj";2021-01-30
 "HAJAPED, s.r.o., všeobecná ambulancia, Stakčín";"P9525201";"SK0419520829";"Stakčín";"SK0419";"Okres Snina";"SK041";"Prešovský kraj";2021-08-07
 "HaMed s.r.o., všeobecná ambulancia, Dolný Kubín";"P5132503";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-08-27
+"HaMed, s.r.o";"P5132503";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-09-19
+"Hamed, s.r.o.";"P5132503";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-09-19
 "HaMed, s.r.o.";"P5132503";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-07-02
+"HaMed,s.r.o.";"P5132503";"SK0313509540";"Dolný Kubín";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-09-19
 "HARIMED, s. r. o., všeobecná ambulancia, Istebné";"P5531101";"SK0313509701";"Istebné";"SK0313";"Okres Dolný Kubín";"SK031";"Žilinský kraj";2021-09-02
 "HEDAK, s.r.o., poliklinika, Bratislava";"P4765701";"SK0101528595";"Bratislava - Staré Mesto";"SK0101";"Okres Bratislava I";"SK010";"Bratislavský kraj";2021-02-15
 "Hillrose s.r.o.";"P0936901";"SK032D516970";"Kremnica";"SK032D";"Okres Žiar nad Hronom";"SK032";"Banskobystrický kraj";2021-08-18
@@ -328,6 +332,7 @@
 "LIANELA,s.r.o.";"P6087901";"SK0328526142";"Revúca";"SK0328";"Okres Revúca";"SK032";"Banskobystrický kraj";2021-08-16
 "Lieč-Prev RK  s.r.o.";"P7407901";"SK0417525171";"Svinia";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-21
 "Lieč-Prev RK  s.r.o. všeobecná  amb. pre  dospelych";"P7407901";"SK0417525171";"Svinia";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-13
+"Lieč-Prev RK s.r.o.";"P7407901";"SK0417525171";"Svinia";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-09-18
 "LIPTÁK MD, s.r.o., všeobecná ambulancia, Veľký Šariš";"N9285501";"SK0417525405";"Veľký Šariš";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-05
 "Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu  Liptovský Mikuláš, všeobecná nemocnica";"P6605101";"SK0315510262";"Liptovský Mikuláš";"SK0315";"Okres Liptovský Mikuláš";"SK031";"Žilinský kraj";2021-01-05
 "Ľubovnianska nemocnica, n. o., všeobecná nemocnica, Stará Ľubovňa";"N5622901";"SK041A526665";"Stará Ľubovňa";"SK041A";"Okres Stará Ľubovňa";"SK041";"Prešovský kraj";2021-01-07
@@ -358,10 +363,12 @@
 "MEDENA s.r.o., všeobecná ambulancia, Horné Orešany";"P4864602";"SK0217507067";"Horné Orešany";"SK0217";"Okres Trnava";"SK021";"Trnavský kraj";2021-08-13
 "MEDCHIR, s.r.o., zariadenie jednodňovej ZS, Kolárovo";"P2449301";"SK0231501026";"Komárno";"SK0231";"Okres Komárno";"SK023";"Nitriansky kraj";2021-05-28
 "MEDCHIR, s.r.o., zariadenie jednodňovej ZS, Kolárovo";"P2449301";"SK0231501204";"Kolárovo";"SK0231";"Okres Komárno";"SK023";"Nitriansky kraj";2021-06-12
+"MEDI M&M s.r.o., špecializovaná ambulancia, Moldava nad Bodvou";"P4071101";"SK0426521698";"Moldava nad Bodvou";"SK0426";"Okres Košice - okolie";"SK042";"Košický kraj";2021-09-17
 "Medic I+H s.r.o., všeobecná ambulancia, Radvaň nad Laborcom";"N5739501";"SK0415520691";"Radvaň nad Laborcom";"SK0415";"Okres Medzilaborce";"SK041";"Prešovský kraj";2021-07-23
 "MEDICA JUR s.r.o.";"P3157701";"SK0107507989";"Svätý Jur";"SK0107";"Okres Pezinok";"SK010";"Bratislavský kraj";2021-08-21
 "MEDICA JUR, s.r.o, všeobecná ambulancia, Svätý Jur";"P3157701";"SK0107507989";"Svätý Jur";"SK0107";"Okres Pezinok";"SK010";"Bratislavský kraj";2021-09-07
 "Medical group Košice s.r.o., všeobecná ambulancia";"P7726702";"SK0425599824";"Košice - Juh";"SK0425";"Okres Košice IV";"SK042";"Košický kraj";2021-08-05
+"Medical Safe s.r.o., mobilné odberové miesto, Trnava";"P9738001";"SK0104529389";"Bratislava - Dúbravka";"SK0104";"Okres Bratislava IV";"SK010";"Bratislavský kraj";2021-09-03
 "MEDICARE SAMARIA s.r.o., špecializovaná ambulancia, Šamorín";"P1120401";"SK0211501905";"Šamorín";"SK0211";"Okres Dunajská Streda";"SK021";"Trnavský kraj";2021-08-19
 "MEDICATEK s.r.o., všeobecná ambulancia, Starý Tekov";"P8517801";"SK0232502766";"Starý Tekov";"SK0232";"Okres Levice";"SK023";"Nitriansky kraj";2021-07-23
 "Medicentrum Brezno";"N6728101";"SK0323508497";"Brezno";"SK0323";"Okres Brezno";"SK032";"Banskobystrický kraj";2021-08-17
@@ -429,7 +436,9 @@
 "MUDr. Mária Bezeková, praktický lekár pre dospelých, Nižná Slaná";"N1860101";"SK0428526045";"Nižná Slaná";"SK0428";"Okres Rožňava";"SK042";"Košický kraj";2021-09-08
 "MUDr. Marián Sivoň - ambulancia praktického lekára pre dospelých, Popudinské Močidľany";"N5917301";"SK0216504670";"Popudinské Močidľany";"SK0216";"Okres Skalica";"SK021";"Trnavský kraj";2021-09-06
 "MUDr. Mariana Zajacová, s.r.o., všeobecná ambulancia, Belá";"P7216201";"SK031B517429";"Belá";"SK031B";"Okres Žilina";"SK031";"Žilinský kraj";2021-08-30
+"MUDr. Marta Grenčíková, pediatria, Lokca";"N9461301";"SK0317509809";"Lokca";"SK0317";"Okres Námestovo";"SK031";"Žilinský kraj";2021-08-15
 "MUDr. Martin Zavřel, všeobecná ambulancia, Horné Srnie";"O8550801";"SK0229506036";"Horné Srnie";"SK0229";"Okres Trenčín";"SK022";"Trenčiansky kraj";2021-08-09
+"MUDr. Martin Ziman, všeobecná ambulancia, Senica";"O7830101";"SK0215504203";"Senica";"SK0215";"Okres Senica";"SK021";"Trnavský kraj";2021-09-17
 "MUDr. Martina Šmídová - praktický lekár pre dospelých, Lubina";"O2072301";"SK0224506184";"Lubina";"SK0224";"Okres Nové Mesto nad Váhom";"SK022";"Trenčiansky kraj";2021-07-23
 "MUDr. Martina Šmídová - praktický lekár pre dospelých, Modrová";"O2072302";"SK0224506249";"Modrová";"SK0224";"Okres Nové Mesto nad Váhom";"SK022";"Trenčiansky kraj";2021-07-23
 "MUDr. Michal Mesároš, s.r.o";"N9443102";"SK0413523526";"Huncovce";"SK0413";"Okres Kežmarok";"SK041";"Prešovský kraj";2021-07-16
@@ -444,6 +453,7 @@
 "MUDr. Raška, s. r. o., všeobecná ambulancia, Lokca";"P5464601";"SK0317509809";"Lokca";"SK0317";"Okres Námestovo";"SK031";"Žilinský kraj";2021-07-30
 "MUDr. Slovík, s.r.o., všeobecná ambulancia, Námestovo";"P3908801";"SK0317509868";"Námestovo";"SK0317";"Okres Námestovo";"SK031";"Žilinský kraj";2021-07-23
 "MUDr. Stanislav Kompas, všeobecná ambulancia, Častá";"O8858101";"SK0107507857";"Častá";"SK0107";"Okres Pezinok";"SK010";"Bratislavský kraj";2021-09-12
+"MUDr. Stanislava Hnátová, všeobecná ambulancia, Brodské";"R5963701";"SK0216504271";"Brodské";"SK0216";"Okres Skalica";"SK021";"Trnavský kraj";2021-09-17
 "MUDr. Štilian Nenovský, s. r. o., všeobecná ambulancia, Láb";"P4438203";"SK0106508039";"Láb";"SK0106";"Okres Malacky";"SK010";"Bratislavský kraj";2021-09-04
 "MUDr. Viliam Cíbik, PhD.";"P4442401";"SK0222513598";"Pruské";"SK0222";"Okres Ilava";"SK022";"Trenčiansky kraj";2021-08-14
 "MUDr. Zuzana Krošláková, s.r.o., všeobecná ambulancia, Stará Bystrica";"P7296001";"SK0312509477";"Stará Bystrica";"SK0312";"Okres Čadca";"SK031";"Žilinský kraj";2021-09-03
@@ -494,6 +504,7 @@
 "Nemocnica pre obvinených a odsúdených a Ústav na výkon trestu odňatia slobody Trenčín, všeobecná ambulancia, Nitra";"P8402313";"SK0233500011";"Nitra";"SK0233";"Okres Nitra";"SK023";"Nitriansky kraj";2021-06-28
 "Nemocnica pre obvinených a odsúdených a Ústav na výkon trestu odňatia slobody Trenčín, všeobecná ambulancia, Nitra";"P8402316";"SK0233500011";"Nitra";"SK0233";"Okres Nitra";"SK023";"Nitriansky kraj";2021-07-02
 "Nemocnica pre obvinených a odsúdených a Ústav na výkon trestu odňatia slobody Trenčín, všeobecná ambulancia, Ružomberok";"P8402320";"SK0318510998";"Ružomberok";"SK0318";"Okres Ružomberok";"SK031";"Žilinský kraj";2021-07-16
+"Nemocnica pre obvinených a odsúdených a Ústav na výkon trestu odňatia slobody Trenčín, všeobecná ambulancia, Sučany";"P8402323";"SK0316512648";"Sučany";"SK0316";"Okres Martin";"SK031";"Žilinský kraj";2021-09-17
 "Nemocnica pre obvinených a odsúdených a Ústav na výkon trestu odňatia slobody Trenčín, všeobecná ambulancia, Želiezovce";"P8402318";"SK0232502987";"Želiezovce";"SK0232";"Okres Levice";"SK023";"Nitriansky kraj";2021-06-21
 "Nemocnica pre obvinených a odsúdených a Ústav na výkon trestu odňatia slobody Trenčín, všeobecná ambulancia, Žilina";"P8402327";"SK031B517402";"Žilina";"SK031B";"Okres Žilina";"SK031";"Žilinský kraj";2021-09-03
 "Nemocnica s poliklinikou Brezno, n.o., všeobecná nemocnica";"N2239901";"SK0323508497";"Brezno";"SK0323";"Okres Brezno";"SK032";"Banskobystrický kraj";2021-01-18
@@ -586,11 +597,13 @@
 "Reladin sro";"P5530703";"SK0211501433";"Dunajská Streda";"SK0211";"Okres Dunajská Streda";"SK021";"Trnavský kraj";2021-08-25
 "Resutík s.r.o., všeobecná ambulancia, Želovce";"P5987601";"SK032A516571";"Želovce";"SK032A";"Okres Veľký Krtíš";"SK032";"Banskobystrický kraj";2021-08-26
 "RS Med s.r.o., všeobecná ambulancia, Žarnovica";"P9039201";"SK032C517381";"Žarnovica";"SK032C";"Okres Žarnovica";"SK032";"Banskobystrický kraj";2021-07-27
+"RUDIMED s.r.o.";"P8216401";"SK0234503452";"Palárikovo";"SK0234";"Okres Nové Zámky";"SK023";"Nitriansky kraj";2021-09-17
 "RUMEDIKA, s.r.o., všeobecná ambulancia, Kysucké Nové Mesto";"P6979602";"SK0314509256";"Kysucké Nové Mesto";"SK0314";"Okres Kysucké Nové Mesto";"SK031";"Žilinský kraj";2021-07-01
 "Ružinovská poliklinika, a.s., Bratislava";"P7902301";"SK0102529320";"Bratislava - Ružinov";"SK0102";"Okres Bratislava II";"SK010";"Bratislavský kraj";2021-02-10
 "SALUS ANIMARUM s.r.o.";"P7721801";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-20
 "Salus animarum, s.r.o., všeobecná ambulancia, Prešov";"P7721801";"SK0417524140";"Prešov";"SK0417";"Okres Prešov";"SK041";"Prešovský kraj";2021-08-27
 "SANABITUR, s.r.o., všeobecná ambulancia, Križovany na Dudváhom";"P9489801";"SK0217556483";"Križovany nad Dudváhom";"SK0217";"Okres Trnava";"SK021";"Trnavský kraj";2021-08-15
+"Sanart s.r.o.";"P4000901";"SK0415520471";"Medzilaborce";"SK0415";"Okres Medzilaborce";"SK041";"Prešovský kraj";2021-09-18
 "SANART, s.r.o., všeobecná ambulancia, Medzilaborce";"P4000901";"SK0415520471";"Medzilaborce";"SK0415";"Okres Medzilaborce";"SK041";"Prešovský kraj";2021-08-06
 "Sanart.sro";"P4000901";"SK0415520471";"Medzilaborce";"SK0415";"Okres Medzilaborce";"SK041";"Prešovský kraj";2021-08-26
 "SEKONI, s.r.o., všeobecná ambulancia, Horný Bar";"P8416801";"SK0211501603";"Horný Bar";"SK0211";"Okres Dunajská Streda";"SK021";"Trnavský kraj";2021-08-13
@@ -679,6 +692,7 @@
 "Zdravie Martin, s.r.o., poliklinika";"N7083501";"SK0316512036";"Martin";"SK0316";"Okres Martin";"SK031";"Žilinský kraj";2021-03-12
 "ZDRAVODAR s.r.o., všeobecná ambulancia, Medzilaborce";"P5039601";"SK0415520471";"Medzilaborce";"SK0415";"Okres Medzilaborce";"SK041";"Prešovský kraj";2021-08-13
 "Zdravotné stredisko";"O8858101";"SK0107507857";"Častá";"SK0107";"Okres Pezinok";"SK010";"Bratislavský kraj";2021-09-08
+"ZDRAVOTNÍCKE STREDISKO Dr. Alberta SCHWEITZERA, spol. s r.o. Palín";"P6604701";"SK0427522864";"Palín";"SK0427";"Okres Michalovce";"SK042";"Košický kraj";2021-09-17
 "Zelená lekáreň, s.r.o., verejná lekáreň";"P9466001";"SK0317509850";"Mútne";"SK0317";"Okres Námestovo";"SK031";"Žilinský kraj";2021-07-27
 "ZELENÝ SEN, s. r. o., všeobecná nemocnica, Banská Bystrica";"P6782801";"SK0321508438";"Banská Bystrica";"SK0321";"Okres Banská Bystrica";"SK032";"Banskobystrický kraj";2021-02-17
 "ZelMedica s.r.o.";"P0494101";"SK0232502987";"Želiezovce";"SK0232";"Okres Levice";"SK023";"Nitriansky kraj";2021-07-28
