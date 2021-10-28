@@ -19965,7 +19965,7 @@
 2021-08-20;"Žilina";1
 2021-08-21;"Bánovce nad Bebravou";2
 2021-08-21;"Banská Bystrica";1
-2021-08-21;"Bardejov";12
+2021-08-21;"Bardejov";11
 2021-08-21;"Bratislava";15
 2021-08-21;"Brezno";1
 2021-08-21;"Dunajská Streda";1
@@ -23080,3 +23080,625 @@
 2021-10-17;"Zlaté Moravce";2
 2021-10-17;"Zvolen";5
 2021-10-17;"Žilina";6
+2021-10-18;"Bánovce nad Bebravou";2
+2021-10-18;"Banská Bystrica";20
+2021-10-18;"Banská Štiavnica";8
+2021-10-18;"Bardejov";20
+2021-10-18;"Bratislava";149
+2021-10-18;"Brezno";2
+2021-10-18;"Bytča";5
+2021-10-18;"Čadca";12
+2021-10-18;"Detva";20
+2021-10-18;"Dolný Kubín";26
+2021-10-18;"Dunajská Streda";10
+2021-10-18;"Galanta";9
+2021-10-18;"Gelnica";2
+2021-10-18;"Hlohovec";8
+2021-10-18;"Humenné";58
+2021-10-18;"Ilava";7
+2021-10-18;"Kežmarok";7
+2021-10-18;"Komárno";14
+2021-10-18;"Košice";44
+2021-10-18;"Košice - okolie";45
+2021-10-18;"Krupina";23
+2021-10-18;"Kysucké Nové Mesto";8
+2021-10-18;"Levoča";8
+2021-10-18;"Liptovský Mikuláš";23
+2021-10-18;"Lučenec";32
+2021-10-18;"Malacky";18
+2021-10-18;"Martin";50
+2021-10-18;"Medzilaborce";12
+2021-10-18;"Michalovce";41
+2021-10-18;"Myjava";4
+2021-10-18;"Námestovo";24
+2021-10-18;"Nitra";36
+2021-10-18;"Nové Mesto nad Váhom";24
+2021-10-18;"Nové Zámky";15
+2021-10-18;"Partizánske";3
+2021-10-18;"Pezinok";21
+2021-10-18;"Piešťany";8
+2021-10-18;"Poltár";8
+2021-10-18;"Poprad";20
+2021-10-18;"Považská Bystrica";15
+2021-10-18;"Prešov";127
+2021-10-18;"Prievidza";28
+2021-10-18;"Púchov";7
+2021-10-18;"Rimavská Sobota";1
+2021-10-18;"Rožňava";8
+2021-10-18;"Ružomberok";40
+2021-10-18;"Sabinov";21
+2021-10-18;"Senec";62
+2021-10-18;"Senica";6
+2021-10-18;"Skalica";33
+2021-10-18;"Snina";41
+2021-10-18;"Sobrance";12
+2021-10-18;"Spišská Nová Ves";9
+2021-10-18;"Stará Ľubovňa";24
+2021-10-18;"Stropkov";33
+2021-10-18;"Svidník";64
+2021-10-18;"Šaľa";2
+2021-10-18;"Topoľčany";12
+2021-10-18;"Trebišov";19
+2021-10-18;"Trenčín";53
+2021-10-18;"Trnava";21
+2021-10-18;"Turčianske Teplice";3
+2021-10-18;"Tvrdošín";42
+2021-10-18;"Veľký Krtíš";12
+2021-10-18;"Vranov nad Topľou";19
+2021-10-18;"Zlaté Moravce";2
+2021-10-18;"Zvolen";26
+2021-10-18;"Žarnovica";3
+2021-10-18;"Žiar nad Hronom";7
+2021-10-18;"Žilina";199
+2021-10-19;"Bánovce nad Bebravou";22
+2021-10-19;"Banská Bystrica";109
+2021-10-19;"Bardejov";97
+2021-10-19;"Bratislava";152
+2021-10-19;"Brezno";38
+2021-10-19;"Bytča";22
+2021-10-19;"Čadca";93
+2021-10-19;"Detva";30
+2021-10-19;"Dolný Kubín";28
+2021-10-19;"Dunajská Streda";61
+2021-10-19;"Galanta";25
+2021-10-19;"Gelnica";10
+2021-10-19;"Hlohovec";11
+2021-10-19;"Humenné";30
+2021-10-19;"Ilava";8
+2021-10-19;"Kežmarok";28
+2021-10-19;"Komárno";14
+2021-10-19;"Košice";118
+2021-10-19;"Košice - okolie";63
+2021-10-19;"Krupina";18
+2021-10-19;"Kysucké Nové Mesto";26
+2021-10-19;"Levice";35
+2021-10-19;"Levoča";49
+2021-10-19;"Liptovský Mikuláš";33
+2021-10-19;"Lučenec";56
+2021-10-19;"Malacky";31
+2021-10-19;"Martin";105
+2021-10-19;"Medzilaborce";18
+2021-10-19;"Michalovce";131
+2021-10-19;"Námestovo";42
+2021-10-19;"Nitra";44
+2021-10-19;"Nové Mesto nad Váhom";26
+2021-10-19;"Nové Zámky";47
+2021-10-19;"Partizánske";8
+2021-10-19;"Pezinok";26
+2021-10-19;"Piešťany";22
+2021-10-19;"Poltár";7
+2021-10-19;"Poprad";94
+2021-10-19;"Považská Bystrica";46
+2021-10-19;"Prešov";226
+2021-10-19;"Prievidza";47
+2021-10-19;"Púchov";9
+2021-10-19;"Revúca";8
+2021-10-19;"Rimavská Sobota";45
+2021-10-19;"Rožňava";101
+2021-10-19;"Ružomberok";51
+2021-10-19;"Sabinov";77
+2021-10-19;"Senec";51
+2021-10-19;"Senica";19
+2021-10-19;"Skalica";35
+2021-10-19;"Snina";17
+2021-10-19;"Sobrance";23
+2021-10-19;"Spišská Nová Ves";95
+2021-10-19;"Stará Ľubovňa";64
+2021-10-19;"Stropkov";21
+2021-10-19;"Svidník";58
+2021-10-19;"Šaľa";11
+2021-10-19;"Topoľčany";95
+2021-10-19;"Trebišov";38
+2021-10-19;"Trenčín";61
+2021-10-19;"Trnava";67
+2021-10-19;"Turčianske Teplice";18
+2021-10-19;"Tvrdošín";40
+2021-10-19;"Veľký Krtíš";22
+2021-10-19;"Vranov nad Topľou";51
+2021-10-19;"Zlaté Moravce";4
+2021-10-19;"Zvolen";31
+2021-10-19;"Žarnovica";12
+2021-10-19;"Žiar nad Hronom";43
+2021-10-19;"Žilina";217
+2021-10-20;"Bánovce nad Bebravou";14
+2021-10-20;"Banská Bystrica";98
+2021-10-20;"Banská Štiavnica";14
+2021-10-20;"Bardejov";118
+2021-10-20;"Bratislava";147
+2021-10-20;"Brezno";49
+2021-10-20;"Bytča";4
+2021-10-20;"Čadca";40
+2021-10-20;"Detva";38
+2021-10-20;"Dolný Kubín";26
+2021-10-20;"Dunajská Streda";42
+2021-10-20;"Galanta";22
+2021-10-20;"Gelnica";9
+2021-10-20;"Hlohovec";26
+2021-10-20;"Humenné";14
+2021-10-20;"Ilava";17
+2021-10-20;"Kežmarok";21
+2021-10-20;"Komárno";18
+2021-10-20;"Košice";99
+2021-10-20;"Košice - okolie";46
+2021-10-20;"Krupina";5
+2021-10-20;"Kysucké Nové Mesto";4
+2021-10-20;"Levice";11
+2021-10-20;"Levoča";46
+2021-10-20;"Liptovský Mikuláš";42
+2021-10-20;"Lučenec";51
+2021-10-20;"Malacky";24
+2021-10-20;"Martin";52
+2021-10-20;"Medzilaborce";12
+2021-10-20;"Michalovce";83
+2021-10-20;"Myjava";17
+2021-10-20;"Námestovo";68
+2021-10-20;"Nitra";53
+2021-10-20;"Nové Mesto nad Váhom";75
+2021-10-20;"Nové Zámky";33
+2021-10-20;"Partizánske";6
+2021-10-20;"Pezinok";54
+2021-10-20;"Piešťany";9
+2021-10-20;"Poltár";11
+2021-10-20;"Poprad";107
+2021-10-20;"Považská Bystrica";24
+2021-10-20;"Prešov";222
+2021-10-20;"Prievidza";39
+2021-10-20;"Púchov";36
+2021-10-20;"Revúca";5
+2021-10-20;"Rimavská Sobota";25
+2021-10-20;"Rožňava";43
+2021-10-20;"Ružomberok";18
+2021-10-20;"Sabinov";57
+2021-10-20;"Senec";37
+2021-10-20;"Senica";17
+2021-10-20;"Skalica";25
+2021-10-20;"Snina";21
+2021-10-20;"Sobrance";8
+2021-10-20;"Spišská Nová Ves";51
+2021-10-20;"Stará Ľubovňa";81
+2021-10-20;"Stropkov";20
+2021-10-20;"Svidník";67
+2021-10-20;"Šaľa";20
+2021-10-20;"Topoľčany";74
+2021-10-20;"Trebišov";59
+2021-10-20;"Trenčín";74
+2021-10-20;"Trnava";71
+2021-10-20;"Turčianske Teplice";7
+2021-10-20;"Tvrdošín";25
+2021-10-20;"Veľký Krtíš";15
+2021-10-20;"Vranov nad Topľou";47
+2021-10-20;"Zlaté Moravce";9
+2021-10-20;"Zvolen";41
+2021-10-20;"Žarnovica";5
+2021-10-20;"Žiar nad Hronom";30
+2021-10-20;"Žilina";193
+2021-10-21;"Bánovce nad Bebravou";10
+2021-10-21;"Banská Bystrica";101
+2021-10-21;"Banská Štiavnica";4
+2021-10-21;"Bardejov";69
+2021-10-21;"Bratislava";145
+2021-10-21;"Brezno";49
+2021-10-21;"Bytča";22
+2021-10-21;"Čadca";60
+2021-10-21;"Detva";23
+2021-10-21;"Dolný Kubín";16
+2021-10-21;"Dunajská Streda";40
+2021-10-21;"Galanta";32
+2021-10-21;"Gelnica";13
+2021-10-21;"Hlohovec";8
+2021-10-21;"Humenné";99
+2021-10-21;"Ilava";3
+2021-10-21;"Kežmarok";32
+2021-10-21;"Komárno";25
+2021-10-21;"Košice";193
+2021-10-21;"Košice - okolie";84
+2021-10-21;"Krupina";40
+2021-10-21;"Kysucké Nové Mesto";70
+2021-10-21;"Levice";16
+2021-10-21;"Levoča";59
+2021-10-21;"Liptovský Mikuláš";56
+2021-10-21;"Lučenec";31
+2021-10-21;"Malacky";35
+2021-10-21;"Martin";69
+2021-10-21;"Medzilaborce";5
+2021-10-21;"Michalovce";142
+2021-10-21;"Myjava";7
+2021-10-21;"Námestovo";43
+2021-10-21;"Nitra";41
+2021-10-21;"Nové Mesto nad Váhom";39
+2021-10-21;"Nové Zámky";33
+2021-10-21;"Partizánske";8
+2021-10-21;"Pezinok";22
+2021-10-21;"Piešťany";13
+2021-10-21;"Poltár";9
+2021-10-21;"Poprad";50
+2021-10-21;"Považská Bystrica";35
+2021-10-21;"Prešov";237
+2021-10-21;"Prievidza";58
+2021-10-21;"Púchov";13
+2021-10-21;"Revúca";8
+2021-10-21;"Rimavská Sobota";45
+2021-10-21;"Rožňava";53
+2021-10-21;"Ružomberok";29
+2021-10-21;"Sabinov";63
+2021-10-21;"Senec";42
+2021-10-21;"Senica";15
+2021-10-21;"Skalica";34
+2021-10-21;"Snina";29
+2021-10-21;"Sobrance";11
+2021-10-21;"Spišská Nová Ves";121
+2021-10-21;"Stará Ľubovňa";125
+2021-10-21;"Stropkov";14
+2021-10-21;"Svidník";63
+2021-10-21;"Šaľa";11
+2021-10-21;"Topoľčany";74
+2021-10-21;"Trebišov";52
+2021-10-21;"Trenčín";74
+2021-10-21;"Trnava";46
+2021-10-21;"Turčianske Teplice";11
+2021-10-21;"Tvrdošín";28
+2021-10-21;"Veľký Krtíš";18
+2021-10-21;"Vranov nad Topľou";56
+2021-10-21;"Zlaté Moravce";14
+2021-10-21;"Zvolen";44
+2021-10-21;"Žarnovica";4
+2021-10-21;"Žiar nad Hronom";40
+2021-10-21;"Žilina";187
+2021-10-22;"Bánovce nad Bebravou";20
+2021-10-22;"Banská Bystrica";145
+2021-10-22;"Banská Štiavnica";2
+2021-10-22;"Bardejov";101
+2021-10-22;"Bratislava";189
+2021-10-22;"Brezno";73
+2021-10-22;"Bytča";21
+2021-10-22;"Čadca";57
+2021-10-22;"Detva";32
+2021-10-22;"Dolný Kubín";25
+2021-10-22;"Dunajská Streda";32
+2021-10-22;"Galanta";16
+2021-10-22;"Gelnica";14
+2021-10-22;"Hlohovec";13
+2021-10-22;"Humenné";104
+2021-10-22;"Ilava";8
+2021-10-22;"Kežmarok";4
+2021-10-22;"Komárno";18
+2021-10-22;"Košice";93
+2021-10-22;"Košice - okolie";51
+2021-10-22;"Krupina";28
+2021-10-22;"Kysucké Nové Mesto";34
+2021-10-22;"Levice";18
+2021-10-22;"Levoča";26
+2021-10-22;"Liptovský Mikuláš";19
+2021-10-22;"Lučenec";90
+2021-10-22;"Malacky";36
+2021-10-22;"Martin";114
+2021-10-22;"Medzilaborce";11
+2021-10-22;"Michalovce";108
+2021-10-22;"Myjava";37
+2021-10-22;"Námestovo";35
+2021-10-22;"Nitra";65
+2021-10-22;"Nové Mesto nad Váhom";67
+2021-10-22;"Nové Zámky";42
+2021-10-22;"Partizánske";30
+2021-10-22;"Pezinok";38
+2021-10-22;"Piešťany";14
+2021-10-22;"Poltár";23
+2021-10-22;"Poprad";130
+2021-10-22;"Považská Bystrica";52
+2021-10-22;"Prešov";212
+2021-10-22;"Prievidza";29
+2021-10-22;"Púchov";12
+2021-10-22;"Revúca";14
+2021-10-22;"Rimavská Sobota";37
+2021-10-22;"Rožňava";26
+2021-10-22;"Ružomberok";46
+2021-10-22;"Sabinov";35
+2021-10-22;"Senec";46
+2021-10-22;"Senica";26
+2021-10-22;"Skalica";42
+2021-10-22;"Snina";40
+2021-10-22;"Sobrance";16
+2021-10-22;"Spišská Nová Ves";49
+2021-10-22;"Stará Ľubovňa";5
+2021-10-22;"Stropkov";16
+2021-10-22;"Svidník";75
+2021-10-22;"Šaľa";8
+2021-10-22;"Topoľčany";48
+2021-10-22;"Trebišov";117
+2021-10-22;"Trenčín";103
+2021-10-22;"Trnava";61
+2021-10-22;"Turčianske Teplice";14
+2021-10-22;"Tvrdošín";39
+2021-10-22;"Veľký Krtíš";16
+2021-10-22;"Vranov nad Topľou";33
+2021-10-22;"Zlaté Moravce";3
+2021-10-22;"Zvolen";31
+2021-10-22;"Žarnovica";11
+2021-10-22;"Žiar nad Hronom";28
+2021-10-22;"Žilina";183
+2021-10-23;"Bánovce nad Bebravou";22
+2021-10-23;"Banská Bystrica";79
+2021-10-23;"Banská Štiavnica";2
+2021-10-23;"Bardejov";243
+2021-10-23;"Bratislava";175
+2021-10-23;"Brezno";2
+2021-10-23;"Bytča";20
+2021-10-23;"Čadca";79
+2021-10-23;"Dolný Kubín";12
+2021-10-23;"Dunajská Streda";50
+2021-10-23;"Galanta";28
+2021-10-23;"Gelnica";15
+2021-10-23;"Hlohovec";39
+2021-10-23;"Humenné";58
+2021-10-23;"Ilava";21
+2021-10-23;"Kežmarok";50
+2021-10-23;"Komárno";1
+2021-10-23;"Košice";92
+2021-10-23;"Košice - okolie";59
+2021-10-23;"Kysucké Nové Mesto";34
+2021-10-23;"Levice";17
+2021-10-23;"Levoča";17
+2021-10-23;"Liptovský Mikuláš";19
+2021-10-23;"Lučenec";2
+2021-10-23;"Malacky";20
+2021-10-23;"Martin";78
+2021-10-23;"Medzilaborce";18
+2021-10-23;"Michalovce";84
+2021-10-23;"Myjava";5
+2021-10-23;"Námestovo";29
+2021-10-23;"Nitra";17
+2021-10-23;"Nové Mesto nad Váhom";42
+2021-10-23;"Nové Zámky";6
+2021-10-23;"Partizánske";17
+2021-10-23;"Pezinok";62
+2021-10-23;"Piešťany";11
+2021-10-23;"Poltár";9
+2021-10-23;"Poprad";106
+2021-10-23;"Považská Bystrica";31
+2021-10-23;"Prešov";255
+2021-10-23;"Prievidza";53
+2021-10-23;"Púchov";42
+2021-10-23;"Revúca";4
+2021-10-23;"Rimavská Sobota";58
+2021-10-23;"Rožňava";41
+2021-10-23;"Ružomberok";3
+2021-10-23;"Sabinov";113
+2021-10-23;"Senec";44
+2021-10-23;"Senica";22
+2021-10-23;"Skalica";10
+2021-10-23;"Snina";6
+2021-10-23;"Sobrance";9
+2021-10-23;"Spišská Nová Ves";75
+2021-10-23;"Stará Ľubovňa";113
+2021-10-23;"Stropkov";23
+2021-10-23;"Svidník";77
+2021-10-23;"Šaľa";8
+2021-10-23;"Topoľčany";124
+2021-10-23;"Trebišov";22
+2021-10-23;"Trenčín";93
+2021-10-23;"Trnava";68
+2021-10-23;"Turčianske Teplice";6
+2021-10-23;"Tvrdošín";1
+2021-10-23;"Veľký Krtíš";2
+2021-10-23;"Vranov nad Topľou";66
+2021-10-23;"Zvolen";37
+2021-10-23;"Žarnovica";4
+2021-10-23;"Žiar nad Hronom";39
+2021-10-23;"Žilina";118
+2021-10-24;"Bánovce nad Bebravou";2
+2021-10-24;"Banská Bystrica";111
+2021-10-24;"Bratislava";82
+2021-10-24;"Brezno";12
+2021-10-24;"Bytča";9
+2021-10-24;"Čadca";67
+2021-10-24;"Detva";3
+2021-10-24;"Dolný Kubín";6
+2021-10-24;"Galanta";2
+2021-10-24;"Gelnica";6
+2021-10-24;"Ilava";2
+2021-10-24;"Kežmarok";8
+2021-10-24;"Komárno";19
+2021-10-24;"Košice";63
+2021-10-24;"Košice - okolie";33
+2021-10-24;"Krupina";1
+2021-10-24;"Kysucké Nové Mesto";12
+2021-10-24;"Levice";1
+2021-10-24;"Levoča";8
+2021-10-24;"Liptovský Mikuláš";48
+2021-10-24;"Lučenec";2
+2021-10-24;"Malacky";22
+2021-10-24;"Martin";38
+2021-10-24;"Michalovce";13
+2021-10-24;"Námestovo";29
+2021-10-24;"Nitra";21
+2021-10-24;"Nové Zámky";14
+2021-10-24;"Partizánske";1
+2021-10-24;"Pezinok";3
+2021-10-24;"Piešťany";1
+2021-10-24;"Poltár";2
+2021-10-24;"Poprad";42
+2021-10-24;"Považská Bystrica";55
+2021-10-24;"Prešov";27
+2021-10-24;"Prievidza";26
+2021-10-24;"Púchov";26
+2021-10-24;"Rimavská Sobota";2
+2021-10-24;"Ružomberok";7
+2021-10-24;"Sabinov";22
+2021-10-24;"Senec";7
+2021-10-24;"Senica";1
+2021-10-24;"Spišská Nová Ves";51
+2021-10-24;"Stará Ľubovňa";1
+2021-10-24;"Stropkov";1
+2021-10-24;"Svidník";1
+2021-10-24;"Trebišov";4
+2021-10-24;"Trenčín";9
+2021-10-24;"Trnava";7
+2021-10-24;"Turčianske Teplice";8
+2021-10-24;"Tvrdošín";12
+2021-10-24;"Veľký Krtíš";1
+2021-10-24;"Zlaté Moravce";3
+2021-10-24;"Zvolen";23
+2021-10-24;"Žiar nad Hronom";4
+2021-10-24;"Žilina";12
+2021-10-25;"Banská Bystrica";119
+2021-10-25;"Banská Štiavnica";16
+2021-10-25;"Bardejov";18
+2021-10-25;"Bratislava";256
+2021-10-25;"Brezno";13
+2021-10-25;"Bytča";23
+2021-10-25;"Čadca";59
+2021-10-25;"Detva";21
+2021-10-25;"Dolný Kubín";26
+2021-10-25;"Dunajská Streda";30
+2021-10-25;"Galanta";5
+2021-10-25;"Gelnica";4
+2021-10-25;"Hlohovec";11
+2021-10-25;"Humenné";74
+2021-10-25;"Ilava";25
+2021-10-25;"Kežmarok";4
+2021-10-25;"Komárno";22
+2021-10-25;"Košice";38
+2021-10-25;"Košice - okolie";20
+2021-10-25;"Krupina";53
+2021-10-25;"Kysucké Nové Mesto";24
+2021-10-25;"Levice";23
+2021-10-25;"Levoča";9
+2021-10-25;"Liptovský Mikuláš";36
+2021-10-25;"Lučenec";41
+2021-10-25;"Malacky";37
+2021-10-25;"Martin";117
+2021-10-25;"Medzilaborce";30
+2021-10-25;"Michalovce";125
+2021-10-25;"Myjava";28
+2021-10-25;"Námestovo";45
+2021-10-25;"Nitra";81
+2021-10-25;"Nové Mesto nad Váhom";25
+2021-10-25;"Nové Zámky";30
+2021-10-25;"Partizánske";5
+2021-10-25;"Pezinok";16
+2021-10-25;"Piešťany";6
+2021-10-25;"Poltár";21
+2021-10-25;"Poprad";74
+2021-10-25;"Považská Bystrica";17
+2021-10-25;"Prešov";253
+2021-10-25;"Prievidza";20
+2021-10-25;"Púchov";3
+2021-10-25;"Revúca";1
+2021-10-25;"Rimavská Sobota";7
+2021-10-25;"Rožňava";10
+2021-10-25;"Ružomberok";2
+2021-10-25;"Sabinov";23
+2021-10-25;"Senec";70
+2021-10-25;"Senica";7
+2021-10-25;"Skalica";48
+2021-10-25;"Snina";10
+2021-10-25;"Sobrance";31
+2021-10-25;"Spišská Nová Ves";14
+2021-10-25;"Stará Ľubovňa";39
+2021-10-25;"Stropkov";27
+2021-10-25;"Svidník";58
+2021-10-25;"Šaľa";1
+2021-10-25;"Topoľčany";11
+2021-10-25;"Trebišov";26
+2021-10-25;"Trenčín";69
+2021-10-25;"Trnava";35
+2021-10-25;"Turčianske Teplice";12
+2021-10-25;"Tvrdošín";48
+2021-10-25;"Veľký Krtíš";28
+2021-10-25;"Vranov nad Topľou";54
+2021-10-25;"Zlaté Moravce";3
+2021-10-25;"Zvolen";33
+2021-10-25;"Žarnovica";2
+2021-10-25;"Žiar nad Hronom";21
+2021-10-25;"Žilina";257
+2021-10-26;"Bánovce nad Bebravou";26
+2021-10-26;"Banská Bystrica";138
+2021-10-26;"Banská Štiavnica";4
+2021-10-26;"Bardejov";94
+2021-10-26;"Bratislava";269
+2021-10-26;"Brezno";65
+2021-10-26;"Bytča";35
+2021-10-26;"Čadca";138
+2021-10-26;"Detva";91
+2021-10-26;"Dolný Kubín";54
+2021-10-26;"Dunajská Streda";78
+2021-10-26;"Galanta";43
+2021-10-26;"Gelnica";11
+2021-10-26;"Hlohovec";9
+2021-10-26;"Humenné";26
+2021-10-26;"Ilava";31
+2021-10-26;"Kežmarok";35
+2021-10-26;"Komárno";29
+2021-10-26;"Košice";180
+2021-10-26;"Košice - okolie";104
+2021-10-26;"Krupina";30
+2021-10-26;"Kysucké Nové Mesto";63
+2021-10-26;"Levice";23
+2021-10-26;"Levoča";49
+2021-10-26;"Liptovský Mikuláš";76
+2021-10-26;"Lučenec";94
+2021-10-26;"Malacky";52
+2021-10-26;"Martin";135
+2021-10-26;"Medzilaborce";25
+2021-10-26;"Michalovce";93
+2021-10-26;"Námestovo";47
+2021-10-26;"Nitra";46
+2021-10-26;"Nové Mesto nad Váhom";39
+2021-10-26;"Nové Zámky";91
+2021-10-26;"Partizánske";32
+2021-10-26;"Pezinok";58
+2021-10-26;"Piešťany";32
+2021-10-26;"Poltár";24
+2021-10-26;"Poprad";100
+2021-10-26;"Považská Bystrica";39
+2021-10-26;"Prešov";362
+2021-10-26;"Prievidza";115
+2021-10-26;"Púchov";49
+2021-10-26;"Revúca";20
+2021-10-26;"Rimavská Sobota";53
+2021-10-26;"Rožňava";42
+2021-10-26;"Ružomberok";55
+2021-10-26;"Sabinov";65
+2021-10-26;"Senec";82
+2021-10-26;"Senica";26
+2021-10-26;"Skalica";49
+2021-10-26;"Snina";7
+2021-10-26;"Sobrance";22
+2021-10-26;"Spišská Nová Ves";87
+2021-10-26;"Stará Ľubovňa";29
+2021-10-26;"Stropkov";27
+2021-10-26;"Svidník";78
+2021-10-26;"Šaľa";11
+2021-10-26;"Topoľčany";84
+2021-10-26;"Trebišov";79
+2021-10-26;"Trenčín";88
+2021-10-26;"Trnava";129
+2021-10-26;"Turčianske Teplice";21
+2021-10-26;"Tvrdošín";64
+2021-10-26;"Veľký Krtíš";28
+2021-10-26;"Vranov nad Topľou";43
+2021-10-26;"Zlaté Moravce";13
+2021-10-26;"Zvolen";70
+2021-10-26;"Žarnovica";22
+2021-10-26;"Žiar nad Hronom";61
+2021-10-26;"Žilina";257
