@@ -1,80 +1,80 @@
-Platne od,Code,Okres,RUVZ,Kraj,Pocet_Obyvatelov,Própady_7d_EPIS,Pozit_7d_PCR,Pozit_7d_Ag,Pozit_Nad65r,7d_Incidencia_aktual,7d_incidenica_T-1, Zmena_7d_incidencia ,Vazena_Incidencia,Pozitivita_PCR,Pozitivita_Ag,Zaockovanost_Aspon1,Zaockovanost_Plna,Zaockovanost_Nad50r_Plna,RUVZ_Hodnotenie,Covid_Automat,Faza,Komunitne_sirenie,Perc.do18r,Opatrenia,Stupen
-11/1/2021,41,Bÿnovce nad Bebravou,Tren«ón,TN,"36,282",68,92,35,2,254,74,3,112,18.72%,1.90%,42.80%,41.50%,60.10%,3,4,Rast,Ve?mi vysokÿ,50%,https://automat.gov.sk/banovce-nad-bebravou,II. stupe’ ohrozenia
-11/1/2021,32,Banskÿ Bystrica,Banskÿ Bystrica,BB,"110,829",590,663,50,54,598,254,2,415,28.55%,2.70%,49.10%,47.80%,63.80%,4,4,Rast,Ve?mi vysokÿ,26%,https://automat.gov.sk/banska-bystrica,II. stupe’ ohrozenia
-11/1/2021,31,Banskÿ †tiavnica,?iar nad Hronom,BB,"16,086",31,30,3,2,186,106,2,183,19.73%,3.23%,43.60%,42.20%,59.40%,4,4,Rast,Ve?mi vysokÿ,6%,https://automat.gov.sk/banska-stiavnica,II. stupe’ ohrozenia
-11/1/2021,5,Bardejov,Bardejov,PR,"77,771",656,615,130,48,833,518,2,632,40.68%,2.82%,40.40%,38.90%,61.20%,5,5,Rast,Ve?mi vysokÿ,31%,https://automat.gov.sk/bardejov,III. stupe’ ohrozenia
-11/1/2021,64,Bratislava I,Bratislava,BA,"41,095",1074,1039,343,80,240,159,2,199,11.87%,1.77%,64.30%,62.70%,76.40%,3,2,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/bratislava,Ostraõitos˜
-11/1/2021,68,Bratislava II,Bratislava,BA,"115,653",1074,1039,343,80,240,159,2,199,11.87%,1.77%,64.30%,62.70%,76.40%,3,2,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/bratislava,Ostraõitos˜
-11/1/2021,67,Bratislava III,Bratislava,BA,"67,913",1074,1039,343,80,240,159,2,199,11.87%,1.77%,64.30%,62.70%,76.40%,3,2,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/bratislava,Ostraõitos˜
-11/1/2021,66,Bratislava IV,Bratislava,BA,"97,261",1074,1039,343,80,240,159,2,199,11.87%,1.77%,64.30%,62.70%,76.40%,3,2,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/bratislava,Ostraõitos˜
-11/1/2021,65,Bratislava V,Bratislava,BA,"110,942",1074,1039,343,80,240,159,2,199,11.87%,1.77%,64.30%,62.70%,76.40%,3,2,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/bratislava,Ostraõitos˜
-11/1/2021,28,Brezno,Banskÿ Bystrica,BB,"61,450",213,225,68,19,366,130,3,219,31.71%,6.99%,37.40%,36.20%,54.30%,4,4,Rast,Ve?mi vysokÿ,42%,https://automat.gov.sk/brezno,II. stupe’ ohrozenia
-11/1/2021,25,Byt«a,?ilina,ZA,"30,917",131,103,33,11,333,233,1,346,27.14%,8.57%,41.20%,40.00%,57.10%,4,4,Rast,Ve?mi vysokÿ,23%,https://automat.gov.sk/bytca,II. stupe’ ohrozenia
-11/1/2021,59,ªadca,ªadca,ZA,"90,080",573,408,210,33,453,465,1,512,30.04%,6.33%,37.80%,36.30%,51.10%,5,5,Rast,Ve?mi vysokÿ,24%,https://automat.gov.sk/cadca,III. stupe’ ohrozenia
-11/1/2021,69,Detva,Zvolen,BB,"32,051",130,146,62,9,456,262,2,336,26.87%,5.11%,36.20%,35.20%,49.70%,4,4,Rast,Ve?mi vysokÿ,22%,https://automat.gov.sk/detva,II. stupe’ ohrozenia
-11/1/2021,55,DolnØ Kubón,DolnØ Kubón,ZA,"39,457",144,139,56,16,352,241,1,308,26.38%,4.12%,46.90%,45.10%,64.90%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/dolny-kubin,II. stupe’ ohrozenia
-11/1/2021,13,Dunajskÿ Streda,Dunajskÿ Streda,TT,"122,358",268,235,62,24,192,147,1,177,18.29%,2.52%,56.30%,54.70%,75.10%,3,3,Rast,Ve?mi vysokÿ,24%,https://automat.gov.sk/dunajska-streda,I. stupe’ ohrozenia
-11/1/2021,3,Galanta,Galanta,TT,"94,076",155,134,31,11,142,144,1,126,13.68%,1.49%,49.60%,47.70%,67.40%,3,2,Rast,Ve?mi vysokÿ,30%,https://automat.gov.sk/galanta,Ostraõitos˜
-11/1/2021,74,Gelnica,Spi‡skÿ Novÿ Ves,KE,"31,868",74,69,21,4,217,104,2,192,24.83%,3.61%,32.90%,31.90%,54.90%,4,4,Rast,Ve?mi vysokÿ,22%,https://automat.gov.sk/gelnica,II. stupe’ ohrozenia
-11/1/2021,61,Hlohovec,Trnava,TT,"45,013",89,105,21,16,233,87,3,153,18.12%,3.57%,43.30%,41.90%,59.10%,4,4,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/hlohovec,II. stupe’ ohrozenia
-11/1/2021,9,Humenn?,Humenn?,PR,"61,986",451,363,81,53,586,361,2,582,39.94%,4.87%,42.90%,41.60%,62.10%,5,5,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/humenne,III. stupe’ ohrozenia
-11/1/2021,60,Ilava,Povaõskÿ Bystrica,TN,"59,188",82,66,38,4,112,90,1,118,11.05%,3.02%,40.80%,39.70%,56.80%,3,3,Rast,Ve?mi vysokÿ,18%,https://automat.gov.sk/Ilava,I. stupe’ ohrozenia
-11/1/2021,4,Keõmarok,Poprad,PR,"75,235",165,135,30,12,199,117,2,153,17.66%,2.26%,35.50%,33.20%,59.10%,4,4,Rast,Ve?mi vysokÿ,22%,https://automat.gov.sk/kezmarok,II. stupe’ ohrozenia
-11/1/2021,14,Komÿrno,Komÿrno,NR,"101,712",135,109,71,6,107,94,1,109,14.64%,2.90%,47.00%,45.60%,65.80%,3,2,Rast,Ve?mi vysokÿ,22%,https://automat.gov.sk/komarno,Ostraõitos˜
-11/1/2021,29,Ko‡ice - okolie,Ko‡ice - okolie,KE,"129,544",487,384,103,34,0,0,0,291,0.00%,0.00%,38.50%,37.30%,60.30%,4,4,Rast,Ve?mi vysokÿ,18%,https://automat.gov.sk/kosice-okolie,II. stupe’ ohrozenia
-11/1/2021,76,Ko‡ice I,Ko‡ice,KE,"67,513",794,649,145,78,454,320,1,279,24.12%,2.83%,47.40%,46.20%,62.90%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/kosice,II. stupe’ ohrozenia
-11/1/2021,79,Ko‡ice II,Ko‡ice,KE,"82,288",794,649,145,78,454,320,1,279,24.12%,2.83%,47.40%,46.20%,62.90%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/kosice,II. stupe’ ohrozenia
-11/1/2021,78,Ko‡ice III,Ko‡ice,KE,"28,749",794,649,145,78,454,320,1,279,24.12%,2.83%,47.40%,46.20%,62.90%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/kosice,II. stupe’ ohrozenia
-11/1/2021,77,Ko‡ice IV,Ko‡ice,KE,"60,126",794,649,145,78,454,320,1,279,24.12%,2.83%,47.40%,46.20%,62.90%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/kosice,II. stupe’ ohrozenia
-11/1/2021,30,Krupina,Zvolen,BB,"22,182",126,115,77,7,518,239,2,474,35.50%,5.69%,37.00%,35.50%,53.60%,4,4,Rast,Ve?mi vysokÿ,21%,https://automat.gov.sk/krupina,II. stupe’ ohrozenia
-11/1/2021,73,Kysuck? Nov? Mesto,ªadca,ZA,"32,914",267,188,111,8,571,441,1,680,36.47%,14.55%,37.60%,36.30%,51.10%,5,5,Rast,Ve?mi vysokÿ,20%,https://automat.gov.sk/kysucke-nove-mesto,III. stupe’ ohrozenia
-11/1/2021,20,Levice,Levice,NR,"110,824",148,67,81,9,88,84,1,113,11.48%,2.66%,45.60%,44.20%,62.80%,3,3,Rast,Ve?mi vysokÿ,20%,https://automat.gov.sk/levice,I. stupe’ ohrozenia
-11/1/2021,36,Levo«a,Poprad,PR,"33,702",253,201,52,20,632,350,2,547,25.00%,5.40%,38.80%,37.50%,59.60%,5,5,Rast,Ve?mi vysokÿ,32%,https://automat.gov.sk/levoca,III. stupe’ ohrozenia
-11/1/2021,15,LiptovskØ Mikulÿ‡,LiptovskØ Mikulÿ‡,ZA,"72,261",211,240,82,16,332,252,1,226,24.90%,2.42%,44.20%,42.90%,60.30%,4,4,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/liptovsky-mikulas,II. stupe’ ohrozenia
-11/1/2021,1,Lu«enec,Lu«enec,BB,"73,466",364,264,143,19,359,195,2,394,23.70%,6.89%,37.10%,35.60%,54.10%,5,5,Rast,Ve?mi vysokÿ,26%,https://automat.gov.sk/lucenec,III. stupe’ ohrozenia
-11/1/2021,62,Malacky,Bratislava,BA,"74,323",210,186,61,8,250,131,2,209,18.22%,3.95%,47.80%,46.50%,63.00%,4,4,Rast,Ve?mi vysokÿ,32%,https://automat.gov.sk/malacky,II. stupe’ ohrozenia
-11/1/2021,49,Martin,Martin,ZA,"96,338",446,442,102,57,525,292,2,357,20.22%,2.98%,44.00%,42.70%,59.70%,5,5,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/martin,III. stupe’ ohrozenia
-11/1/2021,63,Medzilaborce,Humenn?,PR,"11,842",95,76,21,14,642,236,3,728,40.40%,5.13%,37.20%,35.60%,56.00%,5,5,Rast,Ve?mi vysokÿ,12%,https://automat.gov.sk/medzilaborce,III. stupe’ ohrozenia
-11/1/2021,34,Michalovce,Michalovce,KE,"110,705",626,602,206,60,544,326,2,435,34.43%,4.67%,36.70%,35.20%,56.90%,5,5,Rast,Ve?mi vysokÿ,29%,https://automat.gov.sk/michalovce,III. stupe’ ohrozenia
-11/1/2021,27,Myjava,Tren«ón,TN,"26,356",64,70,13,4,266,148,2,206,17.23%,1.58%,48.10%,46.60%,63.80%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/myjava,II. stupe’ ohrozenia
-11/1/2021,23,Nÿmestovo,DolnØ Kubón,ZA,"62,664",298,270,63,13,431,324,1,342,30.86%,5.12%,41.50%,40.20%,63.70%,5,5,Rast,Ve?mi vysokÿ,35%,https://automat.gov.sk/namestovo,III. stupe’ ohrozenia
-11/1/2021,11,Nitra,Nitra,NR,"161,560",269,277,65,16,171,97,2,138,14.06%,1.51%,48.10%,46.50%,64.00%,3,4,Rast,Ve?mi vysokÿ,22%,https://automat.gov.sk/nitra,II. stupe’ ohrozenia
-11/1/2021,47,Nov? Mesto nad Vÿhom,Tren«ón,TN,"62,554",239,273,20,20,436,157,3,259,24.91%,2.85%,44.40%,43.00%,60.30%,4,4,Rast,Ve?mi vysokÿ,40%,https://automat.gov.sk/nove-mesto-nad-vahom,II. stupe’ ohrozenia
-11/1/2021,16,Nov? Zÿmky,Nov? Zÿmky,NR,"139,005",232,190,98,30,137,81,2,146,18.70%,2.93%,45.70%,44.40%,62.10%,3,3,Rast,Ve?mi vysokÿ,16%,https://automat.gov.sk/nove-zamky,I. stupe’ ohrozenia
-11/1/2021,45,Partizÿnske,Bojnice,TN,"45,597",37,73,43,8,160,53,3,60,22.25%,2.68%,39.60%,38.30%,54.50%,3,4,Rast,Vysokÿ,32%,https://automat.gov.sk/partizanske,II. stupe’ ohrozenia
-11/1/2021,33,Pezinok,Bratislava,BA,"65,145",232,226,144,14,347,175,2,265,21.14%,5.10%,54.50%,53.30%,71.30%,4,4,Rast,Ve?mi vysokÿ,32%,https://automat.gov.sk/pezinok,II. stupe’ ohrozenia
-11/1/2021,39,Pie‡˜any,Trnava,TT,"62,803",70,78,34,7,124,81,2,86,10.03%,1.71%,48.10%,46.50%,63.40%,3,4,Rast,Vysokÿ,29%,https://automat.gov.sk/piestany,II. stupe’ ohrozenia
-11/1/2021,70,Poltÿr,Lu«enec,BB,"21,471",92,69,17,4,321,163,2,332,28.26%,19.77%,33.30%,32.10%,49.10%,5,5,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/poltar,III. stupe’ ohrozenia
-11/1/2021,46,Poprad,Poprad,PR,"104,914",612,570,42,28,523,224,2,413,29.50%,3.29%,42.70%,41.40%,61.50%,5,5,Rast,Ve?mi vysokÿ,30%,https://automat.gov.sk/poprad,III. stupe’ ohrozenia
-11/1/2021,52,Povaõskÿ Bystrica,Povaõskÿ Bystrica,TN,"62,439",226,258,67,34,413,136,3,281,17.72%,3.19%,42.10%,41.00%,58.00%,4,4,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/povazska-bystrica,II. stupe’ ohrozenia
-11/1/2021,7,Pre‡ov,Pre‡ov,PR,"175,610",1177,1306,215,119,744,482,2,511,27.78%,4.68%,46.40%,44.60%,65.90%,5,4,Rast,Ve?mi vysokÿ,30%,https://automat.gov.sk/presov,II. stupe’ ohrozenia
-11/1/2021,40,Prievidza,Bojnice,TN,"133,980",196,280,81,22,209,121,2,113,21.83%,3.70%,39.90%,38.70%,53.90%,3,3,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/prievidza,I. stupe’ ohrozenia
-11/1/2021,54,Pchov,Povaõskÿ Bystrica,TN,"44,310",127,145,17,8,327,135,2,209,21.97%,6.51%,40.40%,39.30%,55.00%,4,4,Rast,Ve?mi vysokÿ,34%,https://automat.gov.sk/puchov,II. stupe’ ohrozenia
-11/1/2021,48,Revca,Rimavskÿ Sobota,BB,"39,637",88,39,69,6,98,88,1,186,15.81%,4.95%,34.50%,32.80%,53.80%,4,4,Rast,Ve?mi vysokÿ,20%,https://automat.gov.sk/revuca,II. stupe’ ohrozenia
-11/1/2021,2,Rimavskÿ Sobota,Rimavskÿ Sobota,BB,"84,159",319,213,129,19,253,154,2,287,21.88%,4.40%,34.80%,32.80%,54.20%,5,5,Rast,Ve?mi vysokÿ,30%,https://automat.gov.sk/rimavska-sobota,III. stupe’ ohrozenia
-11/1/2021,19,Roõ’ava,Roõ’ava,KE,"62,209",272,272,40,21,437,153,3,303,24.82%,1.56%,38.00%,36.80%,58.80%,4,4,Rast,Ve?mi vysokÿ,38%,https://automat.gov.sk/roznava,II. stupe’ ohrozenia
-11/1/2021,56,Ruõomberok,LiptovskØ Mikulÿ‡,ZA,"56,702",198,194,69,27,342,194,2,272,23.94%,2.09%,48.40%,46.50%,63.50%,5,5,Rast,Ve?mi vysokÿ,28%,https://automat.gov.sk/ruzomberok,III. stupe’ ohrozenia
-11/1/2021,35,Sabinov,Pre‡ov,PR,"60,519",295,388,110,24,641,491,1,331,27.00%,6.42%,41.40%,39.10%,64.90%,5,5,Rast,Ve?mi vysokÿ,40%,https://automat.gov.sk/sabinov,III. stupe’ ohrozenia
-11/1/2021,75,†a?a,Nitra,NR,"51,685",54,60,4,4,116,99,1,80,13.41%,0.91%,48.40%,47.00%,66.50%,2,2,Rast,Vysokÿ,30%,https://automat.gov.sk/sala,Ostraõitos˜
-11/1/2021,12,Senec,Bratislava,BA,"89,832",323,289,57,2,322,223,1,271,16.98%,3.76%,56.90%,55.30%,73.00%,4,4,Rast,Ve?mi vysokÿ,31%,https://automat.gov.sk/senec,II. stupe’ ohrozenia
-11/1/2021,58,Senica,Senica,TT,"60,446",108,106,11,13,175,164,1,150,20.83%,3.54%,43.80%,42.50%,61.20%,3,3,Rast,Ve?mi vysokÿ,20%,https://automat.gov.sk/senica,I. stupe’ ohrozenia
-11/1/2021,72,Skalica,Senica,TT,"47,105",179,179,30,23,380,251,2,300,25.44%,3.72%,46.80%,45.60%,64.90%,4,4,Rast,Ve?mi vysokÿ,26%,https://automat.gov.sk/skalica,II. stupe’ ohrozenia
-11/1/2021,50,Snina,Humenn?,PR,"36,241",196,154,44,18,425,193,2,448,35.62%,4.09%,43.10%,41.60%,61.00%,5,5,Rast,Ve?mi vysokÿ,21%,https://automat.gov.sk/snina,III. stupe’ ohrozenia
-11/1/2021,44,Sobrance,Michalovce,KE,"22,819",82,79,37,6,346,210,2,317,27.99%,5.61%,37.40%,36.00%,54.10%,5,5,Rast,Ve?mi vysokÿ,15%,https://automat.gov.sk/sobrance,III. stupe’ ohrozenia
-11/1/2021,21,Spi‡skÿ Novÿ Ves,Spi‡skÿ Novÿ Ves,KE,"99,765",440,451,110,36,452,230,2,307,29.62%,3.41%,36.90%,35.90%,60.00%,5,5,Rast,Ve?mi vysokÿ,38%,https://automat.gov.sk/spisska-nova-ves,III. stupe’ ohrozenia
-11/1/2021,17,Starÿ ?ubov’a,Starÿ ?ubov’a,PR,"53,954",463,396,67,46,765,797,1,621,29.45%,4.82%,36.00%,34.70%,58.30%,5,5,Rast,Ve?mi vysokÿ,35%,https://automat.gov.sk/stara-lubovna,III. stupe’ ohrozenia
-11/1/2021,38,Stropkov,Svidnók,PR,"20,532",121,113,8,14,623,536,1,504,29.28%,4.68%,36.70%,35.70%,54.50%,5,5,Rast,Ve?mi vysokÿ,18%,https://automat.gov.sk/stropkov,III. stupe’ ohrozenia
-11/1/2021,53,Svidnók,Svidnók,PR,"32,564",410,382,28,44,1244,700,2,1058,34.90%,7.69%,36.20%,35.10%,54.90%,5,5,Rast,Ve?mi vysokÿ,20%,https://automat.gov.sk/svidnik,III. stupe’ ohrozenia
-11/1/2021,18,Topo?«any,Topo?«any,NR,"70,132",476,427,137,22,609,111,5,465,33.59%,6.26%,39.70%,38.50%,56.00%,5,5,Rast,Ve?mi vysokÿ,39%,https://automat.gov.sk/topolcany,III. stupe’ ohrozenia
-11/1/2021,10,Trebi‡ov,Trebi‡ov,KE,"105,353",291,291,48,30,295,160,2,234,24.39%,2.02%,37.40%,36.00%,58.40%,4,4,Rast,Ve?mi vysokÿ,19%,https://automat.gov.sk/trebisov,II. stupe’ ohrozenia
-11/1/2021,8,Tren«ón,Tren«ón,TN,"114,523",356,467,113,45,408,172,2,224,24.24%,2.91%,49.40%,48.10%,65.00%,4,4,Rast,Ve?mi vysokÿ,35%,https://automat.gov.sk/trencin,II. stupe’ ohrozenia
-11/1/2021,57,Trnava,Trnava,TT,"132,455",326,341,98,42,257,149,2,200,16.53%,2.99%,51.40%,49.80%,66.50%,4,3,Rast,Ve?mi vysokÿ,23%,https://automat.gov.sk/trnava,I. stupe’ ohrozenia
-11/1/2021,6,Tur«ianske Teplice,Martin,ZA,"15,884",48,55,0,9,422,145,3,237,26.69%,14.29%,43.70%,42.50%,60.80%,4,4,Rast,Ve?mi vysokÿ,27%,https://automat.gov.sk/turcianske-teplice,II. stupe’ ohrozenia
-11/1/2021,71,Tvrdo‡ón,DolnØ Kubón,ZA,"36,180",209,187,90,23,517,428,1,454,32.62%,8.58%,40.50%,39.20%,59.20%,5,5,Rast,Ve?mi vysokÿ,27%,https://automat.gov.sk/tvrdosin,III. stupe’ ohrozenia
-11/1/2021,37,Ve?kØ Krtó‡,Ve?kØ Krtó‡,BB,"43,473",96,83,34,13,198,161,1,195,19.63%,2.65%,39.10%,37.60%,53.30%,4,4,Rast,Ve?mi vysokÿ,15%,https://automat.gov.sk/velky-krtis,II. stupe’ ohrozenia
-11/1/2021,22,Vranov nad Top?ou,Vranov nad Top?ou,PR,"80,767",274,272,78,32,337,255,1,272,21.33%,4.19%,38.20%,36.40%,59.10%,5,5,Rast,Ve?mi vysokÿ,25%,https://automat.gov.sk/vranov-nad-toplou,III. stupe’ ohrozenia
-11/1/2021,42,?arnovica,?iar nad Hronom,BB,"26,153",36,39,9,2,149,96,2,95,12.65%,1.22%,43.30%,42.20%,59.10%,3,3,Rast,Vysokÿ,39%,https://automat.gov.sk/zarnovica,I. stupe’ ohrozenia
-11/1/2021,43,?iar nad Hronom,?iar nad Hronom,BB,"46,862",199,182,23,21,408,252,2,291,27.46%,2.30%,44.40%,43.00%,60.70%,4,4,Rast,Ve?mi vysokÿ,39%,https://automat.gov.sk/ziar-nad-hronom,II. stupe’ ohrozenia
-11/1/2021,26,?ilina,?ilina,ZA,"158,043",1015,1109,233,73,702,509,1,506,26.75%,4.76%,49.30%,48.00%,66.00%,5,4,Rast,Ve?mi vysokÿ,27%,https://automat.gov.sk/zilina,II. stupe’ ohrozenia
-11/1/2021,51,Zlat? Moravce,Nitra,NR,"40,573",39,35,17,3,86,67,1,78,9.38%,2.03%,42.20%,40.80%,57.40%,3,4,Rast,Vysokÿ,23%,https://automat.gov.sk/zlate-moravce,II. stupe’ ohrozenia
-11/1/2021,24,Zvolen,Zvolen,BB,"68,759",187,233,69,11,339,215,2,215,24.50%,1.65%,46.80%,45.60%,62.70%,4,4,Rast,Ve?mi vysokÿ,26%,https://automat.gov.sk/zvolen,II. stupe’ ohrozenia
+Platne od,Code,Okres,RUVZ,Kraj,Pocet_Obyvatelov,Prípady_7d_EPIS,Pozit_7d_PCR,Pozit_7d_Ag,Pozit_Nad65r,7d_Incidencia_aktual,7d_incidenica_T-1, Zmena_7d_incidencia ,Vazena_Incidencia,Pozitivita_PCR,Pozitivita_Ag,Zaockovanost_Aspon1,Zaockovanost_Plna,Zaockovanost_Nad50r_Plna,RUVZ_Hodnotenie,Covid_Automat,Faza,Komunitne_sirenie,Perc.do18r,Opatrenia,Stupen,Farba
+11/8/2021,41,Bánovce nad Bebravou,Trenèín,TN,"36,282",122,114,28,7,314,254,1,248,13.82%,2.35%,43.00%,41.60%,60.40%,4,4,Rast,Ve¾mi vysoká,33%,https://automat.gov.sk/banovce-nad-bebravou,II. stupeò ohrozenia,#830029
+11/8/2021,32,Banská Bystrica,Banská Bystrica,BB,"110,829",1097,983,114,80,858,486,2,757,29.57%,3.20%,49.40%,47.80%,63.90%,5,5,Rast,Ve¾mi vysoká,28%,https://automat.gov.sk/banska-bystrica,III. stupeò ohrozenia,#000000
+11/8/2021,31,Banská Štiavnica,iar nad Hronom,BB,"16,086",36,41,1,4,255,186,1,179,19.66%,2.04%,43.80%,42.20%,59.60%,4,4,Rast,Ve¾mi vysoká,25%,https://automat.gov.sk/banska-stiavnica,II. stupeò ohrozenia,#830029
+11/8/2021,5,Bardejov,Bardejov,PR,"77,771",569,562,67,49,723,833,1,579,38.00%,3.54%,40.60%,38.90%,61.30%,5,5,Rast,Ve¾mi vysoká,26%,https://automat.gov.sk/bardejov,III. stupeò ohrozenia,#000000
+11/8/2021,64,Bratislava I,Bratislava,BA,"41,095",1752,1686,274,99,389,240,2,306,14.66%,2.90%,64.60%,62.80%,76.50%,4,3,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/bratislava,I. stupeò ohrozenia,#E40017
+11/8/2021,68,Bratislava II,Bratislava,BA,"115,653",1752,1686,274,99,389,240,2,306,14.66%,2.90%,64.60%,62.80%,76.50%,4,3,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/bratislava,I. stupeò ohrozenia,#E40017
+11/8/2021,67,Bratislava III,Bratislava,BA,"67,913",1752,1686,274,99,389,240,2,306,14.66%,2.90%,64.60%,62.80%,76.50%,4,3,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/bratislava,I. stupeò ohrozenia,#E40017
+11/8/2021,66,Bratislava IV,Bratislava,BA,"97,261",1752,1686,274,99,389,240,2,306,14.66%,2.90%,64.60%,62.80%,76.50%,4,3,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/bratislava,I. stupeò ohrozenia,#E40017
+11/8/2021,65,Bratislava V,Bratislava,BA,"110,942",1752,1686,274,99,389,240,2,306,14.66%,2.90%,64.60%,62.80%,76.50%,4,3,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/bratislava,I. stupeò ohrozenia,#E40017
+11/8/2021,28,Brezno,Banská Bystrica,BB,"61,450",507,393,114,42,542,349,2,643,31.02%,8.09%,37.50%,36.20%,54.40%,5,5,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/brezno,III. stupeò ohrozenia,#000000
+11/8/2021,25,Bytèa,ilina,ZA,"30,917",159,163,11,18,527,333,2,408,32.73%,7.19%,41.40%,40.00%,57.20%,5,5,Rast,Ve¾mi vysoká,26%,https://automat.gov.sk/bytca,III. stupeò ohrozenia,#000000
+11/8/2021,59,Èadca,Èadca,ZA,"90,080",704,573,111,51,636,453,1,639,36.47%,7.73%,38.00%,36.40%,51.20%,5,5,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/cadca,III. stupeò ohrozenia,#000000
+11/8/2021,69,Detva,Zvolen,BB,"32,051",312,318,62,45,992,456,2,816,38.44%,5.83%,36.50%,35.00%,49.60%,5,5,Rast,Ve¾mi vysoká,20%,https://automat.gov.sk/detva,III. stupeò ohrozenia,#000000
+11/8/2021,55,Dolnı Kubín,Dolnı Kubín,ZA,"39,457",191,182,65,25,461,352,1,413,32.14%,8.99%,47.30%,45.20%,65.10%,4,4,Rast,Ve¾mi vysoká,18%,https://automat.gov.sk/dolny-kubin,II. stupeò ohrozenia,#830029
+11/8/2021,13,Dunajská Streda,Dunajská Streda,TT,"122,358",339,315,27,27,257,192,1,211,15.83%,1.89%,56.50%,54.70%,75.30%,4,3,Rast,Ve¾mi vysoká,30%,https://automat.gov.sk/dunajska-streda,I. stupeò ohrozenia,#E40017
+11/8/2021,3,Galanta,Galanta,TT,"94,076",204,178,29,7,189,142,1,165,15.13%,2.80%,49.80%,47.80%,67.50%,3,3,Rast,Ve¾mi vysoká,30%,https://automat.gov.sk/galanta,I. stupeò ohrozenia,#E40017
+11/8/2021,74,Gelnica,Spišská Nová Ves,KE,"31,868",88,70,13,4,220,217,1,218,18.30%,3.45%,33.10%,31.90%,55.00%,4,4,Rast,Ve¾mi vysoká,26%,https://automat.gov.sk/gelnica,II. stupeò ohrozenia,#830029
+11/8/2021,61,Hlohovec,Trnava,TT,"45,013",132,140,7,10,311,233,1,213,13.58%,2.97%,43.50%,42.00%,59.30%,4,4,Rast,Ve¾mi vysoká,34%,https://automat.gov.sk/hlohovec,II. stupeò ohrozenia,#830029
+11/8/2021,9,Humenné,Humenné,PR,"61,986",531,409,86,59,660,586,1,740,33.58%,6.67%,43.30%,41.70%,62.20%,5,5,Rast,Ve¾mi vysoká,17%,https://automat.gov.sk/humenne,III. stupeò ohrozenia,#000000
+11/8/2021,60,Ilava,Povaská Bystrica,TN,"59,188",144,134,26,21,226,112,2,208,18.38%,4.26%,41.00%,39.80%,57.00%,4,4,Rast,Ve¾mi vysoká,18%,https://automat.gov.sk/Ilava,II. stupeò ohrozenia,#830029
+11/8/2021,4,Kemarok,Poprad,PR,"75,235",324,257,67,8,262,199,1,319,20.58%,4.15%,35.70%,33.40%,59.40%,5,5,Rast,Ve¾mi vysoká,32%,https://automat.gov.sk/kezmarok,III. stupeò ohrozenia,#000000
+11/8/2021,14,Komárno,Komárno,NR,"101,712",199,143,58,13,141,107,1,157,16.75%,3.80%,47.10%,45.60%,65.90%,3,2,Rast,Ve¾mi vysoká,25%,https://automat.gov.sk/komarno,Ostraitos,#FF8B02
+11/8/2021,29,Košice - okolie,Košice - okolie,KE,"129,544",659,510,149,40,0,0,0,410,0.00%,0.00%,38.70%,37.40%,60.50%,4,4,Rast,Ve¾mi vysoká,18%,https://automat.gov.sk/kosice-okolie,II. stupeò ohrozenia,#830029
+11/8/2021,76,Košice I,Košice,KE,"67,513",1299,1035,264,167,676,454,1,458,25.96%,3.51%,47.60%,46.20%,63.00%,4,4,Rast,Ve¾mi vysoká,17%,https://automat.gov.sk/kosice,II. stupeò ohrozenia,#830029
+11/8/2021,79,Košice II,Košice,KE,"82,288",1299,1035,264,167,676,454,1,458,25.96%,3.51%,47.60%,46.20%,63.00%,4,4,Rast,Ve¾mi vysoká,17%,https://automat.gov.sk/kosice,II. stupeò ohrozenia,#830029
+11/8/2021,78,Košice III,Košice,KE,"28,749",1299,1035,264,167,676,454,1,458,25.96%,3.51%,47.60%,46.20%,63.00%,4,4,Rast,Ve¾mi vysoká,17%,https://automat.gov.sk/kosice,II. stupeò ohrozenia,#830029
+11/8/2021,77,Košice IV,Košice,KE,"60,126",1299,1035,264,167,676,454,1,458,25.96%,3.51%,47.60%,46.20%,63.00%,4,4,Rast,Ve¾mi vysoká,17%,https://automat.gov.sk/kosice,II. stupeò ohrozenia,#830029
+11/8/2021,30,Krupina,Zvolen,BB,"22,182",177,169,37,18,762,518,1,704,36.21%,8.06%,37.30%,35.60%,53.80%,5,5,Rast,Ve¾mi vysoká,15%,https://automat.gov.sk/krupina,III. stupeò ohrozenia,#000000
+11/8/2021,73,Kysucké Nové Mesto,Èadca,ZA,"32,914",317,264,46,31,802,571,1,822,38.83%,12.14%,37.80%,36.40%,51.40%,5,5,Rast,Ve¾mi vysoká,18%,https://automat.gov.sk/kysucke-nove-mesto,III. stupeò ohrozenia,#000000
+11/8/2021,20,Levice,Levice,NR,"110,824",339,184,55,14,166,88,2,250,18.11%,6.17%,45.80%,44.30%,63.00%,4,4,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/levice,II. stupeò ohrozenia,#830029
+11/8/2021,36,Levoèa,Poprad,PR,"33,702",375,321,54,29,923,632,1,866,33.51%,2.82%,39.00%,37.40%,59.70%,5,5,Rast,Ve¾mi vysoká,28%,https://automat.gov.sk/levoca,III. stupeò ohrozenia,#000000
+11/8/2021,15,Liptovskı Mikuláš,Liptovskı Mikuláš,ZA,"72,261",469,416,76,29,576,332,2,484,36.22%,5.24%,44.40%,43.00%,60.40%,5,5,Rast,Ve¾mi vysoká,32%,https://automat.gov.sk/liptovsky-mikulas,III. stupeò ohrozenia,#000000
+11/8/2021,1,Luèenec,Luèenec,BB,"73,466",517,369,72,33,502,359,1,565,31.91%,7.26%,37.30%,35.70%,54.40%,5,5,Rast,Ve¾mi vysoká,25%,https://automat.gov.sk/lucenec,III. stupeò ohrozenia,#000000
+11/8/2021,62,Malacky,Bratislava,BA,"74,323",332,284,65,14,382,250,2,338,22.24%,8.62%,48.00%,46.60%,63.20%,4,4,Rast,Ve¾mi vysoká,30%,https://automat.gov.sk/malacky,II. stupeò ohrozenia,#830029
+11/8/2021,49,Martin,Martin,ZA,"96,338",732,726,146,83,868,525,2,541,23.58%,1.57%,44.20%,42.80%,59.90%,5,5,Rast,Ve¾mi vysoká,36%,https://automat.gov.sk/martin,III. stupeò ohrozenia,#000000
+11/8/2021,63,Medzilaborce,Humenné,PR,"11,842",189,142,0,9,1199,642,2,1360,31.86%,0.00%,37.40%,35.70%,56.20%,5,5,Rast,Ve¾mi vysoká,19%,https://automat.gov.sk/medzilaborce,III. stupeò ohrozenia,#000000
+11/8/2021,34,Michalovce,Michalovce,KE,"110,705",869,836,145,75,755,544,1,653,39.18%,5.56%,37.00%,35.20%,57.00%,5,5,Rast,Ve¾mi vysoká,21%,https://automat.gov.sk/michalovce,III. stupeò ohrozenia,#000000
+11/8/2021,27,Myjava,Trenèín,TN,"26,356",139,147,9,13,558,266,2,309,20.26%,2.23%,48.20%,46.60%,63.90%,4,4,Rast,Ve¾mi vysoká,52%,https://automat.gov.sk/myjava,II. stupeò ohrozenia,#830029
+11/8/2021,23,Námestovo,Dolnı Kubín,ZA,"62,664",306,284,24,17,453,431,1,368,36.89%,4.43%,41.80%,40.30%,63.90%,5,5,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/namestovo,III. stupeò ohrozenia,#000000
+11/8/2021,11,Nitra,Nitra,NR,"161,560",375,368,30,28,228,171,1,190,17.17%,1.26%,48.30%,46.60%,64.10%,4,4,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/nitra,II. stupeò ohrozenia,#830029
+11/8/2021,47,Nové Mesto nad Váhom,Trenèín,TN,"62,554",295,346,11,24,553,436,1,345,26.23%,4.80%,44.60%,43.20%,60.50%,5,5,Rast,Ve¾mi vysoká,34%,https://automat.gov.sk/nove-mesto-nad-vahom,III. stupeò ohrozenia,#000000
+11/8/2021,16,Nové Zámky,Nové Zámky,NR,"139,005",351,314,69,32,226,137,2,198,21.26%,3.73%,45.90%,44.50%,62.20%,4,4,Rast,Ve¾mi vysoká,27%,https://automat.gov.sk/nove-zamky,II. stupeò ohrozenia,#830029
+11/8/2021,45,Partizánske,Bojnice,TN,"45,597",118,184,28,17,404,160,3,194,25.18%,3.86%,39.70%,38.50%,54.80%,4,4,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/partizanske,II. stupeò ohrozenia,#830029
+11/8/2021,33,Pezinok,Bratislava,BA,"65,145",354,325,97,9,499,347,1,405,20.50%,7.17%,54.80%,53.30%,71.50%,4,4,Rast,Ve¾mi vysoká,32%,https://automat.gov.sk/pezinok,II. stupeò ohrozenia,#830029
+11/8/2021,39,Piešany,Trnava,TT,"62,803",116,144,15,12,229,124,2,149,12.07%,1.17%,48.30%,46.50%,63.50%,3,4,Rast,Ve¾mi vysoká,24%,https://automat.gov.sk/piestany,II. stupeò ohrozenia,#830029
+11/8/2021,70,Poltár,Luèenec,BB,"21,471",162,125,17,12,582,321,2,613,34.62%,25.00%,33.70%,32.20%,49.20%,5,5,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/poltar,III. stupeò ohrozenia,#000000
+11/8/2021,46,Poprad,Poprad,PR,"104,914",925,802,123,88,816,523,2,660,27.81%,5.06%,43.00%,41.50%,61.60%,5,5,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/poprad,III. stupeò ohrozenia,#000000
+11/8/2021,52,Povaská Bystrica,Povaská Bystrica,TN,"62,439",295,323,41,30,517,413,1,374,20.36%,3.35%,42.40%,41.10%,58.20%,5,5,Rast,Ve¾mi vysoká,26%,https://automat.gov.sk/povazska-bystrica,III. stupeò ohrozenia,#000000
+11/8/2021,7,Prešov,Prešov,PR,"175,610",1710,1991,131,247,1134,744,2,767,31.86%,4.80%,46.70%,44.60%,66.00%,5,4,Rast,Ve¾mi vysoká,27%,https://automat.gov.sk/presov,II. stupeò ohrozenia,#830029
+11/8/2021,40,Prievidza,Bojnice,TN,"133,980",347,436,54,49,325,209,2,211,23.83%,5.88%,40.10%,38.70%,54.10%,4,4,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/prievidza,II. stupeò ohrozenia,#830029
+11/8/2021,54,Púchov,Povaská Bystrica,TN,"44,310",209,204,9,3,460,327,1,371,22.82%,2.07%,40.60%,39.40%,55.10%,5,5,Rast,Ve¾mi vysoká,27%,https://automat.gov.sk/puchov,III. stupeò ohrozenia,#000000
+11/8/2021,48,Revúca,Rimavská Sobota,BB,"39,637",107,51,52,8,129,98,1,232,15.57%,4.97%,34.60%,32.90%,53.90%,4,4,Rast,Ve¾mi vysoká,18%,https://automat.gov.sk/revuca,II. stupeò ohrozenia,#830029
+11/8/2021,2,Rimavská Sobota,Rimavská Sobota,BB,"84,159",442,289,91,29,343,253,1,428,25.31%,5.14%,34.90%,33.20%,54.70%,5,5,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/rimavska-sobota,III. stupeò ohrozenia,#000000
+11/8/2021,19,Roòava,Roòava,KE,"62,209",275,344,70,26,553,437,1,322,15.71%,4.88%,38.10%,36.80%,58.80%,4,4,Rast,Ve¾mi vysoká,34%,https://automat.gov.sk/roznava,II. stupeò ohrozenia,#830029
+11/8/2021,56,Ruomberok,Liptovskı Mikuláš,ZA,"56,702",156,166,21,8,293,342,1,224,21.11%,1.18%,48.80%,46.70%,63.80%,4,4,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/ruzomberok,II. stupeò ohrozenia,#830029
+11/8/2021,35,Sabinov,Prešov,PR,"60,519",356,538,41,34,889,641,1,440,32.71%,4.72%,41.70%,39.10%,65.10%,4,4,Rast,Ve¾mi vysoká,31%,https://automat.gov.sk/sabinov,II. stupeò ohrozenia,#830029
+11/8/2021,75,Ša¾a,Nitra,NR,"51,685",82,68,6,7,132,116,1,134,11.97%,2.47%,48.60%,47.10%,66.70%,3,2,Rast,Ve¾mi vysoká,20%,https://automat.gov.sk/sala,Ostraitos,#FF8B02
+11/8/2021,12,Senec,Bratislava,BA,"89,832",419,376,48,15,419,322,1,354,17.08%,5.01%,57.30%,55.40%,73.20%,4,4,Rast,Ve¾mi vysoká,30%,https://automat.gov.sk/senec,II. stupeò ohrozenia,#830029
+11/8/2021,58,Senica,Senica,TT,"60,446",184,195,11,15,323,175,2,237,19.13%,7.05%,44.00%,42.60%,61.40%,4,4,Rast,Ve¾mi vysoká,28%,https://automat.gov.sk/senica,II. stupeò ohrozenia,#830029
+11/8/2021,72,Skalica,Senica,TT,"47,105",208,198,29,26,420,380,1,377,19.97%,6.78%,47.00%,45.70%,65.00%,4,4,Rast,Ve¾mi vysoká,18%,https://automat.gov.sk/skalica,II. stupeò ohrozenia,#830029
+11/8/2021,50,Snina,Humenné,PR,"36,241",270,226,28,15,624,425,1,657,43.81%,4.14%,43.40%,41.60%,61.10%,5,5,Rast,Ve¾mi vysoká,15%,https://automat.gov.sk/snina,III. stupeò ohrozenia,#000000
+11/8/2021,44,Sobrance,Michalovce,KE,"22,819",156,142,31,14,622,346,2,607,33.86%,8.96%,37.50%,36.10%,54.20%,5,5,Rast,Ve¾mi vysoká,14%,https://automat.gov.sk/sobrance,III. stupeò ohrozenia,#000000
+11/8/2021,21,Spišská Nová Ves,Spišská Nová Ves,KE,"99,765",628,654,82,54,656,452,1,456,25.33%,5.66%,37.10%,35.90%,60.20%,5,5,Rast,Ve¾mi vysoká,34%,https://automat.gov.sk/spisska-nova-ves,III. stupeò ohrozenia,#000000
+11/8/2021,17,Stará ¼ubovòa,Stará ¼ubovòa,PR,"53,954",733,677,56,41,1297,765,2,972,32.01%,5.17%,36.40%,34.70%,58.40%,5,5,Rast,Ve¾mi vysoká,36%,https://automat.gov.sk/stara-lubovna,III. stupeò ohrozenia,#000000
+11/8/2021,38,Stropkov,Svidník,PR,"20,532",187,166,21,20,852,623,1,735,31.60%,7.67%,36.90%,35.70%,54.70%,5,5,Rast,Ve¾mi vysoká,24%,https://automat.gov.sk/stropkov,III. stupeò ohrozenia,#000000
+11/8/2021,53,Svidník,Svidník,PR,"32,564",366,340,26,25,1133,1244,1,910,40.20%,8.81%,36.50%,35.20%,55.10%,5,5,Rast,Ve¾mi vysoká,24%,https://automat.gov.sk/svidnik,III. stupeò ohrozenia,#000000
+11/8/2021,18,Topo¾èany,Topo¾èany,NR,"70,132",717,626,112,45,893,609,1,779,37.04%,6.07%,39.90%,38.60%,56.10%,5,5,Rast,Ve¾mi vysoká,30%,https://automat.gov.sk/topolcany,III. stupeò ohrozenia,#000000
+11/8/2021,10,Trebišov,Trebišov,KE,"105,353",531,531,55,63,520,295,2,427,22.89%,4.05%,37.60%,36.00%,58.50%,5,5,Rast,Ve¾mi vysoká,19%,https://automat.gov.sk/trebisov,III. stupeò ohrozenia,#000000
+11/8/2021,8,Trenèín,Trenèín,TN,"114,523",468,526,96,54,459,408,1,314,20.92%,4.58%,49.60%,48.20%,65.20%,4,4,Rast,Ve¾mi vysoká,29%,https://automat.gov.sk/trencin,II. stupeò ohrozenia,#830029
+11/8/2021,57,Trnava,Trnava,TT,"132,455",549,533,54,44,402,257,2,323,16.70%,2.98%,51.60%,49.90%,66.60%,4,4,Rast,Ve¾mi vysoká,28%,https://automat.gov.sk/trnava,II. stupeò ohrozenia,#830029
+11/8/2021,6,Turèianske Teplice,Martin,ZA,"15,884",97,103,0,10,762,422,2,439,18.18%,9.33%,43.90%,42.60%,60.90%,5,5,Rast,Ve¾mi vysoká,35%,https://automat.gov.sk/turcianske-teplice,III. stupeò ohrozenia,#000000
+11/8/2021,71,Tvrdošín,Dolnı Kubín,ZA,"36,180",322,252,41,22,697,517,1,702,40.11%,7.45%,40.70%,39.20%,59.30%,5,5,Rast,Ve¾mi vysoká,26%,https://automat.gov.sk/tvrdosin,III. stupeò ohrozenia,#000000
+11/8/2021,37,Ve¾kı Krtíš,Ve¾kı Krtíš,BB,"43,473",181,152,34,14,350,198,2,335,24.38%,4.37%,39.30%,37.80%,53.60%,5,5,Rast,Ve¾mi vysoká,24%,https://automat.gov.sk/velky-krtis,III. stupeò ohrozenia,#000000
+11/8/2021,22,Vranov nad Top¾ou,Vranov nad Top¾ou,PR,"80,767",513,496,43,44,614,337,2,500,26.61%,5.05%,38.50%,36.40%,59.20%,5,5,Rast,Ve¾mi vysoká,27%,https://automat.gov.sk/vranov-nad-toplou,III. stupeò ohrozenia,#000000
+11/8/2021,42,arnovica,iar nad Hronom,BB,"26,153",76,68,13,18,260,149,2,242,20.13%,3.18%,43.50%,42.20%,59.20%,4,4,Rast,Ve¾mi vysoká,21%,https://automat.gov.sk/zarnovica,II. stupeò ohrozenia,#830029
+11/8/2021,43,iar nad Hronom,iar nad Hronom,BB,"46,862",330,329,39,24,702,408,2,511,34.73%,3.56%,44.60%,43.10%,60.80%,5,5,Rast,Ve¾mi vysoká,34%,https://automat.gov.sk/ziar-nad-hronom,III. stupeò ohrozenia,#000000
+11/8/2021,26,ilina,ilina,ZA,"158,043",1279,1363,153,133,862,702,1,657,25.50%,5.81%,49.50%,48.10%,66.20%,5,4,Rast,Ve¾mi vysoká,23%,https://automat.gov.sk/zilina,II. stupeò ohrozenia,#830029
+11/8/2021,51,Zlaté Moravce,Nitra,NR,"40,573",37,44,7,4,108,86,1,77,11.11%,1.72%,42.30%,40.80%,57.60%,3,4,Rast,Vysoká,19%,https://automat.gov.sk/zlate-moravce,II. stupeò ohrozenia,#E40017
+11/8/2021,24,Zvolen,Zvolen,BB,"68,759",395,517,44,38,752,339,2,445,27.59%,2.27%,47.00%,45.70%,62.80%,4,4,Rast,Ve¾mi vysoká,28%,https://automat.gov.sk/zvolen,II. stupeò ohrozenia,#830029
