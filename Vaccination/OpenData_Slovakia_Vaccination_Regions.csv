@@ -1,50 +1,78 @@
 "Date";"Region";"Region_code";"Vaccine_name";"first_dose";"second_dose";"third_dose"
-2022-01-10;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";18;12;143
-2022-01-10;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";1;8;9
-2022-01-10;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";6;12;24
+2022-01-11;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";2;3;55
+2022-01-11;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";0;0;6
+2022-01-10;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";90;190;784
+2022-01-10;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";7;0;0
+2022-01-10;"Banskobystrický kraj";"SK032";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";10;30;376
+2022-01-10;"Bratislavský kraj";"SK010";"Comirnaty 10 mikrogramov/dávka koncentrát na injekčnú disperziu, con dsi 10x1,3 ml (liek.inj.skl.)";509;7;0
+2022-01-10;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";120;239;3656
+2022-01-10;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";7;15;357
+2022-01-10;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";167;391;934
+2022-01-10;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";222;454;2554
+2022-01-10;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";120;509;897
+2022-01-10;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";15;0;3
+2022-01-10;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";10;51;304
+2022-01-10;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";64;222;1008
+2022-01-10;"Trenčiansky kraj";"SK022";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";5;158;138
+2022-01-10;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";60;180;997
+2022-01-10;"Trnavský kraj";"SK021";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";5;24;136
+2022-01-10;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";118;520;1717
+2022-01-10;"Žilinský kraj";"SK031";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";1;0;15
+2022-01-10;"Žilinský kraj";"SK031";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";12;30;325
 2022-01-09;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";0;0;0
 2022-01-09;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";81;65;667
 2022-01-09;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";4;11;168
-2022-01-09;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";47;11;352
+2022-01-09;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";174;150;1768
+2022-01-09;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";55;0;119
 2022-01-09;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";132;306;2113
 2022-01-09;"Nitriansky kraj";"SK023";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";37;97;1166
-2022-01-09;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";7;6;8
+2022-01-09;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";42;161;1138
+2022-01-09;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";52;0;51
 2022-01-09;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";59;55;741
+2022-01-09;"Trenčiansky kraj";"SK022";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";23;0;15
 2022-01-09;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";76;203;3
 2022-01-09;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";1;3;20
 2022-01-08;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";10;8;204
-2022-01-08;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";175;371;4570
+2022-01-08;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";188;394;5113
 2022-01-08;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";11;29;718
-2022-01-08;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";59;108;940
-2022-01-08;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";6;0;9
+2022-01-08;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";157;260;3501
+2022-01-08;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";37;0;28
+2022-01-08;"Košický kraj";"SK042";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";3;36;231
 2022-01-08;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";228;620;3368
 2022-01-08;"Nitriansky kraj";"SK023";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";12;30;464
-2022-01-08;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";0;1;5
+2022-01-08;"Prešovský kraj";"SK041";"Comirnaty 10 mikrogramov/dávka koncentrát na injekčnú disperziu, con dsi 10x1,3 ml (liek.inj.skl.)";84;0;0
+2022-01-08;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";149;343;2343
+2022-01-08;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";161;0;98
+2022-01-08;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";0;0;27
 2022-01-08;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";105;242;1343
 2022-01-08;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";10;28;82
-2022-01-08;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";38;61;1710
+2022-01-08;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";63;67;1835
 2022-01-07;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";177;416;2411
 2022-01-07;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";40;0;44
 2022-01-07;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 20x2,5 ml (liek.inj.skl.)";6;0;0
 2022-01-07;"Banskobystrický kraj";"SK032";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";17;31;194
-2022-01-07;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";630;652;5026
+2022-01-07;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";633;671;5285
 2022-01-07;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";57;0;173
 2022-01-07;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";43;36;1053
 2022-01-07;"Košický kraj";"SK042";"Comirnaty 10 mikrogramov/dávka koncentrát na injekčnú disperziu, con dsi 10x1,3 ml (liek.inj.skl.)";214;1;0
-2022-01-07;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";144;447;1841
+2022-01-07;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";221;577;2330
+2022-01-07;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";98;0;59
 2022-01-07;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";267;596;3420
-2022-01-07;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";260;607;2119
-2022-01-07;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";12;29;366
-2022-01-07;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";197;460;2398
+2022-01-07;"Prešovský kraj";"SK041";"Comirnaty 10 mikrogramov/dávka koncentrát na injekčnú disperziu, con dsi 10x1,3 ml (liek.inj.skl.)";444;0;0
+2022-01-07;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";315;706;2683
+2022-01-07;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";71;0;9
+2022-01-07;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";18;67;473
+2022-01-07;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";206;520;2587
 2022-01-07;"Trenčiansky kraj";"SK022";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";9;8;295
 2022-01-07;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";69;350;1105
 2022-01-07;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";188;444;2369
 2022-01-07;"Žilinský kraj";"SK031";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";50;0;30
 2022-01-06;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";9;9;252
 2022-01-06;"Bratislavský kraj";"SK010";"Comirnaty 10 mikrogramov/dávka koncentrát na injekčnú disperziu, con dsi 10x1,3 ml (liek.inj.skl.)";1646;5;0
-2022-01-06;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";80;111;1825
+2022-01-06;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";83;131;2083
 2022-01-06;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";54;18;1154
-2022-01-06;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";13;31;270
+2022-01-06;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";28;38;306
+2022-01-06;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";1;0;7
 2022-01-06;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";66;79;677
 2022-01-06;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";2;6;9
 2022-01-06;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";7;0;53
@@ -53,14 +81,15 @@
 2022-01-05;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";172;445;1990
 2022-01-05;"Banskobystrický kraj";"SK032";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";53;0;13
 2022-01-05;"Banskobystrický kraj";"SK032";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";26;69;491
-2022-01-05;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";567;534;2578
+2022-01-05;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";577;540;2861
 2022-01-05;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";31;0;220
 2022-01-05;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";48;34;1327
 2022-01-05;"Košický kraj";"SK042";"Comirnaty 10 mikrogramov/dávka koncentrát na injekčnú disperziu, con dsi 10x1,3 ml (liek.inj.skl.)";152;6;0
-2022-01-05;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";230;392;2130
+2022-01-05;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";299;502;3155
+2022-01-05;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";28;0;32
 2022-01-05;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";223;482;2757
-2022-01-05;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";402;493;2464
-2022-01-05;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";13;0;5
+2022-01-05;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";428;514;2775
+2022-01-05;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";43;0;16
 2022-01-05;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";18;49;458
 2022-01-05;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";156;263;1896
 2022-01-05;"Trenčiansky kraj";"SK022";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";22;97;434
@@ -78,8 +107,8 @@
 2022-01-04;"Košický kraj";"SK042";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";22;6;736
 2022-01-04;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";173;217;2245
 2022-01-04;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";20;0;1
-2022-01-04;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";301;440;2273
-2022-01-04;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";33;0;11
+2022-01-04;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";308;448;2407
+2022-01-04;"Prešovský kraj";"SK041";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";54;0;11
 2022-01-04;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";8;16;142
 2022-01-04;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";158;518;2190
 2022-01-04;"Trenčiansky kraj";"SK022";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";61;47;101
@@ -130,14 +159,14 @@
 2021-12-31;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";16;11;87
 2021-12-31;"Trnavský kraj";"SK021";"Comirnaty koncentrát na injekčnú disperziu";22;75;261
 2021-12-31;"Žilinský kraj";"SK031";"Comirnaty koncentrát na injekčnú disperziu";106;181;836
-2021-12-30;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";86;149;1095
+2021-12-30;"Banskobystrický kraj";"SK032";"Comirnaty koncentrát na injekčnú disperziu";86;162;1100
 2021-12-30;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";160;364;4999
 2021-12-30;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";13;14;772
 2021-12-30;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";340;619;2861
 2021-12-30;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";51;0;17
 2021-12-30;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";259;538;3277
 2021-12-30;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";32;0;31
-2021-12-30;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";242;417;2955
+2021-12-30;"Prešovský kraj";"SK041";"Comirnaty koncentrát na injekčnú disperziu";288;494;3677
 2021-12-30;"Prešovský kraj";"SK041";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";5;11;64
 2021-12-30;"Trenčiansky kraj";"SK022";"Comirnaty koncentrát na injekčnú disperziu";172;304;1987
 2021-12-30;"Trenčiansky kraj";"SK022";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";18;67;232
@@ -308,7 +337,7 @@
 2021-12-17;"Bratislavský kraj";"SK010";"Comirnaty koncentrát na injekčnú disperziu";388;704;5558
 2021-12-17;"Bratislavský kraj";"SK010";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";61;0;0
 2021-12-17;"Bratislavský kraj";"SK010";"Spikevax injekčná disperzia (pôvodne COVID-19 Vaccine Moderna)dis inj 10x5 ml (liek.inj.skl.)";37;92;1070
-2021-12-17;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";460;799;3476
+2021-12-17;"Košický kraj";"SK042";"Comirnaty koncentrát na injekčnú disperziu";474;813;3586
 2021-12-17;"Košický kraj";"SK042";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";91;0;37
 2021-12-17;"Nitriansky kraj";"SK023";"Comirnaty koncentrát na injekčnú disperziu";409;993;3719
 2021-12-17;"Nitriansky kraj";"SK023";"COVID-19 Vaccine Janssen injekčná suspenzia sus inj 10x2,5 ml (liek.inj.skl.)";5;0;0
