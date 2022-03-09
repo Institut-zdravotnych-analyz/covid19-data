@@ -1,4 +1,166 @@
 "Date";"District";"District_code";"PCR_Pos";"PCR_Neg";"PCR_Total"
+2022-03-08;"neznáme";NA;910;1132;2042
+2022-03-08;"Okres Bánovce nad Bebravou";"SK0221";45;30;75
+2022-03-08;"Okres Banská Bystrica";"SK0321";365;201;566
+2022-03-08;"Okres Banská Štiavnica";"SK0322";41;12;53
+2022-03-08;"Okres Bardejov";"SK0411";204;113;317
+2022-03-08;"Okres Bratislava I";"SK0101";115;131;246
+2022-03-08;"Okres Bratislava II";"SK0102";321;250;571
+2022-03-08;"Okres Bratislava III";"SK0103";262;226;488
+2022-03-08;"Okres Bratislava IV";"SK0104";283;270;553
+2022-03-08;"Okres Bratislava V";"SK0105";273;262;535
+2022-03-08;"Okres Brezno";"SK0323";60;48;108
+2022-03-08;"Okres Bytča";"SK0311";92;28;120
+2022-03-08;"Okres Čadca";"SK0312";128;49;177
+2022-03-08;"Okres Detva";"SK0324";99;52;151
+2022-03-08;"Okres Dolný Kubín";"SK0313";6;3;9
+2022-03-08;"Okres Dunajská Streda";"SK0211";260;181;441
+2022-03-08;"Okres Galanta";"SK0212";242;115;357
+2022-03-08;"Okres Gelnica";"SK0421";112;46;158
+2022-03-08;"Okres Hlohovec";"SK0213";121;57;178
+2022-03-08;"Okres Humenné";"SK0412";163;104;267
+2022-03-08;"Okres Ilava";"SK0222";158;107;265
+2022-03-08;"Okres Kežmarok";"SK0413";102;90;192
+2022-03-08;"Okres Komárno";"SK0231";222;121;343
+2022-03-08;"Okres Košice - okolie";"SK0426";237;125;362
+2022-03-08;"Okres Košice I";"SK0422";80;33;113
+2022-03-08;"Okres Košice II";"SK0423";153;63;216
+2022-03-08;"Okres Košice III";"SK0424";27;14;41
+2022-03-08;"Okres Košice IV";"SK0425";71;34;105
+2022-03-08;"Okres Krupina";"SK0325";61;41;102
+2022-03-08;"Okres Kysucké Nové Mesto";"SK0314";51;27;78
+2022-03-08;"Okres Levice";"SK0232";262;235;497
+2022-03-08;"Okres Levoča";"SK0414";77;58;135
+2022-03-08;"Okres Liptovský Mikuláš";"SK0315";137;65;202
+2022-03-08;"Okres Lučenec";"SK0326";336;131;467
+2022-03-08;"Okres Malacky";"SK0106";223;146;369
+2022-03-08;"Okres Martin";"SK0316";103;37;140
+2022-03-08;"Okres Medzilaborce";"SK0415";48;129;177
+2022-03-08;"Okres Michalovce";"SK0427";205;116;321
+2022-03-08;"Okres Myjava";"SK0223";36;18;54
+2022-03-08;"Okres Námestovo";"SK0317";46;39;85
+2022-03-08;"Okres Nitra";"SK0233";407;213;620
+2022-03-08;"Okres Nové Mesto nad Váhom";"SK0224";125;60;185
+2022-03-08;"Okres Nové Zámky";"SK0234";291;178;469
+2022-03-08;"Okres Partizánske";"SK0225";100;54;154
+2022-03-08;"Okres Pezinok";"SK0107";284;210;494
+2022-03-08;"Okres Piešťany";"SK0214";218;91;309
+2022-03-08;"Okres Poltár";"SK0327";61;30;91
+2022-03-08;"Okres Poprad";"SK0416";207;100;307
+2022-03-08;"Okres Považská Bystrica";"SK0226";128;62;190
+2022-03-08;"Okres Prešov";"SK0417";650;337;987
+2022-03-08;"Okres Prievidza";"SK0227";248;152;400
+2022-03-08;"Okres Púchov";"SK0228";91;28;119
+2022-03-08;"Okres Revúca";"SK0328";92;33;125
+2022-03-08;"Okres Rimavská Sobota";"SK0329";248;186;434
+2022-03-08;"Okres Rožňava";"SK0428";137;93;230
+2022-03-08;"Okres Ružomberok";"SK0318";103;53;156
+2022-03-08;"Okres Sabinov";"SK0418";132;76;208
+2022-03-08;"Okres Senec";"SK0108";317;259;576
+2022-03-08;"Okres Senica";"SK0215";91;53;144
+2022-03-08;"Okres Skalica";"SK0216";90;56;146
+2022-03-08;"Okres Snina";"SK0419";131;43;174
+2022-03-08;"Okres Sobrance";"SK0429";45;27;72
+2022-03-08;"Okres Spišská Nová Ves";"SK042A";236;134;370
+2022-03-08;"Okres Stará Ľubovňa";"SK041A";167;91;258
+2022-03-08;"Okres Stropkov";"SK041B";45;15;60
+2022-03-08;"Okres Svidník";"SK041C";65;54;119
+2022-03-08;"Okres Šaľa";"SK0235";127;57;184
+2022-03-08;"Okres Topoľčany";"SK0236";220;74;294
+2022-03-08;"Okres Trebišov";"SK042B";313;177;490
+2022-03-08;"Okres Trenčín";"SK0229";272;144;416
+2022-03-08;"Okres Trnava";"SK0217";436;223;659
+2022-03-08;"Okres Turčianske Teplice";"SK0319";10;4;14
+2022-03-08;"Okres Tvrdošín";"SK031A";3;5;8
+2022-03-08;"Okres Veľký Krtíš";"SK032A";219;93;312
+2022-03-08;"Okres Vranov nad Topľou";"SK041D";199;138;337
+2022-03-08;"Okres Zlaté Moravce";"SK0237";135;67;202
+2022-03-08;"Okres Zvolen";"SK032B";281;133;414
+2022-03-08;"Okres Žarnovica";"SK032C";52;39;91
+2022-03-08;"Okres Žiar nad Hronom";"SK032D";165;76;241
+2022-03-08;"Okres Žilina";"SK031B";216;139;355
+2022-03-08;"Zahraničie";"SKZZZZ";0;0;0
+2022-03-07;"neznáme";NA;834;842;1676
+2022-03-07;"Okres Bánovce nad Bebravou";"SK0221";87;51;138
+2022-03-07;"Okres Banská Bystrica";"SK0321";132;170;302
+2022-03-07;"Okres Banská Štiavnica";"SK0322";5;13;18
+2022-03-07;"Okres Bardejov";"SK0411";34;41;75
+2022-03-07;"Okres Bratislava I";"SK0101";92;130;222
+2022-03-07;"Okres Bratislava II";"SK0102";217;236;453
+2022-03-07;"Okres Bratislava III";"SK0103";183;152;335
+2022-03-07;"Okres Bratislava IV";"SK0104";197;187;384
+2022-03-07;"Okres Bratislava V";"SK0105";209;184;393
+2022-03-07;"Okres Brezno";"SK0323";54;46;100
+2022-03-07;"Okres Bytča";"SK0311";20;28;48
+2022-03-07;"Okres Čadca";"SK0312";135;43;178
+2022-03-07;"Okres Detva";"SK0324";136;55;191
+2022-03-07;"Okres Dolný Kubín";"SK0313";89;50;139
+2022-03-07;"Okres Dunajská Streda";"SK0211";191;187;378
+2022-03-07;"Okres Galanta";"SK0212";132;124;256
+2022-03-07;"Okres Gelnica";"SK0421";14;23;37
+2022-03-07;"Okres Hlohovec";"SK0213";155;115;270
+2022-03-07;"Okres Humenné";"SK0412";98;29;127
+2022-03-07;"Okres Ilava";"SK0222";133;93;226
+2022-03-07;"Okres Kežmarok";"SK0413";90;85;175
+2022-03-07;"Okres Komárno";"SK0231";70;79;149
+2022-03-07;"Okres Košice - okolie";"SK0426";251;171;422
+2022-03-07;"Okres Košice I";"SK0422";69;28;97
+2022-03-07;"Okres Košice II";"SK0423";144;78;222
+2022-03-07;"Okres Košice III";"SK0424";33;20;53
+2022-03-07;"Okres Košice IV";"SK0425";78;26;104
+2022-03-07;"Okres Krupina";"SK0325";70;28;98
+2022-03-07;"Okres Kysucké Nové Mesto";"SK0314";45;24;69
+2022-03-07;"Okres Levice";"SK0232";49;145;194
+2022-03-07;"Okres Levoča";"SK0414";87;76;163
+2022-03-07;"Okres Liptovský Mikuláš";"SK0315";44;33;77
+2022-03-07;"Okres Lučenec";"SK0326";121;56;177
+2022-03-07;"Okres Malacky";"SK0106";103;93;196
+2022-03-07;"Okres Martin";"SK0316";246;251;497
+2022-03-07;"Okres Medzilaborce";"SK0415";17;3;20
+2022-03-07;"Okres Michalovce";"SK0427";182;113;295
+2022-03-07;"Okres Myjava";"SK0223";42;26;68
+2022-03-07;"Okres Námestovo";"SK0317";46;46;92
+2022-03-07;"Okres Nitra";"SK0233";302;209;511
+2022-03-07;"Okres Nové Mesto nad Váhom";"SK0224";124;73;197
+2022-03-07;"Okres Nové Zámky";"SK0234";193;166;359
+2022-03-07;"Okres Partizánske";"SK0225";41;46;87
+2022-03-07;"Okres Pezinok";"SK0107";45;57;102
+2022-03-07;"Okres Piešťany";"SK0214";117;77;194
+2022-03-07;"Okres Poltár";"SK0327";40;11;51
+2022-03-07;"Okres Poprad";"SK0416";264;140;404
+2022-03-07;"Okres Považská Bystrica";"SK0226";72;62;134
+2022-03-07;"Okres Prešov";"SK0417";450;264;714
+2022-03-07;"Okres Prievidza";"SK0227";199;126;325
+2022-03-07;"Okres Púchov";"SK0228";26;42;68
+2022-03-07;"Okres Revúca";"SK0328";48;31;79
+2022-03-07;"Okres Rimavská Sobota";"SK0329";10;16;26
+2022-03-07;"Okres Rožňava";"SK0428";6;28;34
+2022-03-07;"Okres Ružomberok";"SK0318";77;84;161
+2022-03-07;"Okres Sabinov";"SK0418";11;49;60
+2022-03-07;"Okres Senec";"SK0108";237;199;436
+2022-03-07;"Okres Senica";"SK0215";85;85;170
+2022-03-07;"Okres Skalica";"SK0216";86;57;143
+2022-03-07;"Okres Snina";"SK0419";49;10;59
+2022-03-07;"Okres Sobrance";"SK0429";46;36;82
+2022-03-07;"Okres Spišská Nová Ves";"SK042A";100;93;193
+2022-03-07;"Okres Stará Ľubovňa";"SK041A";6;14;20
+2022-03-07;"Okres Stropkov";"SK041B";19;25;44
+2022-03-07;"Okres Svidník";"SK041C";61;33;94
+2022-03-07;"Okres Šaľa";"SK0235";34;48;82
+2022-03-07;"Okres Topoľčany";"SK0236";131;106;237
+2022-03-07;"Okres Trebišov";"SK042B";155;112;267
+2022-03-07;"Okres Trenčín";"SK0229";263;156;419
+2022-03-07;"Okres Trnava";"SK0217";258;242;500
+2022-03-07;"Okres Turčianske Teplice";"SK0319";46;20;66
+2022-03-07;"Okres Tvrdošín";"SK031A";66;42;108
+2022-03-07;"Okres Veľký Krtíš";"SK032A";22;46;68
+2022-03-07;"Okres Vranov nad Topľou";"SK041D";70;58;128
+2022-03-07;"Okres Zlaté Moravce";"SK0237";31;40;71
+2022-03-07;"Okres Zvolen";"SK032B";122;118;240
+2022-03-07;"Okres Žarnovica";"SK032C";10;18;28
+2022-03-07;"Okres Žiar nad Hronom";"SK032D";23;59;82
+2022-03-07;"Okres Žilina";"SK031B";366;236;602
+2022-03-07;"Zahraničie";"SKZZZZ";1;0;1
 2022-03-06;"neznáme";NA;148;255;403
 2022-03-06;"Okres Bánovce nad Bebravou";"SK0221";36;20;56
 2022-03-06;"Okres Banská Bystrica";"SK0321";137;92;229
