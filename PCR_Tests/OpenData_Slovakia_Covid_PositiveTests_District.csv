@@ -1,536 +1,68 @@
 "Datum";"Okres";"Dennych.prirastkov"
-2020-09-30;"Banská Bystrica";2
-2020-09-30;"Bardejov";2
-2020-09-30;"Bratislava";2
-2020-09-30;"Dunajská Streda";2
-2020-09-30;"Košice";5
-2020-09-30;"Malacky";1
-2020-09-30;"Myjava";3
-2020-09-30;"Námestovo";6
-2020-09-30;"Nitra";4
-2020-09-30;"Prešov";3
-2020-09-30;"Prievidza";2
-2020-09-30;"Ružomberok";1
-2020-09-30;"Senec";1
-2020-09-30;"Senica";1
-2020-09-30;"Skalica";1
-2020-09-30;"Snina";1
-2020-09-30;"Sobrance";1
-2020-09-30;"Stará Ľubovňa";1
-2020-09-30;"Topoľčany";1
-2020-09-30;"Trebišov";1
-2020-09-30;"Trnava";2
-2020-09-30;"Tvrdošín";2
-2020-09-30;"Veľký Krtíš";1
-2020-09-30;"Zlaté Moravce";1
-2020-09-30;"Žilina";1
-2020-10-01;"Banská Bystrica";23
-2020-10-01;"Bardejov";50
-2020-10-01;"Bratislava";52
-2020-10-01;"Brezno";8
-2020-10-01;"Bytča";4
-2020-10-01;"Čadca";5
-2020-10-01;"Dolný Kubín";8
-2020-10-01;"Dunajská Streda";3
-2020-10-01;"Galanta";10
-2020-10-01;"Gelnica";5
-2020-10-01;"Humenné";15
-2020-10-01;"Kežmarok";2
-2020-10-01;"Komárno";11
-2020-10-01;"Košice";12
-2020-10-01;"Košice - okolie";1
-2020-10-01;"Krupina";1
-2020-10-01;"Kysucké Nové Mesto";2
-2020-10-01;"Levice";2
-2020-10-01;"Liptovský Mikuláš";17
-2020-10-01;"Lučenec";6
-2020-10-01;"Malacky";10
-2020-10-01;"Martin";6
-2020-10-01;"Medzilaborce";1
-2020-10-01;"Michalovce";9
-2020-10-01;"Myjava";7
-2020-10-01;"Námestovo";34
-2020-10-01;"Nitra";19
-2020-10-01;"Nové Mesto nad Váhom";1
-2020-10-01;"Nové Zámky";40
-2020-10-01;"Partizánske";1
-2020-10-01;"Pezinok";1
-2020-10-01;"Piešťany";6
-2020-10-01;"Poprad";7
-2020-10-01;"Považská Bystrica";3
-2020-10-01;"Prešov";11
-2020-10-01;"Prievidza";38
-2020-10-01;"Púchov";2
-2020-10-01;"Ružomberok";1
-2020-10-01;"Sabinov";4
-2020-10-01;"Senec";9
-2020-10-01;"Senica";3
-2020-10-01;"Skalica";4
-2020-10-01;"Snina";7
-2020-10-01;"Sobrance";16
-2020-10-01;"Spišská Nová Ves";10
-2020-10-01;"Stará Ľubovňa";9
-2020-10-01;"Stropkov";8
-2020-10-01;"Svidník";22
-2020-10-01;"Šaľa";3
-2020-10-01;"Topoľčany";19
-2020-10-01;"Trebišov";16
-2020-10-01;"Trenčín";6
-2020-10-01;"Trnava";27
-2020-10-01;"Tvrdošín";54
-2020-10-01;"Veľký Krtíš";4
-2020-10-01;"Zlaté Moravce";1
-2020-10-01;"Zvolen";3
-2020-10-01;"Žarnovica";2
-2020-10-01;"Žiar nad Hronom";2
-2020-10-01;"Žilina";16
-2020-10-02;"Bánovce nad Bebravou";3
-2020-10-02;"Banská Bystrica";19
-2020-10-02;"Banská Štiavnica";6
-2020-10-02;"Bardejov";41
-2020-10-02;"Bratislava";80
-2020-10-02;"Brezno";4
-2020-10-02;"Bytča";1
-2020-10-02;"Čadca";1
-2020-10-02;"Detva";5
-2020-10-02;"Dolný Kubín";19
-2020-10-02;"Dunajská Streda";9
-2020-10-02;"Galanta";4
-2020-10-02;"Gelnica";1
-2020-10-02;"Hlohovec";2
-2020-10-02;"Humenné";7
-2020-10-02;"Ilava";4
-2020-10-02;"Kežmarok";4
-2020-10-02;"Komárno";8
-2020-10-02;"Košice";33
-2020-10-02;"Košice - okolie";7
-2020-10-02;"Krupina";1
-2020-10-02;"Levice";6
-2020-10-02;"Liptovský Mikuláš";9
-2020-10-02;"Lučenec";1
-2020-10-02;"Malacky";13
-2020-10-02;"Martin";11
-2020-10-02;"Michalovce";5
-2020-10-02;"Myjava";1
-2020-10-02;"Námestovo";32
-2020-10-02;"Nitra";35
-2020-10-02;"Nové Mesto nad Váhom";2
-2020-10-02;"Nové Zámky";43
-2020-10-02;"Pezinok";2
-2020-10-02;"Piešťany";3
-2020-10-02;"Poltár";1
-2020-10-02;"Poprad";17
-2020-10-02;"Prešov";21
-2020-10-02;"Prievidza";53
-2020-10-02;"Púchov";3
-2020-10-02;"Revúca";2
-2020-10-02;"Rimavská Sobota";2
-2020-10-02;"Ružomberok";5
-2020-10-02;"Sabinov";4
-2020-10-02;"Senec";6
-2020-10-02;"Senica";1
-2020-10-02;"Snina";5
-2020-10-02;"Sobrance";4
-2020-10-02;"Spišská Nová Ves";3
-2020-10-02;"Stará Ľubovňa";28
-2020-10-02;"Stropkov";8
-2020-10-02;"Svidník";13
-2020-10-02;"Šaľa";1
-2020-10-02;"Topoľčany";3
-2020-10-02;"Trebišov";4
-2020-10-02;"Trenčín";3
-2020-10-02;"Trnava";22
-2020-10-02;"Tvrdošín";12
-2020-10-02;"Veľký Krtíš";18
-2020-10-02;"Vranov nad Topľou";1
-2020-10-02;"Zlaté Moravce";12
-2020-10-02;"Zvolen";6
-2020-10-02;"Žarnovica";3
-2020-10-02;"Žiar nad Hronom";6
-2020-10-02;"Žilina";15
-2020-10-03;"Bánovce nad Bebravou";3
-2020-10-03;"Banská Bystrica";8
-2020-10-03;"Banská Štiavnica";1
-2020-10-03;"Bardejov";53
-2020-10-03;"Bratislava";54
-2020-10-03;"Brezno";2
-2020-10-03;"Bytča";2
-2020-10-03;"Čadca";2
-2020-10-03;"Detva";9
-2020-10-03;"Dolný Kubín";12
-2020-10-03;"Dunajská Streda";8
-2020-10-03;"Galanta";6
-2020-10-03;"Gelnica";3
-2020-10-03;"Hlohovec";3
-2020-10-03;"Humenné";32
-2020-10-03;"Ilava";5
-2020-10-03;"Kežmarok";1
-2020-10-03;"Komárno";12
-2020-10-03;"Košice";55
-2020-10-03;"Košice - okolie";9
-2020-10-03;"Kysucké Nové Mesto";1
-2020-10-03;"Levice";1
-2020-10-03;"Levoča";5
-2020-10-03;"Liptovský Mikuláš";5
-2020-10-03;"Lučenec";2
-2020-10-03;"Malacky";10
-2020-10-03;"Martin";24
-2020-10-03;"Medzilaborce";7
-2020-10-03;"Michalovce";10
-2020-10-03;"Myjava";7
-2020-10-03;"Námestovo";48
-2020-10-03;"Nitra";33
-2020-10-03;"Nové Mesto nad Váhom";3
-2020-10-03;"Nové Zámky";24
-2020-10-03;"Partizánske";1
-2020-10-03;"Pezinok";6
-2020-10-03;"Piešťany";3
-2020-10-03;"Poprad";14
-2020-10-03;"Považská Bystrica";14
-2020-10-03;"Prešov";16
-2020-10-03;"Prievidza";20
-2020-10-03;"Púchov";12
-2020-10-03;"Rimavská Sobota";2
-2020-10-03;"Ružomberok";14
-2020-10-03;"Sabinov";3
-2020-10-03;"Senec";12
-2020-10-03;"Senica";12
-2020-10-03;"Skalica";20
-2020-10-03;"Snina";4
-2020-10-03;"Sobrance";10
-2020-10-03;"Spišská Nová Ves";14
-2020-10-03;"Stará Ľubovňa";16
-2020-10-03;"Stropkov";20
-2020-10-03;"Svidník";20
-2020-10-03;"Šaľa";1
-2020-10-03;"Topoľčany";10
-2020-10-03;"Trebišov";4
-2020-10-03;"Trenčín";14
-2020-10-03;"Trnava";8
-2020-10-03;"Turčianske Teplice";1
-2020-10-03;"Tvrdošín";29
-2020-10-03;"Veľký Krtíš";6
-2020-10-03;"Vranov nad Topľou";13
-2020-10-03;"Zlaté Moravce";15
-2020-10-03;"Zvolen";5
-2020-10-03;"Žarnovica";1
-2020-10-03;"Žiar nad Hronom";1
-2020-10-03;"Žilina";17
-2020-10-04;"Banská Bystrica";4
-2020-10-04;"Bardejov";31
-2020-10-04;"Bratislava";34
-2020-10-04;"Čadca";5
-2020-10-04;"Dolný Kubín";1
-2020-10-04;"Dunajská Streda";19
-2020-10-04;"Galanta";4
-2020-10-04;"Gelnica";1
-2020-10-04;"Hlohovec";1
-2020-10-04;"Humenné";4
-2020-10-04;"Ilava";1
-2020-10-04;"Kežmarok";1
-2020-10-04;"Komárno";3
-2020-10-04;"Košice";7
-2020-10-04;"Košice - okolie";2
-2020-10-04;"Levice";1
-2020-10-04;"Levoča";1
-2020-10-04;"Liptovský Mikuláš";2
-2020-10-04;"Malacky";9
-2020-10-04;"Martin";1
-2020-10-04;"Michalovce";12
-2020-10-04;"Myjava";1
-2020-10-04;"Námestovo";5
-2020-10-04;"Nové Mesto nad Váhom";5
-2020-10-04;"Nové Zámky";11
-2020-10-04;"Partizánske";2
-2020-10-04;"Pezinok";3
-2020-10-04;"Piešťany";1
-2020-10-04;"Poprad";2
-2020-10-04;"Považská Bystrica";1
-2020-10-04;"Prešov";5
-2020-10-04;"Prievidza";16
-2020-10-04;"Revúca";1
-2020-10-04;"Rimavská Sobota";1
-2020-10-04;"Rožňava";1
-2020-10-04;"Ružomberok";4
-2020-10-04;"Sabinov";4
-2020-10-04;"Senec";3
-2020-10-04;"Senica";4
-2020-10-04;"Skalica";2
-2020-10-04;"Snina";1
-2020-10-04;"Sobrance";11
-2020-10-04;"Spišská Nová Ves";7
-2020-10-04;"Stará Ľubovňa";13
-2020-10-04;"Stropkov";30
-2020-10-04;"Svidník";14
-2020-10-04;"Topoľčany";1
-2020-10-04;"Trebišov";4
-2020-10-04;"Trenčín";11
-2020-10-04;"Trnava";13
-2020-10-04;"Tvrdošín";3
-2020-10-04;"Vranov nad Topľou";12
-2020-10-04;"Zlaté Moravce";1
-2020-10-04;"Zvolen";1
-2020-10-04;"Žiar nad Hronom";1
-2020-10-04;"Žilina";14
-2020-10-05;"Bánovce nad Bebravou";2
-2020-10-05;"Banská Bystrica";22
-2020-10-05;"Bardejov";22
-2020-10-05;"Bratislava";27
-2020-10-05;"Brezno";7
-2020-10-05;"Čadca";2
-2020-10-05;"Detva";7
-2020-10-05;"Dolný Kubín";17
-2020-10-05;"Dunajská Streda";1
-2020-10-05;"Galanta";5
-2020-10-05;"Gelnica";1
-2020-10-05;"Humenné";3
-2020-10-05;"Ilava";1
-2020-10-05;"Kežmarok";2
-2020-10-05;"Košice";20
-2020-10-05;"Košice - okolie";4
-2020-10-05;"Krupina";4
-2020-10-05;"Levice";3
-2020-10-05;"Levoča";1
-2020-10-05;"Liptovský Mikuláš";2
-2020-10-05;"Martin";1
-2020-10-05;"Michalovce";3
-2020-10-05;"Myjava";9
-2020-10-05;"Námestovo";5
-2020-10-05;"Nitra";12
-2020-10-05;"Nové Mesto nad Váhom";1
-2020-10-05;"Nové Zámky";2
-2020-10-05;"Pezinok";2
-2020-10-05;"Piešťany";4
-2020-10-05;"Prešov";24
-2020-10-05;"Prievidza";2
-2020-10-05;"Ružomberok";1
-2020-10-05;"Sabinov";5
-2020-10-05;"Senec";1
-2020-10-05;"Senica";1
-2020-10-05;"Skalica";7
-2020-10-05;"Snina";1
-2020-10-05;"Sobrance";2
-2020-10-05;"Spišská Nová Ves";3
-2020-10-05;"Stará Ľubovňa";16
-2020-10-05;"Stropkov";4
-2020-10-05;"Svidník";6
-2020-10-05;"Šaľa";1
-2020-10-05;"Topoľčany";2
-2020-10-05;"Trebišov";6
-2020-10-05;"Trenčín";17
-2020-10-05;"Trnava";15
-2020-10-05;"Tvrdošín";3
-2020-10-05;"Veľký Krtíš";2
-2020-10-05;"Zvolen";5
-2020-10-05;"Žiar nad Hronom";2
-2020-10-05;"Žilina";2
-2020-10-06;"Bánovce nad Bebravou";9
-2020-10-06;"Banská Bystrica";22
-2020-10-06;"Banská Štiavnica";2
-2020-10-06;"Bardejov";28
-2020-10-06;"Bratislava";74
-2020-10-06;"Brezno";11
-2020-10-06;"Bytča";2
-2020-10-06;"Čadca";21
-2020-10-06;"Detva";3
-2020-10-06;"Dolný Kubín";28
-2020-10-06;"Dunajská Streda";5
-2020-10-06;"Galanta";11
-2020-10-06;"Gelnica";2
-2020-10-06;"Hlohovec";15
-2020-10-06;"Humenné";10
-2020-10-06;"Ilava";6
-2020-10-06;"Kežmarok";4
-2020-10-06;"Komárno";1
-2020-10-06;"Košice";24
-2020-10-06;"Košice - okolie";4
-2020-10-06;"Krupina";2
-2020-10-06;"Kysucké Nové Mesto";1
-2020-10-06;"Levice";5
-2020-10-06;"Levoča";1
-2020-10-06;"Liptovský Mikuláš";43
-2020-10-06;"Lučenec";5
-2020-10-06;"Malacky";21
-2020-10-06;"Martin";25
-2020-10-06;"Medzilaborce";2
-2020-10-06;"Michalovce";8
-2020-10-06;"Myjava";7
-2020-10-06;"Námestovo";42
-2020-10-06;"Nitra";17
-2020-10-06;"Nové Mesto nad Váhom";2
-2020-10-06;"Nové Zámky";8
-2020-10-06;"Partizánske";3
-2020-10-06;"Pezinok";5
-2020-10-06;"Piešťany";19
-2020-10-06;"Poprad";14
-2020-10-06;"Považská Bystrica";4
-2020-10-06;"Prešov";50
-2020-10-06;"Prievidza";9
-2020-10-06;"Púchov";4
-2020-10-06;"Rimavská Sobota";3
-2020-10-06;"Rožňava";2
-2020-10-06;"Ružomberok";11
-2020-10-06;"Sabinov";25
-2020-10-06;"Senec";8
-2020-10-06;"Senica";10
-2020-10-06;"Skalica";8
-2020-10-06;"Snina";1
-2020-10-06;"Sobrance";4
-2020-10-06;"Spišská Nová Ves";9
-2020-10-06;"Stará Ľubovňa";22
-2020-10-06;"Stropkov";6
-2020-10-06;"Svidník";3
-2020-10-06;"Šaľa";5
-2020-10-06;"Topoľčany";4
-2020-10-06;"Trebišov";17
-2020-10-06;"Trenčín";28
-2020-10-06;"Trnava";44
-2020-10-06;"Tvrdošín";40
-2020-10-06;"Veľký Krtíš";5
-2020-10-06;"Zlaté Moravce";8
-2020-10-06;"Zvolen";3
-2020-10-06;"Žarnovica";4
-2020-10-06;"Žiar nad Hronom";8
-2020-10-06;"Žilina";20
-2020-10-07;"Bánovce nad Bebravou";5
-2020-10-07;"Banská Bystrica";21
-2020-10-07;"Banská Štiavnica";1
-2020-10-07;"Bardejov";73
-2020-10-07;"Bratislava";85
-2020-10-07;"Brezno";18
-2020-10-07;"Bytča";1
-2020-10-07;"Čadca";3
-2020-10-07;"Detva";6
-2020-10-07;"Dolný Kubín";19
-2020-10-07;"Dunajská Streda";21
-2020-10-07;"Galanta";2
-2020-10-07;"Gelnica";7
-2020-10-07;"Hlohovec";9
-2020-10-07;"Humenné";9
-2020-10-07;"Ilava";6
-2020-10-07;"Kežmarok";5
-2020-10-07;"Komárno";8
-2020-10-07;"Košice";44
-2020-10-07;"Košice - okolie";12
-2020-10-07;"Krupina";3
-2020-10-07;"Levice";2
-2020-10-07;"Levoča";1
-2020-10-07;"Liptovský Mikuláš";19
-2020-10-07;"Lučenec";5
-2020-10-07;"Malacky";7
-2020-10-07;"Martin";23
-2020-10-07;"Medzilaborce";1
-2020-10-07;"Michalovce";17
-2020-10-07;"Myjava";9
-2020-10-07;"Námestovo";43
-2020-10-07;"Nitra";48
-2020-10-07;"Nové Mesto nad Váhom";3
-2020-10-07;"Nové Zámky";9
-2020-10-07;"Partizánske";3
-2020-10-07;"Pezinok";3
-2020-10-07;"Piešťany";2
-2020-10-07;"Poltár";1
-2020-10-07;"Poprad";23
-2020-10-07;"Považská Bystrica";15
-2020-10-07;"Prešov";65
-2020-10-07;"Prievidza";15
-2020-10-07;"Púchov";11
-2020-10-07;"Rimavská Sobota";2
-2020-10-07;"Rožňava";2
-2020-10-07;"Ružomberok";1
-2020-10-07;"Sabinov";30
-2020-10-07;"Senec";12
-2020-10-07;"Senica";5
-2020-10-07;"Skalica";4
-2020-10-07;"Snina";3
-2020-10-07;"Sobrance";11
-2020-10-07;"Spišská Nová Ves";9
-2020-10-07;"Stará Ľubovňa";2
-2020-10-07;"Stropkov";10
-2020-10-07;"Svidník";8
-2020-10-07;"Šaľa";3
-2020-10-07;"Topoľčany";3
-2020-10-07;"Trebišov";56
-2020-10-07;"Trenčín";8
-2020-10-07;"Trnava";37
-2020-10-07;"Tvrdošín";28
-2020-10-07;"Veľký Krtíš";48
-2020-10-07;"Vranov nad Topľou";14
-2020-10-07;"Zlaté Moravce";8
-2020-10-07;"Zvolen";10
-2020-10-07;"Žarnovica";3
-2020-10-07;"Žiar nad Hronom";6
-2020-10-07;"Žilina";31
-2020-10-08;"Bánovce nad Bebravou";8
-2020-10-08;"Banská Bystrica";25
-2020-10-08;"Banská Štiavnica";4
-2020-10-08;"Bardejov";46
-2020-10-08;"Bratislava";75
-2020-10-08;"Brezno";7
-2020-10-08;"Bytča";2
-2020-10-08;"Čadca";21
-2020-10-08;"Detva";4
-2020-10-08;"Dolný Kubín";33
-2020-10-08;"Dunajská Streda";28
-2020-10-08;"Galanta";21
-2020-10-08;"Gelnica";3
-2020-10-08;"Hlohovec";6
-2020-10-08;"Humenné";10
-2020-10-08;"Ilava";5
-2020-10-08;"Kežmarok";5
-2020-10-08;"Komárno";7
-2020-10-08;"Košice";40
-2020-10-08;"Košice - okolie";5
-2020-10-08;"Kysucké Nové Mesto";2
-2020-10-08;"Levice";9
-2020-10-08;"Levoča";7
-2020-10-08;"Liptovský Mikuláš";16
-2020-10-08;"Lučenec";12
-2020-10-08;"Malacky";11
-2020-10-08;"Martin";14
-2020-10-08;"Medzilaborce";1
-2020-10-08;"Michalovce";15
-2020-10-08;"Myjava";5
-2020-10-08;"Námestovo";63
-2020-10-08;"Nitra";49
-2020-10-08;"Nové Mesto nad Váhom";9
-2020-10-08;"Nové Zámky";14
-2020-10-08;"Partizánske";7
-2020-10-08;"Pezinok";6
-2020-10-08;"Piešťany";9
-2020-10-08;"Poltár";7
-2020-10-08;"Poprad";18
-2020-10-08;"Považská Bystrica";5
-2020-10-08;"Prešov";74
-2020-10-08;"Prievidza";57
-2020-10-08;"Púchov";6
-2020-10-08;"Revúca";2
-2020-10-08;"Rimavská Sobota";18
-2020-10-08;"Ružomberok";13
-2020-10-08;"Sabinov";26
-2020-10-08;"Senec";8
-2020-10-08;"Senica";17
-2020-10-08;"Skalica";36
+2020-10-08;"Bánovce nad Bebravou";6
+2020-10-08;"Banská Bystrica";9
+2020-10-08;"Banská Štiavnica";2
+2020-10-08;"Bardejov";13
+2020-10-08;"Bratislava";26
+2020-10-08;"Brezno";3
+2020-10-08;"Bytča";1
+2020-10-08;"Čadca";12
+2020-10-08;"Detva";1
+2020-10-08;"Dolný Kubín";13
+2020-10-08;"Dunajská Streda";10
+2020-10-08;"Galanta";10
+2020-10-08;"Gelnica";1
+2020-10-08;"Hlohovec";2
+2020-10-08;"Humenné";3
+2020-10-08;"Ilava";1
+2020-10-08;"Kežmarok";2
+2020-10-08;"Komárno";1
+2020-10-08;"Košice";11
+2020-10-08;"Košice - okolie";1
+2020-10-08;"Kysucké Nové Mesto";1
+2020-10-08;"Levice";3
+2020-10-08;"Levoča";2
+2020-10-08;"Liptovský Mikuláš";7
+2020-10-08;"Lučenec";6
+2020-10-08;"Malacky";6
+2020-10-08;"Martin";1
+2020-10-08;"Michalovce";6
+2020-10-08;"Myjava";2
+2020-10-08;"Námestovo";22
+2020-10-08;"Nitra";14
+2020-10-08;"Nové Mesto nad Váhom";3
+2020-10-08;"Nové Zámky";5
+2020-10-08;"Partizánske";1
+2020-10-08;"Piešťany";2
+2020-10-08;"Poltár";4
+2020-10-08;"Poprad";6
+2020-10-08;"Považská Bystrica";2
+2020-10-08;"Prešov";23
+2020-10-08;"Prievidza";17
+2020-10-08;"Púchov";1
+2020-10-08;"Rimavská Sobota";5
+2020-10-08;"Ružomberok";3
+2020-10-08;"Sabinov";9
+2020-10-08;"Senec";5
+2020-10-08;"Senica";5
+2020-10-08;"Skalica";12
 2020-10-08;"Snina";6
 2020-10-08;"Sobrance";2
-2020-10-08;"Spišská Nová Ves";14
-2020-10-08;"Stará Ľubovňa";11
-2020-10-08;"Stropkov";16
-2020-10-08;"Svidník";14
-2020-10-08;"Šaľa";6
-2020-10-08;"Topoľčany";35
-2020-10-08;"Trebišov";23
-2020-10-08;"Trenčín";13
-2020-10-08;"Trnava";36
-2020-10-08;"Turčianske Teplice";1
-2020-10-08;"Tvrdošín";49
-2020-10-08;"Veľký Krtíš";3
-2020-10-08;"Vranov nad Topľou";11
-2020-10-08;"Zlaté Moravce";12
-2020-10-08;"Zvolen";5
-2020-10-08;"Žarnovica";2
-2020-10-08;"Žiar nad Hronom";10
-2020-10-08;"Žilina";24
+2020-10-08;"Spišská Nová Ves";4
+2020-10-08;"Stará Ľubovňa";3
+2020-10-08;"Stropkov";5
+2020-10-08;"Svidník";2
+2020-10-08;"Šaľa";1
+2020-10-08;"Topoľčany";12
+2020-10-08;"Trebišov";6
+2020-10-08;"Trenčín";8
+2020-10-08;"Trnava";8
+2020-10-08;"Tvrdošín";19
+2020-10-08;"Vranov nad Topľou";1
+2020-10-08;"Zlaté Moravce";2
+2020-10-08;"Zvolen";3
+2020-10-08;"Žiar nad Hronom";3
+2020-10-08;"Žilina";6
 2020-10-09;"Bánovce nad Bebravou";3
 2020-10-09;"Banská Bystrica";20
 2020-10-09;"Banská Štiavnica";13
@@ -31410,3 +30942,75 @@
 2022-03-23;"Žarnovica";27
 2022-03-23;"Žiar nad Hronom";26
 2022-03-23;"Žilina";287
+2022-03-24;"Bánovce nad Bebravou";54
+2022-03-24;"Banská Bystrica";181
+2022-03-24;"Banská Štiavnica";7
+2022-03-24;"Bardejov";74
+2022-03-24;"Bratislava";1206
+2022-03-24;"Brezno";34
+2022-03-24;"Bytča";26
+2022-03-24;"Čadca";72
+2022-03-24;"Detva";44
+2022-03-24;"Dolný Kubín";52
+2022-03-24;"Dunajská Streda";166
+2022-03-24;"Galanta";164
+2022-03-24;"Gelnica";25
+2022-03-24;"Hlohovec";75
+2022-03-24;"Humenné";51
+2022-03-24;"Ilava";68
+2022-03-24;"Kežmarok";39
+2022-03-24;"Komárno";112
+2022-03-24;"Košice";328
+2022-03-24;"Košice - okolie";157
+2022-03-24;"Krupina";54
+2022-03-24;"Kysucké Nové Mesto";33
+2022-03-24;"Levice";250
+2022-03-24;"Levoča";36
+2022-03-24;"Liptovský Mikuláš";70
+2022-03-24;"Lučenec";63
+2022-03-24;"Malacky";99
+2022-03-24;"Martin";90
+2022-03-24;"Medzilaborce";6
+2022-03-24;"Michalovce";109
+2022-03-24;"Myjava";27
+2022-03-24;"Námestovo";18
+2022-03-24;"Nitra";518
+2022-03-24;"Nové Mesto nad Váhom";66
+2022-03-24;"Nové Zámky";173
+2022-03-24;"Partizánske";60
+2022-03-24;"Pezinok";161
+2022-03-24;"Piešťany";132
+2022-03-24;"Poltár";22
+2022-03-24;"Poprad";122
+2022-03-24;"Považská Bystrica";42
+2022-03-24;"Prešov";287
+2022-03-24;"Prievidza";244
+2022-03-24;"Púchov";26
+2022-03-24;"Revúca";28
+2022-03-24;"Rimavská Sobota";58
+2022-03-24;"Rožňava";80
+2022-03-24;"Ružomberok";63
+2022-03-24;"Sabinov";76
+2022-03-24;"Senec";242
+2022-03-24;"Senica";85
+2022-03-24;"Skalica";73
+2022-03-24;"Snina";22
+2022-03-24;"Sobrance";24
+2022-03-24;"Spišská Nová Ves";147
+2022-03-24;"Stará Ľubovňa";73
+2022-03-24;"Stropkov";20
+2022-03-24;"Svidník";44
+2022-03-24;"Šaľa";67
+2022-03-24;"Topoľčany";160
+2022-03-24;"Trebišov";128
+2022-03-24;"Trenčín";125
+2022-03-24;"Trnava";225
+2022-03-24;"Turčianske Teplice";12
+2022-03-24;"Tvrdošín";24
+2022-03-24;"Veľký Krtíš";36
+2022-03-24;"Vranov nad Topľou";59
+2022-03-24;"Zlaté Moravce";111
+2022-03-24;"Zvolen";145
+2022-03-24;"Žarnovica";24
+2022-03-24;"Žiar nad Hronom";73
+2022-03-24;"Žilina";237
