@@ -1,6 +1,6 @@
 "date";"Region";"newcases";"positive"
-2022-05-31;"Banskobystrický kraj";9;274559
-2022-05-30;"Banskobystrický kraj";12;274550
+2022-05-31;"Banskobystrický kraj";10;274561
+2022-05-30;"Banskobystrický kraj";13;274551
 2022-05-29;"Banskobystrický kraj";0;274538
 2022-05-28;"Banskobystrický kraj";3;274538
 2022-05-27;"Banskobystrický kraj";12;274535
@@ -806,11 +806,11 @@
 2020-03-08;"Banskobystrický kraj";0;0
 2020-03-07;"Banskobystrický kraj";0;0
 2020-03-06;"Banskobystrický kraj";0;0
-2022-05-31;"Bratislavský kraj";34;344876
-2022-05-30;"Bratislavský kraj";36;344842
-2022-05-29;"Bratislavský kraj";24;344806
-2022-05-28;"Bratislavský kraj";36;344782
-2022-05-27;"Bratislavský kraj";60;344746
+2022-05-31;"Bratislavský kraj";50;344906
+2022-05-30;"Bratislavský kraj";47;344856
+2022-05-29;"Bratislavský kraj";25;344809
+2022-05-28;"Bratislavský kraj";36;344784
+2022-05-27;"Bratislavský kraj";62;344748
 2022-05-26;"Bratislavský kraj";58;344686
 2022-05-25;"Bratislavský kraj";43;344628
 2022-05-24;"Bratislavský kraj";57;344585
@@ -1613,11 +1613,11 @@
 2020-03-08;"Bratislavský kraj";2;6
 2020-03-07;"Bratislavský kraj";2;4
 2020-03-06;"Bratislavský kraj";1;2
-2022-05-31;"Košický kraj";28;346642
-2022-05-30;"Košický kraj";18;346614
-2022-05-29;"Košický kraj";6;346596
-2022-05-28;"Košický kraj";13;346590
-2022-05-27;"Košický kraj";26;346577
+2022-05-31;"Košický kraj";39;346686
+2022-05-30;"Košický kraj";43;346647
+2022-05-29;"Košický kraj";11;346604
+2022-05-28;"Košický kraj";14;346593
+2022-05-27;"Košický kraj";28;346579
 2022-05-26;"Košický kraj";43;346551
 2022-05-25;"Košický kraj";48;346508
 2022-05-24;"Košický kraj";32;346460
@@ -2420,19 +2420,19 @@
 2020-03-08;"Košický kraj";0;0
 2020-03-07;"Košický kraj";0;0
 2020-03-06;"Košický kraj";0;0
-2022-05-31;"Nitriansky kraj";17;284492
-2022-05-30;"Nitriansky kraj";15;284475
-2022-05-29;"Nitriansky kraj";0;284460
-2022-05-28;"Nitriansky kraj";3;284460
-2022-05-27;"Nitriansky kraj";14;284457
-2022-05-26;"Nitriansky kraj";20;284443
-2022-05-25;"Nitriansky kraj";22;284423
-2022-05-24;"Nitriansky kraj";15;284401
-2022-05-23;"Nitriansky kraj";15;284386
-2022-05-22;"Nitriansky kraj";1;284371
-2022-05-21;"Nitriansky kraj";15;284370
-2022-05-20;"Nitriansky kraj";20;284355
-2022-05-19;"Nitriansky kraj";17;284335
+2022-05-31;"Nitriansky kraj";18;284501
+2022-05-30;"Nitriansky kraj";18;284483
+2022-05-29;"Nitriansky kraj";0;284465
+2022-05-28;"Nitriansky kraj";4;284465
+2022-05-27;"Nitriansky kraj";14;284461
+2022-05-26;"Nitriansky kraj";20;284447
+2022-05-25;"Nitriansky kraj";22;284427
+2022-05-24;"Nitriansky kraj";15;284405
+2022-05-23;"Nitriansky kraj";16;284390
+2022-05-22;"Nitriansky kraj";1;284374
+2022-05-21;"Nitriansky kraj";16;284373
+2022-05-20;"Nitriansky kraj";21;284357
+2022-05-19;"Nitriansky kraj";18;284336
 2022-05-18;"Nitriansky kraj";23;284318
 2022-05-17;"Nitriansky kraj";28;284295
 2022-05-16;"Nitriansky kraj";46;284267
@@ -3227,33 +3227,33 @@
 2020-03-08;"Nitriansky kraj";0;0
 2020-03-07;"Nitriansky kraj";0;0
 2020-03-06;"Nitriansky kraj";0;0
-2022-05-31;"Prešovský kraj";15;365735
-2022-05-30;"Prešovský kraj";12;365720
-2022-05-29;"Prešovský kraj";1;365708
-2022-05-28;"Prešovský kraj";19;365707
-2022-05-27;"Prešovský kraj";35;365688
-2022-05-26;"Prešovský kraj";44;365653
-2022-05-25;"Prešovský kraj";32;365609
-2022-05-24;"Prešovský kraj";49;365577
-2022-05-23;"Prešovský kraj";65;365528
-2022-05-22;"Prešovský kraj";6;365463
-2022-05-21;"Prešovský kraj";19;365457
-2022-05-20;"Prešovský kraj";52;365438
-2022-05-19;"Prešovský kraj";28;365386
-2022-05-18;"Prešovský kraj";50;365358
-2022-05-17;"Prešovský kraj";44;365308
-2022-05-16;"Prešovský kraj";85;365264
-2022-05-15;"Prešovský kraj";12;365179
-2022-05-14;"Prešovský kraj";35;365167
-2022-05-13;"Prešovský kraj";46;365132
-2022-05-12;"Prešovský kraj";57;365086
-2022-05-11;"Prešovský kraj";67;365029
-2022-05-10;"Prešovský kraj";123;364962
-2022-05-09;"Prešovský kraj";73;364839
-2022-05-08;"Prešovský kraj";8;364766
-2022-05-07;"Prešovský kraj";35;364758
-2022-05-06;"Prešovský kraj";84;364723
-2022-05-05;"Prešovský kraj";73;364639
+2022-05-31;"Prešovský kraj";18;365772
+2022-05-30;"Prešovský kraj";36;365754
+2022-05-29;"Prešovský kraj";4;365718
+2022-05-28;"Prešovský kraj";19;365714
+2022-05-27;"Prešovský kraj";37;365695
+2022-05-26;"Prešovský kraj";45;365658
+2022-05-25;"Prešovský kraj";33;365613
+2022-05-24;"Prešovský kraj";49;365580
+2022-05-23;"Prešovský kraj";65;365531
+2022-05-22;"Prešovský kraj";6;365466
+2022-05-21;"Prešovský kraj";19;365460
+2022-05-20;"Prešovský kraj";53;365441
+2022-05-19;"Prešovský kraj";28;365388
+2022-05-18;"Prešovský kraj";50;365360
+2022-05-17;"Prešovský kraj";44;365310
+2022-05-16;"Prešovský kraj";85;365266
+2022-05-15;"Prešovský kraj";12;365181
+2022-05-14;"Prešovský kraj";35;365169
+2022-05-13;"Prešovský kraj";46;365134
+2022-05-12;"Prešovský kraj";57;365088
+2022-05-11;"Prešovský kraj";67;365031
+2022-05-10;"Prešovský kraj";123;364964
+2022-05-09;"Prešovský kraj";73;364841
+2022-05-08;"Prešovský kraj";8;364768
+2022-05-07;"Prešovský kraj";35;364760
+2022-05-06;"Prešovský kraj";84;364725
+2022-05-05;"Prešovský kraj";75;364641
 2022-05-04;"Prešovský kraj";109;364566
 2022-05-03;"Prešovský kraj";124;364457
 2022-05-02;"Prešovský kraj";154;364333
@@ -4034,14 +4034,14 @@
 2020-03-08;"Prešovský kraj";0;-1
 2020-03-07;"Prešovský kraj";0;-1
 2020-03-06;"Prešovský kraj";0;-1
-2022-05-31;"Trenčiansky kraj";12;302892
-2022-05-30;"Trenčiansky kraj";13;302880
-2022-05-29;"Trenčiansky kraj";2;302867
-2022-05-28;"Trenčiansky kraj";3;302865
-2022-05-27;"Trenčiansky kraj";25;302862
-2022-05-26;"Trenčiansky kraj";26;302837
-2022-05-25;"Trenčiansky kraj";19;302811
-2022-05-24;"Trenčiansky kraj";25;302792
+2022-05-31;"Trenčiansky kraj";15;302905
+2022-05-30;"Trenčiansky kraj";20;302890
+2022-05-29;"Trenčiansky kraj";3;302870
+2022-05-28;"Trenčiansky kraj";3;302867
+2022-05-27;"Trenčiansky kraj";25;302864
+2022-05-26;"Trenčiansky kraj";27;302839
+2022-05-25;"Trenčiansky kraj";19;302812
+2022-05-24;"Trenčiansky kraj";26;302793
 2022-05-23;"Trenčiansky kraj";26;302767
 2022-05-22;"Trenčiansky kraj";4;302741
 2022-05-21;"Trenčiansky kraj";15;302737
@@ -4841,9 +4841,9 @@
 2020-03-08;"Trenčiansky kraj";0;0
 2020-03-07;"Trenčiansky kraj";0;0
 2020-03-06;"Trenčiansky kraj";0;0
-2022-05-31;"Trnavský kraj";13;272915
-2022-05-30;"Trnavský kraj";16;272902
-2022-05-29;"Trnavský kraj";0;272886
+2022-05-31;"Trnavský kraj";16;272920
+2022-05-30;"Trnavský kraj";17;272904
+2022-05-29;"Trnavský kraj";1;272887
 2022-05-28;"Trnavský kraj";11;272886
 2022-05-27;"Trnavský kraj";17;272875
 2022-05-26;"Trnavský kraj";13;272858
@@ -5648,8 +5648,8 @@
 2020-03-08;"Trnavský kraj";0;0
 2020-03-07;"Trnavský kraj";0;0
 2020-03-06;"Trnavský kraj";0;0
-2022-05-31;"Žilinský kraj";14;350479
-2022-05-30;"Žilinský kraj";24;350465
+2022-05-31;"Žilinský kraj";21;350492
+2022-05-30;"Žilinský kraj";30;350471
 2022-05-29;"Žilinský kraj";1;350441
 2022-05-28;"Žilinský kraj";10;350440
 2022-05-27;"Žilinský kraj";15;350430
@@ -7235,30 +7235,30 @@
 2022-05-02;"Slovensko";1102;2532811
 2022-05-03;"Slovensko";916;2533727
 2022-05-04;"Slovensko";790;2534517
-2022-05-05;"Slovensko";638;2535155
-2022-05-06;"Slovensko";647;2535802
-2022-05-07;"Slovensko";306;2536108
-2022-05-08;"Slovensko";112;2536220
-2022-05-09;"Slovensko";609;2536829
-2022-05-10;"Slovensko";609;2537438
-2022-05-11;"Slovensko";486;2537924
-2022-05-12;"Slovensko";376;2538300
-2022-05-13;"Slovensko";446;2538746
-2022-05-14;"Slovensko";237;2538983
-2022-05-15;"Slovensko";96;2539079
-2022-05-16;"Slovensko";433;2539512
-2022-05-17;"Slovensko";333;2539845
-2022-05-18;"Slovensko";346;2540191
-2022-05-19;"Slovensko";267;2540458
-2022-05-20;"Slovensko";275;2540733
-2022-05-21;"Slovensko";141;2540874
-2022-05-22;"Slovensko";64;2540938
-2022-05-23;"Slovensko";329;2541267
-2022-05-24;"Slovensko";237;2541504
-2022-05-25;"Slovensko";232;2541736
-2022-05-26;"Slovensko";230;2541966
-2022-05-27;"Slovensko";204;2542170
-2022-05-28;"Slovensko";98;2542268
-2022-05-29;"Slovensko";34;2542302
-2022-05-30;"Slovensko";146;2542448
-2022-05-31;"Slovensko";142;2542590
+2022-05-05;"Slovensko";640;2535157
+2022-05-06;"Slovensko";647;2535804
+2022-05-07;"Slovensko";306;2536110
+2022-05-08;"Slovensko";112;2536222
+2022-05-09;"Slovensko";609;2536831
+2022-05-10;"Slovensko";609;2537440
+2022-05-11;"Slovensko";486;2537926
+2022-05-12;"Slovensko";376;2538302
+2022-05-13;"Slovensko";446;2538748
+2022-05-14;"Slovensko";237;2538985
+2022-05-15;"Slovensko";96;2539081
+2022-05-16;"Slovensko";433;2539514
+2022-05-17;"Slovensko";333;2539847
+2022-05-18;"Slovensko";346;2540193
+2022-05-19;"Slovensko";268;2540461
+2022-05-20;"Slovensko";277;2540738
+2022-05-21;"Slovensko";142;2540880
+2022-05-22;"Slovensko";64;2540944
+2022-05-23;"Slovensko";330;2541274
+2022-05-24;"Slovensko";238;2541512
+2022-05-25;"Slovensko";233;2541745
+2022-05-26;"Slovensko";232;2541977
+2022-05-27;"Slovensko";210;2542187
+2022-05-28;"Slovensko";100;2542287
+2022-05-29;"Slovensko";45;2542332
+2022-05-30;"Slovensko";224;2542556
+2022-05-31;"Slovensko";187;2542743
